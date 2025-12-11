@@ -32,24 +32,23 @@
   * Maciste en enfer  
   * Odyssée sous la mer (L')
 
-## Fenêtre sur les collections (32)
+## Fenêtre sur les collections (31)
 
   * Arc de triomphe  
   * Assiettes tournantes  
-  * Au carrefour des âges, le Liban  
-  * Baalbeck  
-  * Beyrouth, ô Beyrouth  
   * Bouteilles (Les)  
   * Chapeaux à transformation  
   * Château hanté (Le)  
+  * Chronique d'une disparition  
   * Colleurs d'affiches  
   * Danse serpentine, I  
   * Écriture à l'envers  
   * Escamotage d'une dame chez Robert-Houdin  
+  * Frontière (La)  
+  * Guerre du Golfe... et après (La)  
   * Illusionniste (L')  
-  * Je veux voir  
-  * Je veux voir (bande-annonce)  
   * Jongleur au ballon  
+  * Marché d'esclaves en Orient  
   * Peinture à l'envers  
   * Pierrot et la flûte enchantée  
   * Pierrot et la mouche  
@@ -62,10 +61,10 @@
   * Repas fantastique (Le)  
   * Serpent  
   * Squelette joyeux (Le)  
+  * Temps qu'il reste (bande-annonce) (Le)  
   * Tentation de Saint-Antoine  
   * Thiers, Mac-Mahon, Grévy, Carnot, Félix Faure  
-  * Un prêté pour un rendu  
-  * West Beyrouth (bande-annonce)
+  * Un prêté pour un rendu
 
 ## Greta Garbo (21)
 

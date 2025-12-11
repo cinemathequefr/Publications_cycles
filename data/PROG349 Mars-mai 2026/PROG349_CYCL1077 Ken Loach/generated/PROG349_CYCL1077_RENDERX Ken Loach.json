@@ -629,34 +629,50 @@
           ]
         },
         {
-          "idFilm": 116303,
-          "content": [
+          "groupe": [
             {
               "idFilm": 116303,
-              "ordre": 1,
-              "titre": "Part des anges",
-              "art": "La",
-              "titreVo": "Angels' Share",
-              "artVo": "The",
-              "realisateurs": "Ken Loach",
-              "pays": "Grande-Bretagne-France-Belgique-Italie",
-              "annee": 2012,
-              "duree": 106,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Paul Brannigan",
-                "John Henshaw",
-                "Gary Maitland"
-              ],
-              "miniTexte": "La « part des anges », ou le volume qui s'évapore pendant le processus de vieillissement d'un alcool. Robbie, paumé, violent, et jeune père de famille, trouvera le chemin de la rédemption grâce à des travaux d'intérêt général, en tant que dégustateur de whisky. Personnages barrés, situations rocambolesques : un pas de côté pour Loach, qui s'essaie, avec brio, à la comédie sociale."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 116303,
+                  "ordre": 1,
+                  "titre": "Part des anges",
+                  "art": "La",
+                  "titreVo": "Angels' Share",
+                  "artVo": "The",
+                  "realisateurs": "Ken Loach",
+                  "pays": "Grande-Bretagne-France-Belgique-Italie",
+                  "annee": 2012,
+                  "duree": 106,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Paul Brannigan",
+                    "John Henshaw",
+                    "Gary Maitland"
+                  ],
+                  "miniTexte": "La « part des anges », ou le volume qui s'évapore pendant le processus de vieillissement d'un alcool. Robbie, paumé, violent, et jeune père de famille, trouvera le chemin de la rédemption grâce à des travaux d'intérêt général, en tant que dégustateur de whisky. Personnages barrés, situations rocambolesques : un pas de côté pour Loach, qui s'essaie, avec brio, à la comédie sociale."
+                }
+              ]
+            },
             {
-              "idSeance": 208726,
-              "dateHeure": "2026-04-17T19:00:00",
-              "idSalle": "HL"
+              "idEvenement": 35580,
+              "content": [
+                {
+                  "idConf": 35580,
+                  "ordre": 2,
+                  "titre": "Ken Loach par Ken Loach. Leçon de cinéma",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208726,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-04-17T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -978,36 +994,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 35580,
-          "content": [
-            {
-              "idConf": 35580,
-              "titre": "Ken Loach par Ken Loach. Leçon de cinéma",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208565,
-              "dateHeure": "2026-04-17T21:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "La Part des anges",
         "mention": "Ken Loach par Ken Loach. Leçon de cinéma",
-        "dateHeure": "2026-04-17T21:00:00"
+        "dateHeure": "2026-04-17T19:00:00"
       }
     ]
   }
