@@ -318,7 +318,7 @@
   * Contes de la mère poule : Shangoul et Mangoul (Les)  
   * Homme qui rétrécit (L')  
   * Magicien d'Oz (Le)  
-  * Petit chat curieux (Le)  
+  * Petit Chat curieux (Le)  
   * Pinocchio  
   * Ponyo sur la falaise  
   * Ratatouille  
