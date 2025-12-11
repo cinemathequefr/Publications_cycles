@@ -4,11 +4,15 @@
 
   * Une femme mariée
 
-## Aujourd'hui le cinéma (10)
+## Aujourd'hui le cinéma (14)
 
   * Diego  
   * Don Quichotte contre les forces du mal  
   * Étrange humeur adolescente (L')  
+  * Haraka Haraka  
+  * Laka  
+  * Little Jaffna  
+  * Mandzarsoa  
   * Petit Pont  
   * Rappel des oiseaux (Le)  
   * Robe peau (La)  
