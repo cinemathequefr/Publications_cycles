@@ -4,16 +4,19 @@
 
   * Une femme mariée
 
-## Aujourd'hui le cinéma (14)
+## Aujourd'hui le cinéma (17)
 
+  * Ainsi commença le déclin d'Antoine  
   * Diego  
   * Don Quichotte contre les forces du mal  
   * Étrange humeur adolescente (L')  
   * Haraka Haraka  
+  * Il manque toujours quelque chose (surtout quand on ne sait pas quoi chercher)  
   * Laka  
   * Little Jaffna  
   * Mandzarsoa  
   * Petit Pont  
+  * Rapide  
   * Rappel des oiseaux (Le)  
   * Robe peau (La)  
   * Tracances (Les)  
@@ -138,11 +141,10 @@
   * Règle du jeu (La)  
   * Yeux sans visage (Les)
 
-## Ildikó Enyedi (10)
+## Ildikó Enyedi (9)
 
   * Conversations of Donkey and Rabbit (The)  
   * Corps et âme  
-  * Első szerelem  
   * Freischütz  
   * Histoire de ma femme (L')  
   * Mon XXe siècle  

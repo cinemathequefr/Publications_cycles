@@ -460,8 +460,7 @@
         "annee": 1922,
         "duree": 155,
         "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f40681"
@@ -1283,15 +1282,6 @@
         "restauration": true
       },
       {
-        "idFilm": 155574,
-        "titre": "Első szerelem",
-        "realisateurs": "Ildikó Enyedi",
-        "annee": 2008,
-        "duree": 20,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
         "idFilm": 155582,
         "titre": "Conversations of Donkey and Rabbit",
         "art": "The",
@@ -1302,7 +1292,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f155576f155574f155582"
+    "hashEvenement": "f155576f155582"
   },
   {
     "idSeance": 208805,
@@ -3077,7 +3067,9 @@
         "idFilm": 155678,
         "titre": "Little Jaffna",
         "realisateurs": "Lawrence Valin",
-        "annee": 2025
+        "annee": 2025,
+        "duree": 99,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155678"
@@ -5734,7 +5726,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
+    "mention": "Ouverture de la rétrospective. Accompagnement musical par Adrien Leconte",
     "items": [
       {
         "idFilm": 30779,
@@ -8733,6 +8725,46 @@
       }
     ],
     "hashEvenement": "f83125"
+  },
+  {
+    "idSeance": 208821,
+    "idEvenement": 35819,
+    "dateHeure": "2026-05-25T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Paul Rigoux"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Paul Rigoux",
+    "items": [
+      {
+        "idFilm": 155680,
+        "titre": "Ainsi commença le déclin d'Antoine",
+        "realisateurs": "Paul Rigoux",
+        "annee": 2021,
+        "duree": 22,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154757,
+        "titre": "Rapide",
+        "realisateurs": "Paul Rigoux",
+        "annee": 2022,
+        "duree": 24,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155679,
+        "titre": "Il manque toujours quelque chose (surtout quand on ne sait pas quoi chercher)",
+        "realisateurs": "Paul Rigoux",
+        "annee": 2025,
+        "duree": 27,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155680f154757f155679"
   },
   {
     "idSeance": 208895,

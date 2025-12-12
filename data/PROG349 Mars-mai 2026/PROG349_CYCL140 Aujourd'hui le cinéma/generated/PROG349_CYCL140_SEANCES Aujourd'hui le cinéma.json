@@ -136,7 +136,12 @@
     "items": [
       {
         "idFilm": 155678,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 206891,
+        "idCopie": 31463,
+        "duree": 99,
+        "version": "",
+        "format": "DCP"
       }
     ],
     "mention": "Séance suivie d'une discussion avec Lawrence Valin"
@@ -226,9 +231,48 @@
     ]
   },
   {
-    "mention": "Séance présentée par Clément Cogitore"
+    "idCategorie": 4111,
+    "typeEvenement": 13,
+    "idEvenement": 35819,
+    "idSeance": 208821,
+    "dateHeure": "2026-05-25T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155680,
+        "ordre": 1,
+        "idSeance": 208821,
+        "idCopie": 31466,
+        "duree": 22,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154757,
+        "ordre": 2,
+        "idSeance": 208821,
+        "idCopie": 27571,
+        "duree": 24,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155679,
+        "ordre": 3,
+        "idSeance": 208821,
+        "idCopie": 31465,
+        "duree": 27,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Paul Rigoux"
   },
   {
-    "mention": "Séance suivie d'une discussion avec Paul Rigoux"
+    "mention": "Séance présentée par Clément Cogitore"
   }
 ]
