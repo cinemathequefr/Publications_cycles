@@ -56,7 +56,7 @@
 ## Raretés des collections (4)
 
   * Broadway by Light  
-  * Matisse  
+  * Henri Matisse  
   * Paris Express  
   * Symphonie mécanique
 
