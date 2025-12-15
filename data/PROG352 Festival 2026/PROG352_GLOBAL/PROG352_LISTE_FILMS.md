@@ -28,7 +28,7 @@
   * Chacun sa chance  
   * Officier et gentleman  
   * Searching for Debra Winger  
-  * Tendres passions  
+  * Tendres Passions  
   * Un thé au Sahara  
   * Veuve noire (La)
 
@@ -44,7 +44,7 @@
 
 ## Les 50 ans de la Kadokawa (3)
 
-  * Famille Inugami (La)  
+  * Compot de la famille Inugami (Le)  
   * Ningen no shōmei  
   * Sailor Suit and Machine Gun
 

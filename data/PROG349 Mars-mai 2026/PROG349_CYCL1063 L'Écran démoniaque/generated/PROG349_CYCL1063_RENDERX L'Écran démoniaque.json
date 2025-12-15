@@ -73,64 +73,36 @@
           ]
         },
         {
-          "groupe": [
-            {
-              "idEvenement": 35581,
-              "content": [
-                {
-                  "idConf": 35581,
-                  "titre": "L'expressionnisme à l'écran : histoire d'un label",
-                  "sousTitre": "Conférence de Tamara Eble",
-                  "typeConference": "Conférence",
-                  "miniTexte": "À l'évocation du « cinéma expressionniste allemand », des films nous viennent spontanément en tête, des cinéastes probablement, une période historique également, des images peut-être, peuplées d'ombres, de lumière et de créatures fantastiques. Pourquoi ? Comment en est-on arrivé à ce caractère « commun » de « l'expressionnisme » ? De quoi est-il le nom aujourd'hui, et de quoi était-il le nom à l'époque qui l'a vu naître ? Retour sur quelques films emblématiques, tels qu'ils ont été vus par leurs contemporains. — Tamara Eble"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 208475,
-                  "idSeanceAssoc": 208525,
-                  "typeAssoc": 117,
-                  "dateHeure": "2026-03-26T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
-            },
+          "idFilm": 41117,
+          "content": [
             {
               "idFilm": 41117,
-              "content": [
-                {
-                  "idFilm": 41117,
-                  "ordre": 1,
-                  "titre": "Cabinet du docteur Caligari",
-                  "art": "Le",
-                  "titreVo": "Kabinett des Dr. Caligari",
-                  "artVo": "Das",
-                  "realisateurs": "Robert Wiene",
-                  "pays": "Allemagne",
-                  "annee": 1920,
-                  "duree": 78,
-                  "version": "INT. FR.",
-                  "format": "DCP",
-                  "restauration": true,
-                  "generique": [
-                    "Werner Krauss",
-                    "Conrad Veidt",
-                    "Lil Dagover"
-                  ],
-                  "miniTexte": "Un hypnotiseur fou emploie un somnambule pour commettre des meurtres. Quintessence de l'expressionnisme allemand, _Le Cabinet du docteur Caligari_ tient du rêve éveillé, de la plongée délirante dans un esprit malade. Décors funèbres, formes distordues et ombres oppressantes créent un voyage envoûtant et inoubliable aux confins de la folie."
-                }
+              "ordre": 1,
+              "titre": "Cabinet du docteur Caligari",
+              "art": "Le",
+              "titreVo": "Kabinett des Dr. Caligari",
+              "artVo": "Das",
+              "realisateurs": "Robert Wiene",
+              "pays": "Allemagne",
+              "annee": 1920,
+              "duree": 78,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Werner Krauss",
+                "Conrad Veidt",
+                "Lil Dagover"
               ],
-              "seances": [
-                {
-                  "idSeance": 208525,
-                  "idSeanceAssoc": 208475,
-                  "typeAssoc": 117,
-                  "dateHeure": "2026-03-26T21:30:00",
-                  "idSalle": "HL",
-                  "mention": "Accompagnement musical par Arandel",
-                  "mentionAssoc": "Film choisi par le conférencier"
-                }
-              ]
+              "miniTexte": "Un hypnotiseur fou emploie un somnambule pour commettre des meurtres. Quintessence de l'expressionnisme allemand, _Le Cabinet du docteur Caligari_ tient du rêve éveillé, de la plongée délirante dans un esprit malade. Décors funèbres, formes distordues et ombres oppressantes créent un voyage envoûtant et inoubliable aux confins de la folie."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208525,
+              "dateHeure": "2026-03-26T21:30:00",
+              "idSalle": "HL",
+              "mention": "Accompagnement musical par Arandel"
             }
           ]
         },
@@ -909,6 +881,31 @@
               "idSeance": 208528,
               "dateHeure": "2026-03-20T18:00:00",
               "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 35581,
+          "content": [
+            {
+              "idConf": 35581,
+              "titre": "L'expressionnisme à l'écran : histoire d'un label",
+              "sousTitre": "Conférence de Tamara Eble",
+              "typeConference": "Conférence",
+              "miniTexte": "À l'évocation du « cinéma expressionniste allemand », des films nous viennent spontanément en tête, des cinéastes probablement, une période historique également, des images peut-être, peuplées d'ombres, de lumière et de créatures fantastiques. Pourquoi ? Comment en est-on arrivé à ce caractère « commun » de « l'expressionnisme » ? De quoi est-il le nom aujourd'hui, et de quoi était-il le nom à l'époque qui l'a vu naître ? Retour sur quelques films emblématiques, tels qu'ils ont été vus par leurs contemporains. — Tamara Eble"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208475,
+              "dateHeure": "2026-03-26T19:00:00",
+              "idSalle": "GF"
             }
           ]
         }
