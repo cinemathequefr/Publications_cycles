@@ -232,6 +232,36 @@
     },
     {
       "tri": 2,
+      "titreSousCycle": "Avant-première Sébastien Lifshitz",
+      "items": [
+        {
+          "idFilm": 155681,
+          "content": [
+            {
+              "idFilm": 155681,
+              "ordre": 1,
+              "titre": "Un jeune homme de bonne famille",
+              "realisateurs": "Sébastien Lifshitz",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 87,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208922,
+              "dateHeure": "2026-01-05T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
       "titreSousCycle": "Hommage à Jean-Pierre Bouyxou",
       "texteSousCycle": "Hommage à Jean-Pierre Bouyxou, disparu le 2 septembre dernier. Journaliste hédoniste, cinéaste surréaliste, insaisissable trublion du cinéma des marges, il était aussi à l'occasion acteur pour Jean Rollin ou Jess Franco (_La Comtesse noire_).",
       "items": [
@@ -336,6 +366,37 @@
     },
     {
       "tri": 2,
+      "titreSousCycle": "Avant-première Olivier Assayas",
+      "items": [
+        {
+          "idFilm": 155682,
+          "content": [
+            {
+              "idFilm": 155682,
+              "ordre": 1,
+              "titre": "Mage du Kremlin",
+              "art": "Le",
+              "realisateurs": "Olivier Assayas",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 156,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208923,
+              "dateHeure": "2026-01-13T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
       "titreSousCycle": "Bernard Stora : Dans le Cercle rouge",
       "items": [
         {
@@ -429,9 +490,17 @@
   "syntheseAction": {
     "Avant-premières": [
       {
+        "dateHeure": "2026-01-05T20:00:00",
+        "titreFilms": "Un jeune homme de bonne famille"
+      },
+      {
         "dateHeure": "2026-01-12T20:00:00",
         "titreFilms": "L'Affaire Bojarski",
         "mention": "séance présentée par Jean-Paul Salomé"
+      },
+      {
+        "dateHeure": "2026-01-13T20:00:00",
+        "titreFilms": "Le Mage du Kremlin"
       },
       {
         "dateHeure": "2026-03-09T20:00:00",

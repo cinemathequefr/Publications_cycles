@@ -479,12 +479,13 @@
   * Six destins  
   * Tables séparées
 
-## Séances spéciales (14)
+## Séances spéciales (16)
 
   * Affaire Bojarski (L')  
   * Cercle rouge (Le)  
   * Comtesse noire (La)  
   * Graphyty  
+  * Mage du Kremlin (Le)  
   * Magellan  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
@@ -492,6 +493,7 @@
   * Shoah (deuxième époque)  
   * Shoah (première époque)  
   * Sobibor, 14 octobre 1943, 16 heures  
+  * Un jeune homme de bonne famille  
   * Un vivant qui passe  
   * Veilleurs (Les)  
   * Victor comme tout le monde

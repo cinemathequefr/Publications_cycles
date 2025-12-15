@@ -249,7 +249,7 @@
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
 
-## Le cinéma italien des années de plomb (39)
+## Le cinéma italien des années de plomb (40)
 
   * Adorable Corps de Deborah (L')  
   * Allonsanfàn  
@@ -262,6 +262,7 @@
   * Chuncho (El)  
   * Colpire al cuore  
   * Compañeros  
+  * Confession d'un commissaire de police au procureur de la République  
   * Ecce bombo  
   * Enquête sur un citoyen au-dessus de tout soupçon  
   * Homicide volontaire  
