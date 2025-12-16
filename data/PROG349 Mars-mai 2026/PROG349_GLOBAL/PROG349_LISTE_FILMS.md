@@ -9,7 +9,7 @@
   * Ainsi commença le déclin d'Antoine  
   * Diego  
   * Don Quichotte contre les forces du mal  
-  * Étrange humeur adolescente (L')  
+  * Étrange Humeur adolescente (L')  
   * Haraka Haraka  
   * Il manque toujours quelque chose (surtout quand on ne sait pas quoi chercher)  
   * Laka  

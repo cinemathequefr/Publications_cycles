@@ -44,7 +44,7 @@
 
 ## Les 50 ans de la Kadokawa (3)
 
-  * Compot de la famille Inugami (Le)  
+  * Complot de la famille Inugami (Le)  
   * Ningen no shōmei  
   * Sailor Suit and Machine Gun
 
@@ -70,7 +70,6 @@
   * Charade  
   * Cinéphiles 2 : Éric a disparu (Les)  
   * Cinéphiles : Le Retour de Jean (Les)  
-  * Client de la morte saison (Le)  
   * Dune  
   * Évaporation de l'homme (L')  
   * Fard de Ginza (Le)  
@@ -97,6 +96,7 @@
   * So Does an Automobile  
   * Soldier Man  
   * Spectre du professeur Hichcock (Le)  
+  * Tatami  
   * Till We Meet Again  
   * Ville à vendre  
   * Vol au-dessus d'un nid de coucou
@@ -107,7 +107,7 @@
 
 ## Sohrab Shahid Saless (2)
 
-  * Dar ghorbat  
+  * Dar Ghorbat  
   * Un simple événement
 
 ## VistaVision (1)
