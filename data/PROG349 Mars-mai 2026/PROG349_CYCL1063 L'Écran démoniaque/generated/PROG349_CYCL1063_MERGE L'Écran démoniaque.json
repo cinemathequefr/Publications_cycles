@@ -76,13 +76,15 @@
         {
           "idSeance": 208525,
           "ordre": 1,
-          "dateHeure": "2026-03-26T21:30:00",
+          "dateHeure": "2026-03-26T21:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 105,
           "mention": "Accompagnement musical par Arandel",
+          "typeAssoc": 117,
+          "idSeanceAssoc": 208475,
           "idCategorie": 4047,
           "idEvenement": 35348,
           "typeEvenement": 13,
@@ -467,39 +469,6 @@
           ]
         },
         {
-          "idSeance": 208612,
-          "ordre": 1,
-          "dateHeure": "2026-03-28T20:45:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 180,
-          "idCategorie": 4047,
-          "idEvenement": 35362,
-          "typeEvenement": 13,
-          "idFilm": 40645,
-          "titre": "Metropolis",
-          "realisateurs": "Fritz Lang",
-          "annee": 1927,
-          "pays": "Allemagne",
-          "duree": 152,
-          "version": "INT. FR.",
-          "format": "DCP",
-          "generique": [
-            "Alfred Abel",
-            "Gustav Fröhlich",
-            "Brigitte Helm",
-            "Rudolf Klein-Rogge"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Après avoir évoqué le passé légendaire dans _Les Nibelungen_, Fritz Lang propose sa vision du futur et imagine un espace urbain révélateur de l'organisation sociale. Esthète et moraliste, il marie admirablement le thème et l'image. Sa métropole, aux sources de l'imaginaire urbain moderne, ainsi que la figure du robot, premier androïde féminin du cinéma, d'une folle invention plastique, auront une influence colossale dans l'histoire de la science-fiction, élevant _Metropolis_ au rang de mythe cinématographique."
-            }
-          ]
-        },
-        {
           "idSeance": 208615,
           "ordre": 1,
           "dateHeure": "2026-04-04T20:30:00",
@@ -603,7 +572,7 @@
         {
           "idSeance": 208841,
           "ordre": 1,
-          "dateHeure": "2026-03-28T14:30:00",
+          "dateHeure": "2026-03-28T17:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -639,7 +608,7 @@
         {
           "idSeance": 208842,
           "ordre": 1,
-          "dateHeure": "2026-03-28T17:30:00",
+          "dateHeure": "2026-03-28T20:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1008,6 +977,8 @@
             "Georges Franju"
           ],
           "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 208525,
           "idCategorie": 4076,
           "idEvenement": 35581,
           "typeEvenement": 14,
