@@ -10,6 +10,38 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 45109,
+          "content": [
+            {
+              "idFilm": 45109,
+              "ordre": 1,
+              "titre": "An un",
+              "art": "L'",
+              "titreVo": "Anno uno",
+              "realisateurs": "Roberto Rossellini",
+              "pays": "Italie",
+              "annee": 1974,
+              "duree": 126,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Luigi Vannucchi",
+                "Dominique Darel",
+                "Valeria Sabel"
+              ],
+              "miniTexte": "Le retour de Rossellini au cinéma, après douze ans de travail pour la télévision. À travers la figure d'Alcide De Gasperi, fondateur du Parti démocrate-chrétien, le cinéaste sonde la reconstruction politique italienne de l'après-fascisme. Une leçon d'histoire, qui témoigne de son admiration pour cet homme d'État emblématique."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212727,
+              "dateHeure": "2026-03-13T09:45:00",
+              "idSalle": "HO/CCC"
+            }
+          ]
+        },
+        {
           "idFilm": 155617,
           "content": [
             {
@@ -61,6 +93,37 @@
               "idSeance": 208691,
               "dateHeure": "2026-03-11T14:00:00",
               "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 41880,
+          "content": [
+            {
+              "idFilm": 41880,
+              "ordre": 1,
+              "titre": "Cannibales",
+              "art": "Les",
+              "titreVo": "Cannibali",
+              "artVo": "I",
+              "realisateurs": "Liliana Cavani",
+              "pays": "Italie",
+              "annee": 1969,
+              "duree": 84,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Pierre Clémenti",
+                "Britt Ekland"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212728,
+              "dateHeure": "2026-03-15T09:45:00",
+              "idSalle": "HO/CCC"
             }
           ]
         },
@@ -214,6 +277,69 @@
               "idSeance": 208273,
               "dateHeure": "2026-03-14T16:00:00",
               "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 53054,
+          "content": [
+            {
+              "idFilm": 53054,
+              "ordre": 1,
+              "titre": "Client de la morte saison",
+              "art": "Le",
+              "realisateurs": "Moshé Mizrahi",
+              "pays": "France-Israël",
+              "annee": 1970,
+              "duree": 90,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Claude Rich",
+                "Hénia Suchar",
+                "Hans Christian Blech"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212738,
+              "dateHeure": "2026-03-12T10:00:00",
+              "idSalle": "HO/FQL"
+            }
+          ]
+        },
+        {
+          "idFilm": 155614,
+          "content": [
+            {
+              "idFilm": 155614,
+              "ordre": 1,
+              "titre": "Derniers Jours de Pompéi",
+              "art": "Les",
+              "titreVo": "Ultimi giorni di Pompei",
+              "artVo": "Gli",
+              "realisateurs": "Eleuterio Rodolfi",
+              "pays": "Italie",
+              "annee": 1913,
+              "duree": 107,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après le roman _Les Derniers Jours de Pompéi_ d'Edward Bulwer-Lytton.",
+              "generique": [
+                "Fernanda Negri Pouget",
+                "Jean Fall",
+                "Eugenia Tettoni Fior"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212730,
+              "dateHeure": "2026-03-15T09:45:00",
+              "idSalle": "HO/FJSP"
             }
           ]
         },
@@ -534,7 +660,37 @@
             {
               "idSeance": 208233,
               "dateHeure": "2026-03-13T18:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Olivier Snanoudj"
+            }
+          ]
+        },
+        {
+          "idFilm": 69494,
+          "content": [
+            {
+              "idFilm": 69494,
+              "ordre": 1,
+              "titre": "Pink Narcissus",
+              "realisateurs": "James Bidgood",
+              "pays": "États-Unis",
+              "annee": 1971,
+              "duree": 71,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Bobby Kendall",
+                "Don Brooks",
+                "Charles Ludlam"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212731,
+              "dateHeure": "2026-03-15T09:45:00",
+              "idSalle": "HO/CCC"
             }
           ]
         },
@@ -747,7 +903,8 @@
             {
               "idSeance": 208914,
               "dateHeure": "2026-03-11T21:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Camille de Casabianca"
             }
           ]
         },
@@ -841,6 +998,11 @@
               "idSeance": 208879,
               "dateHeure": "2026-03-12T20:30:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 212732,
+              "dateHeure": "2026-03-15T09:45:00",
+              "idSalle": "HO/FQL"
             }
           ]
         }
@@ -955,20 +1117,25 @@
       "titreSousCycle": "Clôture du festival",
       "items": [
         {
-          "idFilm": 155613,
+          "idFilm": 39105,
           "content": [
             {
-              "idFilm": 155613,
+              "idFilm": 39105,
               "ordre": 1,
-              "titre": "Soldier Man",
-              "realisateurs": "Harry Edwards",
-              "pays": "États-Unis",
-              "annee": 1926,
-              "duree": 31,
+              "titre": "Maître du logis",
+              "art": "Le",
+              "titreVo": "Du skal ære din hustru",
+              "realisateurs": "Carl Theodor Dreyer",
+              "pays": "Danemark",
+              "annee": 1925,
+              "duree": 107,
               "version": "INT. FR.",
               "format": "DCP",
+              "adaptation": "D'après la pièce _Tyrannens fald_ de Svend Rindom.",
               "generique": [
-                "Harry Langdon"
+                "Johannes Meyer",
+                "Astrid Holm",
+                "Mathilde Nielsen"
               ]
             }
           ],
@@ -983,5 +1150,18 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Tatami",
+        "mention": "par Camille de Casabianca",
+        "dateHeure": "2026-03-11T21:00:00"
+      },
+      {
+        "titreFilms": "Performance",
+        "mention": "par Olivier Snanoudj",
+        "dateHeure": "2026-03-13T18:00:00"
+      }
+    ]
+  }
 }

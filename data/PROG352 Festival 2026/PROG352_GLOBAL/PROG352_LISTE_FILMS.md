@@ -32,19 +32,24 @@
   * Un thé au Sahara  
   * Veuve noire (La)
 
-## John Badham (7)
+## John Badham (9)
 
   * Dracula  
   * Étroite surveillance  
   * Fièvre du samedi soir (La)  
+  * Loup de Wall Street (Le)  
   * Meurtre en suspens  
+  * No Country for Old Men  
   * Once Upon a Time... in Hollywood  
   * Tonnerre de feu  
   * WarGames
 
-## Les 50 ans de la Kadokawa (3)
+## Les 50 ans de la Kadokawa (6)
 
   * Complot de la famille Inugami (Le)  
+  * École dans le viseur (L')  
+  * Guerriers de l'Apocalypse (Les)  
+  * Légende des huit samouraïs (La)  
   * Ningen no shōmei  
   * Sailor Suit and Machine Gun
 
@@ -53,23 +58,39 @@
   * Rouge-gorge  
   * Vincent mit l'âne dans un pré (et s'en vint dans l'autre)
 
-## Raretés des collections (4)
+## Raretés des collections (16)
 
   * Broadway by Light  
+  * Corée : vues de Séoul et du port de Chemulpo  
+  * En Espagne, l'Alcazar de Séville  
+  * Fouilles du temple à Abou Simbel  
+  * Glengariff  
+  * Harar  
   * Henri Matisse  
+  * Jugement de Dedjaz Abraha  
+  * Ligne du Yunnan de Laokay à Yunnanfu (La)  
+  * Magique image (La)  
+  * Nanouk l'esquimau  
   * Paris Express  
-  * Symphonie mécanique
+  * Symphonie mécanique  
+  * Vie champêtre au marais (La)  
+  * Voyage imaginaire (Le)  
+  * Zazavavindrano, la fille des eaux
 
-## Restaurations et incunables (38)
+## Restaurations et incunables (43)
 
+  * An un (L')  
   * Arche (L')  
   * Arrière-pays (L')  
   * Caméra arabe  
+  * Cannibales (Les)  
   * Carol for Another Christmas  
   * Chameleon Street  
   * Charade  
   * Cinéphiles 2 : Éric a disparu (Les)  
   * Cinéphiles : Le Retour de Jean (Les)  
+  * Client de la morte saison (Le)  
+  * Derniers Jours de Pompéi (Les)  
   * Dune  
   * Évaporation de l'homme (L')  
   * Fard de Ginza (Le)  
@@ -82,28 +103,31 @@
   * Main de fer  
   * Main de Fer contre la bande aux gants blancs  
   * Main de fer et l'évasion du forçat de Croze  
+  * Maître du logis (Le)  
   * Manège  
   * Mephisto  
   * Pas très catholique  
   * Peeping Penguins  
   * Performance  
   * Pierre ou les ambiguïtés  
+  * Pink Narcissus  
   * Prière aux étoiles (La)  
   * Raison du plus fou (La)  
   * Regarde, elle a les yeux grand ouverts  
   * Saga du Napoléon d'Abel Gance (La)  
   * Sans titre  
   * So Does an Automobile  
-  * Soldier Man  
   * Spectre du professeur Hichcock (Le)  
   * Tatami  
   * Till We Meet Again  
   * Ville à vendre  
   * Vol au-dessus d'un nid de coucou
 
-## Robert Bober (1)
+## Robert Bober (3)
 
-  * Récits d'Ellis Island
+  * Jules et Jim  
+  * Récits d'Ellis Island  
+  * Vienne avant la nuit
 
 ## Sohrab Shahid Saless (2)
 

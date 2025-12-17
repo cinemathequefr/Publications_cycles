@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-03-12T14:00:00",
-    "2026-03-12T14:00:00"
+    "2026-03-14T09:45:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,37 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 51574,
+          "content": [
+            {
+              "idFilm": 51574,
+              "ordre": 1,
+              "titre": "Jules et Jim",
+              "realisateurs": "François Truffaut",
+              "pays": "France",
+              "annee": 1962,
+              "duree": 105,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Jules et Jim_ de Henri-Pierre Roché.",
+              "generique": [
+                "Jeanne Moreau",
+                "Oskar Werner",
+                "Henri Serre"
+              ],
+              "isFocus": true,
+              "miniTexte": "Deux étudiants – Jules l'Autrichien et Jim le Français – se lient d'une amitié profonde. Lorsqu'ils s'éprennent de Catherine, la jeune femme ne peut choisir entre les deux. Après s'être chargé des repérages pour le film, Robert Bober (tout comme Florence Malraux), est assistant de Truffaut, qui transforme le roman d'Henri-Pierre Roché en une histoire de passion mortifère, éblouissante. Tour à tour joyeux et tragique, et porté par une Jeanne Moreau aussi moderne que mystérieuse, l'un des triangles amoureux les plus célèbres du cinéma."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212735,
+              "dateHeure": "2026-03-13T09:45:00",
+              "idSalle": "HO/FQL"
+            }
+          ]
+        },
         {
           "idFilm": 103741,
           "content": [
@@ -31,6 +62,30 @@
               "idSeance": 208162,
               "dateHeure": "2026-03-12T14:00:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 137088,
+          "content": [
+            {
+              "idFilm": 137088,
+              "ordre": 1,
+              "titre": "Vienne avant la nuit",
+              "realisateurs": "Robert Bober",
+              "pays": "France-Allemagne-Autriche",
+              "annee": 2017,
+              "duree": 74,
+              "version": "",
+              "format": "DCP",
+              "miniTexte": "À partir de différentes sources d'archives, Robert Bober reconstitue l'histoire de son arrière-grand-père, parti de Pologne pour émigrer aux États-Unis. Refoulé à Ellis Island pour cause de maladie, il repart s'installer à Vienne. Le récit intime d'une génération de Juifs viennois, confrontée aux premières heures du nazisme."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212734,
+              "dateHeure": "2026-03-14T09:45:00",
+              "idSalle": "HO/FQL"
             }
           ]
         }
