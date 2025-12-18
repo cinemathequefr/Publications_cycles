@@ -1,26 +1,36 @@
 # Liste des films par cycle
 
-## Aleksandar Petrović (4)
+## Aleksandar Petrović (6)
 
   * Elle et lui  
   * Il pleut dans mon village  
+  * J'ai même rencontré des Tziganes heureux  
   * Maître et Marguerite (Le)  
+  * Migrations  
   * Trois
 
-## Anja Breien (2)
+## Anja Breien (4)
 
   * Persécution (La)  
+  * Wives  
+  * Wives, dix ans après  
   * Wives III
 
-## Bruxelles, mon amour (2)
+## Bruxelles, mon amour (6)
 
+  * Brussels by Night  
   * Chantier des gosses (Le)  
-  * Sonate à Bruxelles
+  * Dimanche  
+  * Manneken Pis  
+  * Sonate à Bruxelles  
+  * Zigzags
 
-## Carte blanche à Naoum Kleiman (3)
+## Carte blanche à Naoum Kleiman (5)
 
   * Alenka  
+  * Ivan le Terrible  
   * Okraïna  
+  * Pluie de juillet  
   * ¡Que viva México!
 
 ## Debra Winger (6)
@@ -53,8 +63,10 @@
   * Ningen no shōmei  
   * Sailor Suit and Machine Gun
 
-## Pierre Zucca (2)
+## Pierre Zucca (4)
 
+  * Alouette, je te plumerai  
+  * Roberte  
   * Rouge-gorge  
   * Vincent mit l'âne dans un pré (et s'en vint dans l'autre)
 

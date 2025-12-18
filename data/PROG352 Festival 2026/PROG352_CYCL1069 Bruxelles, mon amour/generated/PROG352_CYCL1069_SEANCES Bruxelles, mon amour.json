@@ -50,5 +50,71 @@
         "ordre": 3
       }
     ]
+  },
+  {
+    "idCategorie": 4054,
+    "typeEvenement": 13,
+    "idEvenement": 35645,
+    "idSeance": 212773,
+    "dateHeure": "2026-03-13T17:15:00",
+    "idSalle": [
+      "HO/ECC",
+      "Écoles Cinéma Club"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 155668,
+        "ordre": 1,
+        "idSeance": 212773,
+        "idCopie": 31438,
+        "duree": 15,
+        "version": "",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 60018,
+        "ordre": 2,
+        "idSeance": 212773,
+        "idCopie": 31251,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4054,
+    "typeEvenement": 13,
+    "idEvenement": 35643,
+    "idSeance": 212772,
+    "dateHeure": "2026-03-14T17:15:00",
+    "idSalle": [
+      "HO/ECC",
+      "Écoles Cinéma Club"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 38696,
+        "ordre": 1,
+        "idSeance": 212772,
+        "idCopie": 31248,
+        "duree": 20,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 97667,
+        "ordre": 2,
+        "idSeance": 212772,
+        "idCopie": 31250,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   }
 ]

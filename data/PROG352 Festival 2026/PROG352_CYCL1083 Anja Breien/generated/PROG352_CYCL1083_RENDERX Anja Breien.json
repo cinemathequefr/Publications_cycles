@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2026-03-15T14:00:00",
+    "2026-03-11T12:00:00",
     "2026-03-15T16:15:00"
   ],
   "textePresentation": "",
@@ -37,7 +37,70 @@
               "idSeance": 208693,
               "dateHeure": "2026-03-15T14:00:00",
               "idSalle": "JE",
+              "mention": "Séance présentée par Enzo Durand",
               "nomSallePrint": "Cinémathèque française (JE)"
+            }
+          ]
+        },
+        {
+          "idFilm": 39482,
+          "content": [
+            {
+              "idFilm": 39482,
+              "ordre": 1,
+              "titre": "Wives",
+              "titreVo": "Hustruer",
+              "realisateurs": "Anja Breien",
+              "pays": "Norvège",
+              "annee": 1975,
+              "duree": 87,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Anne Marie Ottersen",
+                "Katja Medbøe",
+                "Frøydis Armand"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212767,
+              "dateHeure": "2026-03-11T12:00:00",
+              "idSalle": "HO",
+              "nomSallePrint": "Hors les murs"
+            }
+          ]
+        },
+        {
+          "idFilm": 155625,
+          "content": [
+            {
+              "idFilm": 155625,
+              "ordre": 1,
+              "titre": "Wives, dix ans après",
+              "titreVo": "Hustruer – ti år etter",
+              "realisateurs": "Anja Breien",
+              "pays": "Norvège",
+              "annee": 1985,
+              "duree": 88,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Anne Marie Ottersen",
+                "Katja Medbøe",
+                "Frøydis Armand"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212766,
+              "dateHeure": "2026-03-11T12:00:00",
+              "idSalle": "HO",
+              "nomSallePrint": "Hors les murs"
             }
           ]
         },
@@ -68,6 +131,7 @@
               "idSeance": 208695,
               "dateHeure": "2026-03-15T16:15:00",
               "idSalle": "JE",
+              "mention": "Séance présentée par Elie Bartin",
               "nomSallePrint": "Cinémathèque française (JE)"
             }
           ]
@@ -75,5 +139,18 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "La Persécution",
+        "mention": "par Enzo Durand",
+        "dateHeure": "2026-03-15T14:00:00"
+      },
+      {
+        "titreFilms": "Wives III",
+        "mention": "par Elie Bartin",
+        "dateHeure": "2026-03-15T16:15:00"
+      }
+    ]
+  }
 }

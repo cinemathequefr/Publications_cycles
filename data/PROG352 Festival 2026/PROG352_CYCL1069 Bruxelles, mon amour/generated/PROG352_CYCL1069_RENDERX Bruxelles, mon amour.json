@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-03-12T14:30:00",
-    "2026-03-12T14:30:00"
+    "2026-03-14T17:15:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,48 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idEvenement": 35643,
+          "content": [
+            {
+              "idFilm": 38696,
+              "ordre": 1,
+              "titre": "Dimanche",
+              "realisateurs": "Edmond Bernhard",
+              "pays": "Belgique",
+              "annee": 1963,
+              "duree": 20,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "miniTexte": "Des rues vides, des gares sans trains, des musées sans visiteurs. Des tribunes de stade ou des salles de cinéma pleines de spectateurs. Des jeux d'enfants et la relève de la garde au Palais royal : un dimanche comme les autres à Bruxelles. Les loisirs, l'ennui et la vacuité de l'existence, mis en images par l'un des cinéastes belges les plus influents de sa génération."
+            },
+            {
+              "idFilm": 97667,
+              "ordre": 2,
+              "titre": "Brussels by Night",
+              "realisateurs": "Marc Didden",
+              "pays": "Belgique",
+              "annee": 1980,
+              "duree": 87,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "François Beukelaers",
+                "Johan Joos",
+                "Mariette Mathieu"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212772,
+              "dateHeure": "2026-03-14T17:15:00",
+              "idSalle": "HO/ECC",
+              "nomSallePrint": "Écoles Cinéma Club"
+            }
+          ]
+        },
         {
           "groupe": [
             {
@@ -68,6 +110,53 @@
                   "mention": "Séance présentée par Wouter Hessels et Marcel Dumont"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "idEvenement": 35645,
+          "content": [
+            {
+              "idFilm": 155668,
+              "ordre": 1,
+              "titre": "Zigzags",
+              "realisateurs": "Dominique Loreau",
+              "pays": "Belgique",
+              "annee": 1987,
+              "duree": 15,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Yvon Vromman",
+                "Lies Pauwels"
+              ],
+              "miniTexte": "Claire, 16 ans, rejoint Françoise pour échapper à l'ennui. Leur déambulation nocturne révèle les failles d'une amitié qui se délite sous les non-dits."
+            },
+            {
+              "idFilm": 60018,
+              "ordre": 2,
+              "titre": "Manneken Pis",
+              "realisateurs": "Frank Van Passel",
+              "pays": "Belgique",
+              "annee": 1995,
+              "duree": 90,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Frank Vercruyssen",
+                "Antje De Boeck",
+                "Ann Petersen"
+              ],
+              "miniTexte": "Hanté par la mort tragique de ses parents, un jeune Bruxellois tombe amoureux d'une conductrice de tram, brunette lumineuse au cœur fragile. Caméra d'or au festival de Cannes, un conte de fées urbain à l'atmosphère cristalline, d'une douceur mélancolique."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212773,
+              "dateHeure": "2026-03-13T17:15:00",
+              "idSalle": "HO/ECC",
+              "nomSallePrint": "Écoles Cinéma Club"
             }
           ]
         }

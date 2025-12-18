@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-03-11T18:00:00",
-    "2026-03-13T15:00:00"
+    "2026-03-14T17:15:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -36,6 +36,7 @@
               "idSeance": 208798,
               "dateHeure": "2026-03-12T18:00:00",
               "idSalle": "LE",
+              "mention": "Séance présentée par Mina Radović",
               "nomSallePrint": "Cinémathèque française (LE)"
             }
           ]
@@ -67,7 +68,40 @@
               "idSeance": 208799,
               "dateHeure": "2026-03-12T20:00:00",
               "idSalle": "LE",
+              "mention": "Séance présentée par Mina Radović",
               "nomSallePrint": "Cinémathèque française (LE)"
+            }
+          ]
+        },
+        {
+          "idFilm": 30060,
+          "content": [
+            {
+              "idFilm": 30060,
+              "ordre": 1,
+              "titre": "J'ai même rencontré des Tziganes heureux",
+              "titreVo": "Skupljači perja",
+              "realisateurs": "Aleksandar Petrović",
+              "pays": "Yougoslavie",
+              "annee": 1966,
+              "duree": 82,
+              "version": "VO",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Olivera Vučo",
+                "Bekim Fehmiu",
+                "Bata Živojinović",
+                "Gordana Jovanović"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212770,
+              "dateHeure": "2026-03-14T17:15:00",
+              "idSalle": "HO/CCC",
+              "nomSallePrint": "Christine Cinéma Club"
             }
           ]
         },
@@ -100,7 +134,39 @@
               "idSeance": 208800,
               "dateHeure": "2026-03-13T15:00:00",
               "idSalle": "LE",
+              "mention": "Séance présentée par Mina Radović",
               "nomSallePrint": "Cinémathèque française (LE)"
+            }
+          ]
+        },
+        {
+          "idFilm": 68466,
+          "content": [
+            {
+              "idFilm": 68466,
+              "ordre": 1,
+              "titre": "Migrations",
+              "realisateurs": "Aleksandar Petrović",
+              "pays": "France",
+              "annee": 1987,
+              "duree": 120,
+              "version": "VO",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après le roman _Migrations_ de Miloš Crnjanski.",
+              "generique": [
+                "Isabelle Huppert",
+                "Bernard Blier",
+                "Jean-Pierre Cassel"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212771,
+              "dateHeure": "2026-03-14T17:15:00",
+              "idSalle": "HO/CCC",
+              "nomSallePrint": "Christine Cinéma Club"
             }
           ]
         },
@@ -131,6 +197,7 @@
               "idSeance": 208269,
               "dateHeure": "2026-03-11T18:00:00",
               "idSalle": "LE",
+              "mention": "Séance présentée par Mina Radović",
               "nomSallePrint": "Cinémathèque française (LE)"
             }
           ]
@@ -138,5 +205,28 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Trois",
+        "mention": "par Mina Radović",
+        "dateHeure": "2026-03-11T18:00:00"
+      },
+      {
+        "titreFilms": "Elle et lui",
+        "mention": "par Mina Radović",
+        "dateHeure": "2026-03-12T18:00:00"
+      },
+      {
+        "titreFilms": "Il pleut dans mon village",
+        "mention": "par Mina Radović",
+        "dateHeure": "2026-03-12T20:00:00"
+      },
+      {
+        "titreFilms": "Le Maître et Marguerite",
+        "mention": "par Mina Radović",
+        "dateHeure": "2026-03-13T15:00:00"
+      }
+    ]
+  }
 }
