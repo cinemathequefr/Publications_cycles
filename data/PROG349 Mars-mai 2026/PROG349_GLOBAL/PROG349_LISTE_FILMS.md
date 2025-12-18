@@ -333,14 +333,13 @@
   * Table tournante (La)  
   * Temps modernes (Les)
 
-## Marilyn Monroe (21)
+## Marilyn Monroe (20)
 
   * Bus Stop  
   * Certains l'aiment chaud  
   * Chérie, je me sens rajeunir  
   * Cinq mariages à l'essai  
   * Comment épouser un millionnaire  
-  * Démon s'éveille la nuit (Le)  
   * Désaxés (Les)  
   * Ève  
   * Home Town Story  

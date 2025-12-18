@@ -254,8 +254,8 @@
     "hashEvenement": "c35582"
   },
   {
-    "idSeance": 206333,
-    "idEvenement": 35347,
+    "idSeance": 212714,
+    "idEvenement": 35362,
     "dateHeure": "2026-03-20T20:30:00",
     "salle": "HL",
     "cycle": [
@@ -266,18 +266,16 @@
     ],
     "items": [
       {
-        "idFilm": 45415,
-        "titre": "Golem",
-        "art": "Le",
-        "realisateurs": "Carl Boese, Paul Wegener",
-        "annee": 1920,
-        "duree": 72,
+        "idFilm": 40645,
+        "titre": "Metropolis",
+        "realisateurs": "Fritz Lang",
+        "annee": 1927,
+        "duree": 152,
         "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f45415"
+    "hashEvenement": "f40645"
   },
   {
     "idSeance": 208347,
@@ -705,7 +703,8 @@
         "annee": 1971,
         "duree": 94,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f66195"
@@ -1387,14 +1386,15 @@
         "idFilm": 42423,
         "titre": "Trois frères",
         "realisateurs": "Francesco Rosi",
-        "annee": 1980
+        "annee": 1980,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f42423"
   },
   {
-    "idSeance": 208916,
-    "idEvenement": 35330,
+    "idSeance": 212722,
+    "idEvenement": 35287,
     "dateHeure": "2026-03-30T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -1405,17 +1405,16 @@
     ],
     "items": [
       {
-        "idFilm": 90809,
-        "titre": "Ville accuse",
-        "art": "La",
-        "realisateurs": "Sergio Martino",
-        "annee": 1975,
-        "duree": 94,
+        "idFilm": 52563,
+        "titre": "Un juge en danger",
+        "realisateurs": "Damiano Damiani",
+        "annee": 1977,
+        "duree": 120,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f90809"
+    "hashEvenement": "f52563"
   },
   {
     "idSeance": 206565,
@@ -1460,9 +1459,9 @@
     "hashEvenement": "f155675f155676f155677"
   },
   {
-    "idSeance": 206564,
-    "idEvenement": 35313,
-    "dateHeure": "2026-03-30T20:30:00",
+    "idSeance": 208916,
+    "idEvenement": 35330,
+    "dateHeure": "2026-03-30T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1472,16 +1471,17 @@
     ],
     "items": [
       {
-        "idFilm": 43885,
-        "titre": "Violence et Passion",
-        "realisateurs": "Luchino Visconti",
-        "annee": 1974,
-        "duree": 120,
+        "idFilm": 90809,
+        "titre": "Ville accuse",
+        "art": "La",
+        "realisateurs": "Sergio Martino",
+        "annee": 1975,
+        "duree": 94,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f43885"
+    "hashEvenement": "f90809"
   },
   {
     "idSeance": 208750,
@@ -1791,10 +1791,39 @@
         "idFilm": 46115,
         "titre": "Aguirre, la colère de Dieu",
         "realisateurs": "Werner Herzog",
-        "annee": 1972
+        "annee": 1972,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46115"
+  },
+  {
+    "idSeance": 212715,
+    "idEvenement": 35347,
+    "dateHeure": "2026-04-03T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "L'Écran démoniaque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45415,
+        "titre": "Golem",
+        "art": "Le",
+        "realisateurs": "Carl Boese, Paul Wegener",
+        "annee": 1920,
+        "duree": 72,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f45415"
   },
   {
     "idSeance": 208476,
@@ -2044,7 +2073,7 @@
   {
     "idSeance": 208418,
     "idEvenement": 35365,
-    "dateHeure": "2026-04-03T19:30:00",
+    "dateHeure": "2026-04-03T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2242,8 +2271,8 @@
     "hashEvenement": "f43272"
   },
   {
-    "idSeance": 208615,
-    "idEvenement": 35362,
+    "idSeance": 212720,
+    "idEvenement": 35358,
     "dateHeure": "2026-04-04T20:30:00",
     "salle": "HL",
     "cycle": [
@@ -2254,16 +2283,17 @@
     ],
     "items": [
       {
-        "idFilm": 40645,
-        "titre": "Metropolis",
-        "realisateurs": "Fritz Lang",
-        "annee": 1927,
-        "duree": 152,
-        "version": "INT. FR.",
+        "idFilm": 40636,
+        "titre": "Cabinet des figures de cire",
+        "art": "Le",
+        "realisateurs": "Paul Leni",
+        "annee": 1924,
+        "duree": 65,
+        "version": "INT. ALL.",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f40645"
+    "hashEvenement": "f40636"
   },
   {
     "idSeance": 206711,
@@ -2505,7 +2535,9 @@
         "idFilm": 50903,
         "titre": "Trans-Europ-Express",
         "realisateurs": "Alain Robbe-Grillet",
-        "annee": 1966
+        "annee": 1966,
+        "duree": 94,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f50903"
@@ -2894,8 +2926,8 @@
     "hashEvenement": "f55183c35828"
   },
   {
-    "idSeance": 206881,
-    "idEvenement": 35287,
+    "idSeance": 212721,
+    "idEvenement": 35313,
     "dateHeure": "2026-04-12T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -2906,21 +2938,21 @@
     ],
     "items": [
       {
-        "idFilm": 52563,
-        "titre": "Un juge en danger",
-        "realisateurs": "Damiano Damiani",
-        "annee": 1977,
+        "idFilm": 43885,
+        "titre": "Violence et Passion",
+        "realisateurs": "Luchino Visconti",
+        "annee": 1974,
         "duree": 120,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f52563"
+    "hashEvenement": "f43885"
   },
   {
     "idSeance": 206876,
     "idEvenement": 35269,
-    "dateHeure": "2026-04-12T18:30:00",
+    "dateHeure": "2026-04-12T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2967,31 +2999,6 @@
     "hashEvenement": "f80826"
   },
   {
-    "idSeance": 208618,
-    "idEvenement": 35255,
-    "dateHeure": "2026-04-12T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Marilyn Monroe",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 34142,
-        "titre": "Démon s'éveille la nuit",
-        "art": "Le",
-        "realisateurs": "Fritz Lang",
-        "annee": 1952,
-        "duree": 105,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f34142"
-  },
-  {
     "idSeance": 206888,
     "idEvenement": 35744,
     "dateHeure": "2026-04-13T16:00:00",
@@ -3007,7 +3014,9 @@
         "idFilm": 51582,
         "titre": "Une belle fille comme moi",
         "realisateurs": "François Truffaut",
-        "annee": 1972
+        "annee": 1972,
+        "duree": 97,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f51582"
@@ -3297,7 +3306,10 @@
         "titre": "Angoisse du gardien de but au moment du penalty",
         "art": "L'",
         "realisateurs": "Wim Wenders",
-        "annee": 1972
+        "annee": 1972,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f39292"
@@ -6273,7 +6285,7 @@
         "realisateurs": "Robert Altman",
         "annee": 1985,
         "duree": 107,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
