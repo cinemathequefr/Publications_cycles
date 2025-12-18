@@ -72,17 +72,22 @@
     "idCategorie": 4082,
     "typeEvenement": 13,
     "idEvenement": 35686,
-    "idSeance": 208749,
+    "idSeance": 212760,
     "dateHeure": "2026-03-29T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 135,
     "items": [
       {
         "idFilm": 34427,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 212760,
+        "idCopie": 31347,
+        "duree": 109,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -135,21 +140,21 @@
   {
     "idCategorie": 4082,
     "typeEvenement": 13,
-    "idEvenement": 35689,
-    "idSeance": 208752,
+    "idEvenement": 35973,
+    "idSeance": 212759,
     "dateHeure": "2026-04-15T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 102426,
+        "idFilm": 94169,
         "ordre": 1,
-        "idSeance": 208752,
-        "idCopie": 27703,
-        "duree": 110,
+        "idSeance": 212759,
+        "idCopie": 22615,
+        "duree": 115,
         "version": "VF",
         "format": "DCP"
       }
@@ -404,7 +409,7 @@
         "idCopie": 9925,
         "duree": 60,
         "version": "",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ]
   }

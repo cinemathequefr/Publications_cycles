@@ -322,11 +322,11 @@
   * Babe, le cochon devenu berger  
   * Contes de la mère poule : Shangoul et Mangoul (Les)  
   * Homme qui rétrécit (L')  
+  * Indestructibles (Les)  
   * Magicien d'Oz (Le)  
   * Petit Chat curieux (Le)  
   * Pinocchio  
   * Ponyo sur la falaise  
-  * Ratatouille  
   * Secret de la pyramide (Le)  
   * Table tournante (La)  
   * Temps modernes (Les)

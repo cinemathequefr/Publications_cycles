@@ -643,7 +643,7 @@
     "cycle": [
       [
         "Aujourd'hui le cinéma",
-        "Stépahe Batut"
+        "Stéphane Batut"
       ]
     ],
     "mention": "Séance présentée par Stéphane Batut et Dominique Païni",
@@ -1238,7 +1238,7 @@
     "hashEvenement": "f48872c35584"
   },
   {
-    "idSeance": 208749,
+    "idSeance": 212760,
     "idEvenement": 35686,
     "dateHeure": "2026-03-29T15:00:00",
     "salle": "GF",
@@ -1254,7 +1254,8 @@
         "titre": "Secret de la pyramide",
         "art": "Le",
         "realisateurs": "Barry Levinson",
-        "annee": 1985
+        "annee": 1985,
+        "duree": 109
       }
     ],
     "hashEvenement": "f34427"
@@ -3087,8 +3088,8 @@
     "hashEvenement": "f60013"
   },
   {
-    "idSeance": 208752,
-    "idEvenement": 35689,
+    "idSeance": 212759,
+    "idEvenement": 35973,
     "dateHeure": "2026-04-15T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -3099,16 +3100,17 @@
     ],
     "items": [
       {
-        "idFilm": 102426,
-        "titre": "Ratatouille",
+        "idFilm": 94169,
+        "titre": "Indestructibles",
+        "art": "Les",
         "realisateurs": "Brad Bird",
-        "annee": 2007,
-        "duree": 110,
+        "annee": 2003,
+        "duree": 115,
         "version": "VF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f102426"
+    "hashEvenement": "f94169"
   },
   {
     "idSeance": 208792,
@@ -3206,9 +3208,9 @@
     "hashEvenement": "f42430"
   },
   {
-    "idSeance": 212746,
-    "idEvenement": 35862,
-    "dateHeure": "2026-04-16T18:00:00",
+    "idSeance": 212758,
+    "idEvenement": 35259,
+    "dateHeure": "2026-04-16T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3218,16 +3220,16 @@
     ],
     "items": [
       {
-        "idFilm": 155683,
-        "titre": "Marilyn Monroe : Les Derniers jours",
-        "realisateurs": "Patty Ivins",
-        "annee": 2001,
-        "duree": 117,
+        "idFilm": 41727,
+        "titre": "Troublez-moi ce soir",
+        "realisateurs": "Roy Ward Baker",
+        "annee": 1952,
+        "duree": 76,
         "version": "VOSTF",
-        "format": "Numérique"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f155683"
+    "hashEvenement": "f41727"
   },
   {
     "idSeance": 208718,
@@ -3257,7 +3259,7 @@
   {
     "idSeance": 208901,
     "idEvenement": 35270,
-    "dateHeure": "2026-04-16T20:45:00",
+    "dateHeure": "2026-04-16T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3446,7 +3448,7 @@
     "hashEvenement": "f35794"
   },
   {
-    "idSeance": 207025,
+    "idSeance": 212757,
     "idEvenement": 35252,
     "dateHeure": "2026-04-18T17:00:00",
     "salle": "GF",
@@ -3618,6 +3620,30 @@
     "hashEvenement": "f29869"
   },
   {
+    "idSeance": 207041,
+    "idEvenement": 35862,
+    "dateHeure": "2026-04-19T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Marilyn Monroe",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155683,
+        "titre": "Marilyn Monroe : Les Derniers jours",
+        "realisateurs": "Patty Ivins",
+        "annee": 2001,
+        "duree": 117,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f155683"
+  },
+  {
     "idSeance": 208729,
     "idEvenement": 35488,
     "dateHeure": "2026-04-19T16:45:00",
@@ -3644,7 +3670,7 @@
   {
     "idSeance": 208898,
     "idEvenement": 35250,
-    "dateHeure": "2026-04-19T17:15:00",
+    "dateHeure": "2026-04-19T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4391,7 +4417,9 @@
         "titre": "Riff-Raff",
         "realisateurs": "Ken Loach",
         "annee": 1991,
-        "duree": 95
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f41541"
@@ -6788,7 +6816,6 @@
         "realisateurs": "Claude Chabrol",
         "annee": 1962,
         "duree": 115,
-        "version": "VF",
         "format": "DCP",
         "restauration": true
       }
@@ -8502,7 +8529,7 @@
         "realisateurs": "Tsuneo Gōda",
         "annee": 2006,
         "duree": 60,
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f107481"
@@ -8704,7 +8731,10 @@
         "idFilm": 83125,
         "titre": "Six femmes pour l'assassin",
         "realisateurs": "Mario Bava",
-        "annee": 1964
+        "annee": 1964,
+        "duree": 89,
+        "version": "VF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f83125"
