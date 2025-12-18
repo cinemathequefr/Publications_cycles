@@ -69,31 +69,55 @@
           ]
         },
         {
-          "idFilm": 54313,
-          "content": [
+          "groupe": [
             {
               "idFilm": 54313,
-              "ordre": 1,
-              "titre": "¡Que viva México!",
-              "realisateurs": "Sergueï M. Eisenstein",
-              "pays": "Mexique-États-Unis",
-              "annee": 1931,
-              "duree": 85,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "miniTexte": "Œuvre maudite, _¡Que viva México!_ incarne le grand projet inachevé d'Eisenstein : un poème visuel, interprété par des acteurs non professionnels, sur l'histoire et les traditions mexicaines. Abandonné en 1932 à la suite d'un conflit financier, le film, monté en 1979 par Grigori Alexandrov, révèle la beauté des images d'Édouard Tissé et la puissance d'un regard qui mêle fresque populaire, mythes et révoltes sociales."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 54313,
+                  "ordre": 1,
+                  "titre": "¡Que viva México!",
+                  "realisateurs": "Sergueï M. Eisenstein",
+                  "pays": "Mexique-États-Unis",
+                  "annee": 1931,
+                  "duree": 85,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "miniTexte": "Œuvre maudite, _¡Que viva México!_ incarne le grand projet inachevé d'Eisenstein : un poème visuel, interprété par des acteurs non professionnels, sur l'histoire et les traditions mexicaines. Abandonné en 1932 à la suite d'un conflit financier, le film, monté en 1979 par Grigori Alexandrov, révèle la beauté des images d'Édouard Tissé et la puissance d'un regard qui mêle fresque populaire, mythes et révoltes sociales."
+                }
+              ]
+            },
             {
-              "idSeance": 208688,
-              "dateHeure": "2026-03-14T14:30:00",
-              "idSalle": "GF"
+              "idEvenement": 35949,
+              "content": [
+                {
+                  "idConf": 35949,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Naoum Kleiman",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208688,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-03-14T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "¡Que viva México!",
+        "mention": "avec Naoum Kleiman",
+        "dateHeure": "2026-03-14T14:30:00"
+      }
+    ]
+  }
 }

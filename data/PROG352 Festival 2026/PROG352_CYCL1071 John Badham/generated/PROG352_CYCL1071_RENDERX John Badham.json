@@ -76,39 +76,57 @@
           ]
         },
         {
-          "idFilm": 30198,
-          "content": [
+          "groupe": [
             {
               "idFilm": 30198,
-              "ordre": 1,
-              "titre": "Fièvre du samedi soir",
-              "art": "La",
-              "titreVo": "Saturday Night Fever",
-              "realisateurs": "John Badham",
-              "pays": "États-Unis",
-              "annee": 1977,
-              "duree": 118,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après l'article _Tribal Rites of the New Saturday Night_ de Nik Cohn.",
-              "generique": [
-                "John Travolta",
-                "Karen Lynn Gorney",
-                "Barry Miller"
-              ],
-              "miniTexte": "Les rêves de gloire de Tony Manero, Gatsby de la boîte de nuit de son quartier, prennent une nouvelle tournure quand il s'éprend de l'ambitieuse Stephanie, obsédée par l'idée de quitter Brooklyn pour rejoindre Manhattan. John Badham réalise une quête initiatique sur fond de Bee Gees, alternant la comédie et le drame social, grâce à l'incroyable performance de John Travolta."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 212737,
-              "dateHeure": "2026-03-12T10:00:00",
-              "idSalle": "HO/FQL"
+              "content": [
+                {
+                  "idFilm": 30198,
+                  "ordre": 1,
+                  "titre": "Fièvre du samedi soir",
+                  "art": "La",
+                  "titreVo": "Saturday Night Fever",
+                  "realisateurs": "John Badham",
+                  "pays": "États-Unis",
+                  "annee": 1977,
+                  "duree": 118,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après l'article _Tribal Rites of the New Saturday Night_ de Nik Cohn.",
+                  "generique": [
+                    "John Travolta",
+                    "Karen Lynn Gorney",
+                    "Barry Miller"
+                  ],
+                  "miniTexte": "Les rêves de gloire de Tony Manero, Gatsby de la boîte de nuit de son quartier, prennent une nouvelle tournure quand il s'éprend de l'ambitieuse Stephanie, obsédée par l'idée de quitter Brooklyn pour rejoindre Manhattan. John Badham réalise une quête initiatique sur fond de Bee Gees, alternant la comédie et le drame social, grâce à l'incroyable performance de John Travolta."
+                }
+              ]
             },
             {
-              "idSeance": 208268,
-              "dateHeure": "2026-03-14T16:15:00",
-              "idSalle": "HL"
+              "idEvenement": 35946,
+              "content": [
+                {
+                  "idConf": 35946,
+                  "ordre": 2,
+                  "titre": "Dialogue avec John Badham",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 212737,
+                  "dateHeure": "2026-03-12T10:00:00",
+                  "idSalle": "HO/FQL",
+                  "mentionAssoc": "Film seul"
+                },
+                {
+                  "idSeance": 208268,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-03-14T16:15:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                }
+              ]
             }
           ]
         },
@@ -303,5 +321,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "La Fièvre du samedi soir",
+        "mention": "avec John Badham",
+        "dateHeure": "2026-03-14T16:15:00"
+      }
+    ]
+  }
 }

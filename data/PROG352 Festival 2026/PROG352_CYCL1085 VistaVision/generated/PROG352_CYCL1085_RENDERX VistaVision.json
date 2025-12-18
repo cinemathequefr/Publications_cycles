@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2026-03-13T16:00:00",
+    "2026-03-13T14:00:00",
     "2026-03-13T16:00:00"
   ],
   "textePresentation": "",
@@ -41,7 +41,39 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 35951,
+          "content": [
+            {
+              "idConf": 35951,
+              "titre": "Conference VistaVision",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212754,
+              "dateHeure": "2026-03-13T14:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Conference VistaVision",
+        "mention": "Conférence ",
+        "dateHeure": "2026-03-13T14:00:00"
+      }
+    ]
+  }
 }

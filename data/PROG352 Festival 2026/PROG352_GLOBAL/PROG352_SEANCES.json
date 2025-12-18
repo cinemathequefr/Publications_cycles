@@ -17,6 +17,7 @@
         "realisateurs": "Taylor Hackford",
         "annee": 1981,
         "duree": 124,
+        "version": "STF",
         "format": "DCP"
       }
     ],
@@ -342,6 +343,28 @@
     "hashEvenement": "f53054"
   },
   {
+    "idSeance": 212755,
+    "idEvenement": 35950,
+    "dateHeure": "2026-03-12T11:45:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Bruxelles, mon amour",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35950,
+        "titre": "Conférence Wouter Hessels",
+        "sousTitre": "Conférence ",
+        "typeConference": "Conférence",
+        "duree": 30
+      }
+    ],
+    "hashEvenement": "c35950"
+  },
+  {
     "idSeance": 208162,
     "idEvenement": 35321,
     "dateHeure": "2026-03-12T14:00:00",
@@ -350,6 +373,10 @@
       [
         "Robert Bober",
         "Les films"
+      ],
+      [
+        "Robert Bober",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -361,9 +388,15 @@
         "duree": 116,
         "format": "DCP",
         "restauration": true
+      },
+      {
+        "idConf": 35842,
+        "titre": "Dialogue avec Robert Bober",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f103741"
+    "hashEvenement": "f103741c35842"
   },
   {
     "idSeance": 208194,
@@ -692,6 +725,28 @@
     "hashEvenement": "f51574"
   },
   {
+    "idSeance": 212754,
+    "idEvenement": 35951,
+    "dateHeure": "2026-03-13T14:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "VistaVision",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35951,
+        "titre": "Conference VistaVision",
+        "sousTitre": "Conférence ",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c35951"
+  },
+  {
     "idSeance": 208228,
     "idEvenement": 35373,
     "dateHeure": "2026-03-13T14:00:00",
@@ -845,6 +900,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Clément Rauger",
     "items": [
       {
         "idFilm": 155611,
@@ -943,6 +999,10 @@
       [
         "Debra Winger",
         "Les films"
+      ],
+      [
+        "Debra Winger",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -952,10 +1012,17 @@
         "realisateurs": "James L. Brooks",
         "annee": 1983,
         "duree": 132,
+        "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 35948,
+        "titre": "Dialogue avec Debra Winger",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f31015"
+    "hashEvenement": "f31015c35948"
   },
   {
     "idSeance": 208926,
@@ -1042,6 +1109,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Clément Rauger",
     "items": [
       {
         "idFilm": 71999,
@@ -1215,6 +1283,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Clément Rauger",
     "items": [
       {
         "idFilm": 91069,
@@ -1290,6 +1359,10 @@
       [
         "Carte blanche à Naoum Kleiman",
         "Les films"
+      ],
+      [
+        "Carte blanche à Naoum Kleiman",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1301,9 +1374,15 @@
         "duree": 85,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 35949,
+        "titre": "Dialogue avec Naoum Kleiman",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f54313"
+    "hashEvenement": "f54313c35949"
   },
   {
     "idSeance": 208875,
@@ -1396,6 +1475,10 @@
       [
         "John Badham",
         "Les films"
+      ],
+      [
+        "John Badham",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1408,9 +1491,15 @@
         "duree": 118,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 35946,
+        "titre": "Dialogue avec John Badham",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f30198"
+    "hashEvenement": "f30198c35946"
   },
   {
     "idSeance": 208884,
@@ -1423,6 +1512,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Clément Rauger",
     "items": [
       {
         "idFilm": 63986,
@@ -1474,6 +1564,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Clément Rauger",
     "items": [
       {
         "idFilm": 98282,
@@ -1970,6 +2061,10 @@
       [
         "Debra Winger",
         "Les films"
+      ],
+      [
+        "Debra Winger",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1981,9 +2076,15 @@
         "duree": 138,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 35947,
+        "titre": "Dialogue avec Debra Winger",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f46079"
+    "hashEvenement": "f46079c35947"
   },
   {
     "idSeance": 208695,

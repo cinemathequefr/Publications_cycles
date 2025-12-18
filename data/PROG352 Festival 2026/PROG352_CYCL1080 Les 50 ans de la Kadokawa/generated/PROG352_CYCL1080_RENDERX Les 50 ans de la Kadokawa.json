@@ -68,7 +68,8 @@
             {
               "idSeance": 212718,
               "dateHeure": "2026-03-13T17:30:00",
-              "idSalle": "HO/CCC"
+              "idSalle": "HO/CCC",
+              "mention": "Séance présentée par Clément Rauger"
             }
           ]
         },
@@ -132,7 +133,8 @@
             {
               "idSeance": 212719,
               "dateHeure": "2026-03-14T17:30:00",
-              "idSalle": "HO/CCC"
+              "idSalle": "HO/CCC",
+              "mention": "Séance présentée par Clément Rauger"
             }
           ]
         },
@@ -163,7 +165,8 @@
             {
               "idSeance": 208876,
               "dateHeure": "2026-03-13T20:30:00",
-              "idSalle": "LE"
+              "idSalle": "LE",
+              "mention": "Séance présentée par Clément Rauger"
             }
           ]
         },
@@ -186,7 +189,7 @@
                 "Hiroko Yakushimaru",
                 "Tsunehiko Watase",
                 "Yuki Kazamatsuri",
-                "Rentarô Mikuni"
+                "Rentarō Mikuni"
               ],
               "miniTexte": "Une lycéenne se retrouve propulsée à la tête d'un clan de yakuzas. Au service d'un récit décalé, la mise en scène chorégraphique de Shinji Sōmai détourne le film de gangsters en fable pop et nostalgique sur l'adolescence, emmenée par la grâce magnétique de Hiroko Yakushimaru."
             }
@@ -202,5 +205,23 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "L'École dans le viseur",
+        "mention": "par Clément Rauger",
+        "dateHeure": "2026-03-13T17:30:00"
+      },
+      {
+        "titreFilms": "Ningen no shōmei",
+        "mention": "par Clément Rauger",
+        "dateHeure": "2026-03-13T20:30:00"
+      },
+      {
+        "titreFilms": "La Légende des huit samouraïs",
+        "mention": "par Clément Rauger",
+        "dateHeure": "2026-03-14T17:30:00"
+      }
+    ]
+  }
 }

@@ -73,7 +73,7 @@
   * Thiers, Mac-Mahon, Grévy, Carnot, Félix Faure  
   * Un prêté pour un rendu
 
-## Greta Garbo (21)
+## Greta Garbo (20)
 
   * Anna Christie  
   * Anna Karénine  
@@ -84,7 +84,6 @@
   * Courtisane (La)  
   * Droit d'aimer (Le)  
   * Femme aux deux visages (La)  
-  * Femme divine (La)  
   * Grand Hôtel  
   * Inspiratrice (L')  
   * Intrigues  
@@ -141,9 +140,8 @@
   * Règle du jeu (La)  
   * Yeux sans visage (Les)
 
-## Ildikó Enyedi (9)
+## Ildikó Enyedi (8)
 
-  * Conversations of Donkey and Rabbit (The)  
   * Corps et âme  
   * Freischütz  
   * Histoire de ma femme (L')  
@@ -333,18 +331,20 @@
   * Table tournante (La)  
   * Temps modernes (Les)
 
-## Marilyn Monroe (20)
+## Marilyn Monroe (22)
 
   * Bus Stop  
   * Certains l'aiment chaud  
   * Chérie, je me sens rajeunir  
   * Cinq mariages à l'essai  
   * Comment épouser un millionnaire  
+  * Démon s'éveille la nuit (Le)  
   * Désaxés (Les)  
   * Ève  
   * Home Town Story  
   * Hommes préfèrent les blondes (Les)  
   * Joyeuse Parade (La)  
+  * Marilyn Monroe : Les Derniers jours  
   * Milliardaire (Le)  
   * Niagara  
   * Nid d'amour  
