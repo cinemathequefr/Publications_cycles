@@ -1,8 +1,5 @@
 {
-  "datesCycle": [
-    "2026-03-12T11:45:00",
-    "2026-03-12T14:30:00"
-  ],
+  "datesCycle": ["2026-03-12T14:30:00", "2026-03-12T14:30:00"],
   "textePresentation": "",
   "sousCycles": [
     {
@@ -10,70 +7,63 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idEvenement": 35641,
-          "content": [
+          "groupe": [
             {
-              "idFilm": 155608,
-              "ordre": 1,
-              "titre": "Sonate à Bruxelles",
-              "realisateurs": "Émile Degelin",
-              "pays": "Belgique",
-              "annee": 1956,
-              "duree": 14,
-              "version": "",
-              "format": "DCP",
-              "miniTexte": "Le klaxon des automobilistes, la voix des camelots du marché aux puces ou le clapotis du Manneken Pis se mêlent à la partition de Jos Mertens, dans un portrait poétique de la capitale belge."
+              "idEvenement": 35641,
+              "content": [
+                {
+                  "idFilm": 155608,
+                  "ordre": 1,
+                  "titre": "Sonate à Bruxelles",
+                  "realisateurs": "Émile Degelin",
+                  "pays": "Belgique",
+                  "annee": 1956,
+                  "duree": 14,
+                  "version": "",
+                  "format": "DCP",
+                  "miniTexte": "Le klaxon des automobilistes, la voix des camelots du marché aux puces ou le clapotis du Manneken Pis se mêlent à la partition de Jos Mertens, dans un portrait poétique de la capitale belge."
+                },
+                {
+                  "idFilm": 138122,
+                  "ordre": 2,
+                  "titre": "Chantier des gosses",
+                  "art": "Le",
+                  "realisateurs": "Jean Harlez",
+                  "pays": "Belgique",
+                  "annee": 1956,
+                  "duree": 76,
+                  "version": "",
+                  "format": "8 mm",
+                  "ageMinimal": 10,
+                  "generique": [
+                    "L. Becker",
+                    "Suzanne Cognioul",
+                    "Raymond Coumans"
+                  ],
+                  "miniTexte": "Dans le quartier populaire des Marolles à Bruxelles, les enfants ont trouvé refuge sur un terrain vague. Tandis qu'entrepreneurs et architectes débarquent un jour avec leurs instruments, la résistance s'organise. Réalisé juste avant l'Exposition universelle de 1958, un petit bijou d'influence néoréaliste, qui attendra quinze ans pour obtenir les moyens d'être sonorisé."
+                }
+              ]
             },
             {
-              "idFilm": 138122,
-              "ordre": 2,
-              "titre": "Chantier des gosses",
-              "art": "Le",
-              "realisateurs": "Jean Harlez",
-              "pays": "Belgique",
-              "annee": 1956,
-              "duree": 76,
-              "version": "",
-              "format": "8 mm",
-              "ageMinimal": 10,
-              "generique": [
-                "L. Becker",
-                "Suzanne Cognioul",
-                "Raymond Coumans"
+              "idEvenement": 35950,
+              "content": [
+                {
+                  "idConf": 35950,
+                  "ordre": 3,
+                  "titre": "[Titre conférence]",
+                  "sousTitre": "Conférence de Wouter Hessels",
+                  "typeConference": "Conférence"
+                }
               ],
-              "miniTexte": "Dans le quartier populaire des Marolles à Bruxelles, les enfants ont trouvé refuge sur un terrain vague. Tandis qu'entrepreneurs et architectes débarquent un jour avec leurs instruments, la résistance s'organise. Réalisé juste avant l'Exposition universelle de 1958, un petit bijou d'influence néoréaliste, qui attendra quinze ans pour obtenir les moyens d'être sonorisé."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208696,
-              "dateHeure": "2026-03-12T14:30:00",
-              "idSalle": "JE",
-              "mention": "Séance présentée par Wouter Hessels et Marcel Dumont"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 35950,
-          "content": [
-            {
-              "idConf": 35950,
-              "titre": "Conférence Wouter Hessels",
-              "sousTitre": "Conférence ",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 212755,
-              "dateHeure": "2026-03-12T11:45:00",
-              "idSalle": "JE"
+              "seances": [
+                {
+                  "idSeance": 208696,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-03-12T14:30:00",
+                  "idSalle": "JE",
+                  "mention": "Séance présentée par Wouter Hessels et Marcel Dumont"
+                }
+              ]
             }
           ]
         }
@@ -83,9 +73,9 @@
   "syntheseAction": {
     "Conférence": [
       {
-        "titre": "Conférence Wouter Hessels",
-        "mention": "Conférence ",
-        "dateHeure": "2026-03-12T11:45:00"
+        "titre": "[Titre conférence]",
+        "mention": "par Wouter Hessels",
+        "dateHeure": "2026-03-12T14:30:00"
       }
     ],
     "Séance présentée": [

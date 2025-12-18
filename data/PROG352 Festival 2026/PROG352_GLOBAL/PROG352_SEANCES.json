@@ -343,28 +343,6 @@
     "hashEvenement": "f53054"
   },
   {
-    "idSeance": 212755,
-    "idEvenement": 35950,
-    "dateHeure": "2026-03-12T11:45:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Bruxelles, mon amour",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 35950,
-        "titre": "Conférence Wouter Hessels",
-        "sousTitre": "Conférence ",
-        "typeConference": "Conférence",
-        "duree": 30
-      }
-    ],
-    "hashEvenement": "c35950"
-  },
-  {
     "idSeance": 208162,
     "idEvenement": 35321,
     "dateHeure": "2026-03-12T14:00:00",
@@ -455,6 +433,10 @@
       [
         "Bruxelles, mon amour",
         "Les films"
+      ],
+      [
+        "Bruxelles, mon amour",
+        "Rencontres et conférences"
       ]
     ],
     "mention": "Séance présentée par Wouter Hessels et Marcel Dumont",
@@ -475,9 +457,16 @@
         "annee": 1956,
         "duree": 76,
         "format": "8 mm"
+      },
+      {
+        "idConf": 35950,
+        "titre": "[Titre conférence]",
+        "sousTitre": "Conférence de Wouter Hessels",
+        "typeConference": "Conférence",
+        "duree": 30
       }
     ],
-    "hashEvenement": "f155608f138122"
+    "hashEvenement": "f155608f138122c35950"
   },
   {
     "idSeance": 208197,

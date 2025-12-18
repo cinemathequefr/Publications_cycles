@@ -14,6 +14,7 @@
           ],
           "dureeSeance": 120,
           "mention": "Séance présentée par Wouter Hessels et Marcel Dumont",
+          "typeAssoc": 118,
           "idCategorie": 4054,
           "idEvenement": 35641,
           "typeEvenement": 13,
@@ -49,6 +50,7 @@
           ],
           "dureeSeance": 120,
           "mention": "Séance présentée par Wouter Hessels et Marcel Dumont",
+          "typeAssoc": 118,
           "idCategorie": 4054,
           "idEvenement": 35641,
           "typeEvenement": 13,
@@ -75,22 +77,32 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 212755,
-          "dateHeure": "2026-03-12T11:45:00",
+          "idSeance": 208696,
+          "ordre": 3,
+          "dateHeure": "2026-03-12T14:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
-          "dureeSeance": 60,
+          "dureeSeance": 30,
+          "typeAssoc": 118,
           "idCategorie": 4136,
           "idEvenement": 35950,
           "typeEvenement": 14,
           "idTypeConference": 55,
           "typeConference": "Conférence",
-          "titre": "Conférence Wouter Hessels",
-          "sousTitre": "Conférence ",
+          "titre": "[Titre conférence]",
+          "sousTitre": "Conférence de Wouter Hessels",
           "duree": 30,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Wouter Hessels",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []
