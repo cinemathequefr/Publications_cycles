@@ -112,23 +112,18 @@
   * Stronger  
   * Votre Majesté
 
-## Fenêtre sur les collections (16)
+## Fenêtre sur les collections (11)
 
   * Belle de jour  
   * Belle de jour (bande-annonce)  
-  * Chronique d'une disparition  
   * En Indochine française : Dalat, station climatique  
-  * Frontière (La)  
-  * Guerre du Golfe... et après (La)  
   * Harmonieux ombrages d'Indochine  
-  * Marché d'esclaves en Orient  
   * Mines de Campha (Tonkin) (Les)  
   * Moyens de transport en Cochinchine (Les)  
   * Notre-Dame de Paris (bande-annonce)  
   * Pêche au Cambodge (La)  
   * Rempart des béguines (bande-annonce) (Le)  
   * Temps des nababs, épisode 1 : Les Romanesques (Le)  
-  * Temps qu'il reste (bande-annonce) (Le)  
   * Un circuit touristique dans le Haut Tonkin
 
 ## Films noirs scandinaves (9)
