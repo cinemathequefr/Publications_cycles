@@ -70,6 +70,7 @@
               "idSeance": 208167,
               "dateHeure": "2026-03-14T14:00:00",
               "idSalle": "JE",
+              "mention": "Séance présentée par Ellen Shafer et Noémie Jean",
               "nomSallePrint": "Cinémathèque française (JE)"
             }
           ]
@@ -235,6 +236,7 @@
               "idSeance": 208928,
               "dateHeure": "2026-03-14T12:00:00",
               "idSalle": "HO/FJSP",
+              "mention": "Séance présentée par Émilie Cauquy et Hervé Pichard",
               "nomSallePrint": "Fondation Jérôme Seydoux-Pathé"
             }
           ]
@@ -275,6 +277,7 @@
               "idSeance": 208941,
               "dateHeure": "2026-03-14T16:00:00",
               "idSalle": "HO/FJSP",
+              "mention": "Séance présentée par Noémie Jean et Hervé Pichard",
               "nomSallePrint": "Fondation Jérôme Seydoux-Pathé"
             }
           ]
@@ -282,5 +285,23 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "La Vie champêtre au marais / La Magique image / Le Voyage imaginaire",
+        "mention": "par Émilie Cauquy et Hervé Pichard",
+        "dateHeure": "2026-03-14T12:00:00"
+      },
+      {
+        "titreFilms": "Broadway by Light / Symphonie mécanique / Henri Matisse / Paris Express",
+        "mention": "par Ellen Shafer et Noémie Jean",
+        "dateHeure": "2026-03-14T14:00:00"
+      },
+      {
+        "titreFilms": "Zazavavindrano, la fille des eaux / Nanouk l'esquimau",
+        "mention": "par Noémie Jean et Hervé Pichard",
+        "dateHeure": "2026-03-14T16:00:00"
+      }
+    ]
+  }
 }
