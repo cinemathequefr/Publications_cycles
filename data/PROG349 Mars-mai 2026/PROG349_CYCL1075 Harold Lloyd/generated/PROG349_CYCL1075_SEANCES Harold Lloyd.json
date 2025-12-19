@@ -50,6 +50,38 @@
   {
     "idCategorie": 4060,
     "typeEvenement": 13,
+    "idEvenement": 35576,
+    "idSeance": 212774,
+    "dateHeure": "2026-04-19T18:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 35795,
+        "ordre": 1,
+        "idSeance": 212774,
+        "idCopie": 31188,
+        "duree": 61,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 35755,
+        "ordre": 2,
+        "idSeance": 212774,
+        "idCopie": 31197,
+        "duree": 43,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4060,
+    "typeEvenement": 13,
     "idEvenement": 35433,
     "idSeance": 208506,
     "dateHeure": "2026-04-20T15:00:00",
@@ -184,7 +216,7 @@
   {
     "idCategorie": 4060,
     "typeEvenement": 13,
-    "idEvenement": 35608,
+    "idEvenement": 35976,
     "idSeance": 207214,
     "dateHeure": "2026-04-27T15:00:00",
     "idSalle": [
@@ -194,8 +226,17 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 99024,
+        "idFilm": 99028,
         "ordre": 1,
+        "idSeance": 207214,
+        "idCopie": 31186,
+        "duree": 24,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 99024,
+        "ordre": 2,
         "idSeance": 207214,
         "idCopie": 14323,
         "duree": 14,
@@ -204,7 +245,7 @@
       },
       {
         "idFilm": 155605,
-        "ordre": 2,
+        "ordre": 3,
         "idSeance": 207214,
         "idCopie": 31198,
         "duree": 25,
@@ -213,20 +254,11 @@
       },
       {
         "idFilm": 155607,
-        "ordre": 3,
+        "ordre": 4,
         "idSeance": 207214,
         "idCopie": 31231,
         "duree": 10,
         "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 99028,
-        "ordre": 4,
-        "idSeance": 207214,
-        "idCopie": 31186,
-        "duree": 24,
-        "version": "INT. FR.",
         "format": "DCP"
       }
     ]
@@ -257,7 +289,7 @@
   {
     "idCategorie": 4060,
     "typeEvenement": 13,
-    "idEvenement": 35635,
+    "idEvenement": 35975,
     "idSeance": 208562,
     "dateHeure": "2026-04-30T15:00:00",
     "idSalle": [
@@ -267,8 +299,17 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 91078,
+        "idFilm": 155585,
         "ordre": 1,
+        "idSeance": 208562,
+        "idCopie": 31167,
+        "duree": 10,
+        "version": "",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 91078,
+        "ordre": 2,
         "idSeance": 208562,
         "idCopie": 31196,
         "duree": 20,
@@ -277,7 +318,7 @@
       },
       {
         "idFilm": 155606,
-        "ordre": 2,
+        "ordre": 3,
         "idSeance": 208562,
         "idCopie": 31232,
         "duree": 30,
@@ -286,7 +327,7 @@
       },
       {
         "idFilm": 100480,
-        "ordre": 3,
+        "ordre": 4,
         "idSeance": 208562,
         "idCopie": 31211,
         "duree": 20,

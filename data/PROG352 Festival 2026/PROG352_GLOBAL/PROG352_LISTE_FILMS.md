@@ -113,7 +113,7 @@
   * Little Nobody  
   * Little Stranger (The)  
   * Main de fer  
-  * Main de Fer contre la bande aux gants blancs  
+  * Main de fer contre la bande aux gants blancs  
   * Main de fer et l'évasion du forçat de Croze  
   * Maître du logis (Le)  
   * Manège  

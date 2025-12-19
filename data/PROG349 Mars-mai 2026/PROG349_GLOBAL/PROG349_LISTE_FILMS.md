@@ -96,7 +96,7 @@
   * Torrent (Le)  
   * Voile des illusions (Le)
 
-## Harold Lloyd (24)
+## Harold Lloyd (27)
 
   * 3 (més)aventures d'Harold Lloyd  
   * À la hauteur  
@@ -105,11 +105,14 @@
   * Ça t'la coupe  
   * De la coupe aux lèvres  
   * En vitesse  
+  * Grandma's Boy  
   * Harold bonne d'enfant  
   * Harold chez les pirates  
   * La Chasse au renard  
   * Ma fille est somnambule  
   * Manoir hanté (Le)  
+  * Marathon (The)  
+  * Marin malgré lui  
   * Mon ami le voisin  
   * Monte là-dessus !  
   * Nouvelles (Més)aventures d'Harold Lloyd (Les)  

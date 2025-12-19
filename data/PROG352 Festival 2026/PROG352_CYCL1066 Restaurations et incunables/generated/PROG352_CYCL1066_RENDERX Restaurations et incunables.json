@@ -97,6 +97,7 @@
               "idSeance": 208691,
               "dateHeure": "2026-03-11T14:00:00",
               "idSalle": "JE",
+              "mention": "Séance présentée par Béatrice de Pastre",
               "nomSallePrint": "Cinémathèque française (JE)"
             }
           ]
@@ -161,6 +162,7 @@
               "idSeance": 208872,
               "dateHeure": "2026-03-15T17:00:00",
               "idSalle": "LE",
+              "mention": "Séance présentée par N. T. Binh",
               "nomSallePrint": "Cinémathèque française (LE)"
             }
           ]
@@ -616,7 +618,7 @@
             {
               "idFilm": 53702,
               "ordre": 2,
-              "titre": "Main de Fer contre la bande aux gants blancs",
+              "titre": "Main de fer contre la bande aux gants blancs",
               "realisateurs": "Léonce Perret",
               "pays": "France",
               "annee": 1912,
@@ -629,7 +631,7 @@
                 "Léonce Perret",
                 "Suzanne Grandais"
               ],
-              "miniTexte": "L'inspecteur Necker part à la poursuite d'une bande de dangereux malfaiteurs, célèbres pour leurs crimes dans la haute société parisienne. À la Gaumont depuis 1910, Léonce Perret s'essaye au feuilleton policier avec une série de trois épisodes, qui confronte un policier, surnommé Main de fer, à la bande aux gants blancs, menée par le Baron de Croze que le cinéaste interprète lui-même."
+              "miniTexte": "L'inspecteur Necker part à la poursuite d'une bande de dangereux malfaiteurs, célèbres pour leurs crimes dans la haute société parisienne. À la Gaumont depuis 1910, Léonce Perret s'essaye au feuilleton policier avec une série de trois épisodes, qui confronte un policier, surnommé Main de fer, à la bande aux gants blancs, menée par le baron de Croze, que le cinéaste interprète lui-même."
             },
             {
               "idFilm": 155650,
@@ -897,6 +899,7 @@
               "idSeance": 208290,
               "dateHeure": "2026-03-15T20:30:00",
               "idSalle": "GF",
+              "mention": "Séance présentée par Béatrice de Pastre",
               "nomSallePrint": "Cinémathèque française (GF)"
             }
           ]
@@ -920,7 +923,8 @@
                 "Raymond Devos",
                 "Alice Sapritch",
                 "Jean Carmet"
-              ]
+              ],
+              "miniTexte": "La folle équipée d'un surveillant d'asile et de deux pensionnaires amoureux, pris en chasse par une directrice despotique et un mari timoré. À bord d'une Cadillac et d'un camion-citerne qui traversent la France des années 70, Reichenbach filme les acrobaties verbales d'un Devos aussi virtuose qu'attendrissant. Entouré d'une flopée de seconds rôles éclatants, l'humoriste pousse ses numéros jusqu'à l'absurde, dans un esprit joyeusement suranné."
             }
           ],
           "seances": [
@@ -946,7 +950,7 @@
               "version": "",
               "format": "DCP",
               "restauration": true,
-              "miniTexte": "Au lendemain du vote de la Loi Veil, le témoignage précieux d'une lutte pour l'autonomie et la santé des femmes, qui suit au plus près les militantes du MLAC d'Aix-en-Provence. Réalisé avec elles par Yann Le Masson, le film montre leurs pratiques d'avortements sécurisés et leur accompagnement solidaire, jusqu'au procès des Six en 1977. Documentaire d'une force rare, qui s'ouvre et se clôt sur deux accouchements filmés sans fard, avec une infinie délicatesse."
+              "miniTexte": "Au lendemain du vote de la loi Veil, le témoignage précieux d'une lutte pour l'autonomie et la santé des femmes, qui suit au plus près les militantes du MLAC d'Aix-en-Provence. Réalisé avec elles par Yann Le Masson, le film montre leurs pratiques d'avortements sécurisés et leur accompagnement solidaire, jusqu'au procès des Six en 1977. Documentaire d'une force rare, qui s'ouvre et se clôt sur deux accouchements filmés sans fard, avec une infinie délicatesse."
             }
           ],
           "seances": [
@@ -1205,12 +1209,17 @@
   "syntheseAction": {
     "Séances présentées": [
       {
+        "titreFilms": "Caméra arabe",
+        "mention": "par Béatrice de Pastre",
+        "dateHeure": "2026-03-11T14:00:00"
+      },
+      {
         "titreFilms": "Tatami",
         "mention": "par Camille de Casabianca",
         "dateHeure": "2026-03-11T21:00:00"
       },
       {
-        "titreFilms": "Main de fer / Main de Fer contre la bande aux gants blancs / Main de fer et l'évasion du forçat de Croze",
+        "titreFilms": "Main de fer / Main de fer contre la bande aux gants blancs / Main de fer et l'évasion du forçat de Croze",
         "mention": "par Manuela Padoan",
         "dateHeure": "2026-03-13T14:00:00"
       },
@@ -1233,6 +1242,16 @@
         "titreFilms": "Pink Narcissus",
         "mention": "par Pascal-Alex Vincent",
         "dateHeure": "2026-03-15T09:45:00"
+      },
+      {
+        "titreFilms": "Carol for Another Christmas",
+        "mention": "par N. T. Binh",
+        "dateHeure": "2026-03-15T17:00:00"
+      },
+      {
+        "titreFilms": "La Prière aux étoiles",
+        "mention": "par Béatrice de Pastre",
+        "dateHeure": "2026-03-15T20:30:00"
       }
     ]
   }
