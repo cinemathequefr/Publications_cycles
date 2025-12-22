@@ -105,20 +105,20 @@
   * Ça t'la coupe  
   * De la coupe aux lèvres  
   * En vitesse  
+  * Feux croisés  
   * Grandma's Boy  
   * Harold bonne d'enfant  
-  * Harold chez les pirates  
+  * Harold régisseur  
   * La Chasse au renard  
+  * Lui est un fameux ténor  
   * Ma fille est somnambule  
   * Manoir hanté (Le)  
-  * Marathon (The)  
   * Marin malgré lui  
-  * Mon ami le voisin  
+  * Modern Palace  
   * Monte là-dessus !  
   * Nouvelles (Més)aventures d'Harold Lloyd (Les)  
   * Passez muscade  
   * Petit frère (Le)  
-  * Pour le cœur de Jenny  
   * Prince malgré lui  
   * Quel numéro demandez-vous ?  
   * Swing Your Partners  

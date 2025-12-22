@@ -4665,8 +4665,8 @@
     "hashEvenement": "f29418"
   },
   {
-    "idSeance": 207214,
-    "idEvenement": 35976,
+    "idSeance": 212777,
+    "idEvenement": 35990,
     "dateHeure": "2026-04-27T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -4676,15 +4676,6 @@
       ]
     ],
     "items": [
-      {
-        "idFilm": 99028,
-        "titre": "Pour le cœur de Jenny",
-        "realisateurs": "Hal Roach",
-        "annee": 1920,
-        "duree": 24,
-        "version": "INT. FR.",
-        "format": "DCP"
-      },
       {
         "idFilm": 99024,
         "titre": "Passez muscade",
@@ -4709,9 +4700,36 @@
         "annee": 1917,
         "duree": 10,
         "format": "DCP"
+      },
+      {
+        "idFilm": 100474,
+        "titre": "Modern Palace",
+        "realisateurs": "Gilbert W. Pratt",
+        "annee": 1918,
+        "duree": 10,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 100473,
+        "titre": "Feux croisés",
+        "realisateurs": "Alfred J. Goulding",
+        "annee": 1918,
+        "duree": 11,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 100476,
+        "titre": "Harold régisseur",
+        "realisateurs": "Hal Roach",
+        "annee": 1919,
+        "duree": 12,
+        "version": "INT. FR.",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f99028f99024f155605f155607"
+    "hashEvenement": "f99024f155605f155607f100474f100473f100476"
   },
   {
     "idSeance": 208912,
@@ -4930,15 +4948,6 @@
     ],
     "items": [
       {
-        "idFilm": 155585,
-        "titre": "Marathon",
-        "art": "The",
-        "realisateurs": "Alfred J. Goulding",
-        "annee": 1919,
-        "duree": 10,
-        "format": "35 mm"
-      },
-      {
         "idFilm": 91078,
         "titre": "Manoir hanté",
         "art": "Le",
@@ -4964,7 +4973,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f155585f91078f155606f100480"
+    "hashEvenement": "f91078f155606f100480"
   },
   {
     "idSeance": 208661,
@@ -5131,18 +5140,9 @@
         "annee": 1921,
         "duree": 30,
         "format": "DCP"
-      },
-      {
-        "idFilm": 100477,
-        "titre": "Harold chez les pirates",
-        "realisateurs": "Hal Roach",
-        "annee": 1920,
-        "duree": 20,
-        "version": "INT. FR.",
-        "format": "DCP"
       }
     ],
-    "hashEvenement": "f99030f100478f100481f100477"
+    "hashEvenement": "f99030f100478f100481"
   },
   {
     "idSeance": 208424,
@@ -5203,8 +5203,8 @@
     "hashEvenement": "f91691"
   },
   {
-    "idSeance": 207351,
-    "idEvenement": 35570,
+    "idSeance": 212778,
+    "idEvenement": 35994,
     "dateHeure": "2026-05-02T16:00:00",
     "salle": "GF",
     "cycle": [
@@ -5224,20 +5224,20 @@
         "format": "DCP"
       },
       {
+        "idFilm": 99027,
+        "titre": "Prince malgré lui",
+        "realisateurs": "Hal Roach",
+        "annee": 1920,
+        "duree": 25,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
         "idFilm": 155599,
         "titre": "Swing Your Partners",
         "realisateurs": "Alfred J. Goulding",
         "annee": 1918,
         "duree": 11,
-        "version": "VO",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 99025,
-        "titre": "Mon ami le voisin",
-        "realisateurs": "Harold Lloyd, Frank Terry",
-        "annee": 1919,
-        "duree": 13,
         "version": "VO",
         "format": "DCP"
       },
@@ -5251,16 +5251,16 @@
         "format": "DCP"
       },
       {
-        "idFilm": 99027,
-        "titre": "Prince malgré lui",
-        "realisateurs": "Hal Roach",
-        "annee": 1920,
-        "duree": 25,
+        "idFilm": 143801,
+        "titre": "Lui est un fameux ténor",
+        "realisateurs": "Gilbert Pratt",
+        "annee": 1918,
+        "duree": 12,
         "version": "INT. FR.",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f99026f155599f99025f63325f99027"
+    "hashEvenement": "f99026f99027f155599f63325f143801"
   },
   {
     "idSeance": 208740,
@@ -7567,6 +7567,7 @@
         "realisateurs": "John Stuart Robertson",
         "annee": 1929,
         "duree": 82,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
