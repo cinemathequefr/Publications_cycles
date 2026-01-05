@@ -3287,7 +3287,7 @@
   {
     "idSeance": 208658,
     "idEvenement": 35725,
-    "dateHeure": "2026-04-17T16:30:00",
+    "dateHeure": "2026-04-17T16:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3361,7 +3361,7 @@
       },
       {
         "idConf": 35580,
-        "titre": "Ken Loach par Ken Loach. Leçon de cinéma",
+        "titre": "Ken Loach par Ken Loach, une leçon de cinéma",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -5313,29 +5313,27 @@
     "hashEvenement": "f41540"
   },
   {
-    "idSeance": 208573,
-    "idEvenement": 29790,
+    "idSeance": 212809,
+    "idEvenement": 35549,
     "dateHeure": "2026-05-02T18:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Robert Altman",
-        "Les films"
+        "Jean-François Stévenin",
+        "Jean-François Stévenin acteur"
       ]
     ],
     "items": [
       {
-        "idFilm": 30220,
-        "titre": "Buffalo Bill et les Indiens",
-        "realisateurs": "Robert Altman",
-        "annee": 1976,
-        "duree": 123,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "idFilm": 46808,
+        "titre": "Neige",
+        "realisateurs": "Juliet Berto, Jean-Henri Roger",
+        "annee": 1980,
+        "duree": 90,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f30220"
+    "hashEvenement": "f46808"
   },
   {
     "idSeance": 208771,
@@ -5384,6 +5382,31 @@
       }
     ],
     "hashEvenement": "f108057"
+  },
+  {
+    "idSeance": 208573,
+    "idEvenement": 29790,
+    "dateHeure": "2026-05-02T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Robert Altman",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 30220,
+        "titre": "Buffalo Bill et les Indiens",
+        "realisateurs": "Robert Altman",
+        "annee": 1976,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f30220"
   },
   {
     "idSeance": 208605,
@@ -5565,30 +5588,6 @@
       }
     ],
     "hashEvenement": "f142004"
-  },
-  {
-    "idSeance": 207370,
-    "idEvenement": 35549,
-    "dateHeure": "2026-05-03T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Jean-François Stévenin",
-        "Jean-François Stévenin acteur"
-      ]
-    ],
-    "mention": "Séance présentée par Jane Roger",
-    "items": [
-      {
-        "idFilm": 46808,
-        "titre": "Neige",
-        "realisateurs": "Juliet Berto, Jean-Henri Roger",
-        "annee": 1980,
-        "duree": 90,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f46808"
   },
   {
     "idSeance": 207365,
@@ -5823,7 +5822,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective. Accompagnement musical par Adrien Leconte",
+    "mention": "Ouverture de la rétrospective. Accompagnement musical par Adrien Leconte, Camille Maussion et Clémence Baillot d'Estivaux",
     "items": [
       {
         "idFilm": 30779,
@@ -6493,6 +6492,31 @@
     "hashEvenement": "f103297"
   },
   {
+    "idSeance": 208813,
+    "idEvenement": 35413,
+    "dateHeure": "2026-05-10T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le film de tueurs en série, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Jean-François Rauger",
+    "items": [
+      {
+        "idFilm": 45545,
+        "titre": "Jack l'Éventreur",
+        "realisateurs": "Robert S. Baker",
+        "annee": 1958,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f45545"
+  },
+  {
     "idSeance": 207532,
     "idEvenement": 35235,
     "dateHeure": "2026-05-10T17:30:00",
@@ -6515,31 +6539,6 @@
       }
     ],
     "hashEvenement": "f85950"
-  },
-  {
-    "idSeance": 208813,
-    "idEvenement": 35413,
-    "dateHeure": "2026-05-10T18:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Le film de tueurs en série, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Jean-François Rauger",
-    "items": [
-      {
-        "idFilm": 45545,
-        "titre": "Jack l'Éventreur",
-        "realisateurs": "Robert S. Baker",
-        "annee": 1958,
-        "duree": 85,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f45545"
   },
   {
     "idSeance": 207527,
@@ -6886,7 +6885,7 @@
         "idFilm": 47446,
         "titre": "Landru",
         "realisateurs": "Claude Chabrol",
-        "annee": 1962,
+        "annee": 1963,
         "duree": 115,
         "format": "DCP",
         "restauration": true
@@ -7768,7 +7767,7 @@
         "titre": "Sixième Sens",
         "art": "Le",
         "realisateurs": "Michael Mann",
-        "annee": 1985,
+        "annee": 1986,
         "duree": 120,
         "version": "VO",
         "format": "35 mm"
@@ -8150,7 +8149,7 @@
   {
     "idSeance": 208703,
     "idEvenement": 35218,
-    "dateHeure": "2026-05-21T21:15:00",
+    "dateHeure": "2026-05-21T21:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -8539,6 +8538,30 @@
     "hashEvenement": "f128721f128720f128719"
   },
   {
+    "idSeance": 212810,
+    "idEvenement": 35401,
+    "dateHeure": "2026-05-23T19:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Greta Garbo",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31411,
+        "titre": "Roman de Marguerite Gautier",
+        "art": "Le",
+        "realisateurs": "George Cukor",
+        "annee": 1936,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f31411"
+  },
+  {
     "idSeance": 207841,
     "idEvenement": 35420,
     "dateHeure": "2026-05-23T20:30:00",
@@ -8740,7 +8763,8 @@
         "titre": "Perfect Crime",
         "art": "The",
         "realisateurs": "Robert Altman",
-        "annee": 1955
+        "annee": 1955,
+        "duree": 20
       }
     ],
     "hashEvenement": "f57097f88675"
