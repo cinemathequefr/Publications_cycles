@@ -146,4 +146,4 @@
 
 ## VistaVision (1)
 
-  * À l'ombre des potences  
+  * Règlement de comptes à O.K. Corral  
