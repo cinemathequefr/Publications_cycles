@@ -138,6 +138,18 @@
   * Nuit de brume  
   * Quand la chair est faible
 
+## Gérardmer à Paris (9)
+
+  * Cadet  
+  * Junk World  
+  * Mother's baby  
+  * Nervures  
+  * No dejes a los niños solos  
+  * Redux Redux  
+  * Thing With Feathers (The)  
+  * Weed Eaters (The)  
+  * Welcome Home Baby
+
 ## Histoire permanente du cinéma (6)
 
   * American Gigolo  
