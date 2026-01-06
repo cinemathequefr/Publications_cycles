@@ -1,5 +1,14 @@
 # Liste des films par cycle
 
+## 50 ans des studios Kadokawa (6)
+
+  * Complot de la famille Inugami (Le)  
+  * École dans le viseur (L')  
+  * Guerriers de l'Apocalypse (Les)  
+  * Légende des huit samouraïs (La)  
+  * Ningen no shōmei  
+  * Sailor Suit and Machine Gun
+
 ## Aleksandar Petrović (6)
 
   * Elle et lui  
@@ -9,9 +18,11 @@
   * Migrations  
   * Trois
 
-## Anja Breien (2)
+## Anja Breien (4)
 
   * Persécution (La)  
+  * Wives  
+  * Wives, dix ans après  
   * Wives III
 
 ## Bruxelles, mon amour (6)
@@ -51,15 +62,6 @@
   * Once Upon a Time... in Hollywood  
   * Tonnerre de feu  
   * WarGames
-
-## Les 50 ans de la Kadokawa (6)
-
-  * Complot de la famille Inugami (Le)  
-  * École dans le viseur (L')  
-  * Guerriers de l'Apocalypse (Les)  
-  * Légende des huit samouraïs (La)  
-  * Ningen no shōmei  
-  * Sailor Suit and Machine Gun
 
 ## Pierre Zucca (4)
 
@@ -103,8 +105,8 @@
   * Derniers Jours de Pompéi (Les)  
   * Dune  
   * Évaporation de l'homme (L')  
-  * Fard de Ginza (Le)  
   * Fresh Vegetable Mystery (The)  
+  * Ginza Cosmetics  
   * Greedy Humpty Dumpty  
   * Koko's Tattoo  
   * Leaving Las Vegas  
