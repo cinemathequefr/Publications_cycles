@@ -1,4 +1,4 @@
-# De la littérature classique au cinéma grand public
+# La Fougue d'un producteur
 
 Cette programmation, qui célèbre les 50 ans des studios Kadokawa, peut sembler très hétérogène par les cinéastes et les genres investis ; mais les films sélectionnés sont rendus solidaires par l'ombre de leur producteur, Haruki Kadokawa.
 

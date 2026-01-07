@@ -1,0 +1,84 @@
+{
+  "datesCycle": [
+    "2026-07-11T15:00:00",
+    "2026-07-12T21:00:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 60055,
+          "content": [
+            {
+              "idFilm": 60055,
+              "ordre": 1,
+              "duree": 77,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 210092,
+              "dateHeure": "2026-07-12T21:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Courts métrages",
+      "items": [
+        {
+          "idEvenement": 35876,
+          "content": [
+            {
+              "idFilm": 70463,
+              "ordre": 1,
+              "titre": "École des facteurs",
+              "art": "L'",
+              "realisateurs": "Jacques Tati",
+              "pays": "France",
+              "annee": 1946,
+              "duree": 18,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 6,
+              "generique": [
+                "Jacques Tati",
+                "Paul Demange"
+              ]
+            },
+            {
+              "idFilm": 76716,
+              "ordre": 2,
+              "duree": 21,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 80821,
+              "ordre": 3,
+              "duree": 28,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 210076,
+              "dateHeure": "2026-07-11T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {}
+}
