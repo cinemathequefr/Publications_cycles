@@ -63,6 +63,10 @@
   * Tonnerre de feu  
   * WarGames
 
+## Journée d'étude (1)
+
+  * Détour
+
 ## Pierre Zucca (4)
 
   * Alouette, je te plumerai  
