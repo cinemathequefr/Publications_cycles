@@ -62,7 +62,7 @@
         "idCopie": 31283,
         "duree": 50,
         "version": "VO",
-        "format": "16 mm"
+        "format": "Vidéo"
       }
     ]
   },
@@ -89,11 +89,21 @@
       },
       {
         "idFilm": 128522,
-        "ordre": 2
+        "ordre": 2,
+        "idSeance": 207114,
+        "idCopie": 31529,
+        "duree": 13,
+        "version": "VOSTF",
+        "format": "DCP"
       },
       {
         "idFilm": 128523,
-        "ordre": 3
+        "ordre": 3,
+        "idSeance": 207114,
+        "idCopie": 31530,
+        "duree": 21,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -274,7 +284,7 @@
         "idCopie": 31284,
         "duree": 108,
         "version": "VO",
-        "format": "35 mm"
+        "format": "Vidéo"
       }
     ]
   },
@@ -297,7 +307,7 @@
         "idCopie": 31282,
         "duree": 109,
         "version": "",
-        "format": ""
+        "format": "Vidéo"
       }
     ]
   },
@@ -683,10 +693,10 @@
         "idFilm": 30217,
         "ordre": 1,
         "idSeance": 208574,
-        "idCopie": 26994,
-        "duree": 115,
-        "version": "VO",
-        "format": ""
+        "idCopie": 31532,
+        "duree": 114,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -960,10 +970,11 @@
         "idFilm": 30349,
         "ordre": 1,
         "idSeance": 208712,
-        "idCopie": 31288,
+        "idCopie": 31287,
         "duree": 110,
-        "version": "VO",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "35 mm",
+        "restauration": true
       }
     ]
   },
@@ -1303,22 +1314,22 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 57097,
-        "ordre": 1,
-        "idSeance": 208707,
-        "idCopie": 31293,
-        "duree": 81,
-        "version": "VO",
-        "format": "35 mm"
-      },
-      {
         "idFilm": 88675,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 208707,
         "idCopie": 31525,
         "duree": 20,
-        "version": "",
-        "format": ""
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 57097,
+        "ordre": 2,
+        "idSeance": 208707,
+        "idCopie": 31293,
+        "duree": 81,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   }

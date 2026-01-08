@@ -236,6 +236,9 @@
               "realisateurs": "Robert Altman",
               "pays": "États-Unis",
               "annee": 1956,
+              "duree": 13,
+              "version": "VOSTF",
+              "format": "DCP",
               "miniTexte": "Film promotionnel pour l'agence de mannequins Ford, réalisé comme pilote potentiel pour la télévision."
             },
             {
@@ -245,6 +248,9 @@
               "realisateurs": "Robert Altman",
               "pays": "États-Unis",
               "annee": 1950,
+              "duree": 21,
+              "version": "VOSTF",
+              "format": "DCP",
               "generique": [
                 "Lotus Corelli",
                 "James Lantz"
@@ -439,51 +445,6 @@
               "idSeance": 207410,
               "dateHeure": "2026-05-06T20:30:00",
               "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idEvenement": 35764,
-          "content": [
-            {
-              "idFilm": 57097,
-              "ordre": 1,
-              "titre": "Histoire de James Dean",
-              "art": "L'",
-              "titreVo": "James Dean Story",
-              "artVo": "The",
-              "realisateurs": "Robert Altman, George W. George",
-              "pays": "États-Unis",
-              "annee": 1957,
-              "duree": 81,
-              "version": "VO",
-              "format": "35 mm",
-              "miniTexte": "Tourné peu après la mort de l'acteur, le documentaire, produit par Warner Bros, retrace la vie et la carrière de James Dean à travers des photographies en noir et blanc, accompagnées d'entretiens de ses proches."
-            },
-            {
-              "idFilm": 88675,
-              "ordre": 2,
-              "titre": "Perfect Crime",
-              "art": "The",
-              "realisateurs": "Robert Altman",
-              "pays": "États-Unis",
-              "annee": 1955,
-              "duree": 20,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Leonard Belove",
-                "Owen Bush",
-                "Art Ellison"
-              ],
-              "miniTexte": "L'excès de vitesse présenté comme le crime parfait, dans un film de commande du Conseil national de la sécurité routière."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208707,
-              "dateHeure": "2026-05-24T19:00:00",
-              "idSalle": "JE"
             }
           ]
         },
@@ -800,6 +761,51 @@
           ]
         },
         {
+          "idEvenement": 35764,
+          "content": [
+            {
+              "idFilm": 88675,
+              "ordre": 1,
+              "titre": "Perfect Crime",
+              "art": "The",
+              "realisateurs": "Robert Altman",
+              "pays": "États-Unis",
+              "annee": 1955,
+              "duree": 20,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Leonard Belove",
+                "Owen Bush",
+                "Art Ellison"
+              ],
+              "miniTexte": "L'excès de vitesse présenté comme le crime parfait, dans un film de commande du Conseil national de la sécurité routière."
+            },
+            {
+              "idFilm": 57097,
+              "ordre": 2,
+              "titre": "Histoire de James Dean",
+              "art": "L'",
+              "titreVo": "James Dean Story",
+              "artVo": "The",
+              "realisateurs": "Robert Altman, George W. George",
+              "pays": "États-Unis",
+              "annee": 1957,
+              "duree": 81,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "miniTexte": "Tourné peu après la mort de l'acteur, le documentaire, produit par Warner Bros, retrace la vie et la carrière de James Dean à travers des photographies en noir et blanc, accompagnées d'entretiens de ses proches."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208707,
+              "dateHeure": "2026-05-24T19:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 54898,
           "content": [
             {
@@ -841,9 +847,9 @@
               "realisateurs": "Robert Altman",
               "pays": "États-Unis",
               "annee": 1980,
-              "duree": 115,
-              "version": "VO",
-              "format": "",
+              "duree": 114,
+              "version": "VOSTF",
+              "format": "35 mm",
               "generique": [
                 "Robin Williams",
                 "Shelley Duvall",
@@ -1161,8 +1167,9 @@
               "pays": "États-Unis-Canada",
               "annee": 1969,
               "duree": 110,
-              "version": "VO",
+              "version": "VOSTF",
               "format": "35 mm",
+              "restauration": true,
               "adaptation": "D'après le roman _That Cold Day in the Park_ de Richard Miles.",
               "generique": [
                 "Sandy Dennis",
@@ -1320,7 +1327,7 @@
               "annee": 1988,
               "duree": 109,
               "version": "",
-              "format": "",
+              "format": "Vidéo",
               "generique": [
                 "John Travolta",
                 "Tom Conti",
@@ -1350,7 +1357,7 @@
               "annee": 1988,
               "duree": 108,
               "version": "VO",
-              "format": "35 mm",
+              "format": "Vidéo",
               "adaptation": "D'après le roman _Ouragan sur le Caine_ d'Herman Wouk.",
               "generique": [
                 "Eric Bogosian",
@@ -1643,7 +1650,7 @@
               "annee": 1960,
               "duree": 50,
               "version": "VO",
-              "format": "16 mm",
+              "format": "Vidéo",
               "generique": [
                 "Michael Landon",
                 "Lorne Greene",

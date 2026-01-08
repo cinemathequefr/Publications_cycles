@@ -486,16 +486,18 @@
   * Six destins  
   * Tables séparées
 
-## Séances spéciales (16)
+## Séances spéciales (18)
 
   * Affaire Bojarski (L')  
   * Cercle rouge (Le)  
   * Comtesse noire (La)  
   * Graphyty  
+  * Jouvence et boule de gomme  
   * Mage du Kremlin (Le)  
   * Magellan  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
+  * On a volé un train  
   * Satan bouche un coin  
   * Shoah (deuxième époque)  
   * Shoah (première époque)  

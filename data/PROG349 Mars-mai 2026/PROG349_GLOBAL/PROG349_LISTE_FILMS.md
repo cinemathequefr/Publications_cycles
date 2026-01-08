@@ -154,6 +154,49 @@
   * Tamás et Juli  
   * Vakond
 
+## Italie, années de plomb (40)
+
+  * Adorable Corps de Deborah (L')  
+  * Allonsanfàn  
+  * Autre côté de la violence (L')  
+  * Bandits à Milan  
+  * Big Guns  
+  * Brigade spéciale  
+  * Cadavres exquis  
+  * Cher papa  
+  * Chuncho (El)  
+  * Colpire al cuore  
+  * Compañeros  
+  * Confession d'un commissaire de police au procureur de la République  
+  * Ecce bombo  
+  * Enquête sur un citoyen au-dessus de tout soupçon  
+  * Homicide volontaire  
+  * Italia: ultimo atto?  
+  * Milan calibre 9  
+  * Mort a pondu un œuf (La)  
+  * Nous voulons les colonels  
+  * Oiseau au plumage de cristal (L')  
+  * Police a les mains liées (La)  
+  * Polices parallèles en action  
+  * Rançon de la peur (La)  
+  * Rapt à l'italienne  
+  * Rendez-vous de Satan (Les)  
+  * Romances et Confidences  
+  * Salò ou les 120 journées de Sodome  
+  * Tarentule au ventre noir (La)  
+  * Témoin à abattre (Le)  
+  * Todo modo  
+  * Touche pas à la femme blanche  
+  * Tragédie d'un homme ridicule (La)  
+  * Un bourgeois tout petit, petit  
+  * Un citoyen se rebelle  
+  * Un juge en danger  
+  * Une folle envie d'aimer  
+  * Vent d'est (Le)  
+  * Victime désignée (La)  
+  * Ville accuse (La)  
+  * Violence et Passion
+
 ## Jean-François Stévenin (27)
 
   * À nous la victoire  
@@ -249,49 +292,6 @@
   * Tombeau hindou, partie 1 : La Mission du yogi (Le)  
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
-
-## Le cinéma italien des années de plomb (40)
-
-  * Adorable Corps de Deborah (L')  
-  * Allonsanfàn  
-  * Autre côté de la violence (L')  
-  * Bandits à Milan  
-  * Big Guns  
-  * Brigade spéciale  
-  * Cadavres exquis  
-  * Cher papa  
-  * Chuncho (El)  
-  * Colpire al cuore  
-  * Compañeros  
-  * Confession d'un commissaire de police au procureur de la République  
-  * Ecce bombo  
-  * Enquête sur un citoyen au-dessus de tout soupçon  
-  * Homicide volontaire  
-  * Italia: ultimo atto?  
-  * Milan calibre 9  
-  * Mort a pondu un œuf (La)  
-  * Nous voulons les colonels  
-  * Oiseau au plumage de cristal (L')  
-  * Police a les mains liées (La)  
-  * Polices parallèles en action  
-  * Rançon de la peur (La)  
-  * Rapt à l'italienne  
-  * Rendez-vous de Satan (Les)  
-  * Romances et Confidences  
-  * Salò ou les 120 journées de Sodome  
-  * Tarentule au ventre noir (La)  
-  * Témoin à abattre (Le)  
-  * Todo modo  
-  * Touche pas à la femme blanche  
-  * Tragédie d'un homme ridicule (La)  
-  * Un bourgeois tout petit, petit  
-  * Un citoyen se rebelle  
-  * Un juge en danger  
-  * Une folle envie d'aimer  
-  * Vent d'est (Le)  
-  * Victime désignée (La)  
-  * Ville accuse (La)  
-  * Violence et Passion
 
 ## Le film de tueurs en série, 25 indispensables (24)
 
