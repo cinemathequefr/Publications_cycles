@@ -18,11 +18,9 @@
   * Migrations  
   * Trois
 
-## Anja Breien (4)
+## Anja Breien (2)
 
   * Persécution (La)  
-  * Wives  
-  * Wives, dix ans après  
   * Wives III
 
 ## Bruxelles, mon amour (6)
@@ -85,7 +83,7 @@
   * Henri Matisse  
   * Jugement de Dedjaz Abraha  
   * Ligne du Yunnan de Laokay à Yunnanfu (La)  
-  * Magique image (La)  
+  * Magique Image (La)  
   * Nanouk l'esquimau  
   * Paris Express  
   * Symphonie mécanique  
