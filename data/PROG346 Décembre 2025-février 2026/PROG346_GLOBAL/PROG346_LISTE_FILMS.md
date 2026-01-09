@@ -141,10 +141,10 @@
 ## Gérardmer à Paris (9)
 
   * Cadet  
+  * Don't Leave the Kids Alone  
   * Junk World  
   * Mother's Baby  
   * Nervures  
-  * No dejes a los niños solos  
   * Redux Redux  
   * Thing With Feathers (The)  
   * Weed Eaters (The)  
@@ -237,7 +237,7 @@
   * Trésor d'Arne (Le)  
   * Une fille dans chaque port
 
-## Ma petite Cinémathèque (28)
+## Ma petite Cinémathèque (27)
 
   * Animal rit  
   * Aventures du prince Ahmed (Les)  
@@ -259,7 +259,6 @@
   * Jason et les Argonautes  
   * Jeune et innocent  
   * Mary Poppins  
-  * Montagnards sont là (Les)  
   * Ourse et l'Oiseau (L')  
   * Parade  
   * Poucette  
