@@ -144,11 +144,6 @@
   * Récits d'Ellis Island  
   * Vienne avant la nuit
 
-## Sohrab Shahid Saless (2)
-
-  * Dar Ghorbat  
-  * Un simple événement
-
 ## VistaVision (1)
 
   * Règlement de comptes à O.K. Corral  

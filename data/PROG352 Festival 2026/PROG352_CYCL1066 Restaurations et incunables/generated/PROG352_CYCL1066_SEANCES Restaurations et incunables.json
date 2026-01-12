@@ -149,6 +149,31 @@
   {
     "idCategorie": 4050,
     "typeEvenement": 13,
+    "idEvenement": 35768,
+    "idSeance": 212830,
+    "dateHeure": "2026-03-12T17:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155617,
+        "ordre": 1,
+        "idSeance": 212830,
+        "idCopie": 31314,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "mention": "Séance présentée par Anne Kerlan"
+  },
+  {
+    "idCategorie": 4050,
+    "typeEvenement": 13,
     "idEvenement": 35316,
     "idSeance": 208879,
     "dateHeure": "2026-03-12T20:30:00",
@@ -288,7 +313,7 @@
         "restauration": true
       }
     ],
-    "mention": "Séance présentée par Franck Loiret"
+    "mention": "Séance présentée par Franck Loiret et Nicolle Grand"
   },
   {
     "idCategorie": 4050,
@@ -339,30 +364,6 @@
       }
     ],
     "mention": "Séance présentée par Olivier Snanoudj"
-  },
-  {
-    "idCategorie": 4050,
-    "typeEvenement": 13,
-    "idEvenement": 35768,
-    "idSeance": 212830,
-    "dateHeure": "2026-03-13T20:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 155617,
-        "ordre": 1,
-        "idSeance": 212830,
-        "idCopie": 31314,
-        "duree": 91,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
   },
   {
     "idCategorie": 4050,
@@ -575,30 +576,6 @@
   {
     "idCategorie": 4050,
     "typeEvenement": 13,
-    "idEvenement": 35765,
-    "idSeance": 212730,
-    "dateHeure": "2026-03-15T09:45:00",
-    "idSalle": [
-      "HO/FJSP",
-      "Fondation Jérôme Seydoux-Pathé"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 155614,
-        "ordre": 1,
-        "idSeance": 212730,
-        "idCopie": 31298,
-        "duree": 107,
-        "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 4050,
-    "typeEvenement": 13,
     "idEvenement": 35465,
     "idSeance": 212731,
     "dateHeure": "2026-03-15T09:45:00",
@@ -787,6 +764,31 @@
         "restauration": true
       }
     ]
+  },
+  {
+    "idCategorie": 4050,
+    "typeEvenement": 13,
+    "idEvenement": 35765,
+    "idSeance": 212730,
+    "dateHeure": "2026-03-15T14:00:00",
+    "idSalle": [
+      "HO/FJSP",
+      "Fondation Jérôme Seydoux-Pathé"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 155614,
+        "ordre": 1,
+        "idSeance": 212730,
+        "idCopie": 31298,
+        "duree": 107,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de J.-F. Zygel"
   },
   {
     "idCategorie": 4050,

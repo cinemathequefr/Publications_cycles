@@ -10,7 +10,14 @@
       "_charge_prog": "Katia / Stefano",
       "isReg": true,
       "triSousCycles": true,
-      "sousCycles": [{ "titre": "", "cats": [], "tri": 4, "printNoMT": true }],
+      "sousCycles": [
+        {
+          "titre": "Hommage à Jean-François Davy",
+          "cats": [4064],
+          "tri": 4,
+          "printNoMT": true
+        }
+      ],
       "excludeSeances": [],
       "cancelledSeances": [],
       "restaurations": [],
@@ -22,7 +29,9 @@
       "_charge_prog": "Stefano",
       "isReg": true,
       "triSousCycles": true,
-      "sousCycles": [{ "titre": "", "cats": [], "tri": 4, "printNoMT": true }],
+      "sousCycles": [
+        { "titre": "Séries B", "cats": [4067], "tri": 4, "printNoMT": true }
+      ],
       "excludeSeances": [],
       "cancelledSeances": [],
       "restaurations": [],
@@ -227,12 +236,26 @@
     {
       "idCycleProg": 1095,
       "titreCycle": "Réalisatrices françaises des années 70",
-      "_charge_prog": "",
+      "_charge_prog": "Bernard",
       "isReg": false,
       "type": null,
       "sousCycles": [
         { "titre": "Les films", "cats": [4139], "tri": 2, "printNoMT": true },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "cancelledSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 1100,
+      "titreCycle": "65e Semaine de la critique",
+      "_charge_prog": "Bernard",
+      "isReg": false,
+      "type": null,
+      "sousCycles": [
+        { "titre": "Les films", "cats": [4147], "tri": 2, "printNoMT": true }
       ],
       "excludeSeances": [],
       "cancelledSeances": [],
