@@ -101,6 +101,7 @@
               "idSeance": 208285,
               "dateHeure": "2026-03-12T14:00:00",
               "idSalle": "LE",
+              "mention": "Séance présentée par Sylvie Zucca",
               "nomSallePrint": "Cinémathèque française (LE)"
             }
           ]
@@ -131,6 +132,7 @@
               "idSeance": 212824,
               "dateHeure": "2026-03-12T17:30:00",
               "idSalle": "JE",
+              "mention": "Séance présentée par Sylvie Zucca",
               "nomSallePrint": "Cinémathèque française (JE)"
             }
           ]
@@ -138,5 +140,18 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Rouge-gorge",
+        "mention": "par Sylvie Zucca",
+        "dateHeure": "2026-03-12T14:00:00"
+      },
+      {
+        "titreFilms": "Vincent mit l'âne dans un pré (et s'en vint dans l'autre)",
+        "mention": "par Sylvie Zucca",
+        "dateHeure": "2026-03-12T17:30:00"
+      }
+    ]
+  }
 }

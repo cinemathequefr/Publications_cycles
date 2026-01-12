@@ -23,14 +23,13 @@
   * Persécution (La)  
   * Wives III
 
-## Bruxelles, mon amour (6)
+## Bruxelles vue par... (5)
 
   * Brussels by Night  
   * Chantier des gosses (Le)  
   * Dimanche  
   * Manneken Pis  
-  * Sonate à Bruxelles  
-  * Zigzags
+  * Sonate à Bruxelles
 
 ## Carte blanche à Naoum Kleiman (5)
 
