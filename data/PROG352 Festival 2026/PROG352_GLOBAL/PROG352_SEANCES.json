@@ -122,10 +122,14 @@
   },
   {
     "idSeance": 212776,
-    "idEvenement": 35978,
+    "idEvenement": 36008,
     "dateHeure": "2026-03-11T14:30:00",
     "salle": "HL",
     "cycle": [
+      [
+        "Journée d'étude",
+        "Les films"
+      ],
       [
         "Journée d'étude",
         "Rencontres et conférences"
@@ -137,9 +141,18 @@
         "titre": "Cinéma et écologie : réinventer la critique, interroger les pratiques (après-midi)",
         "typeConference": "Journée d'étude",
         "duree": 200
+      },
+      {
+        "idFilm": 37094,
+        "titre": "Détour",
+        "realisateurs": "Edgar G. Ulmer",
+        "annee": 1945,
+        "duree": 67,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "c35978"
+    "hashEvenement": "c35978f37094"
   },
   {
     "idSeance": 208691,
@@ -166,30 +179,6 @@
       }
     ],
     "hashEvenement": "f55539"
-  },
-  {
-    "idSeance": 212838,
-    "idEvenement": 36008,
-    "dateHeure": "2026-03-11T15:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Journée d'étude",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 37094,
-        "titre": "Détour",
-        "realisateurs": "Edgar G. Ulmer",
-        "annee": 1945,
-        "duree": 67,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f37094"
   },
   {
     "idSeance": 212764,
@@ -914,8 +903,8 @@
     "items": [
       {
         "idConf": 35951,
-        "titre": "Conference VistaVision",
-        "sousTitre": "Conférence ",
+        "titre": "Le retour du procédé VistaVision",
+        "sousTitre": "Conférence de Jean-Pierre Verscheure",
         "typeConference": "Conférence",
         "duree": 90
       }
