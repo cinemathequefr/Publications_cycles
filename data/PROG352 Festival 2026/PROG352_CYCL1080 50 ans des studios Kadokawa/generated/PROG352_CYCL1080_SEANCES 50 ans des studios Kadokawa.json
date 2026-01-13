@@ -18,34 +18,11 @@
         "idCopie": 31296,
         "duree": 146,
         "version": "",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "mention": "Séance présentée par Miki Zeze"
-  },
-  {
-    "idCategorie": 4085,
-    "typeEvenement": 13,
-    "idEvenement": 35699,
-    "idSeance": 212718,
-    "dateHeure": "2026-03-13T17:30:00",
-    "idSalle": [
-      "HO/CCC",
-      "Christine Cinéma Club"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 155611,
-        "ordre": 1,
-        "idSeance": 212718,
-        "idCopie": 31305,
-        "duree": 90,
-        "version": "VO",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance présentée par Clément Rauger"
   },
   {
     "idCategorie": 4085,
@@ -74,9 +51,33 @@
   {
     "idCategorie": 4085,
     "typeEvenement": 13,
+    "idEvenement": 35699,
+    "idSeance": 212718,
+    "dateHeure": "2026-03-14T14:00:00",
+    "idSalle": [
+      "HO/CCC",
+      "Christine Cinéma Club"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155611,
+        "ordre": 1,
+        "idSeance": 212718,
+        "idCopie": 31305,
+        "duree": 90,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Clément Rauger"
+  },
+  {
+    "idCategorie": 4085,
+    "typeEvenement": 13,
     "idEvenement": 35682,
     "idSeance": 212717,
-    "dateHeure": "2026-03-14T17:30:00",
+    "dateHeure": "2026-03-14T16:00:00",
     "idSalle": [
       "HO/CCC",
       "Christine Cinéma Club"
@@ -94,30 +95,6 @@
       }
     ],
     "mention": "Séance présentée par Fabien Mauro"
-  },
-  {
-    "idCategorie": 4085,
-    "typeEvenement": 13,
-    "idEvenement": 35684,
-    "idSeance": 212719,
-    "dateHeure": "2026-03-14T17:30:00",
-    "idSalle": [
-      "HO/CCC",
-      "Christine Cinéma Club"
-    ],
-    "dureeSeance": 165,
-    "items": [
-      {
-        "idFilm": 98282,
-        "ordre": 1,
-        "idSeance": 212719,
-        "idCopie": 31301,
-        "duree": 133,
-        "version": "VO",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance présentée par Clément Rauger"
   },
   {
     "idCategorie": 4085,
@@ -142,5 +119,29 @@
       }
     ],
     "mention": "Séance présentée par Miki Zeze et Stéphane Du Mesnildot"
+  },
+  {
+    "idCategorie": 4085,
+    "typeEvenement": 13,
+    "idEvenement": 35684,
+    "idSeance": 212719,
+    "dateHeure": "2026-03-15T14:00:00",
+    "idSalle": [
+      "HO/CCC",
+      "Christine Cinéma Club"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 98282,
+        "ordre": 1,
+        "idSeance": 212719,
+        "idCopie": 31301,
+        "duree": 133,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Clément Rauger"
   }
 ]
