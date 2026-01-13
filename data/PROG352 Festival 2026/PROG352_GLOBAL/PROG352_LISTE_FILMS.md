@@ -92,7 +92,7 @@
   * Voyage imaginaire (Le)  
   * Zazavavindrano, la fille des eaux
 
-## Restaurations et incunables (43)
+## Restaurations et incunables (42)
 
   * An un (L')  
   * Arche (L')  
@@ -130,7 +130,6 @@
   * Raison du plus fou (La)  
   * Regarde, elle a les yeux grand ouverts  
   * Saga du Napoléon d'Abel Gance (La)  
-  * Sans titre  
   * So Does an Automobile  
   * Spectre du professeur Hichcock (Le)  
   * Tatami  

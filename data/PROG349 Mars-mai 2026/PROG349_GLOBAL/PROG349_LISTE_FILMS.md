@@ -103,13 +103,13 @@
   * Amour et poésie  
   * Ayez donc des gosses  
   * Ça t'la coupe  
+  * Chasse au renard (La)  
   * De la coupe aux lèvres  
   * En vitesse  
   * Feux croisés  
   * Grandma's Boy  
   * Harold bonne d'enfant  
   * Harold régisseur  
-  * La Chasse au renard  
   * Lui est un fameux ténor  
   * Ma fille est somnambule  
   * Manoir hanté (Le)  
@@ -422,12 +422,12 @@
   * Tanner '88, épisode 9 : Something Borrowed, Something New  
   * Tanner on Tanner  
   * That Cold Day in the Park  
-  * The Young One  
   * Together  
   * Trois femmes  
   * Un couple parfait  
   * Un mariage  
-  * Vincent et Théo
+  * Vincent et Théo  
+  * Young One (The)
 
 ## Séances spéciales (2)
 
