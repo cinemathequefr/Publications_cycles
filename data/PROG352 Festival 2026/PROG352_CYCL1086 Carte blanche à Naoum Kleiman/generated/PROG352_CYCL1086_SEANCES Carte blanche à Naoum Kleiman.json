@@ -2,54 +2,6 @@
   {
     "idCategorie": 4095,
     "typeEvenement": 13,
-    "idEvenement": 35741,
-    "idSeance": 212764,
-    "dateHeure": "2026-03-11T16:15:00",
-    "idSalle": [
-      "HO/FQL",
-      "Filmothèque du Quartier latin"
-    ],
-    "dureeSeance": 225,
-    "items": [
-      {
-        "idFilm": 53332,
-        "ordre": 1,
-        "idSeance": 212764,
-        "idCopie": 31292,
-        "duree": 190,
-        "version": "",
-        "format": "35 mm"
-      }
-    ],
-    "mention": "Séance présentée par Naoum Kleiman"
-  },
-  {
-    "idCategorie": 4095,
-    "typeEvenement": 13,
-    "idEvenement": 35735,
-    "idSeance": 212765,
-    "dateHeure": "2026-03-11T16:15:00",
-    "idSalle": [
-      "HO/FQL",
-      "Filmothèque du Quartier latin"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 133065,
-        "ordre": 1,
-        "idSeance": 212765,
-        "idCopie": 31473,
-        "duree": 0,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance présentée par Naoum Kleiman"
-  },
-  {
-    "idCategorie": 4095,
-    "typeEvenement": 13,
     "idEvenement": 35734,
     "idSeance": 208166,
     "dateHeure": "2026-03-11T19:30:00",
@@ -134,6 +86,52 @@
     "items": [
       {
         "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 4095,
+    "typeEvenement": 13,
+    "idEvenement": 35741,
+    "idSeance": 208951,
+    "dateHeure": "2026-03-15T13:30:00",
+    "idSalle": [
+      "HO/FQL",
+      "Filmothèque du Quartier latin"
+    ],
+    "dureeSeance": 225,
+    "items": [
+      {
+        "idFilm": 53332,
+        "ordre": 1,
+        "idSeance": 208951,
+        "idCopie": 31292,
+        "duree": 190,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4095,
+    "typeEvenement": 13,
+    "idEvenement": 35735,
+    "idSeance": 216750,
+    "dateHeure": "2026-03-15T17:00:00",
+    "idSalle": [
+      "HO/FQL",
+      "Filmothèque du Quartier latin"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 133065,
+        "ordre": 1,
+        "idSeance": 216750,
+        "idCopie": 31473,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   }

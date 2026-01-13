@@ -73,29 +73,6 @@
   {
     "idCategorie": 4056,
     "typeEvenement": 13,
-    "idEvenement": 35368,
-    "idSeance": 212737,
-    "dateHeure": "2026-03-12T10:00:00",
-    "idSalle": [
-      "HO/FQL",
-      "Filmothèque du Quartier latin"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 30198,
-        "ordre": 1,
-        "idSeance": 212737,
-        "idCopie": 28260,
-        "duree": 118,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4056,
-    "typeEvenement": 13,
     "idEvenement": 35370,
     "idSeance": 208196,
     "dateHeure": "2026-03-12T18:00:00",
@@ -165,11 +142,34 @@
     ]
   },
   {
+    "idCategorie": 4056,
+    "typeEvenement": 13,
+    "idEvenement": 35369,
+    "idSeance": 212736,
+    "dateHeure": "2026-03-13T18:00:00",
+    "idSalle": [
+      "HO/FQL",
+      "Filmothèque du Quartier latin"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 29919,
+        "ordre": 1,
+        "idSeance": 212736,
+        "idCopie": 19772,
+        "duree": 112,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
     "idCategorie": 4103,
     "typeEvenement": 13,
     "idEvenement": 35792,
     "idSeance": 208926,
-    "dateHeure": "2026-03-13T20:00:00",
+    "dateHeure": "2026-03-13T20:15:00",
     "idSalle": [
       "HO/FQL",
       "Filmothèque du Quartier latin"
@@ -235,7 +235,7 @@
     "typeEvenement": 13,
     "idEvenement": 35794,
     "idSeance": 212716,
-    "dateHeure": "2026-03-14T17:30:00",
+    "dateHeure": "2026-03-14T20:00:00",
     "idSalle": [
       "HO/FQL",
       "Filmothèque du Quartier latin"
@@ -275,9 +275,9 @@
   {
     "idCategorie": 4056,
     "typeEvenement": 13,
-    "idEvenement": 35369,
-    "idSeance": 212736,
-    "dateHeure": "2026-03-15T09:45:00",
+    "idEvenement": 35368,
+    "idSeance": 212737,
+    "dateHeure": "2026-03-15T19:30:00",
     "idSalle": [
       "HO/FQL",
       "Filmothèque du Quartier latin"
@@ -285,13 +285,13 @@
     "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 29919,
+        "idFilm": 30198,
         "ordre": 1,
-        "idSeance": 212736,
-        "idCopie": 19772,
-        "duree": 112,
+        "idSeance": 212737,
+        "idCopie": 28260,
+        "duree": 118,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ]
   }
