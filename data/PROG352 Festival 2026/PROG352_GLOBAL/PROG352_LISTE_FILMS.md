@@ -79,7 +79,7 @@
   * Corée : vues de Séoul et du port de Chemulpo  
   * En Espagne, l'Alcazar de Séville  
   * Fouilles du temple à Abou Simbel  
-  * Glengariff  
+  * Glengarriff  
   * Harar  
   * Henri Matisse  
   * Jugement de Dedjaz Abraha  
