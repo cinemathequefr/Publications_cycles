@@ -1,0 +1,94 @@
+{
+  "datesCycle": [
+    "2026-06-11T20:00:00",
+    "2026-06-13T15:00:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 43965,
+          "content": [
+            {
+              "idFilm": 43965,
+              "ordre": 1,
+              "titre": "Basilischi",
+              "art": "I",
+              "realisateurs": "Lina Wertmüller",
+              "pays": "Italie",
+              "annee": 1963,
+              "duree": 83,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216710,
+              "dateHeure": "2026-06-11T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 43959,
+          "content": [
+            {
+              "idFilm": 43959,
+              "ordre": 1,
+              "titre": "Camorra",
+              "titreVo": "Un complicato intrigo di donne, vicoli e delitti",
+              "realisateurs": "Lina Wertmüller",
+              "pays": "Italie-États-Unis",
+              "annee": 1985,
+              "duree": 115,
+              "version": "VOSTF",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209424,
+              "dateHeure": "2026-06-13T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 43991,
+          "content": [
+            {
+              "idFilm": 43991,
+              "ordre": 1,
+              "titre": "Pasqualino",
+              "titreVo": "Pasqualino Settebellezze",
+              "realisateurs": "Lina Wertmüller",
+              "pays": "Italie",
+              "annee": 1975,
+              "duree": 113,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Giancarlo Giannini",
+                "Fernando Rey"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209385,
+              "dateHeure": "2026-06-12T21:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {}
+}

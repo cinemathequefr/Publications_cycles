@@ -429,7 +429,8 @@
   * Vincent et Théo  
   * Young One (The)
 
-## Séances spéciales (2)
+## Séances spéciales (3)
 
+  * Corde au cou (La)  
   * Derniers jours d'Emmanuel Kant (Les)  
   * Fils puni (Le)  

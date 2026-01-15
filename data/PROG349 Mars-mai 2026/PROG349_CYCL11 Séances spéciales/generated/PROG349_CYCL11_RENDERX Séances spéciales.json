@@ -3,6 +3,45 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Avant-première Gus Van Sant",
+      "items": [
+        {
+          "idFilm": 155710,
+          "content": [
+            {
+              "idFilm": 155710,
+              "ordre": 1,
+              "titre": "Corde au cou",
+              "art": "La",
+              "titreVo": "Dead Man's Wire",
+              "realisateurs": "Gus Van Sant",
+              "pays": "États-Unis",
+              "annee": 2025,
+              "duree": 105,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Bill Skarsgård",
+                "Dacre Montgomery",
+                "Colman Domingo",
+                "Al Pacino"
+              ],
+              "miniTexte": "Inspiré d'une prise d'otage survenue en 1977 à Indianapolis, le récit captivant d'un enlèvement qui transforma Tony Kiritsis – entrepreneur ruiné par un prêt hypothécaire – en un hors-la-loi excentrique et héros populaire d'une affaire ultramédiatisée. Gus Van Sant livre un thriller social sous haute tension, en même temps qu'une satire de la justice spectacle, saluée pour son humour noir et son casting impeccable."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216755,
+              "dateHeure": "2026-03-30T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Hommage à Philippe Collin",
       "items": [
         {
@@ -73,6 +112,12 @@
     }
   ],
   "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2026-03-30T20:00:00",
+        "titreFilms": "La Corde au cou"
+      }
+    ],
     "Séances présentées": [
       {
         "titreFilms": "Le Fils puni",
