@@ -103,34 +103,62 @@
           ]
         },
         {
-          "idFilm": 31015,
-          "content": [
+          "groupe": [
             {
               "idFilm": 31015,
-              "ordre": 1,
-              "titre": "Tendres Passions",
-              "titreVo": "Terms of Endearment",
-              "realisateurs": "James L. Brooks",
-              "pays": "États-Unis",
-              "annee": 1983,
-              "duree": 132,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Terms of Endearment_ de Larry McMurtry.",
-              "generique": [
-                "Shirley MacLaine",
-                "Debra Winger",
-                "Jack Nicholson"
+              "content": [
+                {
+                  "idFilm": 31015,
+                  "ordre": 1,
+                  "titre": "Tendres Passions",
+                  "titreVo": "Terms of Endearment",
+                  "realisateurs": "James L. Brooks",
+                  "pays": "États-Unis",
+                  "annee": 1983,
+                  "duree": 132,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _Terms of Endearment_ de Larry McMurtry.",
+                  "generique": [
+                    "Shirley MacLaine",
+                    "Debra Winger",
+                    "Jack Nicholson"
+                  ],
+                  "miniTexte": "Chronique familiale drôle, cruelle et bouleversante, _Tendres Passions_ détricote le lien orageux mais indestructible entre une mère et sa fille (le duo Shirley MacLaine et Debra Winger) avec une écriture ciselée et des personnages désarmants d'humanité. Un classique hollywoodien sur les failles de l'intimité, récompensé par cinq Oscars, dont celui du meilleur film."
+                }
               ],
-              "miniTexte": "Chronique familiale drôle, cruelle et bouleversante, _Tendres Passions_ détricote le lien orageux mais indestructible entre une mère et sa fille (le duo Shirley MacLaine et Debra Winger) avec une écriture ciselée et des personnages désarmants d'humanité. Un classique hollywoodien sur les failles de l'intimité, récompensé par cinq Oscars, dont celui du meilleur film."
-            }
-          ],
-          "seances": [
+              "seances": [
+                {
+                  "idSeance": 208683,
+                  "idSeanceAssoc": 212748,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-03-13T19:45:00",
+                  "idSalle": "HL",
+                  "nomSallePrint": "Cinémathèque française (HL)",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
+            },
             {
-              "idSeance": 208683,
-              "dateHeure": "2026-03-13T19:30:00",
-              "idSalle": "HL",
-              "nomSallePrint": "Cinémathèque française (HL)"
+              "idEvenement": 35948,
+              "content": [
+                {
+                  "idConf": 35948,
+                  "titre": "Dialogue avec Debra Winger",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Pauline de Raymond"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 212748,
+                  "idSeanceAssoc": 208683,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-03-13T21:45:00",
+                  "idSalle": "HL",
+                  "nomSallePrint": "Cinémathèque française (HL)"
+                }
+              ]
             }
           ]
         },
@@ -216,31 +244,6 @@
               "idSalle": "GF",
               "mention": "Séance présentée par Debra Winger",
               "nomSallePrint": "Cinémathèque française (GF)"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 35948,
-          "content": [
-            {
-              "idConf": 35948,
-              "titre": "Dialogue avec Debra Winger",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Pauline de Raymond"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 212748,
-              "dateHeure": "2026-03-13T21:45:00",
-              "idSalle": "HL",
-              "nomSallePrint": "Cinémathèque française (HL)"
             }
           ]
         }
