@@ -1,13 +1,22 @@
 # Liste des films par cycle
 
-## Cinéma bis (2)
+## Cinéma bis (4)
 
-  * J'ai vécu deux fois  
-  * Mad Monster (The)
+  * Campus  
+  * Contact mortel  
+  * Dans les bras de l'enfer  
+  * Dernier survivant (Le)
 
-## Claudia Cardinale (1)
+## Claudia Cardinale (8)
 
-  * Quand la chair succombe
+  * Bel Antonio (Le)  
+  * Cartouche  
+  * Dauphins (Les)  
+  * Guépard (Le)  
+  * Meurtre à l'italienne  
+  * Professionnels (Les)  
+  * Quand la chair succombe  
+  * Rocco et ses frères
 
 ## Jacques Tati (10)
 
@@ -22,13 +31,56 @@
   * Trafic  
   * Vacances de Monsieur Hulot (Les)
 
-## Lina Wertmüller (3)
+## Lina Wertmüller (23)
 
+  * 12 registi per 12 città : Bari  
   * Basilischi (I)  
   * Camorra  
-  * Pasqualino
+  * Cette fois-ci, parlons des hommes  
+  * Chacun à son poste et rien ne va  
+  * Ciao, professore!  
+  * D'amour et de sang  
+  * Fernando e Carolina  
+  * Film d'amour et d'anarchie  
+  * Fin du monde dans notre lit conjugal (La)  
+  * Metalmeccanico e parrucchiera in un turbine di sesso e di politica  
+  * Mimi métallo, blessé dans son honneur  
+  * Ninfa plebea  
+  * Non stuzzicate la zanzara  
+  * Notte d'estate con profilo greco, occhi a mandorla e odore di basilico  
+  * Par une nuit de clair de lune  
+  * Pasqualino  
+  * Peperoni ripieni e pesci in faccia  
+  * Rita la zanzara  
+  * Samedi, dimanche et lundi  
+  * Scherzo del destino in agguato dietro l'angolo come un brigante da strada  
+  * Sotto... Sotto... strapazzato da anomala passioneita  
+  * Vers un destin insolite sur les flots bleus de l'été
 
-## Réalisatrices françaises des années 70 (21)
+## Roman porno, les films érotiques de la Nikkatsu (20)
+
+  * Amants mouillés (Les)  
+  * Angel Guts: Red Classroom  
+  * Dan Oniroku hebi no ana  
+  * Irogoyomi ooku hiwa  
+  * Marché sexuel des filles  
+  * Mitsuryo-zuma: oku no uzuki  
+  * Nuits félines à Shinjuku  
+  * Parfum d'un sortilège  
+  * Rabu hoteru  
+  * Rideau de fusuma (Le)  
+  * Rue de la joie  
+  * Seidan botan-dôrô  
+  * Sengoku rokku hayate no onnatachi  
+  * Shin jitsuroku onna kanbetsusho: Rengoku  
+  * Shiroi yubi no tawamure  
+  * Sweden Porno: Blonde Animal  
+  * Tokyo Emmanuelle fujin  
+  * Vie secrète de madame Yoshino (La)  
+  * Yumeno Kyusaku no shoujo jigoku  
+  * Zûmu in: Bôkô danchi
+
+## Réalisatrices françaises des années 70 (23)
 
   * A. Constant  
   * Aloïse  
@@ -41,9 +93,11 @@
   * Fiancée du pirate (La)  
   * Futur aux trousses (Le)  
   * George qui ?  
+  * Histoires d'A  
   * Je suis Pierre Rivière  
   * Jument vapeur (La)  
   * Lumière  
+  * Maso et Miso vont en bateau  
   * Nathalie Granger  
   * Pic et pic et colegram  
   * Pourquoi pas !  
