@@ -1,22 +1,27 @@
 # Liste des films par cycle
 
-## Cinéma bis (4)
+## Cinéma bis (6)
 
   * Campus  
   * Contact mortel  
   * Dans les bras de l'enfer  
-  * Dernier survivant (Le)
+  * Dernier survivant (Le)  
+  * J'ai vécu deux fois  
+  * Mad Monster (The)
 
-## Claudia Cardinale (8)
+## Claudia Cardinale (11)
 
   * Bel Antonio (Le)  
   * Cartouche  
   * Dauphins (Les)  
   * Guépard (Le)  
+  * Il était une fois dans l'Ouest  
   * Meurtre à l'italienne  
   * Professionnels (Les)  
   * Quand la chair succombe  
-  * Rocco et ses frères
+  * Ragazza (La)  
+  * Rocco et ses frères  
+  * Sandra
 
 ## Jacques Tati (10)
 
