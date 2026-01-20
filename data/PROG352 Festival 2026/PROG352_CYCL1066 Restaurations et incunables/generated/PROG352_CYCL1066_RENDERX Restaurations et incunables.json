@@ -899,6 +899,7 @@
               "idSeance": 216831,
               "dateHeure": "2026-03-12T17:15:00",
               "idSalle": "HL",
+              "mention": "Séance suivie d'une discussion avec Leos Carax. Séance présentée par Caroline Champetier",
               "nomSallePrint": "Cinémathèque française (HL)"
             }
           ]
@@ -1146,7 +1147,6 @@
               "idSeance": 208272,
               "dateHeure": "2026-03-15T16:30:00",
               "idSalle": "GF",
-              "mention": "Séance présentée par Bernard Benoliel",
               "nomSallePrint": "Cinémathèque française (GF)"
             }
           ]
@@ -1234,6 +1234,13 @@
     }
   ],
   "syntheseAction": {
+    "Discussion": [
+      {
+        "titreFilms": "Pierre ou les ambiguïtés",
+        "mention": "avec Leos Carax. Séance présentée par Caroline Champetier",
+        "dateHeure": "2026-03-12T17:15:00"
+      }
+    ],
     "Séances présentées": [
       {
         "titreFilms": "La Raison du plus fou",
@@ -1259,6 +1266,11 @@
         "titreFilms": "Charade",
         "mention": "par Gabrielle Sébire",
         "dateHeure": "2026-03-12T14:30:00"
+      },
+      {
+        "titreFilms": "Pierre ou les ambiguïtés",
+        "mention": "par Caroline Champetier",
+        "dateHeure": "2026-03-12T17:15:00"
       },
       {
         "titreFilms": "L'Arche",
@@ -1329,11 +1341,6 @@
         "titreFilms": "Manège / L'Arrière-pays",
         "mention": "par Jacques Nolot",
         "dateHeure": "2026-03-14T20:30:00"
-      },
-      {
-        "titreFilms": "Till We Meet Again",
-        "mention": "par Bernard Benoliel",
-        "dateHeure": "2026-03-15T16:30:00"
       },
       {
         "titreFilms": "Carol for Another Christmas",
