@@ -505,6 +505,30 @@
     "hashEvenement": "f138122"
   },
   {
+    "idSeance": 216831,
+    "idEvenement": 35617,
+    "dateHeure": "2026-03-12T17:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 132713,
+        "titre": "Pierre ou les ambiguïtés",
+        "realisateurs": "Leos Carax",
+        "annee": 2001,
+        "duree": 180,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f132713"
+  },
+  {
     "idSeance": 208163,
     "idEvenement": 35740,
     "dateHeure": "2026-03-12T17:30:00",
@@ -583,57 +607,6 @@
     "hashEvenement": "f30059"
   },
   {
-    "idSeance": 208196,
-    "idEvenement": 35370,
-    "dateHeure": "2026-03-12T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "John Badham",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par John Badham",
-    "items": [
-      {
-        "idFilm": 29870,
-        "titre": "Tonnerre de feu",
-        "realisateurs": "John Badham",
-        "annee": 1983,
-        "duree": 108,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f29870"
-  },
-  {
-    "idSeance": 212770,
-    "idEvenement": 35298,
-    "dateHeure": "2026-03-12T18:00:00",
-    "salle": "HO/CCC",
-    "cycle": [
-      [
-        "Aleksandar Petrović",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Mina Radović",
-    "items": [
-      {
-        "idFilm": 30060,
-        "titre": "J'ai même rencontré des Tziganes heureux",
-        "realisateurs": "Aleksandar Petrović",
-        "annee": 1966,
-        "duree": 82,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f30060"
-  },
-  {
     "idSeance": 208192,
     "idEvenement": 35683,
     "dateHeure": "2026-03-12T20:00:00",
@@ -659,31 +632,6 @@
       }
     ],
     "hashEvenement": "f70163"
-  },
-  {
-    "idSeance": 212771,
-    "idEvenement": 35300,
-    "dateHeure": "2026-03-12T20:00:00",
-    "salle": "HO/CCC",
-    "cycle": [
-      [
-        "Aleksandar Petrović",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Mina Radović",
-    "items": [
-      {
-        "idFilm": 68466,
-        "titre": "Migrations : La Guerre la plus glorieuse",
-        "realisateurs": "Aleksandar Petrović",
-        "annee": 1987,
-        "duree": 120,
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f68466"
   },
   {
     "idSeance": 208799,
@@ -712,32 +660,6 @@
     "hashEvenement": "f29824"
   },
   {
-    "idSeance": 208879,
-    "idEvenement": 35316,
-    "dateHeure": "2026-03-12T20:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Luc Lagier",
-    "items": [
-      {
-        "idFilm": 29753,
-        "titre": "Vol au-dessus d'un nid de coucou",
-        "realisateurs": "Miloš Forman",
-        "annee": 1975,
-        "duree": 134,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f29753"
-  },
-  {
     "idSeance": 208699,
     "idEvenement": 35731,
     "dateHeure": "2026-03-12T20:30:00",
@@ -761,6 +683,32 @@
       }
     ],
     "hashEvenement": "f35010"
+  },
+  {
+    "idSeance": 208879,
+    "idEvenement": 35316,
+    "dateHeure": "2026-03-12T21:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Luc Lagier",
+    "items": [
+      {
+        "idFilm": 29753,
+        "titre": "Vol au-dessus d'un nid de coucou",
+        "realisateurs": "Miloš Forman",
+        "annee": 1975,
+        "duree": 134,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f29753"
   },
   {
     "idSeance": 216766,
@@ -1170,6 +1118,32 @@
     "hashEvenement": "f42966"
   },
   {
+    "idSeance": 212770,
+    "idEvenement": 35298,
+    "dateHeure": "2026-03-13T18:30:00",
+    "salle": "HO/CCC",
+    "cycle": [
+      [
+        "Aleksandar Petrović",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Mina Radović",
+    "items": [
+      {
+        "idFilm": 30060,
+        "titre": "J'ai même rencontré des Tziganes heureux",
+        "realisateurs": "Aleksandar Petrović",
+        "annee": 1966,
+        "duree": 82,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f30060"
+  },
+  {
     "idSeance": 208683,
     "idEvenement": 35730,
     "dateHeure": "2026-03-13T19:45:00",
@@ -1192,33 +1166,6 @@
       }
     ],
     "hashEvenement": "f31015"
-  },
-  {
-    "idSeance": 212717,
-    "idEvenement": 35682,
-    "dateHeure": "2026-03-13T20:00:00",
-    "salle": "HO/CCC",
-    "cycle": [
-      [
-        "50 ans des studios Kadokawa",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Fabien Mauro",
-    "items": [
-      {
-        "idFilm": 29769,
-        "titre": "Guerriers de l'Apocalypse",
-        "art": "Les",
-        "realisateurs": "Kōsei Saitō",
-        "annee": 1980,
-        "duree": 139,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f29769"
   },
   {
     "idSeance": 208952,
@@ -1294,6 +1241,30 @@
       }
     ],
     "hashEvenement": "f29753"
+  },
+  {
+    "idSeance": 216830,
+    "idEvenement": 35300,
+    "dateHeure": "2026-03-13T20:30:00",
+    "salle": "HO/CCC",
+    "cycle": [
+      [
+        "Aleksandar Petrović",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 68466,
+        "titre": "Migrations : La Guerre la plus glorieuse",
+        "realisateurs": "Aleksandar Petrović",
+        "annee": 1987,
+        "duree": 120,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f68466"
   },
   {
     "idSeance": 212824,
@@ -1441,6 +1412,32 @@
       }
     ],
     "hashEvenement": "f91069"
+  },
+  {
+    "idSeance": 208940,
+    "idEvenement": 35682,
+    "dateHeure": "2026-03-14T14:00:00",
+    "salle": "HO/CCC",
+    "cycle": [
+      [
+        "50 ans des studios Kadokawa",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 29769,
+        "titre": "Guerriers de l'Apocalypse",
+        "art": "Les",
+        "realisateurs": "Kōsei Saitō",
+        "annee": 1980,
+        "duree": 139,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f29769"
   },
   {
     "idSeance": 208167,
@@ -1801,8 +1798,8 @@
     "hashEvenement": "f35873"
   },
   {
-    "idSeance": 208955,
-    "idEvenement": 35787,
+    "idSeance": 208956,
+    "idEvenement": 35786,
     "dateHeure": "2026-03-14T18:00:00",
     "salle": "HO/CCC",
     "cycle": [
@@ -1811,20 +1808,20 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Pauline Jannon",
+    "mention": "Séance présentée par Enzo Durand",
     "items": [
       {
-        "idFilm": 155625,
-        "titre": "Wives, dix ans après",
+        "idFilm": 39482,
+        "titre": "Wives",
         "realisateurs": "Anja Breien",
-        "annee": 1985,
-        "duree": 88,
+        "annee": 1975,
+        "duree": 87,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f155625"
+    "hashEvenement": "f39482"
   },
   {
     "idSeance": 212732,
@@ -1878,8 +1875,8 @@
     "hashEvenement": "f125577"
   },
   {
-    "idSeance": 208956,
-    "idEvenement": 35786,
+    "idSeance": 208955,
+    "idEvenement": 35787,
     "dateHeure": "2026-03-14T20:00:00",
     "salle": "HO/CCC",
     "cycle": [
@@ -1888,20 +1885,20 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Enzo Durand",
+    "mention": "Séance présentée par Pauline Jannon",
     "items": [
       {
-        "idFilm": 39482,
-        "titre": "Wives",
+        "idFilm": 155625,
+        "titre": "Wives, dix ans après",
         "realisateurs": "Anja Breien",
-        "annee": 1975,
-        "duree": 87,
+        "annee": 1985,
+        "duree": 88,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f39482"
+    "hashEvenement": "f155625"
   },
   {
     "idSeance": 212831,
@@ -2057,7 +2054,10 @@
         "titre": "Loup de Wall Street",
         "art": "Le",
         "realisateurs": "Martin Scorsese",
-        "annee": 2012
+        "annee": 2012,
+        "duree": 165,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f121908"
@@ -2151,31 +2151,6 @@
     "hashEvenement": "f96210f155591f96199f155592f155593f155594f155595"
   },
   {
-    "idSeance": 208289,
-    "idEvenement": 35617,
-    "dateHeure": "2026-03-15T13:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance suivie d'une discussion avec Leos Carax. Séance présentée par Caroline Champetier",
-    "items": [
-      {
-        "idFilm": 132713,
-        "titre": "Pierre ou les ambiguïtés",
-        "realisateurs": "Leos Carax",
-        "annee": 2001,
-        "duree": 180,
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f132713"
-  },
-  {
     "idSeance": 208951,
     "idEvenement": 35741,
     "dateHeure": "2026-03-15T13:30:00",
@@ -2198,6 +2173,30 @@
       }
     ],
     "hashEvenement": "f53332"
+  },
+  {
+    "idSeance": 216832,
+    "idEvenement": 35370,
+    "dateHeure": "2026-03-15T14:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "John Badham",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 29870,
+        "titre": "Tonnerre de feu",
+        "realisateurs": "John Badham",
+        "annee": 1983,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f29870"
   },
   {
     "idSeance": 212719,
@@ -2414,6 +2413,32 @@
     "hashEvenement": "f53836"
   },
   {
+    "idSeance": 208272,
+    "idEvenement": 35458,
+    "dateHeure": "2026-03-15T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Bernard Benoliel",
+    "items": [
+      {
+        "idFilm": 79920,
+        "titre": "Till We Meet Again",
+        "realisateurs": "Frank Borzage",
+        "annee": 1944,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f79920"
+  },
+  {
     "idSeance": 212718,
     "idEvenement": 35699,
     "dateHeure": "2026-03-15T16:45:00",
@@ -2554,9 +2579,9 @@
     "hashEvenement": "f141025"
   },
   {
-    "idSeance": 208272,
-    "idEvenement": 35458,
-    "dateHeure": "2026-03-15T18:00:00",
+    "idSeance": 208290,
+    "idEvenement": 35773,
+    "dateHeure": "2026-03-15T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2564,20 +2589,20 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Bernard Benoliel",
+    "mention": "Séance présentée par Béatrice de Pastre, Valécien Bonnot-Gallucci, Julien Ferrando et Nicolas Pagnol",
     "items": [
       {
-        "idFilm": 79920,
-        "titre": "Till We Meet Again",
-        "realisateurs": "Frank Borzage",
-        "annee": 1944,
-        "duree": 88,
-        "version": "VOSTF",
+        "idFilm": 50515,
+        "titre": "Prière aux étoiles",
+        "art": "La",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1941,
+        "duree": 80,
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f79920"
+    "hashEvenement": "f50515"
   },
   {
     "idSeance": 212829,
@@ -2656,32 +2681,6 @@
       }
     ],
     "hashEvenement": "f39105"
-  },
-  {
-    "idSeance": 208290,
-    "idEvenement": 35773,
-    "dateHeure": "2026-03-15T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Béatrice de Pastre, Valécien Bonnot-Gallucci, Julien Ferrando et Nicolas Pagnol",
-    "items": [
-      {
-        "idFilm": 50515,
-        "titre": "Prière aux étoiles",
-        "art": "La",
-        "realisateurs": "Marcel Pagnol",
-        "annee": 1941,
-        "duree": 80,
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f50515"
   },
   {
     "idSeance": 208873,

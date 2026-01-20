@@ -73,30 +73,6 @@
   {
     "idCategorie": 4056,
     "typeEvenement": 13,
-    "idEvenement": 35370,
-    "idSeance": 208196,
-    "dateHeure": "2026-03-12T18:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 29870,
-        "ordre": 1,
-        "idSeance": 208196,
-        "idCopie": 14542,
-        "duree": 108,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "mention": "Séance présentée par John Badham"
-  },
-  {
-    "idCategorie": 4056,
-    "typeEvenement": 13,
     "idEvenement": 35373,
     "idSeance": 208228,
     "dateHeure": "2026-03-13T14:30:00",
@@ -270,10 +246,38 @@
     "items": [
       {
         "idFilm": 121908,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 212716,
+        "idCopie": 7373,
+        "duree": 165,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "mention": "Séance présentée par John Badham"
+  },
+  {
+    "idCategorie": 4056,
+    "typeEvenement": 13,
+    "idEvenement": 35370,
+    "idSeance": 216832,
+    "dateHeure": "2026-03-15T14:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 29870,
+        "ordre": 1,
+        "idSeance": 216832,
+        "idCopie": 14542,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCategorie": 4056,
