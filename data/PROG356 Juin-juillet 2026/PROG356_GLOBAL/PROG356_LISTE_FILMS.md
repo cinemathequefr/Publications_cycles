@@ -1,27 +1,50 @@
 # Liste des films par cycle
 
-## Cinéma bis (6)
+## Cinéma bis (8)
 
   * Campus  
+  * Chaleur rouge  
   * Contact mortel  
   * Dans les bras de l'enfer  
   * Dernier survivant (Le)  
   * J'ai vécu deux fois  
-  * Mad Monster (The)
+  * Mad Monster (The)  
+  * Rues de l'enfer (Les)
 
-## Claudia Cardinale (11)
+## Claudia Cardinale (20)
 
+  * 8½  
+  * Audience (L')  
   * Bel Antonio (Le)  
   * Cartouche  
+  * Claretta  
   * Dauphins (Les)  
   * Guépard (Le)  
   * Il était une fois dans l'Ouest  
+  * Liberté, mon amour  
+  * Lucia et les gouapes  
+  * Mafia fait la loi (La)  
+  * Mauvais Chemin (Le)  
   * Meurtre à l'italienne  
+  * Panthère Rose (La)  
+  * Pigeon (Le)  
   * Professionnels (Les)  
   * Quand la chair succombe  
   * Ragazza (La)  
   * Rocco et ses frères  
   * Sandra
+
+## Histoire permanente du cinéma (9)
+
+  * Cri du sorcier (Le)  
+  * Européens (Les)  
+  * Héroïnes du mal (Les)  
+  * Incinérateur de cadavres (L')  
+  * Invitation (L')  
+  * Opération Caprice  
+  * Pas de gué dans le feu  
+  * Sonate d'automne  
+  * Vallée (La)
 
 ## Jacques Tati (10)
 
@@ -35,6 +58,13 @@
   * Playtime  
   * Trafic  
   * Vacances de Monsieur Hulot (Les)
+
+## Les grands classiques du cinéma muet vus par Henri Langlois (4)
+
+  * Aurore (L')  
+  * Enfant de Paris (L')  
+  * Maris aveugles  
+  * Signe de Zorro (Le)
 
 ## Lina Wertmüller (23)
 
@@ -114,4 +144,10 @@
 ## Séances spéciales (2)
 
   * Aiguilles rouges (Les)  
-  * Bananes mécaniques  
+  * Bananes mécaniques
+
+## Week-end S. S. Rajamouli (3)
+
+  * Eega  
+  * Légende de Baahubali – L'Épopée (La)  
+  * RRR  
