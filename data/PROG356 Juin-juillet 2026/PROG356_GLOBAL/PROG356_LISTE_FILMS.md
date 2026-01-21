@@ -11,7 +11,7 @@
   * Mad Monster (The)  
   * Rues de l'enfer (Les)
 
-## Claudia Cardinale (20)
+## Claudia Cardinale (18)
 
   * 8½  
   * Audience (L')  
@@ -24,49 +24,51 @@
   * Liberté, mon amour  
   * Lucia et les gouapes  
   * Mafia fait la loi (La)  
-  * Mauvais Chemin (Le)  
   * Meurtre à l'italienne  
   * Panthère Rose (La)  
   * Pigeon (Le)  
   * Professionnels (Les)  
   * Quand la chair succombe  
-  * Ragazza (La)  
   * Rocco et ses frères  
   * Sandra
 
-## Histoire permanente du cinéma (9)
+## Histoire permanente du cinéma (12)
 
+  * Amour de perdition  
   * Cri du sorcier (Le)  
+  * Eugenio  
   * Européens (Les)  
   * Héroïnes du mal (Les)  
   * Incinérateur de cadavres (L')  
   * Invitation (L')  
+  * Justice pour tous  
   * Opération Caprice  
   * Pas de gué dans le feu  
   * Sonate d'automne  
   * Vallée (La)
 
-## Jacques Tati (10)
+## Jacques Tati (9)
 
   * École des facteurs (L')  
   * Forza Bastia 78  
   * Gai Dimanche  
   * Jour de fête  
   * Jour de fête (version couleur)  
-  * Mon oncle  
   * Parade  
   * Playtime  
   * Trafic  
   * Vacances de Monsieur Hulot (Les)
 
-## Les grands classiques du cinéma muet vus par Henri Langlois (4)
+## Les grands classiques du cinéma muet vus par Henri Langlois (6)
 
   * Aurore (L')  
+  * Cœur fidèle  
   * Enfant de Paris (L')  
   * Maris aveugles  
+  * Octobre  
   * Signe de Zorro (Le)
 
-## Lina Wertmüller (23)
+## Lina Wertmüller (21)
 
   * 12 registi per 12 città : Bari  
   * Basilischi (I)  
@@ -78,8 +80,6 @@
   * Fernando e Carolina  
   * Film d'amour et d'anarchie  
   * Fin du monde dans notre lit conjugal (La)  
-  * Metalmeccanico e parrucchiera in un turbine di sesso e di politica  
-  * Mimi métallo, blessé dans son honneur  
   * Ninfa plebea  
   * Non stuzzicate la zanzara  
   * Notte d'estate con profilo greco, occhi a mandorla e odore di basilico  
@@ -115,7 +115,7 @@
   * Yumeno Kyusaku no shoujo jigoku  
   * Zûmu in: Bôkô danchi
 
-## Réalisatrices françaises des années 70 (23)
+## Réalisatrices françaises des années 70 (21)
 
   * A. Constant  
   * Aloïse  
@@ -127,7 +127,6 @@
   * Femmes au soleil  
   * Fiancée du pirate (La)  
   * Futur aux trousses (Le)  
-  * George qui ?  
   * Histoires d'A  
   * Je suis Pierre Rivière  
   * Jument vapeur (La)  
@@ -138,8 +137,7 @@
   * Pourquoi pas !  
   * Quelque part, quelqu'un  
   * Qu'est-ce que tu veux Julie ?  
-  * Un rêve plus long que la nuit  
-  * Villa Les Dunes
+  * Un rêve plus long que la nuit
 
 ## Séances spéciales (2)
 

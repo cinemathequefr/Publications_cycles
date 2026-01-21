@@ -96,7 +96,7 @@
   * Torrent (Le)  
   * Voile des illusions (Le)
 
-## Harold Lloyd (27)
+## Harold Lloyd (28)
 
   * 3 (més)aventures d'Harold Lloyd  
   * À la hauteur  
@@ -124,7 +124,8 @@
   * Swing Your Partners  
   * Toujours lui  
   * Une excursion mouvementée  
-  * Vive le sport !
+  * Vive le sport !  
+  * Why Worry
 
 ## Histoire permanente du cinéma (6)
 

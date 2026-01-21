@@ -125,6 +125,7 @@
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 35205,
@@ -165,7 +166,7 @@
   {
     "idSeance": 216849,
     "idEvenement": 35619,
-    "dateHeure": "2026-05-29T16:30:00",
+    "dateHeure": "2026-05-29T15:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -189,7 +190,7 @@
   {
     "idSeance": 216837,
     "idEvenement": 36125,
-    "dateHeure": "2026-05-29T19:00:00",
+    "dateHeure": "2026-05-29T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -234,33 +235,9 @@
     "hashEvenement": "f58498"
   },
   {
-    "idSeance": 209059,
-    "idEvenement": 35432,
-    "dateHeure": "2026-05-29T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Hommage à Jean-François Davy"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 99171,
-        "titre": "Aiguilles rouges",
-        "art": "Les",
-        "realisateurs": "Jean-François Davy",
-        "annee": 2006,
-        "duree": 93,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f99171"
-  },
-  {
     "idSeance": 216838,
     "idEvenement": 36126,
-    "dateHeure": "2026-05-29T21:15:00",
+    "dateHeure": "2026-05-29T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -283,30 +260,28 @@
     "hashEvenement": "f56985"
   },
   {
-    "idSeance": 209094,
-    "idEvenement": 35865,
-    "dateHeure": "2026-05-30T14:30:00",
+    "idSeance": 209059,
+    "idEvenement": 35432,
+    "dateHeure": "2026-05-29T21:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Les grands classiques du cinéma muet vus par Henri Langlois",
-        "Les films"
+        "Séances spéciales",
+        "Hommage à Jean-François Davy"
       ]
     ],
     "items": [
       {
-        "idFilm": 50588,
-        "titre": "Enfant de Paris",
-        "art": "L'",
-        "realisateurs": "Léonce Perret",
-        "annee": 1913,
-        "duree": 124,
-        "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
+        "idFilm": 99171,
+        "titre": "Aiguilles rouges",
+        "art": "Les",
+        "realisateurs": "Jean-François Davy",
+        "annee": 2006,
+        "duree": 93,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f50588"
+    "hashEvenement": "f99171"
   },
   {
     "idSeance": 209098,
@@ -332,6 +307,32 @@
     "hashEvenement": "f57405"
   },
   {
+    "idSeance": 209094,
+    "idEvenement": 35865,
+    "dateHeure": "2026-05-30T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les grands classiques du cinéma muet vus par Henri Langlois",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50588,
+        "titre": "Enfant de Paris",
+        "art": "L'",
+        "realisateurs": "Léonce Perret",
+        "annee": 1913,
+        "duree": 124,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f50588"
+  },
+  {
     "idSeance": 209099,
     "idEvenement": 36031,
     "dateHeure": "2026-05-30T17:15:00",
@@ -355,30 +356,6 @@
     "hashEvenement": "f51523"
   },
   {
-    "idSeance": 209096,
-    "idEvenement": 35867,
-    "dateHeure": "2026-05-30T19:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Les grands classiques du cinéma muet vus par Henri Langlois",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 36631,
-        "titre": "Maris aveugles",
-        "realisateurs": "Erich von Stroheim",
-        "annee": 1919,
-        "duree": 100,
-        "version": "INT. ALL.",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f36631"
-  },
-  {
     "idSeance": 209100,
     "idEvenement": 36034,
     "dateHeure": "2026-05-30T19:30:00",
@@ -400,6 +377,30 @@
       }
     ],
     "hashEvenement": "f48301"
+  },
+  {
+    "idSeance": 209096,
+    "idEvenement": 35867,
+    "dateHeure": "2026-05-30T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les grands classiques du cinéma muet vus par Henri Langlois",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36631,
+        "titre": "Maris aveugles",
+        "realisateurs": "Erich von Stroheim",
+        "annee": 1919,
+        "duree": 100,
+        "version": "INT. ALL.",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f36631"
   },
   {
     "idSeance": 209111,
@@ -427,49 +428,53 @@
     "hashEvenement": "f34330"
   },
   {
-    "idSeance": 216708,
-    "idEvenement": 36016,
-    "dateHeure": "2026-05-31T17:30:00",
-    "salle": "GF",
+    "idSeance": 209112,
+    "idEvenement": 35866,
+    "dateHeure": "2026-05-31T17:00:00",
+    "salle": "HL",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Les grands classiques du cinéma muet vus par Henri Langlois",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 60949,
-        "titre": "George qui ?",
-        "realisateurs": "Michèle Rosier",
-        "annee": 1972,
-        "duree": 111,
-        "version": "VO",
-        "format": "35 mm"
+        "idFilm": 48086,
+        "titre": "Cœur fidèle",
+        "realisateurs": "Jean Epstein",
+        "annee": 1923,
+        "duree": 84,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f60949"
+    "hashEvenement": "f48086"
   },
   {
-    "idSeance": 209117,
-    "idEvenement": 36021,
-    "dateHeure": "2026-05-31T20:00:00",
-    "salle": "GF",
+    "idSeance": 209113,
+    "idEvenement": 36142,
+    "dateHeure": "2026-05-31T19:30:00",
+    "salle": "HL",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Les grands classiques du cinéma muet vus par Henri Langlois",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 57724,
-        "titre": "Villa Les Dunes",
-        "realisateurs": "Madeleine Hartmann-Clausset",
-        "annee": 1973
+        "idFilm": 39619,
+        "titre": "Octobre",
+        "realisateurs": "Sergueï M. Eisenstein",
+        "annee": 1927,
+        "duree": 126,
+        "version": "INT. FR.",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f57724"
+    "hashEvenement": "f39619"
   },
   {
     "idSeance": 216847,
@@ -947,6 +952,27 @@
     "hashEvenement": "f48260"
   },
   {
+    "idSeance": 216854,
+    "idEvenement": 35748,
+    "dateHeure": "2026-06-11T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43766,
+        "titre": "Amour de perdition",
+        "realisateurs": "Manoel de Oliveira",
+        "annee": 1978
+      }
+    ],
+    "hashEvenement": "f43766"
+  },
+  {
     "idSeance": 216775,
     "idEvenement": 36085,
     "dateHeure": "2026-06-11T18:30:00",
@@ -979,6 +1005,7 @@
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 155686,
@@ -1026,6 +1053,27 @@
     "hashEvenement": "f155702"
   },
   {
+    "idSeance": 216855,
+    "idEvenement": 35745,
+    "dateHeure": "2026-06-12T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 33547,
+        "titre": "Justice pour tous",
+        "realisateurs": "Norman Jewison",
+        "annee": 1978
+      }
+    ],
+    "hashEvenement": "f33547"
+  },
+  {
     "idSeance": 209384,
     "idEvenement": 35921,
     "dateHeure": "2026-06-12T18:00:00",
@@ -1051,28 +1099,6 @@
     "hashEvenement": "f73091"
   },
   {
-    "idSeance": 216777,
-    "idEvenement": 36083,
-    "dateHeure": "2026-06-12T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Roman porno, les films érotiques de la Nikkatsu",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155703,
-        "titre": "Seidan botan-dôrô",
-        "realisateurs": "Chusei Sone",
-        "annee": 1972,
-        "duree": 67
-      }
-    ],
-    "hashEvenement": "f155703"
-  },
-  {
     "idSeance": 209385,
     "idEvenement": 35910,
     "dateHeure": "2026-06-12T20:00:00",
@@ -1095,28 +1121,6 @@
       }
     ],
     "hashEvenement": "f43991"
-  },
-  {
-    "idSeance": 216778,
-    "idEvenement": 36073,
-    "dateHeure": "2026-06-12T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Roman porno, les films érotiques de la Nikkatsu",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155700,
-        "titre": "Nuits félines à Shinjuku",
-        "realisateurs": "Noboru Tanaka",
-        "annee": 1972,
-        "duree": 70
-      }
-    ],
-    "hashEvenement": "f155700"
   },
   {
     "idSeance": 209420,
@@ -1257,30 +1261,6 @@
     "hashEvenement": "f155705"
   },
   {
-    "idSeance": 216808,
-    "idEvenement": 35915,
-    "dateHeure": "2026-06-14T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Lina Wertmüller",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 43979,
-        "titre": "Mimi métallo, blessé dans son honneur",
-        "realisateurs": "Lina Wertmüller",
-        "annee": 1971,
-        "duree": 121,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f43979"
-  },
-  {
     "idSeance": 216809,
     "idEvenement": 35907,
     "dateHeure": "2026-06-14T17:00:00",
@@ -1374,6 +1354,27 @@
       }
     ],
     "hashEvenement": "f69382"
+  },
+  {
+    "idSeance": 216856,
+    "idEvenement": 35743,
+    "dateHeure": "2026-06-15T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42615,
+        "titre": "Eugenio",
+        "realisateurs": "Luigi Comencini",
+        "annee": 1980
+      }
+    ],
+    "hashEvenement": "f42615"
   },
   {
     "idSeance": 216793,
@@ -1517,6 +1518,28 @@
     "hashEvenement": "f45689"
   },
   {
+    "idSeance": 209511,
+    "idEvenement": 36083,
+    "dateHeure": "2026-06-18T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Roman porno, les films érotiques de la Nikkatsu",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155703,
+        "titre": "Seidan botan-dôrô",
+        "realisateurs": "Chusei Sone",
+        "annee": 1972,
+        "duree": 67
+      }
+    ],
+    "hashEvenement": "f155703"
+  },
+  {
     "idSeance": 216764,
     "idEvenement": 36122,
     "dateHeure": "2026-06-18T19:00:00",
@@ -1561,6 +1584,28 @@
       }
     ],
     "hashEvenement": "f73089"
+  },
+  {
+    "idSeance": 209509,
+    "idEvenement": 36073,
+    "dateHeure": "2026-06-18T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Roman porno, les films érotiques de la Nikkatsu",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155700,
+        "titre": "Nuits félines à Shinjuku",
+        "realisateurs": "Noboru Tanaka",
+        "annee": 1972,
+        "duree": 70
+      }
+    ],
+    "hashEvenement": "f155700"
   },
   {
     "idSeance": 209547,
@@ -1796,29 +1841,6 @@
       }
     ],
     "hashEvenement": "f73086"
-  },
-  {
-    "idSeance": 209600,
-    "idEvenement": 35914,
-    "dateHeure": "2026-06-21T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Lina Wertmüller",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 73084,
-        "titre": "Metalmeccanico e parrucchiera in un turbine di sesso e di politica",
-        "realisateurs": "Lina Wertmüller",
-        "annee": 1996,
-        "duree": 100,
-        "version": "VO"
-      }
-    ],
-    "hashEvenement": "f73084"
   },
   {
     "idSeance": 209601,
@@ -2153,31 +2175,6 @@
     "hashEvenement": "f153021"
   },
   {
-    "idSeance": 209763,
-    "idEvenement": 35957,
-    "dateHeure": "2026-06-28T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Claudia Cardinale",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 42063,
-        "titre": "Mauvais Chemin",
-        "art": "Le",
-        "realisateurs": "Mauro Bolognini",
-        "annee": 1961,
-        "duree": 107,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f42063"
-  },
-  {
     "idSeance": 209765,
     "idEvenement": 36138,
     "dateHeure": "2026-06-28T19:00:00",
@@ -2276,7 +2273,7 @@
   {
     "idSeance": 216843,
     "idEvenement": 35962,
-    "dateHeure": "2026-07-02T20:30:00",
+    "dateHeure": "2026-07-02T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2470,31 +2467,6 @@
     "hashEvenement": "f43727"
   },
   {
-    "idSeance": 209926,
-    "idEvenement": 35964,
-    "dateHeure": "2026-07-05T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Claudia Cardinale",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 42527,
-        "titre": "Ragazza",
-        "art": "La",
-        "realisateurs": "Luigi Comencini",
-        "annee": 1963,
-        "duree": 111,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f42527"
-  },
-  {
     "idSeance": 209927,
     "idEvenement": 35965,
     "dateHeure": "2026-07-05T17:00:00",
@@ -2545,7 +2517,7 @@
   {
     "idSeance": 209972,
     "idEvenement": 35971,
-    "dateHeure": "2026-07-08T19:30:00",
+    "dateHeure": "2026-07-08T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2569,7 +2541,7 @@
   {
     "idSeance": 209973,
     "idEvenement": 35970,
-    "dateHeure": "2026-07-08T21:30:00",
+    "dateHeure": "2026-07-08T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2798,30 +2770,6 @@
       }
     ],
     "hashEvenement": "f51378"
-  },
-  {
-    "idSeance": 216714,
-    "idEvenement": 35881,
-    "dateHeure": "2026-07-12T15:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Jacques Tati",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51367,
-        "titre": "Mon oncle",
-        "realisateurs": "Jacques Tati",
-        "annee": 1958,
-        "duree": 116,
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f51367"
   },
   {
     "idSeance": 210091,

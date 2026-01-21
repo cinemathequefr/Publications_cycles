@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-05-28T20:00:00",
-    "2026-05-31T14:30:00"
+    "2026-05-31T19:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -36,6 +36,38 @@
             {
               "idSeance": 209024,
               "dateHeure": "2026-05-28T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 48086,
+          "content": [
+            {
+              "idFilm": 48086,
+              "ordre": 1,
+              "titre": "Cœur fidèle",
+              "realisateurs": "Jean Epstein",
+              "pays": "France",
+              "annee": 1923,
+              "duree": 84,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Léon Mathot",
+                "Gina Manès",
+                "Edmond Van Daële",
+                "Claude Bénédict",
+                "Madame Manfroy"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209112,
+              "dateHeure": "2026-05-31T17:00:00",
               "idSalle": "HL"
             }
           ]
@@ -65,7 +97,7 @@
           "seances": [
             {
               "idSeance": 209094,
-              "dateHeure": "2026-05-30T14:30:00",
+              "dateHeure": "2026-05-30T17:00:00",
               "idSalle": "HL"
             }
           ]
@@ -95,7 +127,38 @@
           "seances": [
             {
               "idSeance": 209096,
-              "dateHeure": "2026-05-30T19:00:00",
+              "dateHeure": "2026-05-30T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 39619,
+          "content": [
+            {
+              "idFilm": 39619,
+              "ordre": 1,
+              "titre": "Octobre",
+              "titreVo": "Oktiabr",
+              "realisateurs": "Sergueï M. Eisenstein",
+              "pays": "URSS",
+              "annee": 1927,
+              "duree": 126,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "adaptation": "D'après l'ouvrage _Dix jours qui ébranlèrent le monde_ de John Silas Reed.",
+              "generique": [
+                "Boris Livanov",
+                "Vassili Nikandrov",
+                "Nikolaï Popov"
+              ],
+              "miniTexte": "Le plus fiévreux des films d'Eisenstein, tourné dans des conditions épiques – plus de 12 000 figurants réquisitionnés pour certaines scènes – pour finir charcuté par le pouvoir stalinien. La frénésie du tournage semble avoir contaminé le montage même du film, bouillonnant, déchaîné, bombardement incessant de plans et de signes qui composent un poème visuel sans équivalent dans l'Histoire du cinéma."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209113,
+              "dateHeure": "2026-05-31T19:30:00",
               "idSalle": "HL"
             }
           ]

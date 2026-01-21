@@ -575,7 +575,7 @@
     "typeEvenement": 13,
     "idEvenement": 35353,
     "idSeance": 208616,
-    "dateHeure": "2026-04-04T15:00:00",
+    "dateHeure": "2026-04-04T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -599,7 +599,7 @@
     "typeEvenement": 13,
     "idEvenement": 35698,
     "idSeance": 208617,
-    "dateHeure": "2026-04-04T17:30:00",
+    "dateHeure": "2026-04-04T17:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -621,9 +621,9 @@
   {
     "idCategorie": 4047,
     "typeEvenement": 13,
-    "idEvenement": 35358,
-    "idSeance": 212720,
-    "dateHeure": "2026-04-04T20:30:00",
+    "idEvenement": 35361,
+    "idSeance": 208432,
+    "dateHeure": "2026-04-04T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -631,13 +631,14 @@
     "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 40636,
+        "idFilm": 44812,
         "ordre": 1,
-        "idSeance": 212720,
-        "idCopie": 31216,
+        "idSeance": 208432,
+        "idCopie": 21544,
         "duree": 65,
-        "version": "INT. ALL.",
-        "format": "DCP"
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -667,8 +668,8 @@
   {
     "idCategorie": 4047,
     "typeEvenement": 13,
-    "idEvenement": 35361,
-    "idSeance": 208432,
+    "idEvenement": 35358,
+    "idSeance": 212720,
     "dateHeure": "2026-04-05T20:00:00",
     "idSalle": [
       "HL",
@@ -677,15 +678,15 @@
     "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 44812,
+        "idFilm": 40636,
         "ordre": 1,
-        "idSeance": 208432,
-        "idCopie": 21544,
+        "idSeance": 212720,
+        "idCopie": 31216,
         "duree": 65,
-        "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
+        "version": "INT. ALL.",
+        "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de J.-F. Zygel"
   }
 ]

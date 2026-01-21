@@ -2166,33 +2166,9 @@
     "hashEvenement": "f57788"
   },
   {
-    "idSeance": 208478,
-    "idEvenement": 35291,
-    "dateHeure": "2026-04-04T14:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Italie, années de plomb",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 58501,
-        "titre": "Bandits à Milan",
-        "realisateurs": "Carlo Lizzani",
-        "annee": 1968,
-        "duree": 99,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f58501"
-  },
-  {
     "idSeance": 208616,
     "idEvenement": 35353,
-    "dateHeure": "2026-04-04T15:00:00",
+    "dateHeure": "2026-04-04T14:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2215,9 +2191,9 @@
     "hashEvenement": "f39689"
   },
   {
-    "idSeance": 208472,
-    "idEvenement": 35288,
-    "dateHeure": "2026-04-04T17:00:00",
+    "idSeance": 208478,
+    "idEvenement": 35291,
+    "dateHeure": "2026-04-04T15:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2227,23 +2203,21 @@
     ],
     "items": [
       {
-        "idFilm": 59317,
-        "titre": "Chuncho",
-        "art": "El",
-        "realisateurs": "Damiano Damiani",
-        "annee": 1966,
-        "duree": 118,
+        "idFilm": 58501,
+        "titre": "Bandits à Milan",
+        "realisateurs": "Carlo Lizzani",
+        "annee": 1968,
+        "duree": 99,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f59317"
+    "hashEvenement": "f58501"
   },
   {
     "idSeance": 208617,
     "idEvenement": 35698,
-    "dateHeure": "2026-04-04T17:30:00",
+    "dateHeure": "2026-04-04T17:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2267,9 +2241,60 @@
     "hashEvenement": "f45455"
   },
   {
+    "idSeance": 208472,
+    "idEvenement": 35288,
+    "dateHeure": "2026-04-04T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Italie, années de plomb",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 59317,
+        "titre": "Chuncho",
+        "art": "El",
+        "realisateurs": "Damiano Damiani",
+        "annee": 1966,
+        "duree": 118,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f59317"
+  },
+  {
+    "idSeance": 208432,
+    "idEvenement": 35361,
+    "dateHeure": "2026-04-04T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "L'Écran démoniaque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 44812,
+        "titre": "Tartuffe",
+        "realisateurs": "Friedrich Wilhelm Murnau",
+        "annee": 1926,
+        "duree": 65,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f44812"
+  },
+  {
     "idSeance": 208473,
     "idEvenement": 35293,
-    "dateHeure": "2026-04-04T19:30:00",
+    "dateHeure": "2026-04-04T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2289,31 +2314,6 @@
       }
     ],
     "hashEvenement": "f43272"
-  },
-  {
-    "idSeance": 212720,
-    "idEvenement": 35358,
-    "dateHeure": "2026-04-04T20:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "L'Écran démoniaque",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 40636,
-        "titre": "Cabinet des figures de cire",
-        "art": "Le",
-        "realisateurs": "Paul Leni",
-        "annee": 1924,
-        "duree": 65,
-        "version": "INT. ALL.",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f40636"
   },
   {
     "idSeance": 206711,
@@ -2416,8 +2416,8 @@
     "hashEvenement": "f43730"
   },
   {
-    "idSeance": 208432,
-    "idEvenement": 35361,
+    "idSeance": 212720,
+    "idEvenement": 35358,
     "dateHeure": "2026-04-05T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -2426,19 +2426,20 @@
         "Les films"
       ]
     ],
+    "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de J.-F. Zygel",
     "items": [
       {
-        "idFilm": 44812,
-        "titre": "Tartuffe",
-        "realisateurs": "Friedrich Wilhelm Murnau",
-        "annee": 1926,
+        "idFilm": 40636,
+        "titre": "Cabinet des figures de cire",
+        "art": "Le",
+        "realisateurs": "Paul Leni",
+        "annee": 1924,
         "duree": 65,
-        "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
+        "version": "INT. ALL.",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f44812"
+    "hashEvenement": "f40636"
   },
   {
     "idSeance": 206713,
@@ -4248,6 +4249,30 @@
       }
     ],
     "hashEvenement": "f38047"
+  },
+  {
+    "idSeance": 216875,
+    "idEvenement": 36148,
+    "dateHeure": "2026-04-24T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Harold Lloyd",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35765,
+        "titre": "Why Worry",
+        "realisateurs": "Sam Taylor, Fred Newmeyer",
+        "annee": 1923,
+        "duree": 63,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f35765"
   },
   {
     "idSeance": 207147,
