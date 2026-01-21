@@ -974,6 +974,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Aurore Renaut",
     "items": [
       {
         "idFilm": 45109,
@@ -988,32 +989,6 @@
       }
     ],
     "hashEvenement": "f45109"
-  },
-  {
-    "idSeance": 208939,
-    "idEvenement": 35844,
-    "dateHeure": "2026-03-13T18:00:00",
-    "salle": "HO/FQL",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 53054,
-        "titre": "Client de la morte saison",
-        "art": "Le",
-        "realisateurs": "Moshé Mizrahi",
-        "annee": 1970,
-        "duree": 90,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f53054"
   },
   {
     "idSeance": 212825,
@@ -1119,6 +1094,32 @@
     "hashEvenement": "f30060"
   },
   {
+    "idSeance": 208939,
+    "idEvenement": 35844,
+    "dateHeure": "2026-03-13T18:30:00",
+    "salle": "HO/FQL",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 53054,
+        "titre": "Client de la morte saison",
+        "art": "Le",
+        "realisateurs": "Moshé Mizrahi",
+        "annee": 1970,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f53054"
+  },
+  {
     "idSeance": 208683,
     "idEvenement": 35730,
     "dateHeure": "2026-03-13T19:45:00",
@@ -1178,31 +1179,6 @@
     "hashEvenement": "f69494"
   },
   {
-    "idSeance": 216866,
-    "idEvenement": 35794,
-    "dateHeure": "2026-03-13T20:00:00",
-    "salle": "HO/FQL",
-    "cycle": [
-      [
-        "John Badham",
-        "Carte blanche à John Badham"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 121908,
-        "titre": "Loup de Wall Street",
-        "art": "Le",
-        "realisateurs": "Martin Scorsese",
-        "annee": 2012,
-        "duree": 165,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f121908"
-  },
-  {
     "idSeance": 216757,
     "idEvenement": 35316,
     "dateHeure": "2026-03-13T20:30:00",
@@ -1252,6 +1228,31 @@
       }
     ],
     "hashEvenement": "f68466"
+  },
+  {
+    "idSeance": 216866,
+    "idEvenement": 35794,
+    "dateHeure": "2026-03-13T20:30:00",
+    "salle": "HO/FQL",
+    "cycle": [
+      [
+        "John Badham",
+        "Carte blanche à John Badham"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 121908,
+        "titre": "Loup de Wall Street",
+        "art": "Le",
+        "realisateurs": "Martin Scorsese",
+        "annee": 2012,
+        "duree": 165,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f121908"
   },
   {
     "idSeance": 212824,
@@ -2429,8 +2430,8 @@
     "hashEvenement": "f69494"
   },
   {
-    "idSeance": 208941,
-    "idEvenement": 35324,
+    "idSeance": 216876,
+    "idEvenement": 36151,
     "dateHeure": "2026-03-15T17:00:00",
     "salle": "HO/FJSP",
     "cycle": [
@@ -2439,18 +2440,8 @@
         "Les films"
       ]
     ],
-    "titreEvenement": "Programme 4",
     "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de J.-F. Zygel. Séance présentée par Noémie Jean et Hervé Pichard",
     "items": [
-      {
-        "idFilm": 97562,
-        "titre": "Zazavavindrano, la fille des eaux",
-        "realisateurs": "Etienne Azaïs, Ferdinand Dimier",
-        "annee": 1964,
-        "duree": 27,
-        "format": "DCP",
-        "restauration": true
-      },
       {
         "idFilm": 41219,
         "titre": "Nanouk l'esquimau",
@@ -2460,9 +2451,19 @@
         "version": "INT. FR.",
         "format": "DCP",
         "restauration": true
+      },
+      {
+        "idFilm": 155738,
+        "titre": "Zazavavindrano, la fille des eaux",
+        "realisateurs": "Léon Poirier",
+        "annee": 1925,
+        "duree": 27,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f97562f41219"
+    "hashEvenement": "f41219f155738"
   },
   {
     "idSeance": 216750,
@@ -2656,7 +2657,7 @@
         "Les films"
       ]
     ],
-    "mention": "Projection spéciale. Séance présentée par Pauline de Raymond, Jean-François Rauger et Frédéric Bonnaud",
+    "mention": "Projection spéciale. Accompagnement musical par Gaspar Claus et Frédéric D. Oberland. Séance présentée par Pauline de Raymond, Jean-François Rauger et Frédéric Bonnaud",
     "items": [
       {
         "idFilm": 39105,
