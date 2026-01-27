@@ -79,17 +79,8 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 30164,
-        "ordre": 1,
-        "idSeance": 207114,
-        "idCopie": 31236,
-        "duree": 72,
-        "version": "VO",
-        "format": "35 mm"
-      },
-      {
         "idFilm": 128522,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 207114,
         "idCopie": 31529,
         "duree": 13,
@@ -98,12 +89,21 @@
       },
       {
         "idFilm": 128523,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 207114,
         "idCopie": 31530,
         "duree": 21,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idFilm": 30164,
+        "ordre": 3,
+        "idSeance": 207114,
+        "idCopie": 31236,
+        "duree": 72,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -194,7 +194,7 @@
         "idSeance": 207186,
         "idCopie": 26989,
         "duree": 108,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ]
@@ -1051,8 +1051,8 @@
         "idSeance": 208702,
         "idCopie": 31240,
         "duree": 123,
-        "version": "VO",
-        "format": ""
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },

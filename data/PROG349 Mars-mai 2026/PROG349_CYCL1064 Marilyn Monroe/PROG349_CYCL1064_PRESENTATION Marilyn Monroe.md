@@ -1,4 +1,4 @@
-> De ses débuts anonymes (_Les Reines du music-hall_, _Ève_) à sa starification absolue (_Niagara_, _Certains l'aiment chaud_), Marilyn Monroe se sera constamment vu nier son vrai statut : celui d'actrice. Revoir tous ses films, en parallèle de la grande exposition que lui consacre la Cinémathèque française, c'est aussi saisir rétrospectivement l'évolution d'une artiste, ses mues successives, et le jeu au travail (dont sa rencontre décisive avec Lee Strasberg). C'est redécouvrir, derrière l'ombre envahissante de l'icône, une immense comédienne.
+> De ses débuts de jeune recrue (_Les Reines du music-hall_, _Ève_) à sa starification absolue (_Niagara_, _Certains l'aiment chaud_), Marilyn Monroe se sera constamment vu nier son statut d'actrice. Revoir tous ses films, en parallèle de la grande exposition que lui consacre la Cinémathèque française, c'est aussi saisir rétrospectivement l'évolution d'une artiste, ses mues successives, et le jeu au travail (dont sa rencontre avec Paula et Lee Strasberg). C'est redécouvrir une comédienne, derrière l'ombre envahissante de l'icône.
 
 # Marilyn Monroe : (Re)voir l'actrice
 
