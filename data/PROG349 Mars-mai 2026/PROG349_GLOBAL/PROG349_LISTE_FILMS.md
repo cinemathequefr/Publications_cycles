@@ -228,7 +228,7 @@
   * Tortue sur le dos (La)  
   * Une chambre en ville
 
-## Ken Loach (33)
+## Ken Loach (32)
 
   * Black Jack  
   * Bread and Roses  
@@ -261,8 +261,7 @@
   * Sorry We Missed You  
   * Sweet Sixteen  
   * Tickets  
-  * Vent se lève (Le)  
-  * Which Side Are You On?
+  * Vent se lève (Le)
 
 ## L'Écran démoniaque (27)
 
