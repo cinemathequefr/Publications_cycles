@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-05-27T20:00:00",
-    "2026-06-10T20:30:00"
+    "2026-06-11T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -18,7 +18,12 @@
               "titre": "A. Constant",
               "realisateurs": "Christine Laurent",
               "pays": "France-Suisse-RFA",
-              "annee": 1976
+              "annee": 1976,
+              "generique": [
+                "Christine Laurent",
+                "Agnès Laurent",
+                "Agnès de Brunhoff"
+              ]
             }
           ],
           "seances": [
@@ -82,7 +87,7 @@
           "seances": [
             {
               "idSeance": 209099,
-              "dateHeure": "2026-05-30T17:15:00",
+              "dateHeure": "2026-05-30T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -277,7 +282,7 @@
               "generique": [
                 "Bernard Fresson",
                 "Claude Rich",
-                "Andréa Ferreol"
+                "Andréa Ferréol"
               ]
             }
           ],
@@ -286,6 +291,34 @@
               "idSeance": 209157,
               "dateHeure": "2026-06-03T18:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 60949,
+          "content": [
+            {
+              "idFilm": 60949,
+              "ordre": 1,
+              "titre": "George qui ?",
+              "realisateurs": "Michèle Rosier",
+              "pays": "France",
+              "annee": 1972,
+              "duree": 111,
+              "version": "VO",
+              "format": "35 mm",
+              "generique": [
+                "Anne Wiazemsky",
+                "Alain Libolt",
+                "Denis Gunsbourg"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216882,
+              "dateHeure": "2026-06-11T20:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -385,7 +418,8 @@
               "format": "DCP",
               "generique": [
                 "Lucia Bosè",
-                "Jeanne Moreau"
+                "Jeanne Moreau",
+                "Francine Racette"
               ]
             }
           ],
@@ -404,7 +438,7 @@
               "idFilm": 71711,
               "ordre": 1,
               "titre": "Maso et Miso vont en bateau",
-              "realisateurs": "Delphine Seyrig",
+              "realisateurs": "Delphine Seyrig, Nadja Ringart, Carole Roussopoulos, Ioana Wieder",
               "pays": "France",
               "annee": 1976
             }
@@ -461,7 +495,7 @@
               "version": "",
               "format": "35 mm",
               "generique": [
-                "Laurence Kiejman",
+                "Laurence Klejman",
                 "Ivan Erimitchoï",
                 "Monique Chaumette"
               ]
@@ -543,7 +577,12 @@
               "annee": 1971,
               "duree": 98,
               "version": "",
-              "format": "35 mm"
+              "format": "35 mm",
+              "generique": [
+                "Loleh Bellon",
+                "Roland Dubillard",
+                "Hugues Quester"
+              ]
             }
           ],
           "seances": [
@@ -578,6 +617,31 @@
             {
               "idSeance": 216709,
               "dateHeure": "2026-06-04T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 57724,
+          "content": [
+            {
+              "idFilm": 57724,
+              "ordre": 1,
+              "titre": "Villa Les Dunes",
+              "realisateurs": "Madeleine Hartmann-Clausset",
+              "pays": "France",
+              "annee": 1973,
+              "generique": [
+                "Christiane Bouchet",
+                "Charles Berger",
+                "Jean-Claude Hartmann"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209351,
+              "dateHeure": "2026-06-11T18:30:00",
               "idSalle": "JE"
             }
           ]

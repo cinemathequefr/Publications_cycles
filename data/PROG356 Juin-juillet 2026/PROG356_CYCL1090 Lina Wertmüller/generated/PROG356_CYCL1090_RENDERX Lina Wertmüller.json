@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-06-11T20:00:00",
-    "2026-06-22T20:30:00"
+    "2026-06-28T20:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -15,7 +15,7 @@
             {
               "idFilm": 155686,
               "ordre": 1,
-              "titre": "12 registi per 12 città : Bari",
+              "titre": "12 registi per 12 città: Bari",
               "realisateurs": "Lina Wertmüller",
               "pays": "Italie",
               "annee": 1989,
@@ -39,10 +39,15 @@
           ],
           "seances": [
             {
-              "idSeance": 216800,
-              "dateHeure": "2026-06-11T20:00:00",
+              "idSeance": 216906,
+              "dateHeure": "2026-06-13T18:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Séance présentée par Gabriela Trujillo"
+            },
+            {
+              "idSeance": 209712,
+              "dateHeure": "2026-06-26T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -89,33 +94,61 @@
           ],
           "seances": [
             {
-              "idSeance": 209384,
-              "dateHeure": "2026-06-12T18:00:00",
-              "idSalle": "HL"
+              "idSeance": 209713,
+              "dateHeure": "2026-06-26T20:30:00",
+              "idSalle": "GF"
             }
           ]
         },
         {
-          "idFilm": 73090,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 36122,
+              "content": [
+                {
+                  "idConf": 36122,
+                  "titre": "« Qui êtes-vous... Lina Wertmüller ? » par Gabriela Trujillo",
+                  "sousTitre": "Conférence de Gabriela Trujillo",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Connue pour ses comédies cinglantes où la lutte des classes attise la guerre des sexes, Lina Wertmüller a été la prêtresse d'une forme hyperbolique et poétique du cinéma de fiction. Ses films à l'ironie salvatrice mêlent l'humour et le drame, la chorégraphie et la politique, la sensualité et le cynisme. Elle fut longtemps l'unique femme à diriger des films en Italie, et titra ainsi son autobiographie : _Tout est en ordre et rien ne va. Mémoires d'une réalisatrice de bonne humeur_."
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 216764,
+                  "idSeanceAssoc": 216900,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-06-18T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 73090,
-              "ordre": 1,
-              "titre": "Chacun à son poste et rien ne va",
-              "titreVo": "Tutto a posto e niente in ordine",
-              "realisateurs": "Lina Wertmüller",
-              "pays": "Italie",
-              "annee": 1973,
-              "duree": 105,
-              "version": "VOSTF",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 216810,
-              "dateHeure": "2026-06-14T20:00:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 73090,
+                  "ordre": 1,
+                  "titre": "Chacun à son poste et rien ne va",
+                  "titreVo": "Tutto a posto e niente in ordine",
+                  "realisateurs": "Lina Wertmüller",
+                  "pays": "Italie",
+                  "annee": 1973,
+                  "duree": 105,
+                  "version": "VOSTF",
+                  "format": "DCP"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 216900,
+                  "idSeanceAssoc": 216764,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-06-18T21:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -137,9 +170,9 @@
           ],
           "seances": [
             {
-              "idSeance": 209585,
-              "dateHeure": "2026-06-20T20:45:00",
-              "idSalle": "HL"
+              "idSeance": 209646,
+              "dateHeure": "2026-06-24T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -186,7 +219,7 @@
           "seances": [
             {
               "idSeance": 209602,
-              "dateHeure": "2026-06-21T19:15:00",
+              "dateHeure": "2026-06-21T19:30:00",
               "idSalle": "HL"
             }
           ]
@@ -209,9 +242,15 @@
           ],
           "seances": [
             {
-              "idSeance": 216809,
-              "dateHeure": "2026-06-14T17:00:00",
-              "idSalle": "HL"
+              "idSeance": 216898,
+              "dateHeure": "2026-06-11T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "idSeance": 209751,
+              "dateHeure": "2026-06-27T17:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -242,6 +281,53 @@
           ]
         },
         {
+          "idFilm": 73084,
+          "content": [
+            {
+              "idFilm": 73084,
+              "ordre": 1,
+              "titre": "Metalmeccanico e parrucchiera in un turbine di sesso e di politica",
+              "realisateurs": "Lina Wertmüller",
+              "pays": "Italie",
+              "annee": 1996,
+              "duree": 100,
+              "version": "VO",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216886,
+              "dateHeure": "2026-06-27T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 43979,
+          "content": [
+            {
+              "idFilm": 43979,
+              "ordre": 1,
+              "titre": "Mimi métallo, blessé dans son honneur",
+              "titreVo": "Mimi' metallurgigo ferito nell'onore",
+              "realisateurs": "Lina Wertmüller",
+              "pays": "Italie",
+              "annee": 1971,
+              "duree": 121,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216910,
+              "dateHeure": "2026-06-19T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 73085,
           "content": [
             {
@@ -252,15 +338,15 @@
               "pays": "Italie",
               "annee": 1996,
               "duree": 108,
-              "version": "VOAutres",
+              "version": "VO",
               "format": "35 mm"
             }
           ],
           "seances": [
             {
-              "idSeance": 209601,
-              "dateHeure": "2026-06-21T17:00:00",
-              "idSalle": "HL"
+              "idSeance": 209647,
+              "dateHeure": "2026-06-24T20:45:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -281,8 +367,8 @@
           ],
           "seances": [
             {
-              "idSeance": 216807,
-              "dateHeure": "2026-06-13T20:15:00",
+              "idSeance": 216909,
+              "dateHeure": "2026-06-20T20:45:00",
               "idSalle": "HL"
             }
           ]
@@ -323,13 +409,13 @@
               "annee": 1989,
               "duree": 107,
               "version": "VO",
-              "format": ""
+              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 209583,
-              "dateHeure": "2026-06-20T14:30:00",
+              "idSeance": 216902,
+              "dateHeure": "2026-06-21T17:00:00",
               "idSalle": "HL"
             }
           ]
@@ -356,9 +442,20 @@
           ],
           "seances": [
             {
-              "idSeance": 209385,
-              "dateHeure": "2026-06-12T20:00:00",
+              "idSeance": 216907,
+              "dateHeure": "2026-06-13T20:15:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Gabriela Trujillo"
+            },
+            {
+              "idSeance": 216901,
+              "dateHeure": "2026-06-20T14:30:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 209769,
+              "dateHeure": "2026-06-28T17:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -402,8 +499,8 @@
           ],
           "seances": [
             {
-              "idSeance": 216806,
-              "dateHeure": "2026-06-13T18:00:00",
+              "idSeance": 216908,
+              "dateHeure": "2026-06-20T17:00:00",
               "idSalle": "HL"
             }
           ]
@@ -427,8 +524,8 @@
           ],
           "seances": [
             {
-              "idSeance": 209584,
-              "dateHeure": "2026-06-20T17:00:00",
+              "idSeance": 216905,
+              "dateHeure": "2026-06-14T20:00:00",
               "idSalle": "HL"
             }
           ]
@@ -450,9 +547,9 @@
           ],
           "seances": [
             {
-              "idSeance": 209547,
-              "dateHeure": "2026-06-19T18:00:00",
-              "idSalle": "HL"
+              "idSeance": 216911,
+              "dateHeure": "2026-06-28T20:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -473,8 +570,8 @@
           ],
           "seances": [
             {
-              "idSeance": 209513,
-              "dateHeure": "2026-06-18T21:00:00",
+              "idSeance": 216904,
+              "dateHeure": "2026-06-14T17:00:00",
               "idSalle": "HL"
             }
           ]
@@ -506,29 +603,10 @@
               "idSeance": 209480,
               "dateHeure": "2026-06-17T18:00:00",
               "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 36122,
-          "content": [
+            },
             {
-              "idConf": 36122,
-              "titre": "« Qui êtes-vous... Lina Wertmûller ? » par Gabriela Trujillo",
-              "sousTitre": "Conférence de Gabriela Trujillo",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 216764,
-              "dateHeure": "2026-06-18T19:00:00",
+              "idSeance": 209752,
+              "dateHeure": "2026-06-27T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -539,9 +617,21 @@
   "syntheseAction": {
     "Conférence": [
       {
-        "titre": "« Qui êtes-vous... Lina Wertmûller ? » par Gabriela Trujillo",
+        "titre": "« Qui êtes-vous... Lina Wertmüller ? » par Gabriela Trujillo",
         "mention": "par Gabriela Trujillo",
         "dateHeure": "2026-06-18T19:00:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "12 registi per 12 città: Bari / I Basilischi",
+        "mention": "par Gabriela Trujillo",
+        "dateHeure": "2026-06-13T18:00:00"
+      },
+      {
+        "titreFilms": "Pasqualino",
+        "mention": "par Gabriela Trujillo",
+        "dateHeure": "2026-06-13T20:15:00"
       }
     ]
   }

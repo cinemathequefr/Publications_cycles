@@ -1,7 +1,21 @@
 # Liste des films par cycle
 
-## Cinéma bis (8)
+## 40 ans de Rivages noir (6)
 
+  * Animal Kingdom  
+  * Griffe du passé (La)  
+  * King of New York (The)  
+  * Mulholland Drive  
+  * Swimmer (The)  
+  * Tourmentés (Les)
+
+## Ciné-club de Murielle Joudet (1)
+
+  * Sept ans de réflexion
+
+## Cinéma bis (10)
+
+  * Atlantis interceptors  
   * Campus  
   * Chaleur rouge  
   * Contact mortel  
@@ -9,7 +23,8 @@
   * Dernier survivant (Le)  
   * J'ai vécu deux fois  
   * Mad Monster (The)  
-  * Rues de l'enfer (Les)
+  * Rues de l'enfer (Les)  
+  * S.O.S. Concorde
 
 ## Claudia Cardinale (18)
 
@@ -32,20 +47,44 @@
   * Rocco et ses frères  
   * Sandra
 
-## Histoire permanente du cinéma (12)
+## Hirokazu Kore-eda (15)
+
+  * After Life  
+  * Air Doll  
+  * Après la tempête  
+  * Bonnes Étoiles (Les)  
+  * Distance  
+  * Going My Home  
+  * I Wish : Nos vœux secrets  
+  * Maborosi  
+  * Nobody Knows  
+  * Notre petite sœur  
+  * Still Walking  
+  * Tel père, tel fils  
+  * Third Murder (The)  
+  * Une affaire de famille  
+  * Vérité (La)
+
+## Histoire permanente du cinéma (18)
 
   * Amour de perdition  
+  * An 01 (L')  
+  * Commissaire (La)  
+  * Coup de torchon  
   * Cri du sorcier (Le)  
   * Eugenio  
   * Européens (Les)  
+  * Femme tatouée (La)  
+  * Fruits amers  
   * Héroïnes du mal (Les)  
-  * Incinérateur de cadavres (L')  
   * Invitation (L')  
   * Justice pour tous  
+  * Maman a cent ans  
   * Opération Caprice  
   * Pas de gué dans le feu  
-  * Sonate d'automne  
-  * Vallée (La)
+  * Série noire  
+  * Vallée (La)  
+  * Vieil homme et l'enfant (Le)
 
 ## Jacques Tati (9)
 
@@ -57,20 +96,22 @@
   * Parade  
   * Playtime  
   * Trafic  
-  * Vacances de Monsieur Hulot (Les)
+  * Vacances de monsieur Hulot (Les)
 
-## Les grands classiques du cinéma muet vus par Henri Langlois (6)
+## Les grands classiques du cinéma muet vus par Henri Langlois (8)
 
   * Aurore (L')  
   * Cœur fidèle  
   * Enfant de Paris (L')  
   * Maris aveugles  
+  * Nuits de Chicago (Les)  
   * Octobre  
+  * Selon la loi  
   * Signe de Zorro (Le)
 
-## Lina Wertmüller (21)
+## Lina Wertmüller (23)
 
-  * 12 registi per 12 città : Bari  
+  * 12 registi per 12 città: Bari  
   * Basilischi (I)  
   * Camorra  
   * Cette fois-ci, parlons des hommes  
@@ -80,6 +121,8 @@
   * Fernando e Carolina  
   * Film d'amour et d'anarchie  
   * Fin du monde dans notre lit conjugal (La)  
+  * Metalmeccanico e parrucchiera in un turbine di sesso e di politica  
+  * Mimi métallo, blessé dans son honneur  
   * Ninfa plebea  
   * Non stuzzicate la zanzara  
   * Notte d'estate con profilo greco, occhi a mandorla e odore di basilico  
@@ -92,10 +135,18 @@
   * Sotto... Sotto... strapazzato da anomala passioneita  
   * Vers un destin insolite sur les flots bleus de l'été
 
+## Marilyn Monroe (5)
+
+  * Bus Stop  
+  * Certains l'aiment chaud  
+  * Désaxés (Les)  
+  * Niagara  
+  * Rivière sans retour
+
 ## Roman porno, les films érotiques de la Nikkatsu (20)
 
   * Amants mouillés (Les)  
-  * Angel Guts: Red Classroom  
+  * Angel Guts : Classe rouge  
   * Dan Oniroku hebi no ana  
   * Irogoyomi ooku hiwa  
   * Marché sexuel des filles  
@@ -115,7 +166,7 @@
   * Yumeno Kyusaku no shoujo jigoku  
   * Zûmu in: Bôkô danchi
 
-## Réalisatrices françaises des années 70 (21)
+## Réalisatrices françaises des années 70 (23)
 
   * A. Constant  
   * Aloïse  
@@ -127,6 +178,7 @@
   * Femmes au soleil  
   * Fiancée du pirate (La)  
   * Futur aux trousses (Le)  
+  * George qui ?  
   * Histoires d'A  
   * Je suis Pierre Rivière  
   * Jument vapeur (La)  
@@ -137,7 +189,8 @@
   * Pourquoi pas !  
   * Quelque part, quelqu'un  
   * Qu'est-ce que tu veux Julie ?  
-  * Un rêve plus long que la nuit
+  * Un rêve plus long que la nuit  
+  * Villa Les Dunes
 
 ## Séances spéciales (2)
 

@@ -96,7 +96,7 @@
     "typeEvenement": 13,
     "idEvenement": 36031,
     "idSeance": 209099,
-    "dateHeure": "2026-05-30T17:15:00",
+    "dateHeure": "2026-05-30T17:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -468,6 +468,47 @@
         "idCopie": 31533,
         "duree": 100,
         "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4139,
+    "typeEvenement": 13,
+    "idEvenement": 36021,
+    "idSeance": 209351,
+    "dateHeure": "2026-06-11T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 57724,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4139,
+    "typeEvenement": 13,
+    "idEvenement": 36016,
+    "idSeance": 216882,
+    "dateHeure": "2026-06-11T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 60949,
+        "ordre": 1,
+        "idSeance": 216882,
+        "idCopie": 8550,
+        "duree": 111,
+        "version": "VO",
         "format": "35 mm"
       }
     ]

@@ -86,7 +86,7 @@
   * Ligne du Yunnan de Laokay à Yunnanfu (La)  
   * Magique Image (La)  
   * Nanouk l'esquimau  
-  * Paris Express  
+  * Paris Express ou Souvenir de Paris  
   * Symphonie mécanique  
   * Vie champêtre au marais (La)  
   * Voyage imaginaire (Le)  
