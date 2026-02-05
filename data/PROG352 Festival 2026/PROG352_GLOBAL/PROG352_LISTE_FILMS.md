@@ -25,7 +25,7 @@
   * Wives, dix ans après  
   * Wives III
 
-## Bruxelles vue par... (5)
+## Bruxelles vue par (5)
 
   * Brussels by Night  
   * Chantier des gosses (Le)  
