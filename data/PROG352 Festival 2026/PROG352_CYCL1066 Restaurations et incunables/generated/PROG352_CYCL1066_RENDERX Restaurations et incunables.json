@@ -397,18 +397,18 @@
           ],
           "seances": [
             {
+              "idSeance": 208945,
+              "dateHeure": "2026-03-11T20:00:00",
+              "idSalle": "HO/CCC",
+              "mention": "Séance suivie d'une discussion avec Thierry Jousse. Séance présentée par Harold Manning",
+              "nomSallePrint": "Christine Cinéma Club"
+            },
+            {
               "idSeance": 208232,
               "dateHeure": "2026-03-13T21:00:00",
               "idSalle": "GF",
               "mention": "Séance présentée par Thierry Jousse",
               "nomSallePrint": "Cinémathèque française (GF)"
-            },
-            {
-              "idSeance": 208945,
-              "dateHeure": "2026-03-14T20:00:00",
-              "idSalle": "HO/CCC",
-              "mention": "Séance suivie d'une discussion avec Thierry Jousse. Séance présentée par Harold Manning",
-              "nomSallePrint": "Christine Cinéma Club"
             },
             {
               "idSeance": 216877,
@@ -1249,6 +1249,11 @@
   "syntheseAction": {
     "Discussions": [
       {
+        "titreFilms": "Dune / Dune",
+        "mention": "avec Thierry Jousse. Séance présentée par Harold Manning",
+        "dateHeure": "2026-03-11T20:00:00"
+      },
+      {
         "titreFilms": "Pierre ou les ambiguïtés",
         "mention": "avec Leos Carax (sous réserve). Séance présentée par Caroline Champetier",
         "dateHeure": "2026-03-12T17:15:00"
@@ -1257,11 +1262,6 @@
         "titreFilms": "Vol au-dessus d'un nid de coucou",
         "mention": "avec Bernard Benoliel",
         "dateHeure": "2026-03-13T20:30:00"
-      },
-      {
-        "titreFilms": "Dune / Dune",
-        "mention": "avec Thierry Jousse. Séance présentée par Harold Manning",
-        "dateHeure": "2026-03-14T20:00:00"
       }
     ],
     "Séances présentées": [
@@ -1279,6 +1279,11 @@
         "titreFilms": "Ville à vendre",
         "mention": "par Éric Le Roy et Olivia Mokiejewski",
         "dateHeure": "2026-03-11T16:15:00"
+      },
+      {
+        "titreFilms": "Dune",
+        "mention": "par Harold Manning",
+        "dateHeure": "2026-03-11T20:00:00"
       },
       {
         "titreFilms": "Charade",
@@ -1364,11 +1369,6 @@
         "titreFilms": "Les Cinéphiles 2 : Éric a disparu",
         "mention": "par Louis Skorecki",
         "dateHeure": "2026-03-14T18:30:00"
-      },
-      {
-        "titreFilms": "Dune",
-        "mention": "par Harold Manning",
-        "dateHeure": "2026-03-14T20:00:00"
       },
       {
         "titreFilms": "Manège / L'Arrière-pays",
