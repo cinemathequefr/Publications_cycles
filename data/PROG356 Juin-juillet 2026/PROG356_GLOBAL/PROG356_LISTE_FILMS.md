@@ -20,7 +20,7 @@
   * Chaleur rouge  
   * Contact mortel  
   * Dans les bras de l'enfer  
-  * Dernier survivant (Le)  
+  * Dernier Survivant (Le)  
   * J'ai vécu deux fois  
   * Mad Monster (The)  
   * Rues de l'enfer (Les)  

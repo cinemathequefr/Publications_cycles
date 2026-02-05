@@ -2,7 +2,7 @@
   {
     "idCategorie": 4125,
     "typeEvenement": 13,
-    "idEvenement": 35907,
+    "idEvenement": 36227,
     "idSeance": 216898,
     "dateHeure": "2026-06-11T20:00:00",
     "idSalle": [
@@ -13,8 +13,17 @@
     "typeSeance": 44,
     "items": [
       {
-        "idFilm": 43972,
+        "idFilm": 155686,
         "ordre": 1,
+        "idSeance": 216898,
+        "idCopie": 31483,
+        "duree": 9,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 43972,
+        "ordre": 2,
         "idSeance": 216898,
         "idCopie": 31575,
         "duree": 129,
@@ -41,7 +50,7 @@
         "ordre": 1,
         "idSeance": 209424,
         "idCopie": 31568,
-        "duree": 115,
+        "duree": 106,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -60,17 +69,8 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 155686,
-        "ordre": 1,
-        "idSeance": 216906,
-        "idCopie": 31483,
-        "duree": 9,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
         "idFilm": 43965,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 216906,
         "idCopie": 31567,
         "duree": 83,
@@ -108,23 +108,24 @@
   {
     "idCategorie": 4125,
     "typeEvenement": 13,
-    "idEvenement": 35919,
-    "idSeance": 216904,
+    "idEvenement": 35921,
+    "idSeance": 216983,
     "dateHeure": "2026-06-14T17:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 73089,
+        "idFilm": 73091,
         "ordre": 1,
-        "idSeance": 216904,
-        "idCopie": 31600,
-        "duree": 100,
-        "version": "VOSTA",
-        "format": "35 mm"
+        "idSeance": 216983,
+        "idCopie": 31571,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -282,7 +283,7 @@
         "idCopie": 31582,
         "duree": 101,
         "version": "VO",
-        "format": ""
+        "format": "35 mm"
       }
     ]
   },
@@ -421,7 +422,7 @@
         "idCopie": 31576,
         "duree": 104,
         "version": "VO",
-        "format": "DCP"
+        "format": ""
       }
     ]
   },
@@ -467,7 +468,7 @@
         "idCopie": 31572,
         "duree": 100,
         "version": "VO",
-        "format": ""
+        "format": "35 mm"
       }
     ]
   },
@@ -507,17 +508,8 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 155686,
-        "ordre": 1,
-        "idSeance": 209712,
-        "idCopie": 31483,
-        "duree": 9,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
         "idFilm": 43965,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 209712,
         "idCopie": 31567,
         "duree": 83,
@@ -530,24 +522,23 @@
   {
     "idCategorie": 4125,
     "typeEvenement": 13,
-    "idEvenement": 35921,
-    "idSeance": 209713,
+    "idEvenement": 35919,
+    "idSeance": 216984,
     "dateHeure": "2026-06-26T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 73091,
+        "idFilm": 73089,
         "ordre": 1,
-        "idSeance": 209713,
-        "idCopie": 31571,
-        "duree": 92,
+        "idSeance": 216984,
+        "idCopie": 31600,
+        "duree": 100,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "35 mm"
       }
     ]
   },
@@ -577,7 +568,7 @@
   {
     "idCategorie": 4125,
     "typeEvenement": 13,
-    "idEvenement": 35907,
+    "idEvenement": 36227,
     "idSeance": 209751,
     "dateHeure": "2026-06-27T17:30:00",
     "idSalle": [
@@ -587,8 +578,17 @@
     "dureeSeance": 165,
     "items": [
       {
-        "idFilm": 43972,
+        "idFilm": 155686,
         "ordre": 1,
+        "idSeance": 209751,
+        "idCopie": 31483,
+        "duree": 9,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 43972,
+        "ordre": 2,
         "idSeance": 209751,
         "idCopie": 31575,
         "duree": 129,

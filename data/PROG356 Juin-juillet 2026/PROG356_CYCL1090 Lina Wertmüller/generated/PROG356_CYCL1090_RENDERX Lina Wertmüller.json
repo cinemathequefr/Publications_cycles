@@ -10,7 +10,7 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idEvenement": 35925,
+          "idEvenement": 36227,
           "content": [
             {
               "idFilm": 155686,
@@ -24,8 +24,38 @@
               "format": "35 mm"
             },
             {
-              "idFilm": 43965,
+              "idFilm": 43972,
               "ordre": 2,
+              "titre": "Film d'amour et d'anarchie",
+              "titreVo": "Film d'amore e d'anarchia",
+              "realisateurs": "Lina Wertmüller",
+              "pays": "Italie",
+              "annee": 1971,
+              "duree": 129,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216898,
+              "dateHeure": "2026-06-11T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "idSeance": 209751,
+              "dateHeure": "2026-06-27T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 43965,
+          "content": [
+            {
+              "idFilm": 43965,
+              "ordre": 1,
               "titre": "Basilischi",
               "art": "I",
               "realisateurs": "Lina Wertmüller",
@@ -62,7 +92,7 @@
               "realisateurs": "Lina Wertmüller",
               "pays": "Italie-États-Unis",
               "annee": 1985,
-              "duree": 115,
+              "duree": 106,
               "version": "VOSTF",
               "format": "35 mm"
             }
@@ -94,9 +124,9 @@
           ],
           "seances": [
             {
-              "idSeance": 209713,
-              "dateHeure": "2026-06-26T20:30:00",
-              "idSalle": "GF"
+              "idSeance": 216983,
+              "dateHeure": "2026-06-14T17:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -165,7 +195,7 @@
               "annee": 1993,
               "duree": 100,
               "version": "VO",
-              "format": ""
+              "format": "35 mm"
             }
           ],
           "seances": [
@@ -225,36 +255,6 @@
           ]
         },
         {
-          "idFilm": 43972,
-          "content": [
-            {
-              "idFilm": 43972,
-              "ordre": 1,
-              "titre": "Film d'amour et d'anarchie",
-              "titreVo": "Film d'amore e d'anarchia",
-              "realisateurs": "Lina Wertmüller",
-              "pays": "Italie",
-              "annee": 1971,
-              "duree": 129,
-              "version": "VOSTF",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 216898,
-              "dateHeure": "2026-06-11T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
-            },
-            {
-              "idSeance": 209751,
-              "dateHeure": "2026-06-27T17:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 73054,
           "content": [
             {
@@ -269,7 +269,7 @@
               "annee": 1977,
               "duree": 104,
               "version": "VO",
-              "format": "DCP"
+              "format": ""
             }
           ],
           "seances": [
@@ -385,7 +385,7 @@
               "annee": 1986,
               "duree": 101,
               "version": "VO",
-              "format": ""
+              "format": "35 mm"
             }
           ],
           "seances": [
@@ -564,15 +564,15 @@
               "pays": "Italie",
               "annee": 1983,
               "duree": 100,
-              "version": "VOSTA",
+              "version": "VOSTF",
               "format": "35 mm"
             }
           ],
           "seances": [
             {
-              "idSeance": 216904,
-              "dateHeure": "2026-06-14T17:00:00",
-              "idSalle": "HL"
+              "idSeance": 216984,
+              "dateHeure": "2026-06-26T20:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -624,7 +624,7 @@
     ],
     "Séances présentées": [
       {
-        "titreFilms": "12 registi per 12 città: Bari / I Basilischi",
+        "titreFilms": "I Basilischi",
         "mention": "par Gabriela Trujillo",
         "dateHeure": "2026-06-13T18:00:00"
       },
