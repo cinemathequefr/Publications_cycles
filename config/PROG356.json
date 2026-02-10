@@ -13,6 +13,12 @@
       "triSousCycles": true,
       "sousCycles": [
         {
+          "titre": "Les films",
+          "cats": [4158],
+          "tri": 4,
+          "printNoMT": true
+        },
+        {
           "titre": "Hommage à Jean-François Davy",
           "cats": [4064],
           "tri": 4,
@@ -143,7 +149,7 @@
       "sousCycles": [
         {
           "titre": "Les films",
-          "cats": [4094, 4156],
+          "cats": [3680, 4094, 4156],
           "tri": 2
         }
       ]
@@ -306,6 +312,16 @@
       "excludeSeances": [],
       "restaurations": [],
       "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 1104,
+      "titreCycle": "Ma petite Cinémathèque",
+      "_charge_prog": "Élodie Imbeau / Pierre Sénécal",
+      "isReg": true,
+      "type": "jp",
+      "sousCycles": [{ "titre": "Les films", "cats": [], "tri": 3 }],
+      "titreEvenements": {},
+      "excludeSeances": []
     }
   ]
 }

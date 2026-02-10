@@ -3,6 +3,95 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 155745,
+          "content": [
+            {
+              "idFilm": 155745,
+              "ordre": 1,
+              "titre": "I diari di Angela – Noi due cineasti",
+              "realisateurs": "Angela Ricci Lucchi, Yervant Gianikian",
+              "pays": "Italie",
+              "annee": 2018,
+              "duree": 125,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Walter Chiari",
+                "Angela Ricci Lucchi",
+                "Yervant Gianikian"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216857,
+              "dateHeure": "2026-05-31T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155746,
+          "content": [
+            {
+              "idFilm": 155746,
+              "ordre": 1,
+              "titre": "I diari di Angela: Noi due cineasti. Capitolo secondo",
+              "realisateurs": "Yervant Gianikian",
+              "pays": "Italie",
+              "annee": 2019,
+              "duree": 100,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Angela Ricci Lucchi",
+                "Yervant Gianikian"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216858,
+              "dateHeure": "2026-05-31T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155747,
+          "content": [
+            {
+              "idFilm": 155747,
+              "ordre": 1,
+              "titre": "I diari di Angela: Noi due cineasti. Capitolo terzo",
+              "realisateurs": "Angela Ricci Lucchi, Yervant Gianikian",
+              "pays": "Italie",
+              "annee": 2025,
+              "duree": 123,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Yervant Gianikian",
+                "Lucrezia Lerro"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209124,
+              "dateHeure": "2026-06-01T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Hommage à Jean-François Davy",
       "items": [
         {
@@ -66,5 +155,12 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2026-06-01T20:00:00",
+        "titreFilms": "I diari di Angela: Noi due cineasti. Capitolo terzo"
+      }
+    ]
+  }
 }

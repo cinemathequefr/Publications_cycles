@@ -65,34 +65,44 @@
   * Une affaire de famille  
   * Vérité (La)
 
-## Histoire permanente du cinéma (18)
+## Histoire permanente du cinéma (27)
 
   * Amour de perdition  
   * An 01 (L')  
+  * Carabine nationale (La)  
+  * Chamade (La)  
   * Commissaire (La)  
   * Coup de torchon  
   * Cri du sorcier (Le)  
+  * Duel dans le Pacifique  
   * Eugenio  
   * Européens (Les)  
+  * Fellini Satyricon  
   * Femme tatouée (La)  
   * Fruits amers  
   * Héroïnes du mal (Les)  
   * Invitation (L')  
+  * Julia  
   * Justice pour tous  
   * Maman a cent ans  
   * Opération Caprice  
   * Pas de gué dans le feu  
+  * Rebelle (Le)  
   * Série noire  
+  * Sonate d'automne  
+  * Tambour (Le)  
+  * Un jour, le Nil  
   * Vallée (La)  
   * Vieil homme et l'enfant (Le)
 
-## Jacques Tati (9)
+## Jacques Tati (10)
 
   * École des facteurs (L')  
   * Forza Bastia 78  
   * Gai Dimanche  
   * Jour de fête  
   * Jour de fête (version couleur)  
+  * Mon oncle  
   * Parade  
   * Playtime  
   * Trafic  
@@ -132,7 +142,7 @@
   * Rita la zanzara  
   * Samedi, dimanche et lundi  
   * Scherzo del destino in agguato dietro l'angolo come un brigante da strada  
-  * Sotto... Sotto... strapazzato da anomala passioneita  
+  * Sotto... Sotto... strapazzato da anomala passione  
   * Vers un destin insolite sur les flots bleus de l'été
 
 ## Marilyn Monroe (5)
@@ -166,7 +176,7 @@
   * Yumeno Kyusaku no shoujo jigoku  
   * Zûmu in: Bôkô danchi
 
-## Réalisatrices françaises des années 70 (23)
+## Réalisatrices françaises des années 70 (25)
 
   * A. Constant  
   * Aloïse  
@@ -174,6 +184,7 @@
   * Dérive (La)  
   * Diabolo menthe  
   * Félicité  
+  * Femme de Jean (La)  
   * Femme intégrale (La)  
   * Femmes au soleil  
   * Fiancée du pirate (La)  
@@ -189,13 +200,17 @@
   * Pourquoi pas !  
   * Quelque part, quelqu'un  
   * Qu'est-ce que tu veux Julie ?  
+  * Un film  
   * Un rêve plus long que la nuit  
   * Villa Les Dunes
 
-## Séances spéciales (2)
+## Séances spéciales (5)
 
   * Aiguilles rouges (Les)  
-  * Bananes mécaniques
+  * Bananes mécaniques  
+  * I diari di Angela – Noi due cineasti  
+  * I diari di Angela: Noi due cineasti. Capitolo secondo  
+  * I diari di Angela: Noi due cineasti. Capitolo terzo
 
 ## Week-end S. S. Rajamouli (3)
 
