@@ -33,6 +33,7 @@
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 57541,
@@ -168,7 +169,7 @@
   {
     "idSeance": 216849,
     "idEvenement": 35619,
-    "dateHeure": "2026-05-29T15:30:00",
+    "dateHeure": "2026-05-29T16:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -217,7 +218,7 @@
     "idSeance": 216837,
     "idEvenement": 36125,
     "dateHeure": "2026-05-29T19:00:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Cinéma bis",
@@ -266,7 +267,7 @@
     "idSeance": 216838,
     "idEvenement": 36126,
     "dateHeure": "2026-05-29T21:15:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Cinéma bis",
@@ -941,6 +942,30 @@
     "hashEvenement": "f41764"
   },
   {
+    "idSeance": 217005,
+    "idEvenement": 35262,
+    "dateHeure": "2026-06-06T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Marilyn Monroe",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41562,
+        "titre": "Comment épouser un millionnaire",
+        "realisateurs": "Jean Negulesco",
+        "annee": 1953,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41562"
+  },
+  {
     "idSeance": 209264,
     "idEvenement": 36022,
     "dateHeure": "2026-06-06T15:00:00",
@@ -1182,6 +1207,82 @@
       }
     ],
     "hashEvenement": "f41085"
+  },
+  {
+    "idSeance": 209291,
+    "idEvenement": 36271,
+    "dateHeure": "2026-06-08T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "10 ans de la NEF"
+      ]
+    ],
+    "mention": "Séance présentée par Xavier Kawa-Topor",
+    "items": [
+      {
+        "idFilm": 141119,
+        "titre": "Vaysha l'aveugle",
+        "realisateurs": "Theodore Ushev",
+        "annee": 2016,
+        "duree": 8,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 150602,
+        "titre": "Rivages",
+        "realisateurs": "Sophie Racine",
+        "annee": 2020,
+        "duree": 8,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155748,
+        "titre": "Nun or Never",
+        "realisateurs": "Heta Jäälinoja",
+        "annee": 2023,
+        "duree": 11,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155749,
+        "titre": "Family Portrait",
+        "realisateurs": " Lea Vidaković",
+        "annee": 2023,
+        "duree": 15,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155750,
+        "titre": "Hurikán",
+        "realisateurs": "Jan Saska",
+        "annee": 2024,
+        "duree": 13,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155751,
+        "titre": "Quelque chose de divin",
+        "realisateurs": "Bogdan Stamatin, Mélody Boulissière",
+        "annee": 2024,
+        "duree": 14,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155752,
+        "titre": "Je mordrai la poussière des étoiles",
+        "realisateurs": "Kiana Naghshineh",
+        "annee": 2025,
+        "duree": 14,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f141119f150602f155748f155749f155750f155751f155752"
   },
   {
     "idSeance": 209320,
@@ -1523,7 +1624,7 @@
       {
         "idFilm": 155706,
         "titre": "Shin jitsuroku onna kanbetsusho: Rengoku",
-        "realisateurs": "Kôyû Ohara",
+        "realisateurs": "Kōyū Ohara",
         "annee": 1976,
         "duree": 67
       }
@@ -1644,7 +1745,7 @@
       {
         "idFilm": 155705,
         "titre": "Shiroi yubi no tawamure",
-        "realisateurs": "Tôru Murakawa",
+        "realisateurs": "Tōru Murakawa",
         "annee": 1972,
         "duree": 78
       }
@@ -1714,7 +1815,7 @@
     "items": [
       {
         "idFilm": 59224,
-        "titre": "Rideau de fusuma",
+        "titre": "Rideau de Fusuma",
         "art": "Le",
         "realisateurs": "Tatsumi Kumashiro",
         "annee": 1973,
@@ -1832,7 +1933,7 @@
       {
         "idFilm": 35672,
         "titre": "Tokyo Emmanuelle fujin",
-        "realisateurs": "Akira Katô",
+        "realisateurs": "Akira Katō",
         "annee": 1975,
         "duree": 70
       }
@@ -1902,7 +2003,7 @@
     "items": [
       {
         "idFilm": 104701,
-        "titre": "Yumeno Kyusaku no shoujo jigoku",
+        "titre": "Yumeno Kyūsaku no shōjo jigoku",
         "realisateurs": "Masaru Konuma",
         "annee": 1977,
         "duree": 92
@@ -1969,8 +2070,8 @@
     "items": [
       {
         "idFilm": 155703,
-        "titre": "Seidan botan-dôrô",
-        "realisateurs": "Chusei Sone",
+        "titre": "Seidan botan-dōrō",
+        "realisateurs": "Chūsei Sone",
         "annee": 1972,
         "duree": 67
       }
@@ -2249,7 +2350,7 @@
     "items": [
       {
         "idFilm": 155708,
-        "titre": "Zûmu in: Bôkô danchi",
+        "titre": "Zūmu in: Bōkō danchi",
         "realisateurs": "Naosuke Kurosawa",
         "annee": 1980,
         "duree": 68
@@ -2418,7 +2519,7 @@
       {
         "idFilm": 114417,
         "titre": "Rabu hoteru",
-        "realisateurs": "Shinji Somai",
+        "realisateurs": "Shinji Sōmai",
         "annee": 1985,
         "duree": 88,
         "version": "VOSTA",
@@ -3027,25 +3128,77 @@
     "hashEvenement": "f70068"
   },
   {
-    "idSeance": 209777,
-    "idEvenement": 35714,
+    "idSeance": 217007,
+    "idEvenement": 35952,
     "dateHeure": "2026-06-29T16:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Histoire permanente du cinéma",
+        "Claudia Cardinale",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 46453,
-        "titre": "Fruits amers",
-        "realisateurs": "Jacqueline Audry",
-        "annee": 1966
+        "idFilm": 46534,
+        "titre": "Goha",
+        "realisateurs": "Jacques Baratier",
+        "annee": 1957,
+        "duree": 83,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f46453"
+    "hashEvenement": "f46534"
+  },
+  {
+    "idSeance": 209778,
+    "idEvenement": 35957,
+    "dateHeure": "2026-06-29T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Claudia Cardinale",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42063,
+        "titre": "Mauvais Chemin",
+        "art": "Le",
+        "realisateurs": "Mauro Bolognini",
+        "annee": 1961,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42063"
+  },
+  {
+    "idSeance": 209779,
+    "idEvenement": 35964,
+    "dateHeure": "2026-06-29T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Claudia Cardinale",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42527,
+        "titre": "Ragazza",
+        "art": "La",
+        "realisateurs": "Luigi Comencini",
+        "annee": 1963,
+        "duree": 111,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f42527"
   },
   {
     "idSeance": 209808,
@@ -3721,6 +3874,32 @@
     "hashEvenement": "f51367"
   },
   {
+    "idSeance": 210000,
+    "idEvenement": 34657,
+    "dateHeure": "2026-07-09T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "70 mm",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 32324,
+        "titre": "Cheyennes",
+        "art": "Les",
+        "realisateurs": "John Ford",
+        "annee": 1964,
+        "duree": 160,
+        "version": "VOSTF",
+        "format": "70 mm"
+      }
+    ],
+    "hashEvenement": "f32324"
+  },
+  {
     "idSeance": 209998,
     "idEvenement": 35891,
     "dateHeure": "2026-07-09T21:30:00",
@@ -3782,6 +3961,31 @@
       }
     ],
     "hashEvenement": "f43358"
+  },
+  {
+    "idSeance": 210035,
+    "idEvenement": 34650,
+    "dateHeure": "2026-07-10T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "70 mm",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 118065,
+        "titre": "Master",
+        "art": "The",
+        "realisateurs": "Paul Thomas Anderson",
+        "annee": 2012,
+        "duree": 137,
+        "version": "VOSTF",
+        "format": "70 mm"
+      }
+    ],
+    "hashEvenement": "f118065"
   },
   {
     "idSeance": 210036,
@@ -3854,9 +4058,33 @@
     "hashEvenement": "f155586"
   },
   {
+    "idSeance": 216867,
+    "idEvenement": 35018,
+    "dateHeure": "2026-07-10T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "70 mm",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45125,
+        "titre": "Ran",
+        "realisateurs": "Akira Kurosawa",
+        "annee": 1985,
+        "duree": 164,
+        "version": "VOSTF",
+        "format": "70 mm"
+      }
+    ],
+    "hashEvenement": "f45125"
+  },
+  {
     "idSeance": 210037,
     "idEvenement": 35885,
-    "dateHeure": "2026-07-10T20:00:00",
+    "dateHeure": "2026-07-10T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3922,6 +4150,30 @@
       }
     ],
     "hashEvenement": "f33306"
+  },
+  {
+    "idSeance": 210072,
+    "idEvenement": 34659,
+    "dateHeure": "2026-07-11T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "70 mm",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40075,
+        "titre": "Lawrence d'Arabie",
+        "realisateurs": "David Lean",
+        "annee": 1962,
+        "duree": 220,
+        "version": "VOSTF",
+        "format": "70 mm"
+      }
+    ],
+    "hashEvenement": "f40075"
   },
   {
     "idSeance": 210076,
@@ -4079,6 +4331,31 @@
     "hashEvenement": "f33440"
   },
   {
+    "idSeance": 217009,
+    "idEvenement": 35648,
+    "dateHeure": "2026-07-12T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "70 mm",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46248,
+        "titre": "Nom de la rose",
+        "art": "Le",
+        "realisateurs": "Jean-Jacques Annaud",
+        "annee": 1986,
+        "duree": 131,
+        "version": "VOSTF",
+        "format": "70 mm"
+      }
+    ],
+    "hashEvenement": "f46248"
+  },
+  {
     "idSeance": 210095,
     "idEvenement": 35897,
     "dateHeure": "2026-07-12T17:30:00",
@@ -4125,9 +4402,33 @@
     "hashEvenement": "f51368"
   },
   {
+    "idSeance": 217010,
+    "idEvenement": 35097,
+    "dateHeure": "2026-07-12T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "70 mm",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 30920,
+        "titre": "Starman",
+        "realisateurs": "John Carpenter",
+        "annee": 1984,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "70 mm"
+      }
+    ],
+    "hashEvenement": "f30920"
+  },
+  {
     "idSeance": 210092,
     "idEvenement": 35880,
-    "dateHeure": "2026-07-12T21:00:00",
+    "dateHeure": "2026-07-12T20:30:00",
     "salle": "GF",
     "cycle": [
       [

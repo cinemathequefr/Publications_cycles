@@ -9,6 +9,25 @@
   * Swimmer (The)  
   * Tourmentés (Les)
 
+## 70 mm (6)
+
+  * Cheyennes (Les)  
+  * Lawrence d'Arabie  
+  * Master (The)  
+  * Nom de la rose (Le)  
+  * Ran  
+  * Starman
+
+## Aujourd'hui le cinéma (7)
+
+  * Family Portrait  
+  * Hurikán  
+  * Je mordrai la poussière des étoiles  
+  * Nun or Never  
+  * Quelque chose de divin  
+  * Rivages  
+  * Vaysha l'aveugle
+
 ## Ciné-club de Murielle Joudet (1)
 
   * Sept ans de réflexion
@@ -26,7 +45,7 @@
   * Rues de l'enfer (Les)  
   * S.O.S. Concorde
 
-## Claudia Cardinale (18)
+## Claudia Cardinale (21)
 
   * 8½  
   * Audience (L')  
@@ -34,16 +53,19 @@
   * Cartouche  
   * Claretta  
   * Dauphins (Les)  
+  * Goha  
   * Guépard (Le)  
   * Il était une fois dans l'Ouest  
   * Liberté, mon amour  
   * Lucia et les gouapes  
   * Mafia fait la loi (La)  
+  * Mauvais Chemin (Le)  
   * Meurtre à l'italienne  
   * Panthère Rose (La)  
   * Pigeon (Le)  
   * Professionnels (Les)  
   * Quand la chair succombe  
+  * Ragazza (La)  
   * Rocco et ses frères  
   * Sandra
 
@@ -65,7 +87,7 @@
   * Une affaire de famille  
   * Vérité (La)
 
-## Histoire permanente du cinéma (27)
+## Histoire permanente du cinéma (26)
 
   * Amour de perdition  
   * An 01 (L')  
@@ -79,7 +101,6 @@
   * Européens (Les)  
   * Fellini Satyricon  
   * Femme tatouée (La)  
-  * Fruits amers  
   * Héroïnes du mal (Les)  
   * Invitation (L')  
   * Julia  
@@ -145,10 +166,11 @@
   * Sotto... Sotto... strapazzato da anomala passione  
   * Vers un destin insolite sur les flots bleus de l'été
 
-## Marilyn Monroe (5)
+## Marilyn Monroe (6)
 
   * Bus Stop  
   * Certains l'aiment chaud  
+  * Comment épouser un millionnaire  
   * Désaxés (Les)  
   * Niagara  
   * Rivière sans retour
@@ -164,17 +186,17 @@
   * Nuits félines à Shinjuku  
   * Parfum d'un sortilège  
   * Rabu hoteru  
-  * Rideau de fusuma (Le)  
+  * Rideau de Fusuma (Le)  
   * Rue de la joie  
-  * Seidan botan-dôrô  
+  * Seidan botan-dōrō  
   * Sengoku rokku hayate no onnatachi  
   * Shin jitsuroku onna kanbetsusho: Rengoku  
   * Shiroi yubi no tawamure  
   * Sweden Porno: Blonde Animal  
   * Tokyo Emmanuelle fujin  
   * Vie secrète de madame Yoshino (La)  
-  * Yumeno Kyusaku no shoujo jigoku  
-  * Zûmu in: Bôkô danchi
+  * Yumeno Kyūsaku no shōjo jigoku  
+  * Zūmu in: Bōkō danchi
 
 ## Réalisatrices françaises des années 70 (25)
 

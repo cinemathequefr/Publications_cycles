@@ -86,9 +86,12 @@
       "isReg": true,
       "triSousCycles": true,
       "sousCycles": [
-        { "titre": "", "cats": [], "tri": 4 },
-        { "titre": "", "cats": [], "tri": 4 },
-        { "titre": "", "cats": [], "tri": 4 }
+        { "titre": "10 ans de la NEF", "cats": [4162], "tri": 4 },
+        {
+          "titre": "Festival du court métrage de Busan 2025",
+          "cats": [4163],
+          "tri": 4
+        }
       ],
       "excludeSeances": [],
       "restaurations": [],
@@ -322,6 +325,17 @@
       "sousCycles": [{ "titre": "Les films", "cats": [], "tri": 3 }],
       "titreEvenements": {},
       "excludeSeances": []
+    },
+    {
+      "idCycleProg": 1105,
+      "titreCycle": "70 mm",
+      "_charge_prog": "Katia",
+      "isReg": false,
+      "type": null,
+      "sousCycles": [{ "titre": "Les films", "cats": [4161], "tri": 2 }],
+      "excludeSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
     }
   ]
 }
