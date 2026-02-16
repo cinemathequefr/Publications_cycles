@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2026-05-30T14:30:00",
+    "2026-05-29T19:00:00",
     "2026-07-12T14:30:00"
   ],
   "textePresentation": "",
@@ -230,7 +230,39 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 36298,
+          "content": [
+            {
+              "idConf": 36298,
+              "titre": "MM/BB : blondes nationales et internationales",
+              "sousTitre": "Conférence de Ginette Vincendeau",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217037,
+              "dateHeure": "2026-05-29T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "MM/BB : blondes nationales et internationales",
+        "mention": "par Ginette Vincendeau",
+        "dateHeure": "2026-05-29T19:00:00"
+      }
+    ]
+  }
 }
