@@ -24,9 +24,9 @@
     "mention": "Séance présentée par John Badham"
   },
   {
-    "idCategorie": 4056,
+    "idCategorie": 4160,
     "typeEvenement": 13,
-    "idEvenement": 35371,
+    "idEvenement": 36261,
     "idSeance": 208164,
     "dateHeure": "2026-03-11T20:00:00",
     "idSalle": [
@@ -36,8 +36,18 @@
     "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 29858,
+        "idFilm": 63219,
         "ordre": 1,
+        "idSeance": 208164,
+        "idCopie": 31206,
+        "duree": 9,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 29858,
+        "ordre": 2,
         "idSeance": 208164,
         "idCopie": 31086,
         "duree": 114,
@@ -48,9 +58,9 @@
     "mention": "Séance présentée par John Badham"
   },
   {
-    "idCategorie": 4056,
+    "idCategorie": 4160,
     "typeEvenement": 13,
-    "idEvenement": 35371,
+    "idEvenement": 36261,
     "idSeance": 208888,
     "dateHeure": "2026-03-11T20:00:00",
     "idSalle": [
@@ -60,8 +70,18 @@
     "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 29858,
+        "idFilm": 63219,
         "ordre": 1,
+        "idSeance": 208888,
+        "idCopie": 31206,
+        "duree": 9,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 29858,
+        "ordre": 2,
         "idSeance": 208888,
         "idCopie": 31086,
         "duree": 114,
@@ -73,8 +93,8 @@
   {
     "idCategorie": 4056,
     "typeEvenement": 13,
-    "idEvenement": 35371,
-    "idSeance": 216751,
+    "idEvenement": 36262,
+    "idSeance": 217004,
     "dateHeure": "2026-03-12T17:00:00",
     "idSalle": [
       "HO/FQL",
@@ -85,14 +105,13 @@
       {
         "idFilm": 29858,
         "ordre": 1,
-        "idSeance": 216751,
+        "idSeance": 217004,
         "idCopie": 31086,
         "duree": 114,
         "version": "VOSTF",
         "format": "DCP"
       }
-    ],
-    "mention": "Séance suivie d'une discussion avec John Badham"
+    ]
   },
   {
     "idCategorie": 4103,

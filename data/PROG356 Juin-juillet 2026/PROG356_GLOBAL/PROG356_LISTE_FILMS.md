@@ -18,15 +18,19 @@
   * Ran  
   * Starman
 
-## Aujourd'hui le cinéma (7)
+## Aujourd'hui le cinéma (11)
 
+  * Day of Graduation (The)  
+  * Fake Lies  
   * Family Portrait  
   * Hurikán  
   * Je mordrai la poussière des étoiles  
   * Nun or Never  
   * Quelque chose de divin  
   * Rivages  
-  * Vaysha l'aveugle
+  * Society of Clothes  
+  * Vaysha l'aveugle  
+  * Vicious (The)
 
 ## Ciné-club de Murielle Joudet (1)
 
@@ -140,7 +144,7 @@
   * Selon la loi  
   * Signe de Zorro (Le)
 
-## Lina Wertmüller (23)
+## Lina Wertmüller (22)
 
   * 12 registi per 12 città: Bari  
   * Basilischi (I)  
@@ -159,7 +163,6 @@
   * Notte d'estate con profilo greco, occhi a mandorla e odore di basilico  
   * Par une nuit de clair de lune  
   * Pasqualino  
-  * Peperoni ripieni e pesci in faccia  
   * Rita la zanzara  
   * Samedi, dimanche et lundi  
   * Scherzo del destino in agguato dietro l'angolo come un brigante da strada  
@@ -234,8 +237,9 @@
   * I diari di Angela: Noi due cineasti. Capitolo secondo  
   * I diari di Angela: Noi due cineasti. Capitolo terzo
 
-## Week-end S. S. Rajamouli (3)
+## Week-end S. S. Rajamouli (4)
 
   * Eega  
-  * Légende de Baahubali – L'Épopée (La)  
+  * Légende de Baahubali – 1re partie (La)  
+  * Légende de Baahubali – 2e partie (La)  
   * RRR  

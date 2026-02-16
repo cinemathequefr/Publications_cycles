@@ -165,6 +165,61 @@
           ]
         },
         {
+          "idEvenement": 36261,
+          "content": [
+            {
+              "idFilm": 63219,
+              "ordre": 1,
+              "titre": "Sans titre",
+              "realisateurs": "Leos Carax",
+              "pays": "France",
+              "annee": 1997,
+              "duree": 9,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Guillaume Depardieu",
+                "Katerina Golubeva",
+                "Catherine Deneuve"
+              ],
+              "miniTexte": "Réalisé comme une « carte postale » pour les 50 ans du Festival de Cannes, _Sans titre_ voit Carax « donner de ses nouvelles » en assemblant images intimes, fragments cinéphiles et visions fantômes. Extraits de _La Foule_ et de _La Nuit du chasseur_, photos d'Anne Dion, archives de l'INA et danseuses filmées par les frères Lumière composent un autoportrait en creux, un itinéraire de cinéma fait de manques et de traces."
+            },
+            {
+              "idFilm": 29858,
+              "ordre": 2,
+              "titre": "WarGames",
+              "realisateurs": "John Badham",
+              "pays": "États-Unis",
+              "annee": 1983,
+              "duree": 114,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Matthew Broderick",
+                "Dabney Coleman",
+                "Ally Sheedy"
+              ],
+              "miniTexte": "Un ado hacker déclenche malgré lui une simulation pouvant conduire à une guerre nucléaire. Porté par l'énergie de Matthew Broderick, _WarGames_ croise suspense _high-tech_ et satire de la paranoïa militaire derrière le vernis pop _eighties_. Une réflexion prémonitoire sur la fragilité des évolutions numériques."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208164,
+              "dateHeure": "2026-03-11T20:00:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par John Badham",
+              "nomSallePrint": "Cinémathèque française (HL)"
+            },
+            {
+              "idSeance": 208888,
+              "dateHeure": "2026-03-11T20:00:00",
+              "idSalle": "LE",
+              "nomSallePrint": "Cinémathèque française (LE)"
+            }
+          ]
+        },
+        {
           "idFilm": 29870,
           "content": [
             {
@@ -218,23 +273,9 @@
           ],
           "seances": [
             {
-              "idSeance": 208164,
-              "dateHeure": "2026-03-11T20:00:00",
-              "idSalle": "HL",
-              "mention": "Séance présentée par John Badham",
-              "nomSallePrint": "Cinémathèque française (HL)"
-            },
-            {
-              "idSeance": 208888,
-              "dateHeure": "2026-03-11T20:00:00",
-              "idSalle": "LE",
-              "nomSallePrint": "Cinémathèque française (LE)"
-            },
-            {
-              "idSeance": 216751,
+              "idSeance": 217004,
               "dateHeure": "2026-03-12T17:00:00",
               "idSalle": "HO/FQL",
-              "mention": "Séance suivie d'une discussion avec John Badham",
               "nomSallePrint": "Filmothèque du Quartier latin"
             }
           ]
@@ -353,13 +394,6 @@
         "dateHeure": "2026-03-14T16:15:00"
       }
     ],
-    "Discussion": [
-      {
-        "titreFilms": "WarGames",
-        "mention": "avec John Badham",
-        "dateHeure": "2026-03-12T17:00:00"
-      }
-    ],
     "Séances présentées": [
       {
         "titreFilms": "Meurtre en suspens",
@@ -367,7 +401,7 @@
         "dateHeure": "2026-03-11T17:00:00"
       },
       {
-        "titreFilms": "WarGames",
+        "titreFilms": "Sans titre / WarGames",
         "mention": "par John Badham",
         "dateHeure": "2026-03-11T20:00:00"
       },
