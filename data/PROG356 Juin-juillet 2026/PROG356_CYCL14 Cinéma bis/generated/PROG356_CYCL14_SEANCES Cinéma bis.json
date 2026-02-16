@@ -92,34 +92,11 @@
     ]
   },
   {
-    "idCategorie": 4153,
+    "idCategorie": 4165,
     "typeEvenement": 13,
-    "idEvenement": 36128,
-    "idSeance": 216787,
+    "idEvenement": 36299,
+    "idSeance": 217039,
     "dateHeure": "2026-06-19T19:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 30493,
-        "ordre": 1,
-        "idSeance": 216787,
-        "idCopie": 2788,
-        "duree": 99,
-        "version": "VF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4153,
-    "typeEvenement": 13,
-    "idEvenement": 36127,
-    "idSeance": 216788,
-    "dateHeure": "2026-06-19T21:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -127,13 +104,38 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 55960,
+        "idFilm": 123943,
         "ordre": 1,
-        "idSeance": 216788,
-        "idCopie": 2332,
-        "duree": 73,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idSeance": 217039,
+        "idCopie": 30678,
+        "duree": 75,
+        "version": "VO",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4165,
+    "typeEvenement": 13,
+    "idEvenement": 36300,
+    "idSeance": 217040,
+    "dateHeure": "2026-06-19T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 123944,
+        "ordre": 1,
+        "idSeance": 217040,
+        "idCopie": 30677,
+        "duree": 86,
+        "version": "VO",
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },

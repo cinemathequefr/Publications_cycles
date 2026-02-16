@@ -41,13 +41,13 @@
   * Atlantis interceptors  
   * Campus  
   * Chaleur rouge  
-  * Contact mortel  
   * Dans les bras de l'enfer  
-  * Dernier Survivant (Le)  
   * J'ai vécu deux fois  
+  * Let My Puppets Come  
   * Mad Monster (The)  
   * Rues de l'enfer (Les)  
-  * S.O.S. Concorde
+  * S.O.S. Concorde  
+  * Story of Joanna (The)
 
 ## Claudia Cardinale (21)
 
@@ -240,6 +240,6 @@
 ## Week-end S. S. Rajamouli (4)
 
   * Eega  
-  * Légende de Baahubali – 1re partie (La)  
-  * Légende de Baahubali – 2e partie (La)  
+  * Légende de Baahubali, 1re partie (La)  
+  * Légende de Baahubali, 2e partie (La)  
   * RRR  
