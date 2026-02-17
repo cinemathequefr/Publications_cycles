@@ -95,33 +95,57 @@
           ]
         },
         {
-          "idFilm": 57541,
-          "content": [
+          "groupe": [
             {
               "idFilm": 57541,
-              "ordre": 1,
-              "titre": "Dérive",
-              "art": "La",
-              "realisateurs": "Paula Delsol",
-              "pays": "France",
-              "annee": 1964,
-              "duree": 0,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Jacqueline Vandal",
-                "Lucien Barjon",
-                "Paulette Dubost"
-              ],
-              "miniTexte": "Le portrait incandescent d'une jeune femme en rupture avec son milieu familial, déchirée entre désir de liberté et quête de l'amour. En pleine Nouvelle Vague, Paula Delsol signe un film superbe et délibérément féministe, tourné en décors naturels dans les plaines camarguaises. Injustement condamné par la censure, La Dérive fut frappé d'une interdiction aux moins de 18 ans qui scella prématurément le destin cinématographique de sa créatrice."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 57541,
+                  "ordre": 1,
+                  "titre": "Dérive",
+                  "art": "La",
+                  "realisateurs": "Paula Delsol",
+                  "pays": "France",
+                  "annee": 1964,
+                  "duree": 0,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Jacqueline Vandal",
+                    "Lucien Barjon",
+                    "Paulette Dubost"
+                  ],
+                  "miniTexte": "Le portrait incandescent d'une jeune femme en rupture avec son milieu familial, déchirée entre désir de liberté et quête de l'amour. En pleine Nouvelle Vague, Paula Delsol signe un film superbe et délibérément féministe, tourné en décors naturels dans les plaines camarguaises. Injustement condamné par la censure, La Dérive fut frappé d'une interdiction aux moins de 18 ans qui scella prématurément le destin cinématographique de sa créatrice."
+                }
+              ]
+            },
             {
-              "idSeance": 208992,
-              "dateHeure": "2026-05-27T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "idEvenement": 36302,
+              "content": [
+                {
+                  "idConf": 36302,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Aurore Renaut",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208992,
+                  "dateHeure": "2026-05-27T20:00:00",
+                  "idSalle": "HL",
+                  "mention": "Ouverture de la rétrospective",
+                  "mentionAssoc": "Film seul"
+                },
+                {
+                  "idSeance": 216994,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-06-06T15:00:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film + dialogue"
+                }
+              ]
             }
           ]
         },
@@ -723,5 +747,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "La Dérive",
+        "mention": "avec Aurore Renaut",
+        "dateHeure": "2026-06-06T15:00:00"
+      }
+    ]
+  }
 }

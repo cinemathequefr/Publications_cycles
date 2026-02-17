@@ -6,6 +6,50 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "groupe": [
+            {
+              "idFilm": 48813,
+              "content": [
+                {
+                  "idFilm": 48813,
+                  "ordre": 1,
+                  "titre": "Mépris",
+                  "art": "Le",
+                  "realisateurs": "Jean-Luc Godard",
+                  "pays": "France-Italie",
+                  "annee": 1963,
+                  "adaptation": "D'après le roman _Le Mépris_ d'Alberto Moravia.",
+                  "generique": [
+                    "Brigitte Bardot",
+                    "Michel Piccoli",
+                    "Jack Palance",
+                    "Fritz Lang"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 36304,
+              "content": [
+                {
+                  "idConf": 36304,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217047,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-06-17T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "idFilm": 36906,
           "content": [
             {
@@ -41,5 +85,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Le Mépris",
+        "mention": "avec Murielle Joudet",
+        "dateHeure": "2026-06-17T19:00:00"
+      }
+    ]
+  }
 }

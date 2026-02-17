@@ -5,6 +5,34 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 217047,
+          "ordre": 1,
+          "dateHeure": "2026-06-17T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 30,
+          "typeAssoc": 118,
+          "idCategorie": 3897,
+          "idEvenement": 36303,
+          "typeEvenement": 13,
+          "idFilm": 48813,
+          "art": "Le",
+          "titre": "Mépris",
+          "realisateurs": "Jean-Luc Godard",
+          "annee": 1963,
+          "pays": "France-Italie",
+          "generique": [
+            "Brigitte Bardot",
+            "Michel Piccoli",
+            "Jack Palance",
+            "Fritz Lang"
+          ],
+          "adaptation": "D'après le roman _Le Mépris_ d'Alberto Moravia.",
+          "textes": []
+        },
+        {
           "idSeance": 216862,
           "ordre": 1,
           "dateHeure": "2026-06-21T14:30:00",
@@ -36,6 +64,40 @@
             {
               "typeTexte": 1000,
               "texte": "Années 50 : sous le coup de la progressive libéralisation des mœurs et de la publication des rapports Kinsey, Hollywood fait une fixette sur la sexualité hors mariage, découplée de toute utilité et culpabilité. L'industrie fera de Marilyn le fétiche (tour à tour adulé et maltraité) de cette hantise. _Sept ans de réflexion_ ne parle que de ça : en plein vide estival, le récit orchestre la rencontre impossible entre un homme sans qualités (Tom Ewell) et une pin-up descendue de son poster. La pièce de George Axelrod et son adaptation cinématographique par Wilder valent comme étude morale de cette société américaine frustrée, et donc forcément obsédée. — Murielle Joudet"
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 217047,
+          "ordre": 2,
+          "dateHeure": "2026-06-17T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 105,
+          "typeAssoc": 118,
+          "idCategorie": 3898,
+          "idEvenement": 36304,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Murielle Joudet",
+          "duree": 75,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Murielle Joudet",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
             }
           ]
         }

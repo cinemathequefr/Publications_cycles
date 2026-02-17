@@ -32,8 +32,9 @@
   * Vaysha l'aveugle  
   * Vicious (The)
 
-## Ciné-club de Murielle Joudet (1)
+## Ciné-club de Murielle Joudet (2)
 
+  * Mépris (Le)  
   * Sept ans de réflexion
 
 ## Cinéma bis (10)
@@ -49,9 +50,8 @@
   * S.O.S. Concorde  
   * Story of Joanna (The)
 
-## Claudia Cardinale (21)
+## Claudia Cardinale (19)
 
-  * 8½  
   * Audience (L')  
   * Bel Antonio (Le)  
   * Cartouche  
@@ -66,7 +66,6 @@
   * Mauvais Chemin (Le)  
   * Meurtre à l'italienne  
   * Panthère Rose (La)  
-  * Pigeon (Le)  
   * Professionnels (Les)  
   * Quand la chair succombe  
   * Ragazza (La)  
@@ -91,7 +90,7 @@
   * Une affaire de famille  
   * Vérité (La)
 
-## Histoire permanente du cinéma (26)
+## Histoire permanente du cinéma (25)
 
   * Amour de perdition  
   * An 01 (L')  
@@ -105,7 +104,6 @@
   * Européens (Les)  
   * Fellini Satyricon  
   * Femme tatouée (La)  
-  * Héroïnes du mal (Les)  
   * Invitation (L')  
   * Julia  
   * Justice pour tous  
@@ -169,11 +167,10 @@
   * Sotto... Sotto... strapazzato da anomala passione  
   * Vers un destin insolite sur les flots bleus de l'été
 
-## Marilyn Monroe (6)
+## Marilyn Monroe (5)
 
   * Bus Stop  
   * Certains l'aiment chaud  
-  * Comment épouser un millionnaire  
   * Désaxés (Les)  
   * Niagara  
   * Troublez-moi ce soir
