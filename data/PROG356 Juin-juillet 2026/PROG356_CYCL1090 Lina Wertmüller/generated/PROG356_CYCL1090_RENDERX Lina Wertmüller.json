@@ -136,54 +136,26 @@
           ]
         },
         {
-          "groupe": [
-            {
-              "idEvenement": 36122,
-              "content": [
-                {
-                  "idConf": 36122,
-                  "titre": "« Qui êtes-vous... Lina Wertmüller ? » par Gabriela Trujillo",
-                  "sousTitre": "Conférence de Gabriela Trujillo",
-                  "typeConference": "Conférence",
-                  "miniTexte": "Connue pour ses comédies cinglantes où la lutte des classes attise la guerre des sexes, Lina Wertmüller a été la prêtresse d'une forme hyperbolique et poétique du cinéma de fiction. Ses films à l'ironie salvatrice mêlent l'humour et le drame, la chorégraphie et la politique, la sensualité et le cynisme. Elle fut longtemps l'unique femme à diriger des films en Italie, et titra ainsi son autobiographie : _Tout est en ordre et rien ne va. Mémoires d'une réalisatrice de bonne humeur_."
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 216764,
-                  "idSeanceAssoc": 216900,
-                  "typeAssoc": 117,
-                  "dateHeure": "2026-06-18T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
-            },
+          "idFilm": 73090,
+          "content": [
             {
               "idFilm": 73090,
-              "content": [
-                {
-                  "idFilm": 73090,
-                  "ordre": 1,
-                  "titre": "Chacun à son poste et rien ne va",
-                  "titreVo": "Tutto a posto e niente in ordine",
-                  "realisateurs": "Lina Wertmüller",
-                  "pays": "Italie",
-                  "annee": 1973,
-                  "duree": 105,
-                  "version": "VOSTF",
-                  "format": "DCP"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 216900,
-                  "idSeanceAssoc": 216764,
-                  "typeAssoc": 117,
-                  "dateHeure": "2026-06-18T21:00:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film choisi par le conférencier"
-                }
-              ]
+              "ordre": 1,
+              "titre": "Chacun à son poste et rien ne va",
+              "titreVo": "Tutto a posto e niente in ordine",
+              "realisateurs": "Lina Wertmüller",
+              "pays": "Italie",
+              "annee": 1973,
+              "duree": 105,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216900,
+              "dateHeure": "2026-06-18T21:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -591,6 +563,31 @@
             {
               "idSeance": 209752,
               "dateHeure": "2026-06-27T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 36122,
+          "content": [
+            {
+              "idConf": 36122,
+              "titre": "« Qui êtes-vous... Lina Wertmüller ? » par Gabriela Trujillo",
+              "sousTitre": "Conférence de Gabriela Trujillo",
+              "typeConference": "Conférence",
+              "miniTexte": "Connue pour ses comédies cinglantes où la lutte des classes attise la guerre des sexes, Lina Wertmüller a été la prêtresse d'une forme hyperbolique et poétique du cinéma de fiction. Ses films à l'ironie salvatrice mêlent l'humour et le drame, la chorégraphie et la politique, la sensualité et le cynisme. Elle fut longtemps l'unique femme à diriger des films en Italie, et titra ainsi son autobiographie : _Tout est en ordre et rien ne va. Mémoires d'une réalisatrice de bonne humeur_."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216764,
+              "dateHeure": "2026-06-18T19:00:00",
               "idSalle": "GF"
             }
           ]

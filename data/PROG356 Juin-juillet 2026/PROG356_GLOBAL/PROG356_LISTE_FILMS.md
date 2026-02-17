@@ -176,9 +176,9 @@
   * Comment épouser un millionnaire  
   * Désaxés (Les)  
   * Niagara  
-  * Rivière sans retour
+  * Troublez-moi ce soir
 
-## Roman porno, les films érotiques de la Nikkatsu (20)
+## Roman porno, les films érotiques de la Nikkatsu (18)
 
   * Amants mouillés (Les)  
   * Angel Guts : Classe rouge  
@@ -197,8 +197,6 @@
   * Shiroi yubi no tawamure  
   * Sweden Porno: Blonde Animal  
   * Tokyo Emmanuelle fujin  
-  * Vie secrète de madame Yoshino (La)  
-  * Yumeno Kyūsaku no shōjo jigoku  
   * Zūmu in: Bōkō danchi
 
 ## Réalisatrices françaises des années 70 (25)
