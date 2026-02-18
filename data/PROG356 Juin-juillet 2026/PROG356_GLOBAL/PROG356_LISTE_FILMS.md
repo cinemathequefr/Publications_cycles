@@ -50,13 +50,15 @@
   * S.O.S. Concorde  
   * Story of Joanna (The)
 
-## Claudia Cardinale (19)
+## Claudia Cardinale (22)
 
+  * 8½  
   * Audience (L')  
   * Bel Antonio (Le)  
   * Cartouche  
   * Claretta  
   * Dauphins (Les)  
+  * Fille à la valise (La)  
   * Goha  
   * Guépard (Le)  
   * Il était une fois dans l'Ouest  
@@ -66,6 +68,7 @@
   * Mauvais Chemin (Le)  
   * Meurtre à l'italienne  
   * Panthère Rose (La)  
+  * Pigeon (Le)  
   * Professionnels (Les)  
   * Quand la chair succombe  
   * Ragazza (La)  

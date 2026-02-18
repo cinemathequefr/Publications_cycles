@@ -25,7 +25,8 @@
             {
               "idSeance": 217044,
               "dateHeure": "2026-06-06T14:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Hervé Le Corre"
             }
           ]
         },
@@ -75,7 +76,8 @@
             {
               "idSeance": 216813,
               "dateHeure": "2026-06-05T21:15:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Jake Lamar"
             }
           ]
         },
@@ -100,7 +102,8 @@
             {
               "idSeance": 216815,
               "dateHeure": "2026-06-06T20:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Danielle Thiéry"
             }
           ]
         },
@@ -131,7 +134,8 @@
             {
               "idSeance": 216812,
               "dateHeure": "2026-06-05T19:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Hélène Couturier"
             }
           ]
         },
@@ -152,12 +156,41 @@
             {
               "idSeance": 216817,
               "dateHeure": "2026-06-07T17:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Benjamin Fogel"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "The Swimmer",
+        "mention": "par Hélène Couturier",
+        "dateHeure": "2026-06-05T19:00:00"
+      },
+      {
+        "titreFilms": "The King of New York",
+        "mention": "par Jake Lamar",
+        "dateHeure": "2026-06-05T21:15:00"
+      },
+      {
+        "titreFilms": "Animal Kingdom",
+        "mention": "par Hervé Le Corre",
+        "dateHeure": "2026-06-06T14:30:00"
+      },
+      {
+        "titreFilms": "Mulholland Drive",
+        "mention": "par Danielle Thiéry",
+        "dateHeure": "2026-06-06T20:30:00"
+      },
+      {
+        "titreFilms": "Les Tourmentés",
+        "mention": "par Benjamin Fogel",
+        "dateHeure": "2026-06-07T17:30:00"
+      }
+    ]
+  }
 }
