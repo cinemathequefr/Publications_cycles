@@ -168,33 +168,47 @@
           ]
         },
         {
-          "idFilm": 41727,
-          "content": [
+          "groupe": [
             {
               "idFilm": 41727,
-              "ordre": 1,
-              "titre": "Troublez-moi ce soir",
-              "titreVo": "Don't Bother to Knock",
-              "realisateurs": "Roy Ward Baker",
-              "pays": "États-Unis",
-              "annee": 1952,
-              "duree": 76,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Mischief_ de Charlotte Armstrong.",
-              "generique": [
-                "Richard Widmark",
-                "Marilyn Monroe",
-                "Anne Bancroft"
-              ],
-              "miniTexte": "Anne Bancroft fait ses débuts à l'écran comme chanteuse de bar, Richard Widmark incarne un amant indécis. Mais surtout, avec ce huis clos sombre, la MGM offre à Marilyn Monroe un premier rôle de baby-sitter déséquilibrée et malveillante. Ses gestes brisés dans leur élan, accomplis avec réticence ou insistance, traduisent avec brio le désordre mental."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 41727,
+                  "ordre": 1,
+                  "titre": "Troublez-moi ce soir",
+                  "titreVo": "Don't Bother to Knock",
+                  "realisateurs": "Roy Ward Baker",
+                  "pays": "États-Unis",
+                  "annee": 1952,
+                  "duree": 76,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _Mischief_ de Charlotte Armstrong.",
+                  "generique": [
+                    "Richard Widmark",
+                    "Marilyn Monroe",
+                    "Anne Bancroft"
+                  ],
+                  "miniTexte": "Anne Bancroft fait ses débuts à l'écran comme chanteuse de bar, Richard Widmark incarne un amant indécis. Mais surtout, avec ce huis clos sombre, la MGM offre à Marilyn Monroe un premier rôle de baby-sitter déséquilibrée et malveillante. Ses gestes brisés dans leur élan, accomplis avec réticence ou insistance, traduisent avec brio le désordre mental."
+                }
+              ]
+            },
             {
-              "idSeance": 217041,
-              "dateHeure": "2026-06-13T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 36315,
+              "content": [
+                {
+                  "idConf": 36315,
+                  "ordre": 2
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217041,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-06-13T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -232,6 +246,9 @@
         "mention": "par Ginette Vincendeau",
         "dateHeure": "2026-05-29T19:00:00"
       }
+    ],
+    "undefined": [
+      {}
     ]
   }
 }

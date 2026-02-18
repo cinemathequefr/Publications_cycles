@@ -42,6 +42,7 @@
         "art": "La",
         "realisateurs": "Paula Delsol",
         "annee": 1964,
+        "duree": 84,
         "format": "DCP"
       }
     ],
@@ -287,6 +288,29 @@
       }
     ],
     "hashEvenement": "f45280"
+  },
+  {
+    "idSeance": 217056,
+    "idEvenement": 36312,
+    "dateHeure": "2026-05-29T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51587,
+        "titre": "Et Dieu... créa la femme",
+        "realisateurs": "Roger Vadim",
+        "annee": 1956,
+        "duree": 90,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f51587"
   },
   {
     "idSeance": 216838,
@@ -733,6 +757,7 @@
         "realisateurs": "Claudine Guilmain",
         "annee": 1979,
         "duree": 100,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -1018,6 +1043,7 @@
         "art": "La",
         "realisateurs": "Paula Delsol",
         "annee": 1964,
+        "duree": 84,
         "format": "DCP"
       },
       {
@@ -1663,6 +1689,10 @@
       [
         "Marilyn Monroe",
         "Les films"
+      ],
+      [
+        "Marilyn Monroe",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1674,9 +1704,13 @@
         "duree": 76,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 36315,
+        "titre": "[Action culturelle sans titre]"
       }
     ],
-    "hashEvenement": "f41727"
+    "hashEvenement": "f41727c36315"
   },
   {
     "idSeance": 209424,
@@ -3464,6 +3498,14 @@
     "salle": "HL",
     "cycle": [
       [
+        "Ciné-club de Murielle Joudet",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
+      ],
+      [
         "Claudia Cardinale",
         "Les films"
       ]
@@ -3478,9 +3520,15 @@
         "duree": 121,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 36313,
+        "titre": "Dialogue avec Murielle Joudet",
+        "typeConference": "Dialogue",
+        "duree": 75
       }
     ],
-    "hashEvenement": "f43803"
+    "hashEvenement": "f43803c36313"
   },
   {
     "idSeance": 209876,
@@ -3928,6 +3976,7 @@
         "realisateurs": "Pasquale Squitieri",
         "annee": 1973,
         "duree": 130,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],

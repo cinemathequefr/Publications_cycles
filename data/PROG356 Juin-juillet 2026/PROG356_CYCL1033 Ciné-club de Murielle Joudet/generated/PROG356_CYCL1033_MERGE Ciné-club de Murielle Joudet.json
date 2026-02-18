@@ -5,6 +5,42 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 217045,
+          "ordre": 1,
+          "dateHeure": "2026-07-03T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "typeAssoc": 118,
+          "idCategorie": 3897,
+          "idEvenement": 36305,
+          "typeEvenement": 13,
+          "idFilm": 43803,
+          "art": "La",
+          "titre": "Fille à la valise",
+          "artVo": "La",
+          "titreVo": "Ragazza con la valigia",
+          "realisateurs": "Valerio Zurlini",
+          "annee": 1961,
+          "pays": "Italie-France",
+          "duree": 121,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Claudia Cardinale",
+            "Jacques Perrin",
+            "Corrado Pani"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Délaissée par son amant, une chanteuse à la dérive trouve refuge auprès d'un adolescent de bonne famille. Avec le thème, évoqué dans son film précédent (_Été violent_), d'un tout jeune homme qui tombe amoureux d'une fille plus âgée, Zurlini réalise une œuvre aussi raffinée qu'incisive sur la cruauté des rapports de classes et les désillusions de la jeunesse, à laquelle le duo Perrin/Cardinale insuffle la beauté et la grâce. Au rythme d'une bande son de pop italienne, les images baignées de soleil habillent le mélodrame d'une douce amertume, qui fait de cette histoire d'éducation sentimentale un véritable joyau du cinéma italien."
+            }
+          ]
+        },
+        {
           "idSeance": 217047,
           "ordre": 1,
           "dateHeure": "2026-06-17T19:00:00",
@@ -86,6 +122,33 @@
           "typeAssoc": 118,
           "idCategorie": 3898,
           "idEvenement": 36304,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Murielle Joudet",
+          "duree": 75,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Murielle Joudet",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            }
+          ]
+        },
+        {
+          "idSeance": 217045,
+          "ordre": 2,
+          "dateHeure": "2026-07-03T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 75,
+          "typeAssoc": 118,
+          "idCategorie": 3898,
+          "idEvenement": 36313,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",

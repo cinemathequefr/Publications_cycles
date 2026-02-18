@@ -32,8 +32,9 @@
   * Vaysha l'aveugle  
   * Vicious (The)
 
-## Ciné-club de Murielle Joudet (2)
+## Ciné-club de Murielle Joudet (3)
 
+  * Fille à la valise (La)  
   * Mépris (Le)  
   * Sept ans de réflexion
 
@@ -50,7 +51,7 @@
   * S.O.S. Concorde  
   * Story of Joanna (The)
 
-## Claudia Cardinale (22)
+## Claudia Cardinale (21)
 
   * 8½  
   * Audience (L')  
@@ -58,7 +59,6 @@
   * Cartouche  
   * Claretta  
   * Dauphins (Les)  
-  * Fille à la valise (La)  
   * Goha  
   * Guépard (Le)  
   * Il était une fois dans l'Ouest  
@@ -227,10 +227,11 @@
   * Un rêve plus long que la nuit  
   * Villa Les Dunes
 
-## Séances spéciales (5)
+## Séances spéciales (6)
 
   * Aiguilles rouges (Les)  
   * Bananes mécaniques  
+  * Et Dieu... créa la femme  
   * I diari di Angela – Noi due cineasti  
   * I diari di Angela: Noi due cineasti. Capitolo secondo  
   * I diari di Angela: Noi due cineasti. Capitolo terzo
