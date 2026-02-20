@@ -22,10 +22,10 @@
 
   * Day of Graduation (The)  
   * Fake Lies  
-  * Family Portrait  
   * Hurikán  
   * Je mordrai la poussière des étoiles  
   * Nun or Never  
+  * Portrait de famille  
   * Quelque chose de divin  
   * Rivages  
   * Society of Clothes  
@@ -38,18 +38,16 @@
   * Mépris (Le)  
   * Sept ans de réflexion
 
-## Cinéma bis (10)
+## Cinéma bis (8)
 
   * Atlantis interceptors  
   * Campus  
   * Chaleur rouge  
   * Dans les bras de l'enfer  
   * J'ai vécu deux fois  
-  * Let My Puppets Come  
   * Mad Monster (The)  
   * Rues de l'enfer (Les)  
-  * S.O.S. Concorde  
-  * Story of Joanna (The)
+  * S.O.S. Concorde
 
 ## Claudia Cardinale (21)
 
@@ -96,9 +94,9 @@
 ## Histoire permanente du cinéma (25)
 
   * Amour de perdition  
-  * An 01 (L')  
   * Carabine nationale (La)  
   * Chamade (La)  
+  * Chère Louise  
   * Commissaire (La)  
   * Coup de torchon  
   * Cri du sorcier (Le)  
@@ -148,7 +146,7 @@
 ## Lina Wertmüller (22)
 
   * 12 registi per 12 città: Bari  
-  * Basilischi (I)  
+  * Basilischi (Les)  
   * Camorra  
   * Cette fois-ci, parlons des hommes  
   * Chacun à son poste et rien ne va  
@@ -178,7 +176,7 @@
   * Niagara  
   * Troublez-moi ce soir
 
-## Roman porno, les films érotiques de la Nikkatsu (18)
+## Roman porno, les films érotiques de la Nikkatsu (20)
 
   * Amants mouillés (Les)  
   * Angel Guts : Classe rouge  
@@ -197,6 +195,8 @@
   * Shiroi yubi no tawamure  
   * Sweden Porno: Blonde Animal  
   * Tokyo Emmanuelle fujin  
+  * Vie secrète de madame Yoshino (La)  
+  * Yumeno Kyūsaku no shōjo jigoku  
   * Zūmu in: Bōkō danchi
 
 ## Réalisatrices françaises des années 70 (25)

@@ -27,8 +27,8 @@
   {
     "idCategorie": 4127,
     "typeEvenement": 13,
-    "idEvenement": 36085,
-    "idSeance": 216775,
+    "idEvenement": 36075,
+    "idSeance": 217094,
     "dateHeure": "2026-06-11T18:30:00",
     "idSalle": [
       "GF",
@@ -37,11 +37,11 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 155704,
+        "idFilm": 69382,
         "ordre": 1,
-        "idSeance": 216775,
-        "idCopie": 31587,
-        "duree": 68,
+        "idSeance": 217094,
+        "idCopie": 31563,
+        "duree": 76,
         "version": "",
         "format": ""
       }
@@ -50,8 +50,8 @@
   {
     "idCategorie": 4127,
     "typeEvenement": 13,
-    "idEvenement": 36081,
-    "idSeance": 216776,
+    "idEvenement": 36078,
+    "idSeance": 217095,
     "dateHeure": "2026-06-11T20:30:00",
     "idSalle": [
       "GF",
@@ -60,13 +60,13 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 155702,
+        "idFilm": 99977,
         "ordre": 1,
-        "idSeance": 216776,
-        "idCopie": 31557,
-        "duree": 80,
-        "version": "",
-        "format": ""
+        "idSeance": 217095,
+        "idCopie": 31560,
+        "duree": 74,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -134,52 +134,6 @@
         "idSeance": 209420,
         "idCopie": 31589,
         "duree": 67,
-        "version": "",
-        "format": ""
-      }
-    ]
-  },
-  {
-    "idCategorie": 4127,
-    "typeEvenement": 13,
-    "idEvenement": 36074,
-    "idSeance": 216791,
-    "dateHeure": "2026-06-14T18:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 59224,
-        "ordre": 1,
-        "idSeance": 216791,
-        "idCopie": 14578,
-        "duree": 0,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4127,
-    "typeEvenement": 13,
-    "idEvenement": 36075,
-    "idSeance": 216792,
-    "dateHeure": "2026-06-14T20:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 105,
-    "items": [
-      {
-        "idFilm": 69382,
-        "ordre": 1,
-        "idSeance": 216792,
-        "idCopie": 31563,
-        "duree": 76,
         "version": "",
         "format": ""
       }
@@ -258,8 +212,31 @@
     "idCategorie": 4127,
     "typeEvenement": 13,
     "idEvenement": 36073,
-    "idSeance": 209509,
-    "dateHeure": "2026-06-18T21:30:00",
+    "idSeance": 217097,
+    "dateHeure": "2026-06-18T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 155700,
+        "ordre": 1,
+        "idSeance": 217097,
+        "idCopie": 31565,
+        "duree": 70,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 4127,
+    "typeEvenement": 13,
+    "idEvenement": 36081,
+    "idSeance": 217099,
+    "dateHeure": "2026-06-19T16:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -267,11 +244,57 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 155700,
+        "idFilm": 155702,
         "ordre": 1,
-        "idSeance": 209509,
-        "idCopie": 31565,
-        "duree": 70,
+        "idSeance": 217099,
+        "idCopie": 31557,
+        "duree": 80,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 4127,
+    "typeEvenement": 13,
+    "idEvenement": 36074,
+    "idSeance": 217091,
+    "dateHeure": "2026-06-19T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 59224,
+        "ordre": 1,
+        "idSeance": 217091,
+        "idCopie": 14578,
+        "duree": 0,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4127,
+    "typeEvenement": 13,
+    "idEvenement": 36079,
+    "idSeance": 217092,
+    "dateHeure": "2026-06-19T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 104701,
+        "ordre": 1,
+        "idSeance": 217092,
+        "idCopie": 31556,
+        "duree": 92,
         "version": "",
         "format": ""
       }
@@ -351,7 +374,7 @@
     "typeEvenement": 13,
     "idEvenement": 36080,
     "idSeance": 209606,
-    "dateHeure": "2026-06-21T17:30:00",
+    "dateHeure": "2026-06-21T17:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -374,7 +397,7 @@
     "typeEvenement": 13,
     "idEvenement": 36065,
     "idSeance": 209607,
-    "dateHeure": "2026-06-21T20:00:00",
+    "dateHeure": "2026-06-21T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -412,6 +435,29 @@
         "duree": 90,
         "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4127,
+    "typeEvenement": 13,
+    "idEvenement": 36085,
+    "idSeance": 217098,
+    "dateHeure": "2026-06-22T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 155704,
+        "ordre": 1,
+        "idSeance": 217098,
+        "idCopie": 31587,
+        "duree": 68,
+        "version": "",
+        "format": ""
       }
     ]
   }
