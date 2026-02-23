@@ -1,11 +1,12 @@
 # Liste des films par cycle
 
-## 40 ans de Rivages noir (6)
+## 40 ans de Rivages noir (7)
 
   * Animal Kingdom  
   * Griffe du passé (La)  
   * King of New York (The)  
   * Mulholland Drive  
+  * Règlement de comptes  
   * Swimmer (The)  
   * Tourmentés (Les)
 
@@ -73,6 +74,14 @@
   * Rocco et ses frères  
   * Sandra
 
+## Fenêtre sur les collections (5)
+
+  * Arlésienne (L')  
+  * Étoiles ne meurent jamais (Les)  
+  * Jean Epstein, Young Oceans of Cinema  
+  * Paris, Cabourg, Le Caire et l'amour  
+  * Réverbération (La)
+
 ## Hirokazu Kore-eda (15)
 
   * After Life  
@@ -91,10 +100,11 @@
   * Une affaire de famille  
   * Vérité (La)
 
-## Histoire permanente du cinéma (25)
+## Histoire permanente du cinéma (26)
 
   * Amour de perdition  
   * Carabine nationale (La)  
+  * Cet obscur objet du désir  
   * Chamade (La)  
   * Chère Louise  
   * Commissaire (La)  
@@ -176,6 +186,12 @@
   * Niagara  
   * Troublez-moi ce soir
 
+## Parlons cinéma... avec Édouard Louis (3)
+
+  * Deux jours, une nuit  
+  * Éternels (Les)  
+  * Vie de Jésus (La)
+
 ## Roman porno, les films érotiques de la Nikkatsu (20)
 
   * Amants mouillés (Les)  
@@ -199,13 +215,15 @@
   * Yumeno Kyūsaku no shōjo jigoku  
   * Zūmu in: Bōkō danchi
 
-## Réalisatrices françaises des années 70 (25)
+## Réalisatrices françaises des années 70 (27)
 
   * A. Constant  
   * Aloïse  
+  * Bonheur (Le)  
   * Ça n'arrive qu'aux autres  
   * Dérive (La)  
   * Diabolo menthe  
+  * Faustine et le bel été  
   * Félicité  
   * Femme de Jean (La)  
   * Femme intégrale (La)  

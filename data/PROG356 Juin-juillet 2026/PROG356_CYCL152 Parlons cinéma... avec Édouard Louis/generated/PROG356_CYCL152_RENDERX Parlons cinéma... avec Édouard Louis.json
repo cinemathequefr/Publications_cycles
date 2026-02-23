@@ -1,0 +1,159 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "groupe": [
+            {
+              "idFilm": 61393,
+              "content": [
+                {
+                  "idFilm": 61393,
+                  "ordre": 1,
+                  "titre": "Vie de Jésus",
+                  "art": "La",
+                  "realisateurs": "Bruno Dumont",
+                  "pays": "France",
+                  "annee": 1996,
+                  "duree": 96,
+                  "version": "",
+                  "format": "35 mm",
+                  "generique": [
+                    "David Douche",
+                    "Marjorie Cottreel",
+                    "Geneviève Cottreel"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 36325,
+              "content": [
+                {
+                  "idConf": 36325,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Édouard Louis",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217122,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-06-03T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 122509,
+              "content": [
+                {
+                  "idFilm": 122509,
+                  "ordre": 1,
+                  "titre": "Deux jours, une nuit",
+                  "realisateurs": "Jean-Pierre Dardenne, Luc Dardenne",
+                  "pays": "Belgique-France-Italie",
+                  "annee": 2013
+                }
+              ]
+            },
+            {
+              "idEvenement": 36326,
+              "content": [
+                {
+                  "idConf": 36326,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Édouard Louis",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217124,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-06-12T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 139245,
+              "content": [
+                {
+                  "idFilm": 139245,
+                  "ordre": 1,
+                  "titre": "Éternels",
+                  "art": "Les",
+                  "titreVo": "Jianghu ernü",
+                  "realisateurs": "Jia Zhangke",
+                  "pays": "Chine-France",
+                  "annee": 2018,
+                  "duree": 141,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Zhao Tao",
+                    "Liao Fan",
+                    "Xu Zheng",
+                    "Diao Yi'nan"
+                  ],
+                  "miniTexte": "Sur trois époques, l'histoire d'amour mouvementée entre une ancienne danseuse et un gangster. De séparations en retrouvailles, Jia Zhangke met en scène une épopée romantique dans la pègre locale, qui suit les évolutions de la Chine contemporaine. Une fresque virevoltante d'une grande beauté formelle, emmenée par la fascinante Zhao Tao, muse du cinéaste."
+                }
+              ]
+            },
+            {
+              "idEvenement": 36327,
+              "content": [
+                {
+                  "idConf": 36327,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Édouard Louis",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217126,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-06-15T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "titreFilms": "La Vie de Jésus",
+        "mention": "avec Édouard Louis",
+        "dateHeure": "2026-06-03T19:00:00"
+      },
+      {
+        "titreFilms": "Deux jours, une nuit",
+        "mention": "avec Édouard Louis",
+        "dateHeure": "2026-06-12T19:00:00"
+      },
+      {
+        "titreFilms": "Les Éternels",
+        "mention": "avec Édouard Louis",
+        "dateHeure": "2026-06-15T19:00:00"
+      }
+    ]
+  }
+}

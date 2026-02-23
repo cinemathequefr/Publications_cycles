@@ -29,72 +29,9 @@
           "seances": [
             {
               "idSeance": 217056,
-              "dateHeure": "2026-05-29T21:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 155745,
-          "content": [
-            {
-              "idFilm": 155745,
-              "ordre": 1,
-              "titre": "I diari di Angela – Noi due cineasti",
-              "realisateurs": "Angela Ricci Lucchi, Yervant Gianikian",
-              "pays": "Italie",
-              "annee": 2018,
-              "duree": 125,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Walter Chiari",
-                "Angela Ricci Lucchi",
-                "Yervant Gianikian"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 216857,
-              "dateHeure": "2026-05-31T17:30:00",
-              "idSalle": "GF"
-            },
-            {
-              "idSeance": 217089,
-              "dateHeure": "2026-06-14T17:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 155746,
-          "content": [
-            {
-              "idFilm": 155746,
-              "ordre": 1,
-              "titre": "I diari di Angela: Noi due cineasti. Capitolo secondo",
-              "realisateurs": "Yervant Gianikian",
-              "pays": "Italie",
-              "annee": 2019,
-              "duree": 100,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Angela Ricci Lucchi",
-                "Yervant Gianikian"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 216858,
-              "dateHeure": "2026-05-31T20:00:00",
-              "idSalle": "GF"
-            },
-            {
-              "idSeance": 217090,
-              "dateHeure": "2026-06-14T20:30:00",
+              "idSeanceAssoc": 217037,
+              "typeAssoc": 117,
+              "dateHeure": "2026-05-29T21:15:00",
               "idSalle": "GF"
             }
           ]
@@ -130,6 +67,61 @@
               "dateHeure": "2026-06-15T20:00:00",
               "idSalle": "HL",
               "mention": "Avant-première"
+            }
+          ]
+        },
+        {
+          "idFilm": 155745,
+          "content": [
+            {
+              "idFilm": 155745,
+              "ordre": 1,
+              "titre": "I diari di Angela – Noi due cineasti",
+              "realisateurs": "Angela Ricci Lucchi, Yervant Gianikian",
+              "pays": "Italie",
+              "annee": 2018,
+              "duree": 125,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Walter Chiari",
+                "Angela Ricci Lucchi",
+                "Yervant Gianikian"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217089,
+              "dateHeure": "2026-06-14T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155746,
+          "content": [
+            {
+              "idFilm": 155746,
+              "ordre": 1,
+              "titre": "I diari di Angela: Noi due cineasti. Capitolo secondo",
+              "realisateurs": "Yervant Gianikian",
+              "pays": "Italie",
+              "annee": 2019,
+              "duree": 100,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Angela Ricci Lucchi",
+                "Yervant Gianikian"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217090,
+              "dateHeure": "2026-06-14T20:30:00",
+              "idSalle": "GF"
             }
           ]
         }
