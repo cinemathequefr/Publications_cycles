@@ -100,7 +100,7 @@
     "idSeance": 209020,
     "idEvenement": 36029,
     "dateHeure": "2026-05-28T18:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Réalisatrices françaises des années 70",
@@ -150,7 +150,7 @@
     "idSeance": 216834,
     "idEvenement": 36026,
     "dateHeure": "2026-05-28T20:45:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Réalisatrices françaises des années 70",
@@ -596,7 +596,8 @@
         "titre": "Un film",
         "realisateurs": "Sylvina Boissonnas",
         "annee": 1970,
-        "duree": 60,
+        "duree": 51,
+        "version": "Autres",
         "format": "35 mm"
       }
     ],
@@ -718,29 +719,6 @@
     "hashEvenement": "f48252"
   },
   {
-    "idSeance": 209124,
-    "idEvenement": 36257,
-    "dateHeure": "2026-06-01T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Les films"
-      ]
-    ],
-    "mention": "Avant-première",
-    "items": [
-      {
-        "idFilm": 155747,
-        "titre": "I diari di Angela: Noi due cineasti. Capitolo terzo",
-        "realisateurs": "Angela Ricci Lucchi, Yervant Gianikian",
-        "annee": 2025,
-        "duree": 123
-      }
-    ],
-    "hashEvenement": "f155747"
-  },
-  {
     "idSeance": 217114,
     "idEvenement": 36017,
     "dateHeure": "2026-06-01T20:30:00",
@@ -807,7 +785,7 @@
         "titre": "Vie de Jésus",
         "art": "La",
         "realisateurs": "Bruno Dumont",
-        "annee": 1996,
+        "annee": 1997,
         "duree": 96,
         "format": "35 mm"
       },
@@ -1777,7 +1755,7 @@
         "idFilm": 122509,
         "titre": "Deux jours, une nuit",
         "realisateurs": "Jean-Pierre Dardenne, Luc Dardenne",
-        "annee": 2013
+        "annee": 2014
       },
       {
         "idConf": 36326,
@@ -2673,6 +2651,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Joshua John Miller",
     "items": [
       {
         "idFilm": 36906,
@@ -3216,6 +3195,10 @@
       [
         "Week-end S. S. Rajamouli",
         "Les films"
+      ],
+      [
+        "Week-end S. S. Rajamouli",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3228,9 +3211,15 @@
         "duree": 159,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 36339,
+        "titre": "Dialogue avec S. S. Rajamouli",
+        "typeConference": "Dialogue",
+        "duree": 75
       }
     ],
-    "hashEvenement": "f155758"
+    "hashEvenement": "f155758c36339"
   },
   {
     "idSeance": 216886,

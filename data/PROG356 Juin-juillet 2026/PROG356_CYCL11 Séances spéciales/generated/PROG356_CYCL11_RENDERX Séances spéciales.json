@@ -37,40 +37,6 @@
           ]
         },
         {
-          "idFilm": 155747,
-          "content": [
-            {
-              "idFilm": 155747,
-              "ordre": 1,
-              "titre": "I diari di Angela: Noi due cineasti. Capitolo terzo",
-              "realisateurs": "Angela Ricci Lucchi, Yervant Gianikian",
-              "pays": "Italie",
-              "annee": 2025,
-              "duree": 123,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Yervant Gianikian",
-                "Lucrezia Lerro"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 209124,
-              "dateHeure": "2026-06-01T20:00:00",
-              "idSalle": "HL",
-              "mention": "Avant-première"
-            },
-            {
-              "idSeance": 209450,
-              "dateHeure": "2026-06-15T20:00:00",
-              "idSalle": "HL",
-              "mention": "Avant-première"
-            }
-          ]
-        },
-        {
           "idFilm": 155745,
           "content": [
             {
@@ -122,6 +88,34 @@
               "idSeance": 217090,
               "dateHeure": "2026-06-14T20:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155747,
+          "content": [
+            {
+              "idFilm": 155747,
+              "ordre": 1,
+              "titre": "I diari di Angela: Noi due cineasti. Capitolo terzo",
+              "realisateurs": "Angela Ricci Lucchi, Yervant Gianikian",
+              "pays": "Italie",
+              "annee": 2025,
+              "duree": 123,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Yervant Gianikian",
+                "Lucrezia Lerro"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209450,
+              "dateHeure": "2026-06-15T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
             }
           ]
         }
@@ -193,11 +187,7 @@
     }
   ],
   "syntheseAction": {
-    "Avant-premières": [
-      {
-        "dateHeure": "2026-06-01T20:00:00",
-        "titreFilms": "I diari di Angela: Noi due cineasti. Capitolo terzo"
-      },
+    "Avant-première": [
       {
         "dateHeure": "2026-06-15T20:00:00",
         "titreFilms": "I diari di Angela: Noi due cineasti. Capitolo terzo"

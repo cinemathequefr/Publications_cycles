@@ -34,28 +34,44 @@
           ]
         },
         {
-          "idFilm": 155758,
-          "content": [
+          "groupe": [
             {
               "idFilm": 155758,
-              "ordre": 1,
-              "titre": "Légende de Baahubali, 1re partie",
-              "art": "La",
-              "titreVo": "బాహుబలి",
-              "realisateurs": "S.S. Rajamouli",
-              "pays": "Inde",
-              "annee": 2015,
-              "duree": 159,
-              "version": "VOSTF",
-              "format": "DCP",
-              "miniTexte": "Dans un royaume indien, une femme pourchassée par des soldats se sacrifie pour sauver son enfant. Rajamouli pose les bases d'une saga ambitieuse à l'énergie narrative constante et au goût affirmé pour l'outrance. Inspiré par Zack Snyder et Peter Jackson, un récit flamboyant, première pierre d'une épopée devenue phénomène mondial."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 155758,
+                  "ordre": 1,
+                  "titre": "Légende de Baahubali, 1re partie",
+                  "art": "La",
+                  "titreVo": "బాహుబలి",
+                  "realisateurs": "S.S. Rajamouli",
+                  "pays": "Inde",
+                  "annee": 2015,
+                  "duree": 159,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "miniTexte": "Dans un royaume indien, une femme pourchassée par des soldats se sacrifie pour sauver son enfant. Rajamouli pose les bases d'une saga ambitieuse à l'énergie narrative constante et au goût affirmé pour l'outrance. Inspiré par Zack Snyder et Peter Jackson, un récit flamboyant, première pierre d'une épopée devenue phénomène mondial."
+                }
+              ]
+            },
             {
-              "idSeance": 217017,
-              "dateHeure": "2026-06-27T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 36339,
+              "content": [
+                {
+                  "idConf": 36339,
+                  "ordre": 2,
+                  "titre": "Dialogue avec S. S. Rajamouli",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217017,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-06-27T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -112,5 +128,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "La Légende de Baahubali, 1re partie",
+        "mention": "avec S. S. Rajamouli",
+        "dateHeure": "2026-06-27T14:30:00"
+      }
+    ]
+  }
 }
