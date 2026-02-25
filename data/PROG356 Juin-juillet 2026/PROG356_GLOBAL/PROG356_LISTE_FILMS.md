@@ -196,24 +196,24 @@
 
   * Amants mouillés (Les)  
   * Angel Guts : Classe rouge  
-  * Dan Oniroku hebi no ana  
-  * Irogoyomi ooku hiwa  
+  * Blonde suédoise (La)  
+  * Braconnage sexuel  
+  * Doigts blancs de l'extase (Les)  
+  * Emmanuelle à Tokyo  
+  * Enfer des jeunes filles (L')  
+  * Femmes de la bourrasque (Les)  
+  * Fosse aux serpents (La)  
+  * Histoire sexuelle de la lanterne pivoine  
+  * Love Hotel  
   * Marché sexuel des filles  
-  * Mitsuryo-zuma: oku no uzuki  
+  * Nouveau pénitencier pour filles  
   * Nuits félines à Shinjuku  
   * Parfum d'un sortilège  
-  * Rabu hoteru  
-  * Rideau de Fusuma (Le)  
+  * Petits secrets dans la chambre des courtisanes  
+  * Rideau de fusuma (Le)  
   * Rue de la joie  
-  * Seidan botan-dōrō  
-  * Sengoku rokku hayate no onnatachi  
-  * Shin jitsuroku onna kanbetsusho: Rengoku  
-  * Shiroi yubi no tawamure  
-  * Sweden Porno: Blonde Animal  
-  * Tokyo Emmanuelle fujin  
   * Vie secrète de madame Yoshino (La)  
-  * Yumeno Kyūsaku no shōjo jigoku  
-  * Zūmu in: Bōkō danchi
+  * Zoom in : violence dans l'immeuble
 
 ## Réalisatrices françaises des années 70 (27)
 
