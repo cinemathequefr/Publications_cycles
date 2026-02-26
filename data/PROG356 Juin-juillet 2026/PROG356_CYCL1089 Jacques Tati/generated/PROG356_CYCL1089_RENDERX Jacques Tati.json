@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-07-08T20:00:00",
-    "2026-07-12T20:30:00"
+    "2026-07-12T17:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -65,7 +65,7 @@
           "seances": [
             {
               "idSeance": 210092,
-              "dateHeure": "2026-07-12T20:30:00",
+              "dateHeure": "2026-07-12T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -129,7 +129,7 @@
           "seances": [
             {
               "idSeance": 210091,
-              "dateHeure": "2026-07-12T18:00:00",
+              "dateHeure": "2026-07-12T15:00:00",
               "idSalle": "GF"
             }
           ]
@@ -167,7 +167,7 @@
             },
             {
               "idSeance": 210074,
-              "dateHeure": "2026-07-11T19:30:00",
+              "dateHeure": "2026-07-11T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -199,7 +199,7 @@
           "seances": [
             {
               "idSeance": 210073,
-              "dateHeure": "2026-07-11T17:00:00",
+              "dateHeure": "2026-07-11T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -294,13 +294,43 @@
           "seances": [
             {
               "idSeance": 210076,
-              "dateHeure": "2026-07-11T15:00:00",
+              "dateHeure": "2026-07-11T18:00:00",
               "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 36341,
+          "content": [
+            {
+              "idConf": 36341,
+              "titre": "Dialogue avec Charles Bosson",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217132,
+              "dateHeure": "2026-07-11T16:30:00",
+              "idSalle": "HL"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "avec Charles Bosson",
+        "dateHeure": "2026-07-11T16:30:00"
+      }
+    ]
+  }
 }

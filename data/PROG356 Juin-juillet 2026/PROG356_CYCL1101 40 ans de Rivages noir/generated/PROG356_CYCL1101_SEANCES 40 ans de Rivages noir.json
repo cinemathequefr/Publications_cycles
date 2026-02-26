@@ -2,6 +2,31 @@
   {
     "idCategorie": 4154,
     "typeEvenement": 13,
+    "idEvenement": 36343,
+    "idSeance": 216811,
+    "dateHeure": "2026-06-04T20:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "typeSeance": 44,
+    "items": [
+      {
+        "idFilm": 85662,
+        "ordre": 1,
+        "idSeance": 216811,
+        "idCopie": 9797,
+        "duree": 137,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCategorie": 4154,
+    "typeEvenement": 13,
     "idEvenement": 36162,
     "idSeance": 216812,
     "dateHeure": "2026-06-05T19:00:00",
@@ -27,20 +52,24 @@
     "idCategorie": 4154,
     "typeEvenement": 13,
     "idEvenement": 36159,
-    "idSeance": 216813,
+    "idSeance": 217134,
     "dateHeure": "2026-06-05T21:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 135,
     "items": [
       {
         "idFilm": 57244,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 217134,
+        "idCopie": 31769,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "DCP"
       }
-    ],
-    "mention": "Séance présentée par Jake Lamar"
+    ]
   },
   {
     "idCategorie": 4154,
@@ -56,7 +85,12 @@
     "items": [
       {
         "idFilm": 113160,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 217044,
+        "idCopie": 31768,
+        "duree": 112,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "mention": "Séance présentée par Hervé Le Corre"
@@ -89,55 +123,68 @@
     "idCategorie": 4154,
     "typeEvenement": 13,
     "idEvenement": 36177,
-    "idSeance": 216815,
+    "idSeance": 217135,
     "dateHeure": "2026-06-06T20:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 180,
     "items": [
       {
         "idFilm": 76240,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 217135,
+        "idCopie": 1265,
+        "duree": 146,
+        "version": "VOSTF",
+        "format": "DCP"
       }
-    ],
-    "mention": "Séance présentée par Danielle Thiéry"
+    ]
   },
   {
     "idCategorie": 4154,
     "typeEvenement": 13,
     "idEvenement": 36176,
-    "idSeance": 216817,
+    "idSeance": 217136,
     "dateHeure": "2026-06-07T17:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 150,
     "items": [
       {
         "idFilm": 155742,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 217136,
+        "idCopie": 31770,
+        "duree": 113,
+        "version": "",
+        "format": ""
       }
-    ],
-    "mention": "Séance présentée par Benjamin Fogel et Lucas Belvaux"
+    ]
   },
   {
     "idCategorie": 4154,
     "typeEvenement": 13,
     "idEvenement": 36187,
-    "idSeance": 216816,
+    "idSeance": 217137,
     "dateHeure": "2026-06-07T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 135,
     "items": [
       {
         "idFilm": 37334,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 217137,
+        "idCopie": 12098,
+        "duree": 97,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   }

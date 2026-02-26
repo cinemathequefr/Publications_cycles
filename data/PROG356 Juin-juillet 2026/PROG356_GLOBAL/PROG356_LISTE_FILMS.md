@@ -1,11 +1,12 @@
 # Liste des films par cycle
 
-## 40 ans de Rivages noir (7)
+## 40 ans de Rivages noir (8)
 
   * Animal Kingdom  
   * Griffe du passé (La)  
   * King of New York (The)  
   * Mulholland Drive  
+  * Mystic River  
   * Règlement de comptes  
   * Swimmer (The)  
   * Tourmentés (Les)
@@ -142,6 +143,16 @@
   * Trafic  
   * Vacances de monsieur Hulot (Les)
 
+## Joséphine Baker (7)
+
+  * Clair-obscur  
+  * Princesse Tam Tam  
+  * Revue des revues (La)  
+  * Sirène des tropiques (La)  
+  * Triplettes de Belleville (Les)  
+  * Une fausse alerte  
+  * Zouzou
+
 ## Les grands classiques du cinéma muet vus par Henri Langlois (8)
 
   * Aurore (L')  
@@ -165,11 +176,11 @@
   * Fernando e Carolina  
   * Film d'amour et d'anarchie  
   * Fin du monde dans notre lit conjugal (La)  
-  * Metalmeccanico e parrucchiera in un turbine di sesso e di politica  
+  * Métallurgiste et coiffeuse dans un tourbillon de sexe et de politique  
   * Mimi métallo, blessé dans son honneur  
   * Ninfa plebea  
   * Non stuzzicate la zanzara  
-  * Notte d'estate con profilo greco, occhi a mandorla e odore di basilico  
+  * Nuit d'été avec profil grec, yeux en amande et odeur de basilic  
   * Par une nuit de clair de lune  
   * Pasqualino  
   * Rita la zanzara  

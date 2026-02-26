@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2026-06-05T19:00:00",
+    "2026-06-04T20:15:00",
     "2026-06-07T20:30:00"
   ],
   "textePresentation": "",
@@ -19,6 +19,9 @@
               "realisateurs": "David Michôd",
               "pays": "Australie",
               "annee": 2010,
+              "duree": 112,
+              "version": "VOSTF",
+              "format": "DCP",
               "generique": [
                 "James Frecheville",
                 "Guy Pearce",
@@ -47,6 +50,9 @@
               "realisateurs": "Jacques Tourneur",
               "pays": "États-Unis",
               "annee": 1946,
+              "duree": 97,
+              "version": "VO",
+              "format": "35 mm",
               "adaptation": "D'après le roman _Pendez-moi haut et court_ de Daniel Mainwaring.",
               "generique": [
                 "Robert Mitchum",
@@ -58,7 +64,7 @@
           ],
           "seances": [
             {
-              "idSeance": 216816,
+              "idSeance": 217137,
               "dateHeure": "2026-06-07T20:30:00",
               "idSalle": "GF"
             }
@@ -76,6 +82,9 @@
               "realisateurs": "Abel Ferrara",
               "pays": "Italie-États-Unis",
               "annee": 1990,
+              "duree": 103,
+              "version": "VOSTF",
+              "format": "DCP",
               "generique": [
                 "Christopher Walken",
                 "David Caruso",
@@ -85,10 +94,9 @@
           ],
           "seances": [
             {
-              "idSeance": 216813,
+              "idSeance": 217134,
               "dateHeure": "2026-06-05T21:15:00",
-              "idSalle": "GF",
-              "mention": "Séance présentée par Jake Lamar"
+              "idSalle": "GF"
             }
           ]
         },
@@ -102,6 +110,9 @@
               "realisateurs": "David Lynch",
               "pays": "France-États-Unis",
               "annee": 2001,
+              "duree": 146,
+              "version": "VOSTF",
+              "format": "DCP",
               "generique": [
                 "Naomi Watts",
                 "Laura Harring",
@@ -111,10 +122,39 @@
           ],
           "seances": [
             {
-              "idSeance": 216815,
+              "idSeance": 217135,
               "dateHeure": "2026-06-06T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 85662,
+          "content": [
+            {
+              "idFilm": 85662,
+              "ordre": 1,
+              "titre": "Mystic River",
+              "realisateurs": "Clint Eastwood",
+              "pays": "États-Unis",
+              "annee": 2002,
+              "duree": 137,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Mystic River_ de Dennis Lehane.",
+              "generique": [
+                "Sean Penn",
+                "Tim Robbins",
+                "Kevin Bacon"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216811,
+              "dateHeure": "2026-06-04T20:15:00",
               "idSalle": "GF",
-              "mention": "Séance présentée par Danielle Thiéry"
+              "mention": "Ouverture de la rétrospective"
             }
           ]
         },
@@ -194,6 +234,9 @@
               "realisateurs": "Lucas Belvaux",
               "pays": "France",
               "annee": 2025,
+              "duree": 113,
+              "version": "",
+              "format": "",
               "adaptation": "D'après le roman _Les Tourmentés_ de Lucas Belvaux.",
               "generique": [
                 "Niels Schneider",
@@ -204,10 +247,9 @@
           ],
           "seances": [
             {
-              "idSeance": 216817,
+              "idSeance": 217136,
               "dateHeure": "2026-06-07T17:30:00",
-              "idSalle": "GF",
-              "mention": "Séance présentée par Benjamin Fogel et Lucas Belvaux"
+              "idSalle": "GF"
             }
           ]
         }
@@ -222,11 +264,6 @@
         "dateHeure": "2026-06-05T19:00:00"
       },
       {
-        "titreFilms": "The King of New York",
-        "mention": "par Jake Lamar",
-        "dateHeure": "2026-06-05T21:15:00"
-      },
-      {
         "titreFilms": "Animal Kingdom",
         "mention": "par Hervé Le Corre",
         "dateHeure": "2026-06-06T14:30:00"
@@ -235,16 +272,6 @@
         "titreFilms": "Règlement de comptes",
         "mention": "par Dominique Manotti",
         "dateHeure": "2026-06-06T18:30:00"
-      },
-      {
-        "titreFilms": "Mulholland Drive",
-        "mention": "par Danielle Thiéry",
-        "dateHeure": "2026-06-06T20:45:00"
-      },
-      {
-        "titreFilms": "Les Tourmentés",
-        "mention": "par Benjamin Fogel et Lucas Belvaux",
-        "dateHeure": "2026-06-07T17:30:00"
       }
     ]
   }

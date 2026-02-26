@@ -1,0 +1,198 @@
+{
+  "datesCycle": [
+    "2026-07-01T20:00:00",
+    "2026-07-05T20:00:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 151142,
+          "content": [
+            {
+              "idFilm": 151142,
+              "ordre": 1,
+              "titre": "Clair-obscur",
+              "titreVo": "Passing",
+              "realisateurs": "Rebecca Hall",
+              "pays": "États-Unis",
+              "annee": 2021,
+              "adaptation": "D'après le roman _Passer la ligne_ de Nella Larsen.",
+              "generique": [
+                "Tessa Thompson",
+                "Ruth Negga",
+                "Andre Holland"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209932,
+              "dateHeure": "2026-07-05T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155774,
+          "content": [
+            {
+              "idFilm": 155774,
+              "ordre": 1,
+              "titre": "Princesse Tam Tam",
+              "realisateurs": "Edmond T. Gréville",
+              "pays": "France",
+              "annee": 1935
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209914,
+              "dateHeure": "2026-07-04T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 74038,
+          "content": [
+            {
+              "idFilm": 74038,
+              "ordre": 1,
+              "titre": "Revue des revues",
+              "art": "La",
+              "realisateurs": "Joe Francis, Alex Nalpas",
+              "pays": "France",
+              "annee": 1927
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209835,
+              "dateHeure": "2026-07-02T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 48449,
+          "content": [
+            {
+              "idFilm": 48449,
+              "ordre": 1,
+              "titre": "Sirène des tropiques",
+              "art": "La",
+              "realisateurs": "Henri Étiévant, Mario Nalpas",
+              "pays": "France",
+              "annee": 1927
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209809,
+              "dateHeure": "2026-07-01T20:00:00",
+              "idSalle": "GF",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 85578,
+          "content": [
+            {
+              "idFilm": 85578,
+              "ordre": 1,
+              "titre": "Triplettes de Belleville",
+              "art": "Les",
+              "realisateurs": "Sylvain Chomet",
+              "pays": "France-Canada-Belgique",
+              "annee": 2003,
+              "ageMinimal": 10
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217138,
+              "dateHeure": "2026-07-05T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 46552,
+          "content": [
+            {
+              "idFilm": 46552,
+              "ordre": 1,
+              "titre": "Une fausse alerte",
+              "realisateurs": "Jacques de Baroncelli",
+              "pays": "France",
+              "annee": 1940
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209933,
+              "dateHeure": "2026-07-05T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 46171,
+              "content": [
+                {
+                  "idFilm": 46171,
+                  "ordre": 1,
+                  "titre": "Zouzou",
+                  "realisateurs": "Marc Allégret",
+                  "pays": "France",
+                  "annee": 1934,
+                  "generique": [
+                    "Joséphine Baker",
+                    "Jean Gabin",
+                    "Pierre Larquey"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 36358,
+              "content": [
+                {
+                  "idConf": 36358,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Myriam Juan",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Émilie Cauquy"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 209913,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-07-04T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Zouzou",
+        "mention": "avec Myriam Juan",
+        "dateHeure": "2026-07-04T15:00:00"
+      }
+    ]
+  }
+}
