@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-06-26T20:00:00",
-    "2026-06-28T16:30:00"
+    "2026-06-28T18:15:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -32,9 +32,10 @@
           ],
           "seances": [
             {
-              "idSeance": 217022,
-              "dateHeure": "2026-06-26T20:00:00",
-              "idSalle": "HL"
+              "idSeance": 217155,
+              "dateHeure": "2026-06-28T18:15:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par S.S. Rajamouli"
             }
           ]
         },
@@ -46,7 +47,7 @@
                 {
                   "idFilm": 155758,
                   "ordre": 1,
-                  "titre": "Légende de Baahubali, 1re partie",
+                  "titre": "Légende de Baahubali, 1e partie",
                   "art": "La",
                   "titreVo": "బాహుబలి",
                   "realisateurs": "S.S. Rajamouli",
@@ -112,6 +113,32 @@
             {
               "idSeance": 217019,
               "dateHeure": "2026-06-27T20:00:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par S.S. Rajamouli"
+            }
+          ]
+        },
+        {
+          "idFilm": 155791,
+          "content": [
+            {
+              "idFilm": 155791,
+              "ordre": 1,
+              "titre": "Maryadha Ramanna",
+              "realisateurs": "S.S. Rajamouli",
+              "pays": "Inde",
+              "annee": 2010,
+              "generique": [
+                "Sunil",
+                "Saloni Aswani",
+                "Supreet"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217159,
+              "dateHeure": "2026-06-28T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -139,9 +166,10 @@
           ],
           "seances": [
             {
-              "idSeance": 217018,
-              "dateHeure": "2026-06-28T16:30:00",
-              "idSalle": "HL"
+              "idSeance": 217154,
+              "dateHeure": "2026-06-26T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective. Séance présentée par S.S. Rajamouli"
             }
           ]
         }
@@ -151,9 +179,26 @@
   "syntheseAction": {
     "Dialogue": [
       {
-        "titreFilms": "La Légende de Baahubali, 1re partie",
+        "titreFilms": "La Légende de Baahubali, 1e partie",
         "mention": "avec S. S. Rajamouli",
         "dateHeure": "2026-06-27T14:30:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "RRR",
+        "mention": "par S.S. Rajamouli",
+        "dateHeure": "2026-06-26T20:00:00"
+      },
+      {
+        "titreFilms": "La Légende de Baahubali, 2e partie",
+        "mention": "par S.S. Rajamouli",
+        "dateHeure": "2026-06-27T20:00:00"
+      },
+      {
+        "titreFilms": "Eega",
+        "mention": "par S.S. Rajamouli",
+        "dateHeure": "2026-06-28T18:15:00"
       }
     ]
   }

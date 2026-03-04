@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-07-01T20:00:00",
-    "2026-07-05T20:00:00"
+    "2026-07-05T19:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,74 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "groupe": [
+            {
+              "idEvenement": 36369,
+              "content": [
+                {
+                  "idFilm": 155782,
+                  "ordre": 1,
+                  "titre": "Championnat de danse",
+                  "realisateurs": "Anonyme",
+                  "pays": "France",
+                  "annee": 1931,
+                  "duree": 3,
+                  "version": "",
+                  "format": "35 mm"
+                },
+                {
+                  "idFilm": 155783,
+                  "ordre": 2,
+                  "titre": "Joséphine débute dans l'opérette",
+                  "realisateurs": "Anonyme",
+                  "pays": "France",
+                  "annee": 1934,
+                  "duree": 3,
+                  "version": "",
+                  "format": "35 mm"
+                },
+                {
+                  "idFilm": 46171,
+                  "ordre": 3,
+                  "titre": "Zouzou",
+                  "realisateurs": "Marc Allégret",
+                  "pays": "France",
+                  "annee": 1934,
+                  "duree": 92,
+                  "version": "",
+                  "format": "35 mm",
+                  "generique": [
+                    "Joséphine Baker",
+                    "Jean Gabin",
+                    "Pierre Larquey"
+                  ],
+                  "miniTexte": "Pour son premier film parlant, Joséphine Baker incarne une orpheline – éprise de son frère adoptif (Jean Gabin) – que le destin place un soir sous les feux de la rampe. Marc Allégret met en lumière l'artiste de music-hall, lui offrant l'espace pour chanter et danser : elle évolue dans les décors somptueux de Meerson et Trauner, notamment avec _Haïti_, qu'elle interprète habillée de plumes dans une cage à oiseaux, quelque 60 ans avant Vanessa Paradis pour un spot publicitaire signé Chanel."
+                }
+              ]
+            },
+            {
+              "idEvenement": 36358,
+              "content": [
+                {
+                  "idConf": 36358,
+                  "ordre": 4,
+                  "titre": "Dialogue avec Myriam Juan",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Émilie Cauquy"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 209913,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-07-04T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
         {
           "idFilm": 151142,
           "content": [
@@ -25,33 +93,259 @@
                 "Tessa Thompson",
                 "Ruth Negga",
                 "Andre Holland"
-              ]
+              ],
+              "miniTexte": "À New York dans les années 20, une femme noire voit sa vie bouleversée lorsqu'elle retrouve une amie d'enfance qui se fait désormais passer pour blanche. Adapté du roman de Nella Larsen, le premier film de Rebecca Hall interroge avec finesse l'être et le paraître, l'identité et le prix de la liberté, dans l'effervescence de la Renaissance de Harlem, chapitre méconnu de l'Amérique ségrégationniste. Un coup d'éclat."
             }
           ],
           "seances": [
             {
               "idSeance": 209932,
-              "dateHeure": "2026-07-05T20:00:00",
+              "dateHeure": "2026-07-05T15:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idEvenement": 36364,
+          "content": [
+            {
+              "idFilm": 155775,
+              "ordre": 1,
+              "titre": "Joséphine et le Kino Pocket",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1927,
+              "duree": 0,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155776,
+              "ordre": 2,
+              "titre": "Paris Palace Music Hall",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1928,
+              "duree": 0,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 155777,
+              "ordre": 3,
+              "titre": "Joséphine Baker danseuse française avec Paul Colin et Marcel Sauvage",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1927,
+              "duree": 1,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 155778,
+              "ordre": 4,
+              "titre": "Joséphine Baker essayant une robe",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1926,
+              "duree": 1,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 155779,
+              "ordre": 5,
+              "titre": "Prague 1928",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1928,
+              "duree": 1,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 48449,
+              "ordre": 6,
+              "titre": "Sirène des tropiques",
+              "art": "La",
+              "realisateurs": "Henri Étiévant, Mario Nalpas",
+              "pays": "France",
+              "annee": 1927,
+              "duree": 86,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Joséphine Baker",
+                "Georges Melchior",
+                "Pierre Batcheff",
+                "Regina Thomas"
+              ],
+              "miniTexte": "Une jeune Antillaise s'éprend d'un ingénieur, le suit à Paris et devient une vedette du music-hall. Derrière les péripéties qui n'échappent pas aux stéréotypes racistes et à l'exotisme fantasmé du public français des Années folles, _La Sirène des tropiques_ permet à Joséphine Baker de s'imposer comme la première star noire en Europe, et d'incarner une liberté artistique qui défie les normes de son temps."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217163,
+              "dateHeure": "2026-07-01T20:00:00",
               "idSalle": "GF"
             }
           ]
         },
         {
-          "idFilm": 155774,
+          "idEvenement": 36368,
           "content": [
             {
-              "idFilm": 155774,
+              "idFilm": 155780,
               "ordre": 1,
+              "titre": "Journée royale Joséphine reine des colonies",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1931,
+              "duree": 2,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 155781,
+              "ordre": 2,
+              "titre": "Actualités féminines",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1933,
+              "duree": 3,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 155774,
+              "ordre": 3,
               "titre": "Princesse Tam Tam",
               "realisateurs": "Edmond T. Gréville",
               "pays": "France",
-              "annee": 1935
+              "annee": 1935,
+              "duree": 70,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Joséphine Baker",
+                "Albert Préjean",
+                "Robert Arnoux"
+              ],
+              "miniTexte": "Écrivain en mal d'inspiration, Max de Mirecourt part en Tunisie où il rencontre l'espiègle Alwina. Sous le regard paternaliste de l'aristocrate, la jeune bergère se mue en princesse exotique, matière à roman, et bientôt sujet de scandale. Une version colonialiste du mythe de Pygmalion, doublée d'une satire des salons parisiens en quête d'exotisme. Et pour le spectateur d'aujourd'hui, le miroir déformant d'une époque où le racisme se parait des atours de la curiosité et du divertissement."
             }
           ],
           "seances": [
             {
-              "idSeance": 209914,
+              "idSeance": 217164,
               "dateHeure": "2026-07-04T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idEvenement": 36377,
+          "content": [
+            {
+              "idFilm": 155784,
+              "ordre": 1,
+              "titre": "Pot au feu des vieux",
+              "art": "Le",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1933,
+              "duree": 2,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 155785,
+              "ordre": 2,
+              "titre": "Joséphine Baker chante au théâtre des armées",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1939,
+              "duree": 0,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 155786,
+              "ordre": 3,
+              "titre": "Joséphine Baker 1941 (Mon cœur est un oiseau des îles devant les grands blessés à Marseille)",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1941,
+              "duree": null,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 155787,
+              "ordre": 4,
+              "titre": "Joséphine Baker dans la zone",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1939,
+              "duree": 2,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 155788,
+              "ordre": 5,
+              "titre": "Joséphine Day à Harlem",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1951,
+              "duree": 1,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 155789,
+              "ordre": 6,
+              "titre": "Harlem Sketches",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1935,
+              "duree": 15,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 155790,
+              "ordre": 7,
+              "titre": "Now!",
+              "realisateurs": "Anonyme",
+              "pays": "France",
+              "annee": 1965,
+              "duree": 5,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 46552,
+              "ordre": 8,
+              "titre": "Fausse alerte",
+              "realisateurs": "Jacques de Baroncelli",
+              "pays": "France",
+              "annee": 1940,
+              "duree": 90,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Georges Marchal",
+                "Marguerite Pierry",
+                "Gabrielle Dorziat",
+                "Joséphine Baker"
+              ],
+              "miniTexte": "Paris, début de la Seconde Guerre mondiale. La querelle de deux familles voisines empêche l'union d'un jeune couple d'amoureux. Alors que les alertes nocturnes se multiplient, les habitants du quartier – bourgeois, commerçants, concierges, clochard et star de cabaret – se réunissent au sein du même abri. Dans l'atmosphère suspendue de la drôle de guerre, une chronique tendre et savoureuse, portée par une troupe d'acteurs prestigieux, dont une lumineuse Joséphine Baker."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209933,
+              "dateHeure": "2026-07-05T19:30:00",
               "idSalle": "GF"
             }
           ]
@@ -66,36 +360,45 @@
               "art": "La",
               "realisateurs": "Joe Francis, Alex Nalpas",
               "pays": "France",
-              "annee": 1927
+              "annee": 1927,
+              "generique": [
+                "Joséphine Baker",
+                "André Luguet",
+                "Helene Hallier"
+              ],
+              "miniTexte": "Une jeune choriste remporte un concours publicitaire, et devient la nouvelle Cendrillon des night-clubs parisiens. Une histoire aussi légère que des bulles de champagne, où s'enchaînent acrobaties et danses par de célèbres troupes de _show girls_, et par une Joséphine Baker irrésistible dans ses numéros de charleston et _shimmy_."
             }
           ],
           "seances": [
             {
               "idSeance": 209835,
-              "dateHeure": "2026-07-02T19:30:00",
+              "dateHeure": "2026-07-02T18:30:00",
               "idSalle": "GF"
             }
           ]
         },
         {
-          "idFilm": 48449,
+          "idFilm": 38203,
           "content": [
             {
-              "idFilm": 48449,
+              "idFilm": 38203,
               "ordre": 1,
-              "titre": "Sirène des tropiques",
-              "art": "La",
-              "realisateurs": "Henri Étiévant, Mario Nalpas",
-              "pays": "France",
-              "annee": 1927
+              "titre": "Touki bouki",
+              "realisateurs": "Djibril Diop Mambéty",
+              "pays": "Sénégal",
+              "annee": 1973,
+              "generique": [
+                "Al Demba",
+                "Dieynaba Dieng",
+                "Aliou N'Diaye"
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 209809,
-              "dateHeure": "2026-07-01T20:00:00",
-              "idSalle": "GF",
-              "mention": "Ouverture de la rétrospective"
+              "idSeance": 217161,
+              "dateHeure": "2026-07-02T20:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -110,76 +413,15 @@
               "realisateurs": "Sylvain Chomet",
               "pays": "France-Canada-Belgique",
               "annee": 2003,
-              "ageMinimal": 10
+              "ageMinimal": 10,
+              "miniTexte": "Cycliste passionné depuis l'enfance, Champion est enlevé lors du Tour de France par une bande de gangsters. Sa grand-mère, l'infatigable Madame Souza, part à sa recherche dans l'inquiétante mégalopole de Belleville, avec l'aide de son chien Bruno et de trois vieilles stars du music-hall. Doté d'un style visuel foisonnant et d'une bande son au swing endiablé, un film d'animation hors norme, qui mêle humour noir, clins d'œil nostalgiques et burlesque décalé."
             }
           ],
           "seances": [
             {
               "idSeance": 217138,
-              "dateHeure": "2026-07-05T15:00:00",
+              "dateHeure": "2026-07-05T17:15:00",
               "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 46552,
-          "content": [
-            {
-              "idFilm": 46552,
-              "ordre": 1,
-              "titre": "Une fausse alerte",
-              "realisateurs": "Jacques de Baroncelli",
-              "pays": "France",
-              "annee": 1940
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 209933,
-              "dateHeure": "2026-07-05T18:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "groupe": [
-            {
-              "idFilm": 46171,
-              "content": [
-                {
-                  "idFilm": 46171,
-                  "ordre": 1,
-                  "titre": "Zouzou",
-                  "realisateurs": "Marc Allégret",
-                  "pays": "France",
-                  "annee": 1934,
-                  "generique": [
-                    "Joséphine Baker",
-                    "Jean Gabin",
-                    "Pierre Larquey"
-                  ]
-                }
-              ]
-            },
-            {
-              "idEvenement": 36358,
-              "content": [
-                {
-                  "idConf": 36358,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Myriam Juan",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Émilie Cauquy"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 209913,
-                  "typeAssoc": 118,
-                  "dateHeure": "2026-07-04T15:00:00",
-                  "idSalle": "GF"
-                }
-              ]
             }
           ]
         }
@@ -189,7 +431,7 @@
   "syntheseAction": {
     "Dialogue": [
       {
-        "titreFilms": "Zouzou",
+        "titreFilms": "Championnat de danse / Joséphine débute dans l'opérette / Zouzou",
         "mention": "avec Myriam Juan",
         "dateHeure": "2026-07-04T15:00:00"
       }

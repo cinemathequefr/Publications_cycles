@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-07-08T20:00:00",
-    "2026-07-12T17:30:00"
+    "2026-07-12T19:15:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -129,8 +129,55 @@
           "seances": [
             {
               "idSeance": 210091,
-              "dateHeure": "2026-07-12T15:00:00",
+              "dateHeure": "2026-07-12T19:15:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 51378,
+              "content": [
+                {
+                  "idFilm": 51378,
+                  "ordre": 1,
+                  "titre": "Playtime",
+                  "realisateurs": "Jacques Tati",
+                  "pays": "France-Italie",
+                  "annee": 1967,
+                  "duree": 118,
+                  "version": "",
+                  "format": "70 mm",
+                  "generique": [
+                    "Jacques Tati",
+                    "Barbara Dennek",
+                    "Jacqueline Lecomte",
+                    "Valérie Camille"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Aéroport, bureaux, appartements-vitrines... une jeune touriste américaine en visite à Paris et M. Hulot se croisent et se recroisent dans six séquences distinctes. Tati tourne son _Playtime_ sur plusieurs années, dans une « Tativille » reconstituée à Joinville-le-Pont, et en 70 mm, pour une immersion totale du spectateur. Avec son humour et son éternel sens de l'observation, le cinéaste met en lumière la démesure de l'architecture face à l'homme, sans acrimonie, mais avec le sourire. Une chronique pleine de finesse sur le monde moderne, qui multiplie les effets burlesques et les inventions plastiques. Son chef-d'œuvre."
+                }
+              ]
+            },
+            {
+              "idEvenement": 36341,
+              "content": [
+                {
+                  "idConf": 36341,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Charles Bosson",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217152,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-07-11T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -164,11 +211,6 @@
               "dateHeure": "2026-07-08T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
-            },
-            {
-              "idSeance": 210074,
-              "dateHeure": "2026-07-11T14:30:00",
-              "idSalle": "HL"
             }
           ]
         },
@@ -300,36 +342,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 36341,
-          "content": [
-            {
-              "idConf": 36341,
-              "titre": "Dialogue avec Charles Bosson",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217132,
-              "dateHeure": "2026-07-11T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Playtime",
         "mention": "avec Charles Bosson",
-        "dateHeure": "2026-07-11T16:30:00"
+        "dateHeure": "2026-07-11T14:30:00"
       }
     ]
   }

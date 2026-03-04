@@ -42,7 +42,7 @@
 
 ## Cinéma bis (8)
 
-  * Atlantis interceptors  
+  * Atlantis Interceptors  
   * Campus  
   * Chaleur rouge  
   * Dans les bras de l'enfer  
@@ -101,7 +101,7 @@
   * Une affaire de famille  
   * Vérité (La)
 
-## Histoire permanente du cinéma (26)
+## Histoire permanente du cinéma (25)
 
   * Amour de perdition  
   * Carabine nationale (La)  
@@ -110,7 +110,6 @@
   * Chère Louise  
   * Commissaire (La)  
   * Coup de torchon  
-  * Cri du sorcier (Le)  
   * Duel dans le Pacifique  
   * Eugenio  
   * Européens (Les)  
@@ -128,7 +127,7 @@
   * Tambour (Le)  
   * Un jour, le Nil  
   * Vallée (La)  
-  * Vieil homme et l'enfant (Le)
+  * Vieil Homme et l'enfant (Le)
 
 ## Jacques Tati (10)
 
@@ -143,14 +142,31 @@
   * Trafic  
   * Vacances de monsieur Hulot (Les)
 
-## Joséphine Baker (7)
+## Joséphine Baker (24)
 
+  * Actualités féminines  
+  * Championnat de danse  
   * Clair-obscur  
+  * Fausse alerte  
+  * Harlem Sketches  
+  * Joséphine Baker 1941 (Mon cœur est un oiseau des îles devant les grands blessés à Marseille)  
+  * Joséphine Baker chante au théâtre des armées  
+  * Joséphine Baker dans la zone  
+  * Joséphine Baker danseuse française avec Paul Colin et Marcel Sauvage  
+  * Joséphine Baker essayant une robe  
+  * Joséphine Day à Harlem  
+  * Joséphine débute dans l'opérette  
+  * Joséphine et le Kino Pocket  
+  * Journée royale Joséphine reine des colonies  
+  * Now!  
+  * Paris Palace Music Hall  
+  * Pot au feu des vieux (Le)  
+  * Prague 1928  
   * Princesse Tam Tam  
   * Revue des revues (La)  
   * Sirène des tropiques (La)  
+  * Touki bouki  
   * Triplettes de Belleville (Les)  
-  * Une fausse alerte  
   * Zouzou
 
 ## Les grands classiques du cinéma muet vus par Henri Langlois (8)
@@ -189,6 +205,17 @@
   * Sotto... Sotto... strapazzato da anomala passione  
   * Vers un destin insolite sur les flots bleus de l'été
 
+## Ma petite Cinémathèque (8)
+
+  * Chien jaune de Mongolie (Le)  
+  * Drôles d'oiseaux  
+  * Goshu le violoncelliste  
+  * Lettre à Momo  
+  * Nature  
+  * Peter Pan  
+  * Princess Bride  
+  * Reine de Broadway (La)
+
 ## Marilyn Monroe (5)
 
   * Bus Stop  
@@ -207,7 +234,7 @@
 
   * Amants mouillés (Les)  
   * Angel Guts : Classe rouge  
-  * Blonde suédoise (La)  
+  * Blonde Suédoise (La)  
   * Braconnage sexuel  
   * Doigts blancs de l'extase (Les)  
   * Emmanuelle à Tokyo  
@@ -217,16 +244,16 @@
   * Histoire sexuelle de la lanterne pivoine  
   * Love Hotel  
   * Marché sexuel des filles  
-  * Nouveau pénitencier pour filles  
+  * Nouveau Pénitencier pour filles  
   * Nuits félines à Shinjuku  
   * Parfum d'un sortilège  
-  * Petits secrets dans la chambre des courtisanes  
-  * Rideau de fusuma (Le)  
+  * Petits Secrets dans la chambre des courtisanes  
+  * Rideau de Fusuma (Le)  
   * Rue de la joie  
   * Vie secrète de madame Yoshino (La)  
-  * Zoom in : violence dans l'immeuble
+  * Zoom in : violences dans l'immeuble
 
-## Réalisatrices françaises des années 70 (27)
+## Réalisatrices françaises des années 70 (28)
 
   * A. Constant  
   * Aloïse  
@@ -252,6 +279,7 @@
   * Pourquoi pas !  
   * Quelque part, quelqu'un  
   * Qu'est-ce que tu veux Julie ?  
+  * S'il vous plaît... la mer ?  
   * Un film  
   * Un rêve plus long que la nuit  
   * Villa Les Dunes
@@ -265,9 +293,10 @@
   * I diari di Angela: Noi due cineasti. Capitolo secondo  
   * I diari di Angela: Noi due cineasti. Capitolo terzo
 
-## Week-end S. S. Rajamouli (4)
+## Week-end S. S. Rajamouli (5)
 
   * Eega  
-  * Légende de Baahubali, 1re partie (La)  
+  * Légende de Baahubali, 1e partie (La)  
   * Légende de Baahubali, 2e partie (La)  
+  * Maryadha Ramanna  
   * RRR  

@@ -10,6 +10,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "typeSeance": 44,
     "items": [
       {
         "idFilm": 57541,
@@ -20,7 +21,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 4139,
@@ -165,29 +167,6 @@
   {
     "idCategorie": 4139,
     "typeEvenement": 13,
-    "idEvenement": 36154,
-    "idSeance": 216996,
-    "dateHeure": "2026-05-31T17:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 90,
-    "items": [
-      {
-        "idFilm": 155739,
-        "ordre": 1,
-        "idSeance": 216996,
-        "idCopie": 31660,
-        "duree": 51,
-        "version": "Autres",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4139,
-    "typeEvenement": 13,
     "idEvenement": 36319,
     "idSeance": 217127,
     "dateHeure": "2026-05-31T17:30:00",
@@ -205,29 +184,6 @@
         "duree": 80,
         "version": "",
         "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4139,
-    "typeEvenement": 13,
-    "idEvenement": 36030,
-    "idSeance": 216997,
-    "dateHeure": "2026-05-31T19:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 57405,
-        "ordre": 1,
-        "idSeance": 216997,
-        "idCopie": 31544,
-        "duree": 98,
-        "version": "",
-        "format": "35 mm"
       }
     ]
   },
@@ -346,7 +302,7 @@
     "typeEvenement": 13,
     "idEvenement": 36025,
     "idSeance": 217107,
-    "dateHeure": "2026-06-04T18:00:00",
+    "dateHeure": "2026-06-04T16:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -405,6 +361,29 @@
         "idSeance": 216709,
         "idCopie": 31545,
         "duree": 83,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4139,
+    "typeEvenement": 13,
+    "idEvenement": 36023,
+    "idSeance": 217162,
+    "dateHeure": "2026-06-06T14:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 57541,
+        "ordre": 1,
+        "idSeance": 217162,
+        "idCopie": 31535,
+        "duree": 84,
         "version": "",
         "format": "DCP"
       }
@@ -647,6 +626,75 @@
         "duree": 111,
         "version": "VO",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4139,
+    "typeEvenement": 13,
+    "idEvenement": 36154,
+    "idSeance": 217173,
+    "dateHeure": "2026-06-13T15:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {
+        "idFilm": 155739,
+        "ordre": 1,
+        "idSeance": 217173,
+        "idCopie": 31660,
+        "duree": 51,
+        "version": "Autres",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4139,
+    "typeEvenement": 13,
+    "idEvenement": 36030,
+    "idSeance": 217174,
+    "dateHeure": "2026-06-13T16:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 57405,
+        "ordre": 1,
+        "idSeance": 217174,
+        "idCopie": 31544,
+        "duree": 98,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4139,
+    "typeEvenement": 13,
+    "idEvenement": 36359,
+    "idSeance": 217175,
+    "dateHeure": "2026-06-13T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 49649,
+        "ordre": 1,
+        "idSeance": 217175,
+        "idCopie": 28276,
+        "duree": 73,
+        "version": "",
+        "format": "DCP"
       }
     ]
   }

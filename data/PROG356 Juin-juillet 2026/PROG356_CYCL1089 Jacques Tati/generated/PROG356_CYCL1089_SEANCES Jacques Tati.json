@@ -100,24 +100,24 @@
   {
     "idCategorie": 4124,
     "typeEvenement": 13,
-    "idEvenement": 35883,
-    "idSeance": 210074,
+    "idEvenement": 35019,
+    "idSeance": 217152,
     "dateHeure": "2026-07-11T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 150,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 51378,
         "ordre": 1,
-        "idSeance": 210074,
-        "idCopie": 280,
-        "duree": 124,
+        "idSeance": 217152,
+        "idCopie": 2953,
+        "duree": 118,
         "version": "",
-        "format": "DCP",
-        "restauration": true
+        "format": "70 mm"
       }
     ]
   },
@@ -125,15 +125,18 @@
     "idCategorie": 4174,
     "typeEvenement": 14,
     "idEvenement": 36341,
-    "idSeance": 217132,
-    "dateHeure": "2026-07-11T16:30:00",
+    "idSeance": 217152,
+    "dateHeure": "2026-07-11T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 75,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -204,30 +207,6 @@
   {
     "idCategorie": 4124,
     "typeEvenement": 13,
-    "idEvenement": 35882,
-    "idSeance": 210091,
-    "dateHeure": "2026-07-12T15:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 51368,
-        "ordre": 1,
-        "idSeance": 210091,
-        "idCopie": 31479,
-        "duree": 89,
-        "version": "",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 4124,
-    "typeEvenement": 13,
     "idEvenement": 35880,
     "idSeance": 210092,
     "dateHeure": "2026-07-12T17:30:00",
@@ -245,6 +224,30 @@
         "duree": 77,
         "version": "",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4124,
+    "typeEvenement": 13,
+    "idEvenement": 35882,
+    "idSeance": 210091,
+    "dateHeure": "2026-07-12T19:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 51368,
+        "ordre": 1,
+        "idSeance": 210091,
+        "idCopie": 31479,
+        "duree": 89,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
       }
     ]
   }

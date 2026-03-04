@@ -96,30 +96,6 @@
   {
     "idCategorie": 4138,
     "typeEvenement": 13,
-    "idEvenement": 35956,
-    "idSeance": 217020,
-    "dateHeure": "2026-06-28T20:15:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 195,
-    "items": [
-      {
-        "idFilm": 43901,
-        "ordre": 1,
-        "idSeance": 217020,
-        "idCopie": 12472,
-        "duree": 165,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 4138,
-    "typeEvenement": 13,
     "idEvenement": 35952,
     "idSeance": 217007,
     "dateHeure": "2026-06-29T16:00:00",
@@ -136,7 +112,7 @@
         "idCopie": 31495,
         "duree": 83,
         "version": "",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ]
   },
@@ -235,23 +211,24 @@
   {
     "idCategorie": 4138,
     "typeEvenement": 13,
-    "idEvenement": 35972,
-    "idSeance": 216842,
-    "dateHeure": "2026-07-02T18:00:00",
+    "idEvenement": 36305,
+    "idSeance": 217045,
+    "dateHeure": "2026-07-02T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 165,
+    "dureeSeance": 150,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 59233,
+        "idFilm": 43803,
         "ordre": 1,
-        "idSeance": 216842,
-        "idCopie": 31498,
-        "duree": 127,
-        "version": "",
-        "format": "35 mm"
+        "idSeance": 217045,
+        "idCopie": 27677,
+        "duree": 121,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -260,7 +237,7 @@
     "typeEvenement": 13,
     "idEvenement": 35962,
     "idSeance": 216843,
-    "dateHeure": "2026-07-02T20:45:00",
+    "dateHeure": "2026-07-03T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -282,24 +259,24 @@
   {
     "idCategorie": 4138,
     "typeEvenement": 13,
-    "idEvenement": 36305,
-    "idSeance": 217045,
-    "dateHeure": "2026-07-03T19:00:00",
+    "idEvenement": 35956,
+    "idSeance": 217171,
+    "dateHeure": "2026-07-03T20:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 150,
-    "typeAssoc": 118,
+    "dureeSeance": 195,
     "items": [
       {
-        "idFilm": 43803,
+        "idFilm": 43901,
         "ordre": 1,
-        "idSeance": 217045,
-        "idCopie": 27677,
-        "duree": 121,
+        "idSeance": 217171,
+        "idCopie": 12472,
+        "duree": 165,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -506,6 +483,29 @@
         "idCopie": 31497,
         "duree": 130,
         "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4138,
+    "typeEvenement": 13,
+    "idEvenement": 35972,
+    "idSeance": 217172,
+    "dateHeure": "2026-07-11T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 59233,
+        "ordre": 1,
+        "idSeance": 217172,
+        "idCopie": 31498,
+        "duree": 127,
+        "version": "",
         "format": "35 mm"
       }
     ]
