@@ -3,10 +3,89 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Nans Laborde-Jourdàa",
+      "items": [
+        {
+          "idEvenement": 36403,
+          "content": [
+            {
+              "idFilm": 155797,
+              "ordre": 1,
+              "titre": "3xMina",
+              "realisateurs": "Nans Laborde-Jourdaa",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 26,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 154448,
+              "ordre": 2,
+              "titre": "Boléro",
+              "realisateurs": "Nans Laborde-Jourdàa",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 17,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "François Chaignaud",
+                "Muriel Laborde-Jourdàa",
+                "Mellie Laborde-Jourdàa"
+              ]
+            },
+            {
+              "idFilm": 155798,
+              "ordre": 3,
+              "titre": "Léo la nuit",
+              "realisateurs": "Nans Laborde-Jourdaa",
+              "pays": "France",
+              "annee": 2021,
+              "duree": 21,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217182,
+              "dateHeure": "2026-06-01T19:30:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Nans Laborde-Jourdaa"
+            }
+          ]
+        },
+        {
+          "idFilm": 155799,
+          "content": [
+            {
+              "idFilm": 155799,
+              "ordre": 1,
+              "titre": "Épreuve du feu",
+              "art": "L'",
+              "realisateurs": "Aurélien Peyre",
+              "pays": "France",
+              "annee": 2025
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209780,
+              "dateHeure": "2026-06-29T19:30:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Aurélien Peyre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "10 ans de la NEF",
       "items": [
         {
-          "idEvenement": 36271,
+          "idEvenement": 36396,
           "content": [
             {
               "idFilm": 141119,
@@ -66,14 +145,14 @@
               "format": "DCP"
             },
             {
-              "idFilm": 155751,
+              "idFilm": 150135,
               "ordre": 6,
-              "titre": "Quelque chose de divin",
-              "realisateurs": "Bogdan Stamatin, Mélody Boulissière",
-              "pays": "France-Roumanie",
-              "annee": 2024,
-              "duree": 14,
-              "version": "VOSTF",
+              "titre": "Noir soleil",
+              "realisateurs": "Marie Larrivé",
+              "pays": "France",
+              "annee": 2020,
+              "duree": 20,
+              "version": "",
               "format": "DCP"
             },
             {
@@ -94,6 +173,108 @@
               "dateHeure": "2026-06-08T19:00:00",
               "idSalle": "JE",
               "mention": "Séance présentée par Xavier Kawa-Topor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Repérages",
+      "items": [
+        {
+          "idEvenement": 36419,
+          "content": [
+            {
+              "idFilm": 155803,
+              "ordre": 1,
+              "titre": "Black Out",
+              "realisateurs": "Alicia Pratx",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 25,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Adrien Casse",
+                "Coline D'Inca",
+                "Garance Kim"
+              ]
+            },
+            {
+              "idFilm": 155802,
+              "ordre": 2,
+              "titre": "Malsouvenues",
+              "art": "Les",
+              "realisateurs": "Antoine Héraly",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 27,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Eliane Umuhire",
+                "Michèle Gurtner"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209454,
+              "dateHeure": "2026-06-15T19:30:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Alicia Pratx, Antoine Héraly et Adrien Casse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Nicolas Giuliani",
+      "items": [
+        {
+          "idEvenement": 36416,
+          "content": [
+            {
+              "idFilm": 155757,
+              "ordre": 1,
+              "titre": "Seule la tendresse",
+              "realisateurs": "Nicolas Giuliani",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 50,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Johanna Fillieule",
+                "Valentin Campagne",
+                "Elise Lhomeau"
+              ]
+            },
+            {
+              "idFilm": 155800,
+              "ordre": 2,
+              "titre": "Des jours dans la rue",
+              "realisateurs": "Arthur Harari",
+              "pays": "France",
+              "annee": 2005,
+              "duree": 28,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Christian Chaussex",
+                "Bruno Clairefond",
+                "Daniel Elkaïm"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 209617,
+              "dateHeure": "2026-06-22T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Nicolas Giuliani et Arthur Harari"
             }
           ]
         }
@@ -176,7 +357,8 @@
             {
               "idSeance": 217021,
               "dateHeure": "2026-07-06T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Sanghoon Lee"
             }
           ]
         }
@@ -184,11 +366,38 @@
     }
   ],
   "syntheseAction": {
-    "Séance présentée": [
+    "Discussions": [
       {
-        "titreFilms": "Vaysha l'aveugle / Rivages / Nun or Never / Portrait de famille / Hurikán / Quelque chose de divin / Je mordrai la poussière des étoiles",
+        "titreFilms": "3xMina / Boléro / Léo la nuit",
+        "mention": "avec Nans Laborde-Jourdaa",
+        "dateHeure": "2026-06-01T19:30:00"
+      },
+      {
+        "titreFilms": "Black Out / Les Malsouvenues",
+        "mention": "avec Alicia Pratx, Antoine Héraly et Adrien Casse",
+        "dateHeure": "2026-06-15T19:30:00"
+      },
+      {
+        "titreFilms": "Seule la tendresse / Des jours dans la rue",
+        "mention": "avec Nicolas Giuliani et Arthur Harari",
+        "dateHeure": "2026-06-22T19:00:00"
+      },
+      {
+        "titreFilms": "L'Épreuve du feu",
+        "mention": "avec Aurélien Peyre",
+        "dateHeure": "2026-06-29T19:30:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Vaysha l'aveugle / Rivages / Nun or Never / Portrait de famille / Hurikán / Noir soleil / Je mordrai la poussière des étoiles",
         "mention": "par Xavier Kawa-Topor",
         "dateHeure": "2026-06-08T19:00:00"
+      },
+      {
+        "titreFilms": "The Vicious / Society of Clothes / Fake Lies / The Day of Graduation",
+        "mention": "par Sanghoon Lee",
+        "dateHeure": "2026-07-06T19:00:00"
       }
     ]
   }

@@ -20,16 +20,24 @@
   * Ran  
   * Starman
 
-## Aujourd'hui le cinéma (11)
+## Aujourd'hui le cinéma (19)
 
+  * 3xMina  
+  * Black Out  
+  * Boléro  
   * Day of Graduation (The)  
+  * Des jours dans la rue  
+  * Épreuve du feu (L')  
   * Fake Lies  
   * Hurikán  
   * Je mordrai la poussière des étoiles  
+  * Léo la nuit  
+  * Malsouvenues (Les)  
+  * Noir soleil  
   * Nun or Never  
   * Portrait de famille  
-  * Quelque chose de divin  
   * Rivages  
+  * Seule la tendresse  
   * Society of Clothes  
   * Vaysha l'aveugle  
   * Vicious (The)
@@ -40,7 +48,7 @@
   * Mépris (Le)  
   * Sept ans de réflexion
 
-## Cinéma bis (8)
+## Cinéma bis (9)
 
   * Atlantis Interceptors  
   * Campus  
@@ -49,7 +57,8 @@
   * J'ai vécu deux fois  
   * Mad Monster (The)  
   * Rues de l'enfer (Les)  
-  * S.O.S. Concorde
+  * S.O.S. Concorde  
+  * Story of Joanna (The)
 
 ## Claudia Cardinale (21)
 
@@ -82,24 +91,6 @@
   * Jean Epstein, Young Oceans of Cinema  
   * Paris, Cabourg, Le Caire et l'amour  
   * Réverbération (La)
-
-## Hirokazu Kore-eda (15)
-
-  * After Life  
-  * Air Doll  
-  * Après la tempête  
-  * Bonnes Étoiles (Les)  
-  * Distance  
-  * Going My Home  
-  * I Wish : Nos vœux secrets  
-  * Maborosi  
-  * Nobody Knows  
-  * Notre petite sœur  
-  * Still Walking  
-  * Tel père, tel fils  
-  * Third Murder (The)  
-  * Une affaire de famille  
-  * Vérité (La)
 
 ## Histoire permanente du cinéma (25)
 
@@ -235,7 +226,6 @@
   * Amants mouillés (Les)  
   * Angel Guts : Classe rouge  
   * Blonde Suédoise (La)  
-  * Braconnage sexuel  
   * Doigts blancs de l'extase (Les)  
   * Emmanuelle à Tokyo  
   * Enfer des jeunes filles (L')  
@@ -243,17 +233,18 @@
   * Fosse aux serpents (La)  
   * Histoire sexuelle de la lanterne pivoine  
   * Love Hotel  
+  * Maison des perversités = Le Promeneur du grenier (La)  
   * Marché sexuel des filles  
   * Nouveau Pénitencier pour filles  
   * Nuits félines à Shinjuku  
   * Parfum d'un sortilège  
   * Petits Secrets dans la chambre des courtisanes  
-  * Rideau de Fusuma (Le)  
+  * Rideau de fusuma (Le)  
   * Rue de la joie  
-  * Vie secrète de madame Yoshino (La)  
-  * Zoom in : violences dans l'immeuble
+  * Véritable Histoire d'Abe Sada (La)  
+  * Vie secrète de madame Yoshino (La)
 
-## Réalisatrices françaises des années 70 (28)
+## Réalisatrices françaises des années 60 et 70 (28)
 
   * A. Constant  
   * Aloïse  
@@ -278,20 +269,21 @@
   * Pic et pic et colegram  
   * Pourquoi pas !  
   * Quelque part, quelqu'un  
-  * Qu'est-ce que tu veux Julie ?  
+  * Qu'est-ce que tu veux, Julie ?  
   * S'il vous plaît... la mer ?  
   * Un film  
   * Un rêve plus long que la nuit  
   * Villa Les Dunes
 
-## Séances spéciales (6)
+## Séances spéciales (7)
 
   * Aiguilles rouges (Les)  
   * Bananes mécaniques  
+  * Diari di Angela: Noi due cineasti, capitolo secondo (I)  
+  * Diari di Angela: Noi due cineasti, capitolo terzo (I)  
+  * Diari di Angela: Noi due cineasti (I)  
   * Et Dieu... créa la femme  
-  * I diari di Angela – Noi due cineasti  
-  * I diari di Angela: Noi due cineasti. Capitolo secondo  
-  * I diari di Angela: Noi due cineasti. Capitolo terzo
+  * Mil nubes de paz cercan el cielo, amor, jamás acabarás de ser amor
 
 ## Week-end S. S. Rajamouli (5)
 

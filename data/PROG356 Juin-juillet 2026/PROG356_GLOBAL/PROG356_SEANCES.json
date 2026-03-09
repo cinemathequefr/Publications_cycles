@@ -30,7 +30,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -104,7 +104,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -154,7 +154,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -163,7 +163,7 @@
         "idFilm": 51773,
         "titre": "Pic et pic et colegram",
         "realisateurs": "Rachel Weinberg",
-        "annee": 1970,
+        "annee": 1972,
         "duree": 80,
         "format": "35 mm"
       }
@@ -344,7 +344,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -355,7 +355,7 @@
         "titre": "Femme de Jean",
         "art": "La",
         "realisateurs": "Yannick Bellon",
-        "annee": 1973,
+        "annee": 1974,
         "duree": 103,
         "format": "DCP"
       }
@@ -404,9 +404,10 @@
         "art": "L'",
         "realisateurs": "Léonce Perret",
         "annee": 1913,
-        "duree": 122,
+        "duree": 124,
         "version": "INT. FR.",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f50588"
@@ -418,7 +419,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -441,7 +442,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -476,8 +477,9 @@
         "realisateurs": "Erich von Stroheim",
         "annee": 1919,
         "duree": 100,
-        "version": "INT. ALL.",
-        "format": "35 mm"
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f36631"
@@ -538,7 +540,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -547,7 +549,7 @@
         "idFilm": 49459,
         "titre": "Aloïse",
         "realisateurs": "Liliane de Kermadec",
-        "annee": 1974,
+        "annee": 1975,
         "duree": 118,
         "format": "DCP"
       }
@@ -586,7 +588,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -634,7 +636,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -643,7 +645,7 @@
         "idFilm": 57099,
         "titre": "A. Constant",
         "realisateurs": "Christine Laurent",
-        "annee": 1976
+        "annee": 1977
       }
     ],
     "hashEvenement": "f57099"
@@ -679,7 +681,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -696,13 +698,74 @@
     "hashEvenement": "f48252"
   },
   {
+    "idSeance": 209128,
+    "idEvenement": 36388,
+    "dateHeure": "2026-06-01T19:00:00",
+    "salle": "LE",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 115484,
+        "titre": "Mil nubes de paz cercan el cielo, amor, jamás acabarás de ser amor",
+        "realisateurs": "Julián Hernández",
+        "annee": 2003
+      }
+    ],
+    "hashEvenement": "f115484"
+  },
+  {
+    "idSeance": 217182,
+    "idEvenement": 36403,
+    "dateHeure": "2026-06-01T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Nans Laborde-Jourdàa"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Nans Laborde-Jourdaa",
+    "items": [
+      {
+        "idFilm": 155797,
+        "titre": "3xMina",
+        "realisateurs": "Nans Laborde-Jourdaa",
+        "annee": 2025,
+        "duree": 26,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154448,
+        "titre": "Boléro",
+        "realisateurs": "Nans Laborde-Jourdàa",
+        "annee": 2023,
+        "duree": 17,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155798,
+        "titre": "Léo la nuit",
+        "realisateurs": "Nans Laborde-Jourdaa",
+        "annee": 2021,
+        "duree": 21,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155797f154448f155798"
+  },
+  {
     "idSeance": 217114,
     "idEvenement": 36017,
     "dateHeure": "2026-06-01T20:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -725,7 +788,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -735,7 +798,7 @@
         "titre": "Futur aux trousses",
         "art": "Le",
         "realisateurs": "Dolorès Grassian",
-        "annee": 1974,
+        "annee": 1975,
         "format": "35 mm"
       }
     ],
@@ -782,16 +845,17 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Christine Lipinska",
     "items": [
       {
         "idFilm": 56783,
         "titre": "Je suis Pierre Rivière",
         "realisateurs": "Christine Lipinska",
-        "annee": 1975,
+        "annee": 1976,
         "duree": 82,
         "format": "35 mm"
       }
@@ -805,7 +869,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -815,7 +879,7 @@
         "titre": "Jument vapeur",
         "art": "La",
         "realisateurs": "Joyce Buñuel",
-        "annee": 1977,
+        "annee": 1978,
         "duree": 100,
         "format": "35 mm"
       }
@@ -829,7 +893,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -838,7 +902,7 @@
         "idFilm": 37689,
         "titre": "Lumière",
         "realisateurs": "Jeanne Moreau",
-        "annee": 1975,
+        "annee": 1976,
         "duree": 95,
         "format": "DCP"
       }
@@ -877,7 +941,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -886,7 +950,7 @@
         "idFilm": 56788,
         "titre": "Un rêve plus long que la nuit",
         "realisateurs": "Niki de Saint Phalle",
-        "annee": 1975,
+        "annee": 1976,
         "duree": 83,
         "format": "DCP"
       }
@@ -1015,30 +1079,6 @@
     "hashEvenement": "f57244"
   },
   {
-    "idSeance": 217162,
-    "idEvenement": 36023,
-    "dateHeure": "2026-06-06T14:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Réalisatrices françaises des années 70",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 57541,
-        "titre": "Dérive",
-        "art": "La",
-        "realisateurs": "Paula Delsol",
-        "annee": 1964,
-        "duree": 84,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f57541"
-  },
-  {
     "idSeance": 217150,
     "idEvenement": 36163,
     "dateHeure": "2026-06-06T14:30:00",
@@ -1069,11 +1109,11 @@
     "salle": "GF",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ],
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Rencontres et conférences"
       ]
     ],
@@ -1128,7 +1168,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -1177,7 +1217,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -1187,7 +1227,7 @@
         "idFilm": 47804,
         "titre": "Faustine et le bel été",
         "realisateurs": "Nina Companeez",
-        "annee": 1971,
+        "annee": 1972,
         "duree": 98,
         "format": "DCP"
       }
@@ -1232,7 +1272,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -1276,7 +1316,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -1285,7 +1325,7 @@
         "idFilm": 50508,
         "titre": "Félicité",
         "realisateurs": "Christine Pascal",
-        "annee": 1978,
+        "annee": 1979,
         "duree": 95,
         "format": "35 mm"
       }
@@ -1299,7 +1339,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -1332,7 +1372,7 @@
         "titre": "Griffe du passé",
         "art": "La",
         "realisateurs": "Jacques Tourneur",
-        "annee": 1946,
+        "annee": 1947,
         "duree": 97,
         "version": "VO",
         "format": "35 mm"
@@ -1357,14 +1397,17 @@
         "titre": "Européens",
         "art": "Les",
         "realisateurs": "James Ivory",
-        "annee": 1979
+        "annee": 1979,
+        "duree": 89,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f41085"
   },
   {
     "idSeance": 209291,
-    "idEvenement": 36271,
+    "idEvenement": 36396,
     "dateHeure": "2026-06-08T19:00:00",
     "salle": "JE",
     "cycle": [
@@ -1419,12 +1462,11 @@
         "format": "DCP"
       },
       {
-        "idFilm": 155751,
-        "titre": "Quelque chose de divin",
-        "realisateurs": "Bogdan Stamatin, Mélody Boulissière",
-        "annee": 2024,
-        "duree": 14,
-        "version": "VOSTF",
+        "idFilm": 150135,
+        "titre": "Noir soleil",
+        "realisateurs": "Marie Larrivé",
+        "annee": 2020,
+        "duree": 20,
         "format": "DCP"
       },
       {
@@ -1436,7 +1478,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f141119f150602f155748f155749f155750f155751f155752"
+    "hashEvenement": "f141119f150602f155748f155749f155750f150135f155752"
   },
   {
     "idSeance": 209320,
@@ -1454,7 +1496,10 @@
         "idFilm": 38641,
         "titre": "Sonate d'automne",
         "realisateurs": "Ingmar Bergman",
-        "annee": 1977
+        "annee": 1977,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f38641"
@@ -1466,7 +1511,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -1475,7 +1520,7 @@
         "idFilm": 46682,
         "titre": "Histoires d'A",
         "realisateurs": "Charles Belmont, Marielle Issartel",
-        "annee": 1973,
+        "annee": 1974,
         "duree": 85,
         "format": "DCP"
       }
@@ -1523,7 +1568,10 @@
         "titre": "Tambour",
         "art": "Le",
         "realisateurs": "Volker Schlöndorff",
-        "annee": 1979
+        "annee": 1979,
+        "duree": 142,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f40249"
@@ -1535,16 +1583,16 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 48260,
-        "titre": "Qu'est-ce que tu veux Julie ?",
+        "titre": "Qu'est-ce que tu veux, Julie ?",
         "realisateurs": "Charlotte Dubreuil",
-        "annee": 1976,
+        "annee": 1977,
         "duree": 100,
         "format": "35 mm"
       }
@@ -1567,7 +1615,8 @@
         "idFilm": 43766,
         "titre": "Amour de perdition",
         "realisateurs": "Manoel de Oliveira",
-        "annee": 1978
+        "annee": 1978,
+        "duree": 265
       }
     ],
     "hashEvenement": "f43766"
@@ -1604,7 +1653,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -1613,7 +1662,7 @@
         "idFilm": 57724,
         "titre": "Villa Les Dunes",
         "realisateurs": "Madeleine Hartmann-Clausset",
-        "annee": 1973
+        "annee": 1974
       }
     ],
     "hashEvenement": "f57724"
@@ -1684,16 +1733,17 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Bernard Payen",
     "items": [
       {
         "idFilm": 60949,
         "titre": "George qui ?",
         "realisateurs": "Michèle Rosier",
-        "annee": 1972,
+        "annee": 1973,
         "duree": 111,
         "version": "VO",
         "format": "35 mm"
@@ -1717,7 +1767,10 @@
         "idFilm": 33547,
         "titre": "Justice pour tous",
         "realisateurs": "Norman Jewison",
-        "annee": 1978
+        "annee": 1978,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f33547"
@@ -1756,6 +1809,7 @@
         "Gabriel de Gravone"
       ]
     ],
+    "mention": "Séance présentée par Joël Daire et Jean-Pierre Mattei",
     "items": [
       {
         "idFilm": 92818,
@@ -1844,6 +1898,7 @@
         "Gabriel de Gravone"
       ]
     ],
+    "mention": "Séance présentée par Jean-Pierre Mattei et Joël Daire",
     "items": [
       {
         "idFilm": 46441,
@@ -1922,7 +1977,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -1946,7 +2001,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -1955,7 +2010,7 @@
         "idFilm": 57405,
         "titre": "Quelque part, quelqu'un",
         "realisateurs": "Yannick Bellon",
-        "annee": 1971,
+        "annee": 1972,
         "duree": 98,
         "format": "35 mm"
       }
@@ -2020,7 +2075,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Réalisatrices françaises des années 70",
+        "Réalisatrices françaises des années 60 et 70",
         "Les films"
       ]
     ],
@@ -2134,9 +2189,57 @@
     "hashEvenement": "f120831"
   },
   {
+    "idSeance": 217193,
+    "idEvenement": 36064,
+    "dateHeure": "2026-06-14T16:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Roman porno, les films érotiques de la Nikkatsu",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Öykü Sofuoğlu",
+    "items": [
+      {
+        "idFilm": 60117,
+        "titre": "Marché sexuel des filles",
+        "realisateurs": "Noboru Tanaka",
+        "annee": 1974,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f60117"
+  },
+  {
+    "idSeance": 217089,
+    "idEvenement": 36255,
+    "dateHeure": "2026-06-14T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155745,
+        "titre": "Diari di Angela: Noi due cineasti",
+        "art": "I",
+        "realisateurs": "Angela Ricci Lucchi, Yervant Gianikian",
+        "annee": 2018,
+        "duree": 125
+      }
+    ],
+    "hashEvenement": "f155745"
+  },
+  {
     "idSeance": 216983,
     "idEvenement": 35921,
-    "dateHeure": "2026-06-14T17:00:00",
+    "dateHeure": "2026-06-14T18:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2159,31 +2262,9 @@
     "hashEvenement": "f73091"
   },
   {
-    "idSeance": 217089,
-    "idEvenement": 36255,
-    "dateHeure": "2026-06-14T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155745,
-        "titre": "I diari di Angela – Noi due cineasti",
-        "realisateurs": "Angela Ricci Lucchi, Yervant Gianikian",
-        "annee": 2018,
-        "duree": 125
-      }
-    ],
-    "hashEvenement": "f155745"
-  },
-  {
     "idSeance": 216905,
     "idEvenement": 35923,
-    "dateHeure": "2026-06-14T19:30:00",
+    "dateHeure": "2026-06-14T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2219,7 +2300,8 @@
     "items": [
       {
         "idFilm": 155746,
-        "titre": "I diari di Angela: Noi due cineasti. Capitolo secondo",
+        "titre": "Diari di Angela: Noi due cineasti, capitolo secondo",
+        "art": "I",
         "realisateurs": "Yervant Gianikian",
         "annee": 2019,
         "duree": 100
@@ -2243,7 +2325,10 @@
         "idFilm": 42615,
         "titre": "Eugenio",
         "realisateurs": "Luigi Comencini",
-        "annee": 1980
+        "annee": 1980,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f42615"
@@ -2284,6 +2369,39 @@
     "hashEvenement": "f139245c36327"
   },
   {
+    "idSeance": 209454,
+    "idEvenement": 36419,
+    "dateHeure": "2026-06-15T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Repérages"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Alicia Pratx, Antoine Héraly et Adrien Casse",
+    "items": [
+      {
+        "idFilm": 155803,
+        "titre": "Black Out",
+        "realisateurs": "Alicia Pratx",
+        "annee": 2025,
+        "duree": 25,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155802,
+        "titre": "Malsouvenues",
+        "art": "Les",
+        "realisateurs": "Antoine Héraly",
+        "annee": 2024,
+        "duree": 27,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155803f155802"
+  },
+  {
     "idSeance": 209450,
     "idEvenement": 36257,
     "dateHeure": "2026-06-15T20:00:00",
@@ -2298,7 +2416,8 @@
     "items": [
       {
         "idFilm": 155747,
-        "titre": "I diari di Angela: Noi due cineasti. Capitolo terzo",
+        "titre": "Diari di Angela: Noi due cineasti, capitolo terzo",
+        "art": "I",
         "realisateurs": "Angela Ricci Lucchi, Yervant Gianikian",
         "annee": 2025,
         "duree": 123
@@ -2322,7 +2441,9 @@
         "idFilm": 43004,
         "titre": "Maman a cent ans",
         "realisateurs": "Carlos Saura",
-        "annee": 1979
+        "annee": 1979,
+        "duree": 95,
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f43004"
@@ -2426,7 +2547,9 @@
         "idFilm": 47822,
         "titre": "Série noire",
         "realisateurs": "Alain Corneau",
-        "annee": 1978
+        "annee": 1978,
+        "duree": 110,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f47822"
@@ -2516,7 +2639,7 @@
   {
     "idSeance": 217099,
     "idEvenement": 36081,
-    "dateHeure": "2026-06-19T16:30:00",
+    "dateHeure": "2026-06-19T17:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2562,9 +2685,9 @@
     "hashEvenement": "f43979"
   },
   {
-    "idSeance": 217091,
+    "idSeance": 217179,
     "idEvenement": 36074,
-    "dateHeure": "2026-06-19T18:30:00",
+    "dateHeure": "2026-06-19T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2572,10 +2695,11 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Öykü Sofuoğlu",
     "items": [
       {
         "idFilm": 59224,
-        "titre": "Rideau de Fusuma",
+        "titre": "Rideau de fusuma",
         "art": "Le",
         "realisateurs": "Tatsumi Kumashiro",
         "annee": 1973,
@@ -2621,6 +2745,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Öykü Sofuoğlu",
     "items": [
       {
         "idFilm": 104701,
@@ -2633,6 +2758,32 @@
       }
     ],
     "hashEvenement": "f104701"
+  },
+  {
+    "idSeance": 209551,
+    "idEvenement": 36300,
+    "dateHeure": "2026-06-19T21:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Gerard Damiano"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 123944,
+        "titre": "Story of Joanna",
+        "art": "The",
+        "realisateurs": "Gerard Damiano",
+        "annee": 1975,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f123944"
   },
   {
     "idSeance": 216908,
@@ -2659,9 +2810,9 @@
     "hashEvenement": "f155684"
   },
   {
-    "idSeance": 216797,
-    "idEvenement": 36082,
-    "dateHeure": "2026-06-20T15:00:00",
+    "idSeance": 217178,
+    "idEvenement": 36391,
+    "dateHeure": "2026-06-20T14:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2671,16 +2822,17 @@
     ],
     "items": [
       {
-        "idFilm": 139738,
-        "titre": "Angel Guts : Classe rouge",
-        "realisateurs": "Chūsei Sone",
-        "annee": 1979,
-        "duree": 79,
+        "idFilm": 45192,
+        "titre": "Véritable Histoire d'Abe Sada",
+        "art": "La",
+        "realisateurs": "Noboru Tanaka",
+        "annee": 1975,
+        "duree": 76,
         "version": "VOSTA",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f139738"
+    "hashEvenement": "f45192"
   },
   {
     "idSeance": 216909,
@@ -2707,9 +2859,9 @@
     "hashEvenement": "f60288"
   },
   {
-    "idSeance": 216798,
-    "idEvenement": 36089,
-    "dateHeure": "2026-06-20T17:30:00",
+    "idSeance": 217176,
+    "idEvenement": 36082,
+    "dateHeure": "2026-06-20T17:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2717,42 +2869,19 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Öykü Sofuoğlu",
     "items": [
       {
-        "idFilm": 155708,
-        "titre": "Zoom in : violences dans l'immeuble",
-        "realisateurs": "Naosuke Kurosawa",
-        "annee": 1980,
-        "duree": 68,
-        "version": "VO",
-        "format": "Vidéo"
+        "idFilm": 139738,
+        "titre": "Angel Guts : Classe rouge",
+        "realisateurs": "Chūsei Sone",
+        "annee": 1979,
+        "duree": 79,
+        "version": "VOSTA",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f155708"
-  },
-  {
-    "idSeance": 216799,
-    "idEvenement": 36090,
-    "dateHeure": "2026-06-20T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Roman porno, les films érotiques de la Nikkatsu",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155709,
-        "titre": "Braconnage sexuel",
-        "realisateurs": "Takashi Kanno",
-        "annee": 1981,
-        "duree": 67,
-        "version": "VO",
-        "format": "Vidéo"
-      }
-    ],
-    "hashEvenement": "f155709"
+    "hashEvenement": "f139738"
   },
   {
     "idSeance": 216901,
@@ -2778,6 +2907,31 @@
       }
     ],
     "hashEvenement": "f43991"
+  },
+  {
+    "idSeance": 217177,
+    "idEvenement": 36389,
+    "dateHeure": "2026-06-20T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Roman porno, les films érotiques de la Nikkatsu",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 60116,
+        "titre": "Maison des perversités = Le Promeneur du grenier",
+        "art": "La",
+        "realisateurs": "Noboru Tanaka",
+        "annee": 1976,
+        "duree": 76,
+        "version": "VOSTA",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f60116"
   },
   {
     "idSeance": 216862,
@@ -2989,6 +3143,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Öykü Sofuoğlu",
     "items": [
       {
         "idFilm": 155699,
@@ -3001,6 +3156,38 @@
       }
     ],
     "hashEvenement": "f155699"
+  },
+  {
+    "idSeance": 209617,
+    "idEvenement": 36416,
+    "dateHeure": "2026-06-22T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Nicolas Giuliani"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Nicolas Giuliani et Arthur Harari",
+    "items": [
+      {
+        "idFilm": 155757,
+        "titre": "Seule la tendresse",
+        "realisateurs": "Nicolas Giuliani",
+        "annee": 2025,
+        "duree": 50,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155800,
+        "titre": "Des jours dans la rue",
+        "realisateurs": "Arthur Harari",
+        "annee": 2005,
+        "duree": 28,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155757f155800"
   },
   {
     "idSeance": 217098,
@@ -3041,34 +3228,35 @@
         "idFilm": 51389,
         "titre": "Coup de torchon",
         "realisateurs": "Bertrand Tavernier",
-        "annee": 1981
+        "annee": 1981,
+        "duree": 128,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f51389"
   },
   {
-    "idSeance": 209646,
-    "idEvenement": 35912,
+    "idSeance": 217194,
+    "idEvenement": 36076,
     "dateHeure": "2026-06-24T18:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Lina Wertmüller",
+        "Roman porno, les films érotiques de la Nikkatsu",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 73086,
-        "titre": "Ciao, professore!",
-        "realisateurs": "Lina Wertmüller",
-        "annee": 1992,
-        "duree": 100,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 37421,
+        "titre": "Rue de la joie",
+        "realisateurs": "Tatsumi Kumashiro",
+        "annee": 1974,
+        "duree": 78,
+        "version": "VOSTF"
       }
     ],
-    "hashEvenement": "f73086"
+    "hashEvenement": "f37421"
   },
   {
     "idSeance": 209644,
@@ -3096,28 +3284,27 @@
     "hashEvenement": "f42106"
   },
   {
-    "idSeance": 209647,
-    "idEvenement": 35916,
+    "idSeance": 217130,
+    "idEvenement": 36077,
     "dateHeure": "2026-06-24T20:45:00",
     "salle": "GF",
     "cycle": [
       [
-        "Lina Wertmüller",
+        "Roman porno, les films érotiques de la Nikkatsu",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 73085,
-        "titre": "Ninfa plebea",
-        "realisateurs": "Lina Wertmüller",
-        "annee": 1996,
-        "duree": 108,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 35672,
+        "titre": "Emmanuelle à Tokyo",
+        "realisateurs": "Akira Katō",
+        "annee": 1975,
+        "duree": 70,
+        "version": "VOSTA"
       }
     ],
-    "hashEvenement": "f73085"
+    "hashEvenement": "f35672"
   },
   {
     "idSeance": 216891,
@@ -3136,7 +3323,9 @@
         "titre": "Vieil Homme et l'enfant",
         "art": "Le",
         "realisateurs": "Claude Berri",
-        "annee": 1966
+        "annee": 1966,
+        "duree": 90,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46828"
@@ -3167,28 +3356,28 @@
     "hashEvenement": "f42068"
   },
   {
-    "idSeance": 209672,
-    "idEvenement": 36064,
+    "idSeance": 209646,
+    "idEvenement": 35912,
     "dateHeure": "2026-06-25T18:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Roman porno, les films érotiques de la Nikkatsu",
+        "Lina Wertmüller",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 60117,
-        "titre": "Marché sexuel des filles",
-        "realisateurs": "Noboru Tanaka",
-        "annee": 1974,
-        "duree": 83,
+        "idFilm": 73086,
+        "titre": "Ciao, professore!",
+        "realisateurs": "Lina Wertmüller",
+        "annee": 1992,
+        "duree": 100,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f60117"
+    "hashEvenement": "f73086"
   },
   {
     "idSeance": 209676,
@@ -3215,27 +3404,28 @@
     "hashEvenement": "f54730"
   },
   {
-    "idSeance": 217130,
-    "idEvenement": 36077,
+    "idSeance": 209647,
+    "idEvenement": 35916,
     "dateHeure": "2026-06-25T20:45:00",
     "salle": "GF",
     "cycle": [
       [
-        "Roman porno, les films érotiques de la Nikkatsu",
+        "Lina Wertmüller",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 35672,
-        "titre": "Emmanuelle à Tokyo",
-        "realisateurs": "Akira Katō",
-        "annee": 1975,
-        "duree": 70,
-        "version": "VOSTA"
+        "idFilm": 73085,
+        "titre": "Ninfa plebea",
+        "realisateurs": "Lina Wertmüller",
+        "annee": 1996,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35672"
+    "hashEvenement": "f73085"
   },
   {
     "idSeance": 217101,
@@ -3253,7 +3443,9 @@
         "idFilm": 47143,
         "titre": "Chère Louise",
         "realisateurs": "Philippe de Broca",
-        "annee": 1971
+        "annee": 1971,
+        "duree": 105,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f47143"
@@ -3512,6 +3704,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par S.S. Rajamouli",
     "items": [
       {
         "idFilm": 155791,
@@ -3667,6 +3860,29 @@
       }
     ],
     "hashEvenement": "f42063"
+  },
+  {
+    "idSeance": 209780,
+    "idEvenement": 36405,
+    "dateHeure": "2026-06-29T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Nans Laborde-Jourdàa"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Aurélien Peyre",
+    "items": [
+      {
+        "idFilm": 155799,
+        "titre": "Épreuve du feu",
+        "art": "L'",
+        "realisateurs": "Aurélien Peyre",
+        "annee": 2025
+      }
+    ],
+    "hashEvenement": "f155799"
   },
   {
     "idSeance": 209779,
@@ -3839,7 +4055,9 @@
         "titre": "Chamade",
         "art": "La",
         "realisateurs": "Alain Cavalier",
-        "annee": 1968
+        "annee": 1968,
+        "duree": 105,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f47381"
@@ -3943,7 +4161,10 @@
         "titre": "Carabine nationale",
         "art": "La",
         "realisateurs": "Luis García Berlanga",
-        "annee": 1977
+        "annee": 1977,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f43638"
@@ -4024,9 +4245,33 @@
     "hashEvenement": "f30293"
   },
   {
+    "idSeance": 217108,
+    "idEvenement": 36308,
+    "dateHeure": "2026-07-03T20:15:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Fenêtre sur les collections",
+        "Rencontre avec James June Schneider"
+      ]
+    ],
+    "mention": "Séance présentée par James June Schneider et Joël Daire",
+    "items": [
+      {
+        "idFilm": 116754,
+        "titre": "Réverbération",
+        "art": "La",
+        "realisateurs": "James June Schneider, Benjamín Echazarreta",
+        "annee": 2011,
+        "duree": 85
+      }
+    ],
+    "hashEvenement": "f116754"
+  },
+  {
     "idSeance": 217171,
     "idEvenement": 35956,
-    "dateHeure": "2026-07-03T20:30:00",
+    "dateHeure": "2026-07-03T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4047,30 +4292,6 @@
       }
     ],
     "hashEvenement": "f43901"
-  },
-  {
-    "idSeance": 217108,
-    "idEvenement": 36308,
-    "dateHeure": "2026-07-03T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Fenêtre sur les collections",
-        "Rencontre avec James June Schneider"
-      ]
-    ],
-    "mention": "Séance présentée par James June Schneider et Joël Daire",
-    "items": [
-      {
-        "idFilm": 116754,
-        "titre": "Réverbération",
-        "art": "La",
-        "realisateurs": "James June Schneider, Benjamín Echazarreta",
-        "annee": 2011,
-        "duree": 85
-      }
-    ],
-    "hashEvenement": "f116754"
   },
   {
     "idSeance": 209876,
@@ -4204,6 +4425,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Solène Monnier",
     "items": [
       {
         "idFilm": 155780,
@@ -4352,7 +4574,7 @@
   {
     "idSeance": 217138,
     "idEvenement": 36350,
-    "dateHeure": "2026-07-05T17:15:00",
+    "dateHeure": "2026-07-05T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4446,7 +4668,7 @@
   {
     "idSeance": 209928,
     "idEvenement": 35968,
-    "dateHeure": "2026-07-05T19:30:00",
+    "dateHeure": "2026-07-05T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4484,7 +4706,8 @@
         "titre": "Rebelle",
         "art": "Le",
         "realisateurs": "Gérard Blain",
-        "annee": 1980
+        "annee": 1980,
+        "duree": 105
       }
     ],
     "hashEvenement": "f46809"
@@ -4525,6 +4748,7 @@
         "Festival du court métrage de Busan 2025"
       ]
     ],
+    "mention": "Séance présentée par Sanghoon Lee",
     "items": [
       {
         "idFilm": 155753,
@@ -4593,28 +4817,6 @@
     "hashEvenement": "f58450"
   },
   {
-    "idSeance": 216801,
-    "idEvenement": 35887,
-    "dateHeure": "2026-07-07T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "mention": "Ouverture de la rétrospective",
-    "items": [
-      {
-        "idFilm": 65244,
-        "titre": "After Life",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 1998
-      }
-    ],
-    "hashEvenement": "f65244"
-  },
-  {
     "idSeance": 217000,
     "idEvenement": 36237,
     "dateHeure": "2026-07-08T16:00:00",
@@ -4630,31 +4832,13 @@
         "idFilm": 64366,
         "titre": "Un jour, le Nil",
         "realisateurs": "Youssef Chahine",
-        "annee": 1964
+        "annee": 1964,
+        "duree": 109,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f64366"
-  },
-  {
-    "idSeance": 216802,
-    "idEvenement": 35888,
-    "dateHeure": "2026-07-08T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 77376,
-        "titre": "Distance",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2001
-      }
-    ],
-    "hashEvenement": "f77376"
   },
   {
     "idSeance": 209972,
@@ -4698,33 +4882,12 @@
         "titre": "Playtime",
         "realisateurs": "Jacques Tati",
         "annee": 1967,
-        "duree": 124,
+        "duree": 125,
         "format": "DCP",
         "restauration": true
       }
     ],
     "hashEvenement": "f51378"
-  },
-  {
-    "idSeance": 212834,
-    "idEvenement": 35889,
-    "dateHeure": "2026-07-08T20:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 91462,
-        "titre": "Nobody Knows",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2003
-      }
-    ],
-    "hashEvenement": "f91462"
   },
   {
     "idSeance": 209973,
@@ -4751,27 +4914,6 @@
     "hashEvenement": "f42002"
   },
   {
-    "idSeance": 216803,
-    "idEvenement": 35886,
-    "dateHeure": "2026-07-09T16:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 65245,
-        "titre": "Maborosi",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 1995
-      }
-    ],
-    "hashEvenement": "f65245"
-  },
-  {
     "idSeance": 217001,
     "idEvenement": 36251,
     "dateHeure": "2026-07-09T16:00:00",
@@ -4793,27 +4935,6 @@
     "hashEvenement": "f38036"
   },
   {
-    "idSeance": 216804,
-    "idEvenement": 35890,
-    "dateHeure": "2026-07-09T18:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 107763,
-        "titre": "Still Walking",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2008
-      }
-    ],
-    "hashEvenement": "f107763"
-  },
-  {
     "idSeance": 217118,
     "idEvenement": 36250,
     "dateHeure": "2026-07-09T18:00:00",
@@ -4829,7 +4950,9 @@
         "idFilm": 47184,
         "titre": "Cet obscur objet du désir",
         "realisateurs": "Luis Buñuel",
-        "annee": 1977
+        "annee": 1977,
+        "duree": 102,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f47184"
@@ -4885,48 +5008,6 @@
     "hashEvenement": "f51367"
   },
   {
-    "idSeance": 209998,
-    "idEvenement": 35891,
-    "dateHeure": "2026-07-09T21:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 108372,
-        "titre": "Air Doll",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2009
-      }
-    ],
-    "hashEvenement": "f108372"
-  },
-  {
-    "idSeance": 216805,
-    "idEvenement": 35892,
-    "dateHeure": "2026-07-10T16:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 115980,
-        "titre": "I Wish : Nos vœux secrets",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2011
-      }
-    ],
-    "hashEvenement": "f115980"
-  },
-  {
     "idSeance": 217002,
     "idEvenement": 36239,
     "dateHeure": "2026-07-10T16:00:00",
@@ -4942,7 +5023,10 @@
         "idFilm": 43358,
         "titre": "Fellini Satyricon",
         "realisateurs": "Federico Fellini",
-        "annee": 1968
+        "annee": 1968,
+        "duree": 138,
+        "version": "VOSTA",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f43358"
@@ -4989,33 +5073,12 @@
         "titre": "Jour de fête",
         "realisateurs": "Jacques Tati",
         "annee": 1949,
-        "duree": 87,
+        "duree": 86,
         "format": "DCP",
         "restauration": true
       }
     ],
     "hashEvenement": "f51366"
-  },
-  {
-    "idSeance": 210038,
-    "idEvenement": 35893,
-    "dateHeure": "2026-07-10T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 119999,
-        "titre": "Tel père, tel fils",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2013
-      }
-    ],
-    "hashEvenement": "f119999"
   },
   {
     "idSeance": 210040,
@@ -5084,33 +5147,12 @@
         "art": "Les",
         "realisateurs": "Jacques Tati",
         "annee": 1953,
-        "duree": 88,
+        "duree": 87,
         "format": "DCP",
         "restauration": true
       }
     ],
     "hashEvenement": "f51386"
-  },
-  {
-    "idSeance": 210039,
-    "idEvenement": 35894,
-    "dateHeure": "2026-07-10T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 147220,
-        "titre": "Going My Home",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2012
-      }
-    ],
-    "hashEvenement": "f147220"
   },
   {
     "idSeance": 216822,
@@ -5197,27 +5239,6 @@
     "hashEvenement": "f59233"
   },
   {
-    "idSeance": 210077,
-    "idEvenement": 35895,
-    "dateHeure": "2026-07-11T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 127129,
-        "titre": "Notre petite sœur",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2015
-      }
-    ],
-    "hashEvenement": "f127129"
-  },
-  {
     "idSeance": 210076,
     "idEvenement": 35876,
     "dateHeure": "2026-07-11T18:00:00",
@@ -5243,7 +5264,7 @@
         "titre": "Gai Dimanche",
         "realisateurs": "Jacques Berr",
         "annee": 1935,
-        "duree": 21,
+        "duree": 22,
         "format": "DCP"
       },
       {
@@ -5306,27 +5327,6 @@
     "hashEvenement": "f51385"
   },
   {
-    "idSeance": 210078,
-    "idEvenement": 35896,
-    "dateHeure": "2026-07-11T20:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 131594,
-        "titre": "Après la tempête",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2016
-      }
-    ],
-    "hashEvenement": "f131594"
-  },
-  {
     "idSeance": 216860,
     "idEvenement": 35269,
     "dateHeure": "2026-07-12T14:30:00",
@@ -5354,7 +5354,7 @@
   {
     "idSeance": 217149,
     "idEvenement": 36357,
-    "dateHeure": "2026-07-12T16:45:00",
+    "dateHeure": "2026-07-12T15:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5416,32 +5416,10 @@
         "realisateurs": "Jacques Tati",
         "annee": 1949,
         "duree": 77,
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f60055"
-  },
-  {
-    "idSeance": 210095,
-    "idEvenement": 35897,
-    "dateHeure": "2026-07-12T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 138751,
-        "titre": "Third Murder",
-        "art": "The",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2017
-      }
-    ],
-    "hashEvenement": "f138751"
   },
   {
     "idSeance": 210091,
@@ -5490,70 +5468,5 @@
       }
     ],
     "hashEvenement": "f30920"
-  },
-  {
-    "idSeance": 210096,
-    "idEvenement": 35898,
-    "dateHeure": "2026-07-12T21:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 139251,
-        "titre": "Une affaire de famille",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2018
-      }
-    ],
-    "hashEvenement": "f139251"
-  },
-  {
-    "idSeance": 210104,
-    "idEvenement": 35899,
-    "dateHeure": "2026-07-13T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 143548,
-        "titre": "Vérité",
-        "art": "La",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2019
-      }
-    ],
-    "hashEvenement": "f143548"
-  },
-  {
-    "idSeance": 210105,
-    "idEvenement": 35900,
-    "dateHeure": "2026-07-13T20:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hirokazu Kore-eda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 153546,
-        "titre": "Bonnes Étoiles",
-        "art": "Les",
-        "realisateurs": "Hirokazu Kore-eda",
-        "annee": 2022
-      }
-    ],
-    "hashEvenement": "f153546"
   }
 ]
