@@ -42,11 +42,39 @@
   * Vaysha l'aveugle  
   * Vicious (The)
 
-## Ciné-club de Murielle Joudet (3)
+## Ciné-club de Murielle Joudet (2)
 
   * Fille à la valise (La)  
-  * Mépris (Le)  
-  * Sept ans de réflexion
+  * Mépris (Le)
+
+## Cinéastes françaises des années 60 et 70 (26)
+
+  * A. Constant  
+  * Aloïse  
+  * Bonheur (Le)  
+  * Ça n'arrive qu'aux autres  
+  * Dérive (La)  
+  * Diabolo menthe  
+  * Faustine et le bel été  
+  * Félicité  
+  * Femme de Jean (La)  
+  * Femme intégrale (La)  
+  * Femmes au soleil  
+  * Fiancée du pirate (La)  
+  * Futur aux trousses (Le)  
+  * George qui ?  
+  * Histoires d'A  
+  * Je suis Pierre Rivière  
+  * Jument vapeur (La)  
+  * Lumière  
+  * Maso et Miso vont en bateau  
+  * Nathalie Granger  
+  * Pic et pic et colegram  
+  * Qu'est-ce que tu veux, Julie ?  
+  * S'il vous plaît... la mer ?  
+  * Un film  
+  * Un rêve plus long que la nuit  
+  * Villa Les Dunes
 
 ## Cinéma bis (9)
 
@@ -207,12 +235,13 @@
   * Princess Bride  
   * Reine de Broadway (La)
 
-## Marilyn Monroe (5)
+## Marilyn Monroe (6)
 
   * Bus Stop  
   * Certains l'aiment chaud  
   * Désaxés (Les)  
   * Niagara  
+  * Sept ans de réflexion  
   * Troublez-moi ce soir
 
 ## Parlons cinéma... avec Édouard Louis (3)
@@ -243,37 +272,6 @@
   * Rue de la joie  
   * Véritable Histoire d'Abe Sada (La)  
   * Vie secrète de madame Yoshino (La)
-
-## Réalisatrices françaises des années 60 et 70 (28)
-
-  * A. Constant  
-  * Aloïse  
-  * Bonheur (Le)  
-  * Ça n'arrive qu'aux autres  
-  * Dérive (La)  
-  * Diabolo menthe  
-  * Faustine et le bel été  
-  * Félicité  
-  * Femme de Jean (La)  
-  * Femme intégrale (La)  
-  * Femmes au soleil  
-  * Fiancée du pirate (La)  
-  * Futur aux trousses (Le)  
-  * George qui ?  
-  * Histoires d'A  
-  * Je suis Pierre Rivière  
-  * Jument vapeur (La)  
-  * Lumière  
-  * Maso et Miso vont en bateau  
-  * Nathalie Granger  
-  * Pic et pic et colegram  
-  * Pourquoi pas !  
-  * Quelque part, quelqu'un  
-  * Qu'est-ce que tu veux, Julie ?  
-  * S'il vous plaît... la mer ?  
-  * Un film  
-  * Un rêve plus long que la nuit  
-  * Villa Les Dunes
 
 ## Séances spéciales (7)
 
