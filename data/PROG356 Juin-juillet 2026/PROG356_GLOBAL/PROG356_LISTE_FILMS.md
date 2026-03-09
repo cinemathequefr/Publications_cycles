@@ -76,7 +76,7 @@
   * Un rêve plus long que la nuit  
   * Villa Les Dunes
 
-## Cinéma bis (9)
+## Cinéma bis (8)
 
   * Atlantis Interceptors  
   * Campus  
@@ -85,8 +85,7 @@
   * J'ai vécu deux fois  
   * Mad Monster (The)  
   * Rues de l'enfer (Les)  
-  * S.O.S. Concorde  
-  * Story of Joanna (The)
+  * S.O.S. Concorde
 
 ## Claudia Cardinale (21)
 
@@ -120,7 +119,7 @@
   * Paris, Cabourg, Le Caire et l'amour  
   * Réverbération (La)
 
-## Histoire permanente du cinéma (25)
+## Histoire permanente du cinéma (23)
 
   * Amour de perdition  
   * Carabine nationale (La)  
@@ -143,9 +142,7 @@
   * Rebelle (Le)  
   * Série noire  
   * Sonate d'automne  
-  * Tambour (Le)  
   * Un jour, le Nil  
-  * Vallée (La)  
   * Vieil Homme et l'enfant (Le)
 
 ## Jacques Tati (10)
@@ -286,7 +283,7 @@
 ## Week-end S. S. Rajamouli (5)
 
   * Eega  
-  * Légende de Baahubali, 1e partie (La)  
+  * Légende de Baahubali, 1re partie (La)  
   * Légende de Baahubali, 2e partie (La)  
-  * Maryadha Ramanna  
+  * Maryada Ramanna  
   * RRR  

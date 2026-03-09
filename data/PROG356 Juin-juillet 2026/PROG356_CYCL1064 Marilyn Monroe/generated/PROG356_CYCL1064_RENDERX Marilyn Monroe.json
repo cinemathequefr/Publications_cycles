@@ -214,6 +214,70 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Conférence et film",
+      "items": [
+        {
+          "groupe": [
+            {
+              "idEvenement": 36298,
+              "content": [
+                {
+                  "idConf": 36298,
+                  "titre": "MM/BB : blondes nationales et internationales",
+                  "sousTitre": "Conférence de Ginette Vincendeau",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Brigitte Bardot n'a rencontré Marilyn Monroe qu'une seule fois, à la Royal Command Performance à Londres, le 29 octobre 1956. Monroe est alors au sommet de sa gloire, Bardot une starlette qui contemple, fascinée, son idole hollywoodienne. Peu après, la sortie de _Et Dieu... créa la femme_ la transforme, elle aussi, en célébrité planétaire. « MM » et « BB » présentent de nombreux points communs : érotisme, blondeur, interprétation ironique de la « blonde idiote ». Un monde cependant les sépare sur le plan personnel et professionnel. Cette conférence, illustrée d'extraits de films, examine les ressemblances et divergences entre les deux stars, leur projection d'une vision fantasmée de la sexualité féminine, mais aussi la manière dont elles redéfinissent le vedettariat d'après-guerre en brouillant les frontières entre jeu d'acteur, image publique et vie privée, anticipant la culture « people » du XXI<sup>e</sup> siècle. — Ginette Vincendeau"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217037,
+                  "idSeanceAssoc": 217056,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-05-29T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
+            {
+              "idFilm": 51587,
+              "content": [
+                {
+                  "idFilm": 51587,
+                  "ordre": 1,
+                  "titre": "Et Dieu... créa la femme",
+                  "realisateurs": "Roger Vadim",
+                  "pays": "France",
+                  "annee": 1956,
+                  "duree": 90,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Brigitte Bardot",
+                    "Curd Jürgens",
+                    "Jean-Louis Trintignant",
+                    "Christian Marquand"
+                  ],
+                  "miniTexte": "Le film qui propulse Bardot au rang de star et fait de Saint-Tropez la destination la plus en vogue. Sujet de fascination autant que de scandale – jusqu'en Amérique avec le slogan « Et Dieu créa la femme... mais le diable inventa Brigitte Bardot » –, BB incarne la femme libre et moderne par excellence, à la fois objet de désir et figure iconoclaste, qui bouscule les codes de la féminité."
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217056,
+                  "idSeanceAssoc": 217037,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-05-29T21:15:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {

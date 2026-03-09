@@ -74,30 +74,6 @@
     "hashEvenement": "f38123"
   },
   {
-    "idSeance": 217111,
-    "idEvenement": 35723,
-    "dateHeure": "2026-05-28T16:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Histoire permanente du cinéma",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51228,
-        "titre": "Vallée",
-        "art": "La",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1971,
-        "duree": 106,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f51228"
-  },
-  {
     "idSeance": 209020,
     "idEvenement": 36029,
     "dateHeure": "2026-05-28T18:30:00",
@@ -298,6 +274,10 @@
       [
         "Séances spéciales",
         "Les films"
+      ],
+      [
+        "Marilyn Monroe",
+        "Conférence et film"
       ]
     ],
     "items": [
@@ -1276,12 +1256,15 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Hélène Fleckinger",
     "items": [
       {
         "idFilm": 71711,
         "titre": "Maso et Miso vont en bateau",
         "realisateurs": "Delphine Seyrig, Nadja Ringart, Carole Roussopoulos, Ioana Wieder",
-        "annee": 1976
+        "annee": 1976,
+        "duree": 50,
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f71711"
@@ -1458,8 +1441,8 @@
     "hashEvenement": "f141119f150602f155748f155749f155750f150135f155752"
   },
   {
-    "idSeance": 209320,
-    "idEvenement": 35752,
+    "idSeance": 217199,
+    "idEvenement": 35748,
     "dateHeure": "2026-06-10T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -1470,16 +1453,14 @@
     ],
     "items": [
       {
-        "idFilm": 38641,
-        "titre": "Sonate d'automne",
-        "realisateurs": "Ingmar Bergman",
-        "annee": 1977,
-        "duree": 92,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 43766,
+        "titre": "Amour de perdition",
+        "realisateurs": "Manoel de Oliveira",
+        "annee": 1978,
+        "duree": 265
       }
     ],
-    "hashEvenement": "f38641"
+    "hashEvenement": "f43766"
   },
   {
     "idSeance": 209322,
@@ -1529,31 +1510,6 @@
     "hashEvenement": "f37421"
   },
   {
-    "idSeance": 209321,
-    "idEvenement": 34062,
-    "dateHeure": "2026-06-10T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Histoire permanente du cinéma",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 40249,
-        "titre": "Tambour",
-        "art": "Le",
-        "realisateurs": "Volker Schlöndorff",
-        "annee": 1979,
-        "duree": 142,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f40249"
-  },
-  {
     "idSeance": 216819,
     "idEvenement": 36015,
     "dateHeure": "2026-06-10T20:30:00",
@@ -1577,8 +1533,8 @@
     "hashEvenement": "f48260"
   },
   {
-    "idSeance": 216854,
-    "idEvenement": 35748,
+    "idSeance": 217201,
+    "idEvenement": 35752,
     "dateHeure": "2026-06-11T16:00:00",
     "salle": "GF",
     "cycle": [
@@ -1589,14 +1545,16 @@
     ],
     "items": [
       {
-        "idFilm": 43766,
-        "titre": "Amour de perdition",
-        "realisateurs": "Manoel de Oliveira",
-        "annee": 1978,
-        "duree": 265
+        "idFilm": 38641,
+        "titre": "Sonate d'automne",
+        "realisateurs": "Ingmar Bergman",
+        "annee": 1977,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f43766"
+    "hashEvenement": "f38641"
   },
   {
     "idSeance": 217094,
@@ -1729,7 +1687,7 @@
     "hashEvenement": "f60949"
   },
   {
-    "idSeance": 216855,
+    "idSeance": 217202,
     "idEvenement": 35745,
     "dateHeure": "2026-06-12T16:00:00",
     "salle": "GF",
@@ -2178,6 +2136,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Yervant Gianikian",
     "items": [
       {
         "idFilm": 155745,
@@ -2216,9 +2175,33 @@
     "hashEvenement": "f73091"
   },
   {
+    "idSeance": 217090,
+    "idEvenement": 36256,
+    "dateHeure": "2026-06-14T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Yervant Gianikian",
+    "items": [
+      {
+        "idFilm": 155746,
+        "titre": "Diari di Angela: Noi due cineasti, capitolo secondo",
+        "art": "I",
+        "realisateurs": "Yervant Gianikian",
+        "annee": 2019,
+        "duree": 100
+      }
+    ],
+    "hashEvenement": "f155746"
+  },
+  {
     "idSeance": 216905,
     "idEvenement": 35923,
-    "dateHeure": "2026-06-14T20:15:00",
+    "dateHeure": "2026-06-14T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2241,30 +2224,7 @@
     "hashEvenement": "f155685"
   },
   {
-    "idSeance": 217090,
-    "idEvenement": 36256,
-    "dateHeure": "2026-06-14T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155746,
-        "titre": "Diari di Angela: Noi due cineasti, capitolo secondo",
-        "art": "I",
-        "realisateurs": "Yervant Gianikian",
-        "annee": 2019,
-        "duree": 100
-      }
-    ],
-    "hashEvenement": "f155746"
-  },
-  {
-    "idSeance": 216856,
+    "idSeance": 217203,
     "idEvenement": 35743,
     "dateHeure": "2026-06-15T16:00:00",
     "salle": "GF",
@@ -2366,7 +2326,7 @@
         "Les films"
       ]
     ],
-    "mention": "Avant-première",
+    "mention": "Avant-première. Séance présentée par Yervant Gianikian",
     "items": [
       {
         "idFilm": 155747,
@@ -2380,7 +2340,7 @@
     "hashEvenement": "f155747"
   },
   {
-    "idSeance": 217100,
+    "idSeance": 217204,
     "idEvenement": 35747,
     "dateHeure": "2026-06-17T16:30:00",
     "salle": "GF",
@@ -2486,7 +2446,7 @@
     "hashEvenement": "f45689"
   },
   {
-    "idSeance": 216887,
+    "idSeance": 217205,
     "idEvenement": 35751,
     "dateHeure": "2026-06-18T16:30:00",
     "salle": "GF",
@@ -2714,32 +2674,6 @@
     "hashEvenement": "f104701"
   },
   {
-    "idSeance": 209551,
-    "idEvenement": 36300,
-    "dateHeure": "2026-06-19T21:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Cinéma bis",
-        "Gerard Damiano"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 123944,
-        "titre": "Story of Joanna",
-        "art": "The",
-        "realisateurs": "Gerard Damiano",
-        "annee": 1975,
-        "duree": 86,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f123944"
-  },
-  {
     "idSeance": 216908,
     "idEvenement": 35922,
     "dateHeure": "2026-06-20T14:30:00",
@@ -2764,9 +2698,9 @@
     "hashEvenement": "f155684"
   },
   {
-    "idSeance": 217178,
+    "idSeance": 217206,
     "idEvenement": 36391,
-    "dateHeure": "2026-06-20T14:30:00",
+    "dateHeure": "2026-06-20T15:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2813,7 +2747,7 @@
     "hashEvenement": "f60288"
   },
   {
-    "idSeance": 217176,
+    "idSeance": 217207,
     "idEvenement": 36082,
     "dateHeure": "2026-06-20T17:15:00",
     "salle": "HL",
@@ -2823,7 +2757,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Öykü Sofuoğlu",
     "items": [
       {
         "idFilm": 139738,
@@ -2863,7 +2796,7 @@
     "hashEvenement": "f43991"
   },
   {
-    "idSeance": 217177,
+    "idSeance": 217222,
     "idEvenement": 36389,
     "dateHeure": "2026-06-20T20:30:00",
     "salle": "GF",
@@ -3077,7 +3010,7 @@
         "annee": 1978,
         "duree": 104,
         "version": "VO",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f73054"
@@ -3108,7 +3041,7 @@
     "hashEvenement": "f155699"
   },
   {
-    "idSeance": 209617,
+    "idSeance": 217208,
     "idEvenement": 36416,
     "dateHeure": "2026-06-22T19:00:00",
     "salle": "JE",
@@ -3118,7 +3051,6 @@
         "Nicolas Giuliani"
       ]
     ],
-    "mention": "Séance suivie d'une discussion avec Nicolas Giuliani et Arthur Harari",
     "items": [
       {
         "idFilm": 155757,
@@ -3142,7 +3074,7 @@
   {
     "idSeance": 217098,
     "idEvenement": 36085,
-    "dateHeure": "2026-06-22T20:30:00",
+    "dateHeure": "2026-06-22T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3163,9 +3095,9 @@
     "hashEvenement": "f155704"
   },
   {
-    "idSeance": 216890,
+    "idSeance": 217209,
     "idEvenement": 35753,
-    "dateHeure": "2026-06-24T16:00:00",
+    "dateHeure": "2026-06-24T15:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3257,9 +3189,9 @@
     "hashEvenement": "f35672"
   },
   {
-    "idSeance": 216891,
+    "idSeance": 217210,
     "idEvenement": 35720,
-    "dateHeure": "2026-06-25T17:00:00",
+    "dateHeure": "2026-06-25T16:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3378,7 +3310,7 @@
     "hashEvenement": "f73085"
   },
   {
-    "idSeance": 217101,
+    "idSeance": 217211,
     "idEvenement": 36253,
     "dateHeure": "2026-06-26T16:00:00",
     "salle": "GF",
@@ -3403,7 +3335,7 @@
   {
     "idSeance": 209709,
     "idEvenement": 35958,
-    "dateHeure": "2026-06-26T17:30:00",
+    "dateHeure": "2026-06-26T17:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3454,7 +3386,7 @@
   {
     "idSeance": 217154,
     "idEvenement": 36137,
-    "dateHeure": "2026-06-26T20:00:00",
+    "dateHeure": "2026-06-26T19:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3467,8 +3399,8 @@
       {
         "idFilm": 153021,
         "titre": "RRR",
-        "realisateurs": "S.S. Rajamouli",
-        "annee": 2021,
+        "realisateurs": "S. S. Rajamouli",
+        "annee": 2022,
         "duree": 187,
         "version": "VOSTF",
         "format": "DCP"
@@ -3518,9 +3450,9 @@
     "items": [
       {
         "idFilm": 155758,
-        "titre": "Légende de Baahubali, 1e partie",
+        "titre": "Légende de Baahubali, 1re partie",
         "art": "La",
-        "realisateurs": "S.S. Rajamouli",
+        "realisateurs": "S. S. Rajamouli",
         "annee": 2015,
         "duree": 159,
         "version": "VOSTF",
@@ -3609,7 +3541,7 @@
         "idFilm": 155759,
         "titre": "Légende de Baahubali, 2e partie",
         "art": "La",
-        "realisateurs": "S.S. Rajamouli",
+        "realisateurs": "S. S. Rajamouli",
         "annee": 2017,
         "duree": 171,
         "version": "VOSTF",
@@ -3658,8 +3590,8 @@
     "items": [
       {
         "idFilm": 155791,
-        "titre": "Maryadha Ramanna",
-        "realisateurs": "S.S. Rajamouli",
+        "titre": "Maryada Ramanna",
+        "realisateurs": "S. S. Rajamouli",
         "annee": 2010
       }
     ],
@@ -3730,7 +3662,7 @@
       {
         "idFilm": 155737,
         "titre": "Eega",
-        "realisateurs": "S.S. Rajamouli",
+        "realisateurs": "S. S. Rajamouli",
         "annee": 2012,
         "duree": 145,
         "version": "VOSTF",
@@ -3884,7 +3816,7 @@
     "idSeance": 209806,
     "idEvenement": 35967,
     "dateHeure": "2026-07-01T18:00:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Claudia Cardinale",
@@ -3909,7 +3841,7 @@
     "idSeance": 217163,
     "idEvenement": 36364,
     "dateHeure": "2026-07-01T20:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Joséphine Baker",
@@ -3965,10 +3897,10 @@
     "hashEvenement": "f155775f155776f155777f155778f155779f48449"
   },
   {
-    "idSeance": 217049,
-    "idEvenement": 35961,
+    "idSeance": 217220,
+    "idEvenement": 35962,
     "dateHeure": "2026-07-01T20:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Claudia Cardinale",
@@ -3977,19 +3909,21 @@
     ],
     "items": [
       {
-        "idFilm": 45182,
-        "titre": "8½",
-        "realisateurs": "Federico Fellini",
+        "idFilm": 32370,
+        "titre": "Panthère Rose",
+        "art": "La",
+        "realisateurs": "Blake Edwards",
         "annee": 1963,
-        "duree": 128,
+        "duree": 115,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f45182"
+    "hashEvenement": "f32370"
   },
   {
-    "idSeance": 216998,
+    "idSeance": 217212,
     "idEvenement": 36238,
     "dateHeure": "2026-07-02T16:00:00",
     "salle": "GF",
@@ -4095,7 +4029,7 @@
     "hashEvenement": "f38203"
   },
   {
-    "idSeance": 216999,
+    "idSeance": 217213,
     "idEvenement": 36249,
     "dateHeure": "2026-07-03T16:30:00",
     "salle": "GF",
@@ -4120,8 +4054,8 @@
     "hashEvenement": "f43638"
   },
   {
-    "idSeance": 216843,
-    "idEvenement": 35962,
+    "idSeance": 217221,
+    "idEvenement": 35961,
     "dateHeure": "2026-07-03T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -4132,18 +4066,16 @@
     ],
     "items": [
       {
-        "idFilm": 32370,
-        "titre": "Panthère Rose",
-        "art": "La",
-        "realisateurs": "Blake Edwards",
+        "idFilm": 45182,
+        "titre": "8½",
+        "realisateurs": "Federico Fellini",
         "annee": 1963,
-        "duree": 115,
+        "duree": 128,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f32370"
+    "hashEvenement": "f45182"
   },
   {
     "idSeance": 209877,
@@ -4544,7 +4476,7 @@
     "hashEvenement": "f85578"
   },
   {
-    "idSeance": 209933,
+    "idSeance": 217223,
     "idEvenement": 36377,
     "dateHeure": "2026-07-05T19:30:00",
     "salle": "GF",
@@ -4640,9 +4572,9 @@
     "hashEvenement": "f42779"
   },
   {
-    "idSeance": 209940,
+    "idSeance": 217214,
     "idEvenement": 36248,
-    "dateHeure": "2026-07-06T17:00:00",
+    "dateHeure": "2026-07-06T16:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4665,7 +4597,7 @@
   {
     "idSeance": 209941,
     "idEvenement": 35953,
-    "dateHeure": "2026-07-06T18:00:00",
+    "dateHeure": "2026-07-06T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4744,7 +4676,7 @@
   {
     "idSeance": 217050,
     "idEvenement": 35969,
-    "dateHeure": "2026-07-06T20:15:00",
+    "dateHeure": "2026-07-06T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4767,7 +4699,7 @@
     "hashEvenement": "f58450"
   },
   {
-    "idSeance": 217000,
+    "idSeance": 217215,
     "idEvenement": 36237,
     "dateHeure": "2026-07-08T16:00:00",
     "salle": "GF",
@@ -4864,7 +4796,7 @@
     "hashEvenement": "f42002"
   },
   {
-    "idSeance": 217001,
+    "idSeance": 217216,
     "idEvenement": 36251,
     "dateHeure": "2026-07-09T16:00:00",
     "salle": "GF",
@@ -4885,7 +4817,7 @@
     "hashEvenement": "f38036"
   },
   {
-    "idSeance": 217118,
+    "idSeance": 217218,
     "idEvenement": 36250,
     "dateHeure": "2026-07-09T18:00:00",
     "salle": "GF",
@@ -4958,9 +4890,9 @@
     "hashEvenement": "f51367"
   },
   {
-    "idSeance": 217002,
+    "idSeance": 217217,
     "idEvenement": 36239,
-    "dateHeure": "2026-07-10T16:00:00",
+    "dateHeure": "2026-07-10T15:00:00",
     "salle": "GF",
     "cycle": [
       [

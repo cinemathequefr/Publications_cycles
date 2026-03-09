@@ -84,7 +84,8 @@
             {
               "idSeance": 217089,
               "dateHeure": "2026-06-14T17:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Yervant Gianikian"
             }
           ]
         },
@@ -111,8 +112,9 @@
           "seances": [
             {
               "idSeance": 217090,
-              "dateHeure": "2026-06-14T20:30:00",
-              "idSalle": "GF"
+              "dateHeure": "2026-06-14T20:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Yervant Gianikian"
             }
           ]
         },
@@ -141,7 +143,7 @@
               "idSeance": 209450,
               "dateHeure": "2026-06-15T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première"
+              "mention": "Avant-première. Séance présentée par Yervant Gianikian"
             }
           ]
         }
@@ -216,7 +218,25 @@
     "Avant-première": [
       {
         "dateHeure": "2026-06-15T20:00:00",
-        "titreFilms": "I Diari di Angela: Noi due cineasti, capitolo terzo"
+        "titreFilms": "I Diari di Angela: Noi due cineasti, capitolo terzo",
+        "mention": "séance présentée par Yervant Gianikian"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "I Diari di Angela: Noi due cineasti",
+        "mention": "par Yervant Gianikian",
+        "dateHeure": "2026-06-14T17:30:00"
+      },
+      {
+        "titreFilms": "I Diari di Angela: Noi due cineasti, capitolo secondo",
+        "mention": "par Yervant Gianikian",
+        "dateHeure": "2026-06-14T20:00:00"
+      },
+      {
+        "titreFilms": "I Diari di Angela: Noi due cineasti, capitolo terzo",
+        "mention": "par Yervant Gianikian",
+        "dateHeure": "2026-06-15T20:00:00"
       }
     ]
   }
