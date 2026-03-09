@@ -232,11 +232,12 @@
   * Princess Bride  
   * Reine de Broadway (La)
 
-## Marilyn Monroe (6)
+## Marilyn Monroe (7)
 
   * Bus Stop  
   * Certains l'aiment chaud  
   * Désaxés (Les)  
+  * Et Dieu... créa la femme  
   * Niagara  
   * Sept ans de réflexion  
   * Troublez-moi ce soir
@@ -270,14 +271,13 @@
   * Véritable Histoire d'Abe Sada (La)  
   * Vie secrète de madame Yoshino (La)
 
-## Séances spéciales (7)
+## Séances spéciales (6)
 
   * Aiguilles rouges (Les)  
   * Bananes mécaniques  
   * Diari di Angela: Noi due cineasti, capitolo secondo (I)  
   * Diari di Angela: Noi due cineasti, capitolo terzo (I)  
   * Diari di Angela: Noi due cineasti (I)  
-  * Et Dieu... créa la femme  
   * Mil nubes de paz cercan el cielo, amor, jamás acabarás de ser amor
 
 ## Week-end S. S. Rajamouli (5)
