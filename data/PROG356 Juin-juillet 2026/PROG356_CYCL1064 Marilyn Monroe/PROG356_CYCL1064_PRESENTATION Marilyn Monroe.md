@@ -1,0 +1,1 @@
+> En parallèle de l'exposition, la Cinémathèque prolonge la rétrospective consacrée à Marilyn Monroe avec la projection, chaque week-end, de plusieurs de ses grands classiques. Au programme notamment, le magnifique _Niagara_ au Technicolor éclatant, ou encore _Certains l'aiment chaud_, la comédie décapante de Billy Wilder.

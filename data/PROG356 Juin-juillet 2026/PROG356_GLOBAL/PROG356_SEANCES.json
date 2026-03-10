@@ -273,7 +273,7 @@
     "cycle": [
       [
         "Marilyn Monroe",
-        "Conférence et film"
+        "Séance spéciale"
       ]
     ],
     "items": [
@@ -1252,7 +1252,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Hélène Fleckinger",
+    "mention": "Séance présentée par Hélène Fleckinger et Nadja Ringart",
     "items": [
       {
         "idFilm": 71711,
@@ -1287,6 +1287,29 @@
       }
     ],
     "hashEvenement": "f155742"
+  },
+  {
+    "idSeance": 217224,
+    "idEvenement": 36359,
+    "dateHeure": "2026-06-07T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Cinéastes françaises des années 60 et 70",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49649,
+        "titre": "S'il vous plaît... la mer ?",
+        "realisateurs": "Martine Lancelot",
+        "annee": 1979,
+        "duree": 73,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f49649"
   },
   {
     "idSeance": 209281,
@@ -1372,7 +1395,7 @@
         "10 ans de la NEF"
       ]
     ],
-    "mention": "Séance présentée par Xavier Kawa-Topor",
+    "mention": "Séance présentée par Xavier Kawa-Topor, Marie Larrivé et Sophie Racine",
     "items": [
       {
         "idFilm": 141119,
@@ -1400,12 +1423,11 @@
         "format": "DCP"
       },
       {
-        "idFilm": 155749,
-        "titre": "Portrait de famille",
-        "realisateurs": " Lea Vidaković",
-        "annee": 2023,
-        "duree": 15,
-        "version": "VOSTF",
+        "idFilm": 150135,
+        "titre": "Noir soleil",
+        "realisateurs": "Marie Larrivé",
+        "annee": 2020,
+        "duree": 20,
         "format": "DCP"
       },
       {
@@ -1418,11 +1440,12 @@
         "format": "DCP"
       },
       {
-        "idFilm": 150135,
-        "titre": "Noir soleil",
-        "realisateurs": "Marie Larrivé",
-        "annee": 2020,
-        "duree": 20,
+        "idFilm": 155749,
+        "titre": "Portrait de famille",
+        "realisateurs": " Lea Vidaković",
+        "annee": 2023,
+        "duree": 15,
+        "version": "VOSTF",
         "format": "DCP"
       },
       {
@@ -1434,7 +1457,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f141119f150602f155748f155749f155750f150135f155752"
+    "hashEvenement": "f141119f150602f155748f150135f155750f155749f155752"
   },
   {
     "idSeance": 217199,
@@ -1740,7 +1763,7 @@
         "Gabriel de Gravone"
       ]
     ],
-    "mention": "Séance présentée par Joël Daire et Jean-Pierre Mattei",
+    "mention": "Séance présentée par Joël Daire, Jean-Pierre Mattei, Valécien Bonnot-Gallucci et Raymond Acquaviva",
     "items": [
       {
         "idFilm": 92818,
@@ -1872,7 +1895,9 @@
       },
       {
         "idConf": 36315,
-        "titre": "[Action culturelle sans titre]"
+        "titre": "Dialogue avec Jean-Victor Blanc",
+        "typeConference": "Dialogue",
+        "duree": 75
       }
     ],
     "hashEvenement": "f41727c36315"
@@ -1900,53 +1925,6 @@
       }
     ],
     "hashEvenement": "f43959"
-  },
-  {
-    "idSeance": 217173,
-    "idEvenement": 36154,
-    "dateHeure": "2026-06-13T15:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Cinéastes françaises des années 60 et 70",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155739,
-        "titre": "Un film",
-        "realisateurs": "Sylvina Boissonnas",
-        "annee": 1970,
-        "duree": 51,
-        "version": "Autres",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f155739"
-  },
-  {
-    "idSeance": 217175,
-    "idEvenement": 36359,
-    "dateHeure": "2026-06-13T17:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Cinéastes françaises des années 60 et 70",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 49649,
-        "titre": "S'il vous plaît... la mer ?",
-        "realisateurs": "Martine Lancelot",
-        "annee": 1979,
-        "duree": 73,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f49649"
   },
   {
     "idSeance": 216906,
@@ -2489,14 +2467,10 @@
   },
   {
     "idSeance": 216764,
-    "idEvenement": 35902,
+    "idEvenement": 36122,
     "dateHeure": "2026-06-18T19:00:00",
     "salle": "GF",
     "cycle": [
-      [
-        "Lina Wertmüller",
-        "Les films"
-      ],
       [
         "Lina Wertmüller",
         "Rencontres et conférences"
@@ -2505,22 +2479,13 @@
     "items": [
       {
         "idConf": 36122,
-        "titre": "« Qui êtes-vous... Lina Wertmüller ? » par Gabriela Trujillo",
+        "titre": "Qui êtes-vous... Lina Wertmüller ?",
         "sousTitre": "Conférence de Gabriela Trujillo",
         "typeConference": "Conférence",
         "duree": 90
-      },
-      {
-        "idFilm": 73090,
-        "titre": "Chacun à son poste et rien ne va",
-        "realisateurs": "Lina Wertmüller",
-        "annee": 1974,
-        "duree": 105,
-        "version": "VOSTF",
-        "format": "DCP"
       }
     ],
-    "hashEvenement": "c36122f73090"
+    "hashEvenement": "c36122"
   },
   {
     "idSeance": 217097,
@@ -2545,6 +2510,30 @@
       }
     ],
     "hashEvenement": "f155700"
+  },
+  {
+    "idSeance": 217096,
+    "idEvenement": 35902,
+    "dateHeure": "2026-06-18T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Lina Wertmüller",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 73090,
+        "titre": "Chacun à son poste et rien ne va",
+        "realisateurs": "Lina Wertmüller",
+        "annee": 1974,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f73090"
   },
   {
     "idSeance": 217099,
@@ -2753,6 +2742,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Öykü Sofuoğlu",
     "items": [
       {
         "idFilm": 139738,
@@ -2805,7 +2795,7 @@
     "items": [
       {
         "idFilm": 60116,
-        "titre": "Maison des perversités = Le Promeneur du grenier",
+        "titre": "Maison des perversités",
         "art": "La",
         "realisateurs": "Noboru Tanaka",
         "annee": 1976,
@@ -3953,6 +3943,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Virginie Aubry",
     "items": [
       {
         "idFilm": 74038,
@@ -5133,7 +5124,7 @@
         "titre": "École des facteurs",
         "art": "L'",
         "realisateurs": "Jacques Tati",
-        "annee": 1946,
+        "annee": 1947,
         "duree": 18,
         "format": "DCP"
       },
@@ -5196,7 +5187,7 @@
         "idFilm": 51385,
         "titre": "Trafic",
         "realisateurs": "Jacques Tati",
-        "annee": 1970,
+        "annee": 1971,
         "duree": 97,
         "format": "DCP",
         "restauration": true
@@ -5294,6 +5285,7 @@
         "realisateurs": "Jacques Tati",
         "annee": 1949,
         "duree": 77,
+        "version": "VO",
         "format": "35 mm"
       }
     ],

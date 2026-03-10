@@ -218,7 +218,7 @@
       "textes": []
     },
     {
-      "titreSousCycle": "Conférence et film",
+      "titreSousCycle": "Séance spéciale",
       "tri": 2,
       "items": [
         {
@@ -264,6 +264,45 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 217041,
+          "ordre": 2,
+          "dateHeure": "2026-06-13T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 4078,
+          "idEvenement": 36315,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Jean-Victor Blanc",
+          "duree": 75,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans _Troublez-moi ce soir_, mais aussi _Certains l'aiment chaud_ et _Les Désaxés_, Monroe incarne des personnages glamour au mal-être patent. Même si leur authenticité a été discutée, les différents écrits qu'elle a laissés évoquent par ailleurs une souffrance mentale. La discussion portera sur le travail de composition de l'actrice dans ces rôles complexes (Peggy, Sugar Kane Kowalczyk, Roslyn Taber), mais aussi les représentations des troubles psychiques dans le cinéma des années 50, ainsi que l'empreinte laissée par la star sur l'image de la santé mentale. — Jean-Victor Blanc"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Jean-Victor Blanc",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 2
+            },
+            {
+              "nomComplet": "Florence Tissot",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 1
+            }
+          ],
+          "mentionAnimation": "Animé par Florence Tissot"
+        },
+        {
           "idSeance": 217037,
           "dateHeure": "2026-05-29T19:00:00",
           "idSalle": [
@@ -290,26 +329,12 @@
           "intervenants": [
             {
               "nomComplet": "Ginette Vincendeau",
+              "sexe": "F",
               "idFonction": 139,
               "fonction": "Conférencier",
               "ordre": 1
             }
           ]
-        },
-        {
-          "idSeance": 217041,
-          "ordre": 2,
-          "dateHeure": "2026-06-13T14:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 90,
-          "typeAssoc": 118,
-          "idCategorie": 4078,
-          "idEvenement": 36315,
-          "typeEvenement": 14,
-          "textes": []
         }
       ],
       "textes": []

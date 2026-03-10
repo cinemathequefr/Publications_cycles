@@ -478,7 +478,30 @@
         "format": "Numérique"
       }
     ],
-    "mention": "Séance présentée par Hélène Fleckinger"
+    "mention": "Séance présentée par Hélène Fleckinger et Nadja Ringart"
+  },
+  {
+    "idCategorie": 4139,
+    "typeEvenement": 13,
+    "idEvenement": 36359,
+    "idSeance": 217224,
+    "dateHeure": "2026-06-07T17:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 49649,
+        "ordre": 1,
+        "idSeance": 217224,
+        "idCopie": 28276,
+        "duree": 73,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCategorie": 4139,
@@ -590,51 +613,5 @@
       }
     ],
     "mention": "Séance présentée par Bernard Payen"
-  },
-  {
-    "idCategorie": 4139,
-    "typeEvenement": 13,
-    "idEvenement": 36154,
-    "idSeance": 217173,
-    "dateHeure": "2026-06-13T15:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 90,
-    "items": [
-      {
-        "idFilm": 155739,
-        "ordre": 1,
-        "idSeance": 217173,
-        "idCopie": 31660,
-        "duree": 51,
-        "version": "Autres",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4139,
-    "typeEvenement": 13,
-    "idEvenement": 36359,
-    "idSeance": 217175,
-    "dateHeure": "2026-06-13T17:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 105,
-    "items": [
-      {
-        "idFilm": 49649,
-        "ordre": 1,
-        "idSeance": 217175,
-        "idCopie": 28276,
-        "duree": 73,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
   }
 ]

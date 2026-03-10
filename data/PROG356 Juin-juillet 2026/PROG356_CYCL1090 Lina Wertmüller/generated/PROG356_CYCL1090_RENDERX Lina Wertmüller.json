@@ -165,11 +165,19 @@
               "content": [
                 {
                   "idConf": 36122,
-                  "ordre": 1,
-                  "titre": "« Qui êtes-vous... Lina Wertmüller ? » par Gabriela Trujillo",
+                  "titre": "Qui êtes-vous... Lina Wertmüller ?",
                   "sousTitre": "Conférence de Gabriela Trujillo",
                   "typeConference": "Conférence",
-                  "miniTexte": "Connue pour ses comédies cinglantes où la lutte des classes attise la guerre des sexes, Lina Wertmüller a été la prêtresse d'une forme hyperbolique et poétique du cinéma de fiction. Ses films à l'ironie salvatrice mêlent l'humour et le drame, la chorégraphie et la politique, la sensualité et le cynisme. Elle fut longtemps l'unique femme à diriger des films en Italie, et titra ainsi son autobiographie : _Tout est en ordre et rien ne va_. Mémoires d'une réalisatrice de bonne humeur. — Gabriela Trujillo"
+                  "miniTexte": "Connue pour ses comédies cinglantes où la lutte des classes attise la guerre des sexes, Lina Wertmüller a été la prêtresse d'une forme hyperbolique et poétique du cinéma de fiction. Ses films à l'ironie salvatrice mêlent l'humour et le drame, la chorégraphie et la politique, la sensualité et le cynisme. Elle fut longtemps l'unique femme à diriger des films en Italie, et titra ainsi son autobiographie : _Tout est en ordre et rien ne va : Mémoires d'une réalisatrice de bonne humeur_. — Gabriela Trujillo"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 216764,
+                  "idSeanceAssoc": 217096,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-06-18T19:00:00",
+                  "idSalle": "GF"
                 }
               ]
             },
@@ -178,7 +186,7 @@
               "content": [
                 {
                   "idFilm": 73090,
-                  "ordre": 2,
+                  "ordre": 1,
                   "titre": "Chacun à son poste et rien ne va",
                   "titreVo": "Tutto a posto e niente in ordine",
                   "realisateurs": "Lina Wertmüller",
@@ -198,10 +206,12 @@
               ],
               "seances": [
                 {
-                  "idSeance": 216764,
-                  "typeAssoc": 118,
-                  "dateHeure": "2026-06-18T19:00:00",
-                  "idSalle": "GF"
+                  "idSeance": 217096,
+                  "idSeanceAssoc": 216764,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-06-18T21:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
                 }
               ]
             }
@@ -711,7 +721,7 @@
   "syntheseAction": {
     "Conférence": [
       {
-        "titre": "« Qui êtes-vous... Lina Wertmüller ? » par Gabriela Trujillo",
+        "titre": "Qui êtes-vous... Lina Wertmüller ?",
         "mention": "par Gabriela Trujillo",
         "dateHeure": "2026-06-18T19:00:00"
       }

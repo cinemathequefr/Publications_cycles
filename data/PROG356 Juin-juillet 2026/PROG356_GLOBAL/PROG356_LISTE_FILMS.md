@@ -47,7 +47,7 @@
   * Fille à la valise (La)  
   * Mépris (Le)
 
-## Cinéastes françaises des années 60 et 70 (26)
+## Cinéastes françaises des années 60 et 70 (25)
 
   * A. Constant  
   * Aloïse  
@@ -72,7 +72,6 @@
   * Pic et pic et colegram  
   * Qu'est-ce que tu veux, Julie ?  
   * S'il vous plaît... la mer ?  
-  * Un film  
   * Un rêve plus long que la nuit  
   * Villa Les Dunes
 
@@ -260,7 +259,7 @@
   * Fosse aux serpents (La)  
   * Histoire sexuelle de la lanterne pivoine  
   * Love Hotel  
-  * Maison des perversités = Le Promeneur du grenier (La)  
+  * Maison des perversités (La)  
   * Marché sexuel des filles  
   * Nouveau Pénitencier pour filles  
   * Nuits félines à Shinjuku  
