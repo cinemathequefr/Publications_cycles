@@ -11,15 +11,6 @@
   * Swimmer (The)  
   * Tourmentés (Les)
 
-## 70 mm (6)
-
-  * Cheyennes (Les)  
-  * Lawrence d'Arabie  
-  * Master (The)  
-  * Nom de la rose (Le)  
-  * Ran  
-  * Starman
-
 ## Aujourd'hui le cinéma (19)
 
   * 3xMina  
@@ -33,13 +24,13 @@
   * Je mordrai la poussière des étoiles  
   * Léo la nuit  
   * Malsouvenues (Les)  
-  * Noir soleil  
+  * Noir-soleil  
   * Nun or Never  
   * Portrait de famille  
   * Rivages  
   * Seule la tendresse  
   * Society of Clothes  
-  * Vaysha l'aveugle  
+  * Vaysha, l'aveugle  
   * Vicious (The)
 
 ## Ciné-club de Murielle Joudet (2)
@@ -278,6 +269,15 @@
   * Diari di Angela: Noi due cineasti, capitolo terzo (I)  
   * Diari di Angela: Noi due cineasti (I)  
   * Mil nubes de paz cercan el cielo, amor, jamás acabarás de ser amor
+
+## Une fin de saison en 70 mm (6)
+
+  * Cheyennes (Les)  
+  * Lawrence d'Arabie  
+  * Master (The)  
+  * Nom de la rose (Le)  
+  * Ran  
+  * Starman
 
 ## Week-end S. S. Rajamouli (5)
 
