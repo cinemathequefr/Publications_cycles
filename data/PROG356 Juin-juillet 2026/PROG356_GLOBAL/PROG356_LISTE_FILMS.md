@@ -198,6 +198,7 @@
 ## Lina Wertmüller (22)
 
   * 12 registi per 12 città: Bari  
+  * Au fond... tourmenté par une passion bizarre  
   * Basilischi (Les)  
   * Camorra  
   * Cette fois-ci, parlons des hommes  
@@ -209,15 +210,14 @@
   * Fin du monde dans notre lit conjugal (La)  
   * Métallurgiste et coiffeuse dans un tourbillon de sexe et de politique  
   * Mimi métallo, blessé dans son honneur  
+  * Ne piquez pas la Zanzara  
   * Ninfa plebea  
-  * Non stuzzicate la zanzara  
   * Nuit d'été avec profil grec, yeux en amande et odeur de basilic  
   * Par une nuit de clair de lune  
   * Pasqualino  
-  * Rita la zanzara  
+  * Rita la Zanzara  
   * Samedi, dimanche et lundi  
-  * Scherzo del destino in agguato dietro l'angolo come un brigante da strada  
-  * Sotto... Sotto... strapazzato da anomala passione  
+  * Un tour du destin tapi dans l'ombre comme un bandit de grand chemin  
   * Vers un destin insolite sur les flots bleus de l'été
 
 ## Ma petite Cinémathèque (8)
