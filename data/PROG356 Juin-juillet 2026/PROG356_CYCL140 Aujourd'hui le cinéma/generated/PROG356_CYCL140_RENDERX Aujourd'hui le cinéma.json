@@ -65,36 +65,6 @@
               "mention": "Séance suivie d'une discussion avec Nans Laborde-Jourdàa"
             }
           ]
-        },
-        {
-          "idFilm": 155799,
-          "content": [
-            {
-              "idFilm": 155799,
-              "ordre": 1,
-              "titre": "Épreuve du feu",
-              "art": "L'",
-              "realisateurs": "Aurélien Peyre",
-              "pays": "France",
-              "annee": 2025,
-              "duree": 105,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Félix Lefebvre",
-                "Anja Verderosa",
-                "Suzanne Jouannet"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 209780,
-              "dateHeure": "2026-06-29T19:30:00",
-              "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Aurélien Peyre"
-            }
-          ]
         }
       ]
     },
@@ -203,51 +173,35 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Repérages",
-      "texteSousCycle": "",
+      "titreSousCycle": "Aurélien Peyre",
       "items": [
         {
-          "idEvenement": 36419,
+          "idFilm": 155799,
           "content": [
             {
-              "idFilm": 155803,
+              "idFilm": 155799,
               "ordre": 1,
-              "titre": "Black Out",
-              "realisateurs": "Alicia Pratx",
+              "titre": "Épreuve du feu",
+              "art": "L'",
+              "realisateurs": "Aurélien Peyre",
               "pays": "France",
               "annee": 2025,
-              "duree": 25,
+              "duree": 105,
               "version": "",
               "format": "DCP",
               "generique": [
-                "Adrien Casse",
-                "Coline D'Inca",
-                "Garance Kim"
-              ]
-            },
-            {
-              "idFilm": 155802,
-              "ordre": 2,
-              "titre": "Malsouvenues",
-              "art": "Les",
-              "realisateurs": "Antoine Héraly",
-              "pays": "France",
-              "annee": 2024,
-              "duree": 27,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Eliane Umuhire",
-                "Michèle Gurtner"
+                "Félix Lefebvre",
+                "Anja Verderosa",
+                "Suzanne Jouannet"
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 209454,
+              "idSeance": 217236,
               "dateHeure": "2026-06-15T19:30:00",
               "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Alicia Pratx, Antoine Héraly et Adrien Casse"
+              "mention": "Séance suivie d'une discussion avec Aurélien Peyre"
             }
           ]
         }
@@ -299,6 +253,58 @@
               "idSeance": 217208,
               "dateHeure": "2026-06-22T19:00:00",
               "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Repérages",
+      "texteSousCycle": "",
+      "items": [
+        {
+          "idEvenement": 36419,
+          "content": [
+            {
+              "idFilm": 155803,
+              "ordre": 1,
+              "titre": "Black Out",
+              "realisateurs": "Alicia Pratx",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 25,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Adrien Casse",
+                "Coline D'Inca",
+                "Garance Kim"
+              ]
+            },
+            {
+              "idFilm": 155802,
+              "ordre": 2,
+              "titre": "Malsouvenues",
+              "art": "Les",
+              "realisateurs": "Antoine Héraly",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 27,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Eliane Umuhire",
+                "Michèle Gurtner"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217237,
+              "dateHeure": "2026-06-29T19:30:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Alicia Pratx, Adrien Casse et Antoine Héraly"
             }
           ]
         }
@@ -397,13 +403,13 @@
         "dateHeure": "2026-06-01T19:30:00"
       },
       {
-        "titreFilms": "Black Out / Les Malsouvenues",
-        "mention": "avec Alicia Pratx, Antoine Héraly et Adrien Casse",
+        "titreFilms": "L'Épreuve du feu",
+        "mention": "avec Aurélien Peyre",
         "dateHeure": "2026-06-15T19:30:00"
       },
       {
-        "titreFilms": "L'Épreuve du feu",
-        "mention": "avec Aurélien Peyre",
+        "titreFilms": "Black Out / Les Malsouvenues",
+        "mention": "avec Alicia Pratx, Adrien Casse et Antoine Héraly",
         "dateHeure": "2026-06-29T19:30:00"
       }
     ],
