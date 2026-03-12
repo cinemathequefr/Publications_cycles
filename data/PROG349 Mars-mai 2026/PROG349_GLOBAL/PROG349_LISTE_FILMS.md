@@ -4,21 +4,32 @@
 
   * Une femme mariée
 
-## Aujourd'hui le cinéma (17)
+## Aujourd'hui le cinéma (28)
 
+  * Adel & Jano  
   * Ainsi commença le déclin d'Antoine  
   * Diego  
   * Don Quichotte contre les forces du mal  
   * Étrange Humeur adolescente (L')  
+  * Frontier  
+  * Furtif  
   * Haraka Haraka  
   * Il manque toujours quelque chose (surtout quand on ne sait pas quoi chercher)  
+  * I'm in Love With the World Through the Eyes of a Girl  
+  * Iris  
+  * Kapitalisten, wir kriegen euch!  
   * Laka  
   * Little Jaffna  
+  * Long Life  
   * Mandzarsoa  
+  * Matriochka  
+  * Oh My Crisis  
   * Petit Pont  
+  * Préhensible (The Text Is Thunder) (Le)  
   * Rapide  
   * Rappel des oiseaux (Le)  
   * Robe peau (La)  
+  * See You in Sodom  
   * Tracances (Les)  
   * Un balcon à Limoges  
   * Une partie de campagne  
@@ -320,10 +331,12 @@
   * Vengeance est à moi (La)  
   * Zodiac
 
-## Ma petite Cinémathèque (12)
+## Ma petite Cinémathèque (14)
 
   * Babe, le cochon devenu berger  
+  * Bruit du gris (Le)  
   * Contes de la mère poule : Shangoul et Mangoul (Les)  
+  * En rachâchant  
   * Homme qui rétrécit (L')  
   * Indestructibles (Les)  
   * Magicien d'Oz (Le)  

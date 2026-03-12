@@ -705,7 +705,7 @@
         "Nans Laborde-Jourdàa"
       ]
     ],
-    "mention": "Séance suivie d'une discussion avec Nans Laborde-Jourdaa",
+    "mention": "Séance suivie d'une discussion avec Nans Laborde-Jourdàa",
     "items": [
       {
         "idFilm": 155797,
@@ -1476,7 +1476,9 @@
         "titre": "Amour de perdition",
         "realisateurs": "Manoel de Oliveira",
         "annee": 1978,
-        "duree": 265
+        "duree": 265,
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f43766"
@@ -1586,6 +1588,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Clara Sebastiao",
     "items": [
       {
         "idFilm": 69382,
@@ -1666,6 +1669,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Clara Sebastiao",
     "items": [
       {
         "idFilm": 99977,
@@ -1927,6 +1931,31 @@
     "hashEvenement": "f43959"
   },
   {
+    "idSeance": 217231,
+    "idEvenement": 36080,
+    "dateHeure": "2026-06-13T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Roman porno, les films érotiques de la Nikkatsu",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Clara Sebastiao",
+    "items": [
+      {
+        "idFilm": 155701,
+        "titre": "Fosse aux serpents",
+        "art": "La",
+        "realisateurs": "Katsuhiko Fujii",
+        "annee": 1983,
+        "duree": 69,
+        "version": "VOSTA"
+      }
+    ],
+    "hashEvenement": "f155701"
+  },
+  {
     "idSeance": 216906,
     "idEvenement": 35925,
     "dateHeure": "2026-06-13T18:00:00",
@@ -1954,9 +1983,9 @@
     "hashEvenement": "f43965"
   },
   {
-    "idSeance": 216789,
-    "idEvenement": 36088,
-    "dateHeure": "2026-06-13T18:30:00",
+    "idSeance": 217232,
+    "idEvenement": 36389,
+    "dateHeure": "2026-06-13T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1964,18 +1993,20 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Clara Sebastiao",
     "items": [
       {
-        "idFilm": 155707,
-        "titre": "Blonde Suédoise",
+        "idFilm": 60116,
+        "titre": "Maison des perversités",
         "art": "La",
-        "realisateurs": "Masanao Sakao",
-        "annee": 1972,
-        "duree": 63,
-        "version": "VOSTA"
+        "realisateurs": "Noboru Tanaka",
+        "annee": 1976,
+        "duree": 76,
+        "version": "VOSTA",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f155707"
+    "hashEvenement": "f60116"
   },
   {
     "idSeance": 216907,
@@ -2002,30 +2033,6 @@
       }
     ],
     "hashEvenement": "f43991"
-  },
-  {
-    "idSeance": 216790,
-    "idEvenement": 36086,
-    "dateHeure": "2026-06-13T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Roman porno, les films érotiques de la Nikkatsu",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155705,
-        "titre": "Doigts blancs de l'extase",
-        "art": "Les",
-        "realisateurs": "Tōru Murakawa",
-        "annee": 1972,
-        "duree": 75,
-        "version": "VOSTA"
-      }
-    ],
-    "hashEvenement": "f155705"
   },
   {
     "idSeance": 209420,
@@ -2498,6 +2505,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Clara Sebastiao",
     "items": [
       {
         "idFilm": 155700,
@@ -2782,8 +2790,8 @@
     "hashEvenement": "f43991"
   },
   {
-    "idSeance": 217222,
-    "idEvenement": 36389,
+    "idSeance": 217234,
+    "idEvenement": 36086,
     "dateHeure": "2026-06-20T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -2794,17 +2802,16 @@
     ],
     "items": [
       {
-        "idFilm": 60116,
-        "titre": "Maison des perversités",
-        "art": "La",
-        "realisateurs": "Noboru Tanaka",
-        "annee": 1976,
-        "duree": 76,
-        "version": "VOSTA",
-        "format": "35 mm"
+        "idFilm": 155705,
+        "titre": "Doigts blancs de l'extase",
+        "art": "Les",
+        "realisateurs": "Tōru Murakawa",
+        "annee": 1972,
+        "duree": 75,
+        "version": "VOSTA"
       }
     ],
-    "hashEvenement": "f60116"
+    "hashEvenement": "f155705"
   },
   {
     "idSeance": 216862,
@@ -2880,8 +2887,8 @@
     "hashEvenement": "f54688"
   },
   {
-    "idSeance": 209606,
-    "idEvenement": 36080,
+    "idSeance": 217233,
+    "idEvenement": 36088,
     "dateHeure": "2026-06-21T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -2892,16 +2899,16 @@
     ],
     "items": [
       {
-        "idFilm": 155701,
-        "titre": "Fosse aux serpents",
+        "idFilm": 155707,
+        "titre": "Blonde Suédoise",
         "art": "La",
-        "realisateurs": "Katsuhiko Fujii",
-        "annee": 1983,
-        "duree": 69,
+        "realisateurs": "Masanao Sakao",
+        "annee": 1972,
+        "duree": 63,
         "version": "VOSTA"
       }
     ],
-    "hashEvenement": "f155701"
+    "hashEvenement": "f155707"
   },
   {
     "idSeance": 209607,
@@ -4753,7 +4760,7 @@
         "titre": "Playtime",
         "realisateurs": "Jacques Tati",
         "annee": 1967,
-        "duree": 125,
+        "duree": 124,
         "format": "DCP",
         "restauration": true
       }

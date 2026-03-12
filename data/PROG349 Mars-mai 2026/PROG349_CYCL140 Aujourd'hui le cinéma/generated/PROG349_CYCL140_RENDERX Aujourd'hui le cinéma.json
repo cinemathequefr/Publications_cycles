@@ -82,7 +82,7 @@
             {
               "idSeance": 208896,
               "dateHeure": "2026-03-23T18:30:00",
-              "idSalle": "JE",
+              "idSalle": "GF",
               "mention": "Séance présentée par Stéphane Batut et Dominique Païni"
             }
           ]
@@ -118,7 +118,7 @@
             {
               "idSeance": 206402,
               "dateHeure": "2026-03-23T20:00:00",
-              "idSalle": "JE",
+              "idSalle": "GF",
               "mention": "Séance suivie d'une discussion avec Tom Harari et Stéphane Batut"
             }
           ]
@@ -249,6 +249,148 @@
               "dateHeure": "2026-04-20T19:30:00",
               "idSalle": "JE",
               "mention": "Avant-première. Séance suivie d'une discussion avec Jérôme Reybaud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Carte blanche à l'atelier Cogitore (Beaux-Arts de Paris)",
+      "texteSousCycle": "Documentaires, films expérimentaux, fictions, _found footage_, chacun des projets des jeunes artistes de l'atelier de Clément Cogitore aux Beaux-Arts de Paris explore à sa manière les porosités et limites entre ces différentes formes narratives. Au croisement de l'intime et du collectif, de la politique et de l'esthétique, ce sont autant de promesses d'œuvres en devenir que de gestes singuliers qui s'affirment. Films hybrides, contemplatifs, furieux, conceptuels, participatifs, cathartiques : une nouvelle génération d'artistes se déploie. Les étudiants seront présents pour acccompagner leurs travaux. Plus de détails sur le site cinematheque.fr à partir du 20 février.",
+      "items": [
+        {
+          "idEvenement": 36329,
+          "content": [
+            {
+              "idFilm": 155763,
+              "ordre": 1,
+              "titre": "Adel & Jano",
+              "realisateurs": "Mona Tchepiega",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 17,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155768,
+              "ordre": 2,
+              "titre": "Frontier",
+              "realisateurs": "Maria Rieger",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 3,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155767,
+              "ordre": 3,
+              "titre": "Furtif",
+              "realisateurs": "Joseph Rozé",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 5,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155762,
+              "ordre": 4,
+              "titre": "I'm in Love With the World Through the Eyes of a Girl",
+              "realisateurs": "Vega Royer-Gaspard",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 18,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155772,
+              "ordre": 5,
+              "titre": "Iris",
+              "realisateurs": "Lucie Wiart",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 11,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155764,
+              "ordre": 6,
+              "titre": "Kapitalisten, wir kriegen euch!",
+              "realisateurs": "Lucie Wahl",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 7,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155771,
+              "ordre": 7,
+              "titre": "Long Life",
+              "realisateurs": "Colette Dornic",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 1,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155770,
+              "ordre": 8,
+              "titre": "Matriochka",
+              "realisateurs": "Aïssa Diallo",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 24,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155766,
+              "ordre": 9,
+              "titre": "Oh My Crisis",
+              "realisateurs": "Céleste Moneger",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 13,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155769,
+              "ordre": 10,
+              "titre": "Préhensible (The Text Is Thunder)",
+              "art": "Le",
+              "realisateurs": "Assia Turquier-Zauberman",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 9,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155765,
+              "ordre": 11,
+              "titre": "See You in Sodom",
+              "realisateurs": "Lane Heatherington",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 16,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208818,
+              "dateHeure": "2026-04-27T19:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Clément Cogitore"
             }
           ]
         }
@@ -447,11 +589,16 @@
         "dateHeure": "2026-05-25T19:30:00"
       }
     ],
-    "Séance présentée": [
+    "Séances présentées": [
       {
         "titreFilms": "Le Rappel des oiseaux",
         "mention": "par Stéphane Batut et Dominique Païni",
         "dateHeure": "2026-03-23T18:30:00"
+      },
+      {
+        "titreFilms": "Adel & Jano / Frontier / Furtif / I'm in Love With the World Through the Eyes of a Girl / Iris / Kapitalisten, wir kriegen euch! / Long Life / Matriochka / Oh My Crisis / Le Préhensible (The Text Is Thunder) / See You in Sodom",
+        "mention": "par Clément Cogitore",
+        "dateHeure": "2026-04-27T19:00:00"
       }
     ]
   }
