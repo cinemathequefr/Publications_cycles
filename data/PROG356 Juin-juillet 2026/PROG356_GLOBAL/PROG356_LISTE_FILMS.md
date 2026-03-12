@@ -75,7 +75,7 @@
   * J'ai vécu deux fois  
   * Mad Monster (The)  
   * Rues de l'enfer (Les)  
-  * S.O.S. Concorde
+  * SOS Concorde
 
 ## Claudia Cardinale (21)
 
@@ -105,7 +105,7 @@
 
   * Arlésienne (L')  
   * Étoiles ne meurent jamais (Les)  
-  * Jean Epstein, Young Oceans of Cinema  
+  * Jean Epstein, la mer lyrosophe  
   * Paris, Cabourg, Le Caire et l'amour  
   * Réverbération (La)
 
