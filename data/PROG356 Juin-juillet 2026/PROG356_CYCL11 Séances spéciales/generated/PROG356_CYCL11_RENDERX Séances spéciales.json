@@ -3,7 +3,7 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Les films",
+      "titreSousCycle": "Colloque Julián Hernández",
       "items": [
         {
           "idFilm": 115484,
@@ -32,7 +32,77 @@
               "idSalle": "LE"
             }
           ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Hommage à Jean-François Davy",
+      "items": [
+        {
+          "idFilm": 58498,
+          "content": [
+            {
+              "idFilm": 58498,
+              "ordre": 1,
+              "titre": "Bananes mécaniques",
+              "realisateurs": "Jean-François Davy",
+              "pays": "France-RFA",
+              "annee": 1973,
+              "duree": 88,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Marie-Claire Davy",
+                "Élisabeth Drancourt",
+                "Philippe Gasté",
+                "Anne Libert"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216879,
+              "dateHeure": "2026-06-12T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
         },
+        {
+          "idFilm": 99171,
+          "content": [
+            {
+              "idFilm": 99171,
+              "ordre": 1,
+              "titre": "Aiguilles rouges",
+              "art": "Les",
+              "realisateurs": "Jean-François Davy",
+              "pays": "France",
+              "annee": 2006,
+              "duree": 93,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Jules Sitruk",
+                "Damien Jouillerot",
+                "Jonathan Demurger"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 216878,
+              "dateHeure": "2026-06-12T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Yervant Gianikian et Angela Ricci Lucchi",
+      "items": [
         {
           "idFilm": 155745,
           "content": [
@@ -118,70 +188,6 @@
               "dateHeure": "2026-06-15T20:00:00",
               "idSalle": "HL",
               "mention": "Avant-première. Séance présentée par Yervant Gianikian"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Hommage à Jean-François Davy",
-      "items": [
-        {
-          "idFilm": 58498,
-          "content": [
-            {
-              "idFilm": 58498,
-              "ordre": 1,
-              "titre": "Bananes mécaniques",
-              "realisateurs": "Jean-François Davy",
-              "pays": "France-RFA",
-              "annee": 1973,
-              "duree": 88,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Marie-Claire Davy",
-                "Élisabeth Drancourt",
-                "Philippe Gasté",
-                "Anne Libert"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 216879,
-              "dateHeure": "2026-06-12T18:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 99171,
-          "content": [
-            {
-              "idFilm": 99171,
-              "ordre": 1,
-              "titre": "Aiguilles rouges",
-              "art": "Les",
-              "realisateurs": "Jean-François Davy",
-              "pays": "France",
-              "annee": 2006,
-              "duree": 93,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Jules Sitruk",
-                "Damien Jouillerot",
-                "Jonathan Demurger"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 216878,
-              "dateHeure": "2026-06-12T20:00:00",
-              "idSalle": "HL"
             }
           ]
         }
