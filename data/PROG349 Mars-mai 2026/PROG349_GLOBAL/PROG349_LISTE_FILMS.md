@@ -8,6 +8,7 @@
 
   * Adel & Jano  
   * Ainsi commença le déclin d'Antoine  
+  * décision (La)  
   * Diego  
   * Don Quichotte contre les forces du mal  
   * Étrange Humeur adolescente (L')  
@@ -22,7 +23,6 @@
   * Little Jaffna  
   * Long Life  
   * Mandzarsoa  
-  * Matriochka  
   * Oh My Crisis  
   * Petit Pont  
   * Préhensible (The Text Is Thunder) (Le)  

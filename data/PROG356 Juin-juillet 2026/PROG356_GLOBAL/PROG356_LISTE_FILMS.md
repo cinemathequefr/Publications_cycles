@@ -3,10 +3,10 @@
 ## 40 ans de Rivages noir (8)
 
   * Animal Kingdom  
+  * Dans la brume électrique  
   * Griffe du passé (La)  
   * King of New York (The)  
   * Mulholland Drive  
-  * Mystic River  
   * Règlement de comptes  
   * Swimmer (The)  
   * Tourmentés (Les)
@@ -135,13 +135,12 @@
   * Un jour, le Nil  
   * Vieil Homme et l'enfant (Le)
 
-## Jacques Tati (10)
+## Jacques Tati (9)
 
   * École des facteurs (L')  
   * Forza Bastia 78  
   * Gai Dimanche  
   * Jour de fête  
-  * Jour de fête (version couleur)  
   * Mon oncle  
   * Parade  
   * Playtime  
