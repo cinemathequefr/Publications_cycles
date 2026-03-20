@@ -136,7 +136,7 @@
   * Un jour, le Nil  
   * Vieil Homme et l'enfant (Le)
 
-## Jacques Tati (9)
+## Jacques Tati (10)
 
   * École des facteurs (L')  
   * Forza Bastia 78  
@@ -145,10 +145,11 @@
   * Mon oncle  
   * Parade  
   * Playtime  
+  * Playtime (version 70 mm)  
   * Trafic  
   * Vacances de monsieur Hulot (Les)
 
-## Joséphine Baker (24)
+## Joséphine Baker (23)
 
   * Actualités féminines  
   * Championnat de danse  
@@ -165,7 +166,6 @@
   * Joséphine et le Kino Pocket  
   * Journée royale Joséphine reine des colonies  
   * Now!  
-  * Paris Palace Music Hall  
   * Pot au feu des vieux (Le)  
   * Prague 1928  
   * Princesse Tam Tam  

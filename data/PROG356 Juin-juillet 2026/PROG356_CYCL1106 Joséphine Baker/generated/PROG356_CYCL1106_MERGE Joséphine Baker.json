@@ -47,7 +47,7 @@
           "pays": "France",
           "duree": 3,
           "version": "",
-          "format": "35 mm",
+          "format": "DCP",
           "textes": []
         },
         {
@@ -68,6 +68,9 @@
           "realisateurs": "Rebecca Hall",
           "annee": 2021,
           "pays": "États-Unis",
+          "duree": 98,
+          "version": "VOSTF",
+          "format": "DCP",
           "generique": [
             "Tessa Thompson",
             "Ruth Negga",
@@ -213,7 +216,7 @@
         },
         {
           "idSeance": 217163,
-          "ordre": 3,
+          "ordre": 2,
           "dateHeure": "2026-07-01T20:00:00",
           "idSalle": [
             "HL",
@@ -230,7 +233,7 @@
           "pays": "France",
           "duree": 1,
           "version": "",
-          "format": "",
+          "format": "DCP",
           "generique": [
             "Joséphine Baker"
           ],
@@ -238,7 +241,7 @@
         },
         {
           "idSeance": 217163,
-          "ordre": 4,
+          "ordre": 3,
           "dateHeure": "2026-07-01T20:00:00",
           "idSalle": [
             "HL",
@@ -306,7 +309,7 @@
           "pays": "France",
           "duree": 3,
           "version": "",
-          "format": "35 mm",
+          "format": "DCP",
           "generique": [
             "Joséphine Baker"
           ],
@@ -386,28 +389,6 @@
           "textes": []
         },
         {
-          "idSeance": 217163,
-          "ordre": 2,
-          "dateHeure": "2026-07-01T20:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 4175,
-          "idEvenement": 36364,
-          "typeEvenement": 13,
-          "idFilm": 155776,
-          "titre": "Paris Palace Music Hall",
-          "realisateurs": "Anonyme",
-          "annee": 1928,
-          "pays": "France",
-          "duree": 0,
-          "version": "",
-          "format": "35 mm",
-          "textes": []
-        },
-        {
           "idSeance": 217223,
           "ordre": 1,
           "dateHeure": "2026-07-05T19:30:00",
@@ -432,7 +413,7 @@
         },
         {
           "idSeance": 217163,
-          "ordre": 5,
+          "ordre": 4,
           "dateHeure": "2026-07-01T20:00:00",
           "idSalle": [
             "HL",
@@ -504,6 +485,9 @@
           "realisateurs": "Joe Francis, Alex Nalpas",
           "annee": 1927,
           "pays": "France",
+          "duree": 103,
+          "version": "INT. FR.",
+          "format": "DCP",
           "generique": [
             "Joséphine Baker",
             "André Luguet",
@@ -518,7 +502,7 @@
         },
         {
           "idSeance": 217163,
-          "ordre": 6,
+          "ordre": 5,
           "dateHeure": "2026-07-01T20:00:00",
           "idSalle": [
             "HL",
@@ -535,7 +519,7 @@
           "annee": 1927,
           "pays": "France",
           "duree": 86,
-          "version": "",
+          "version": "INT. FR.",
           "format": "DCP",
           "generique": [
             "Joséphine Baker",
@@ -567,12 +551,20 @@
           "realisateurs": "Djibril Diop Mambéty",
           "annee": 1973,
           "pays": "Sénégal",
+          "duree": 0,
+          "version": "VOSTF",
+          "format": "35 mm",
           "generique": [
             "Al Demba",
             "Dieynaba Dieng",
             "Aliou N'Diaye"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "À Dakar, un garçon vacher venu de la brousse s'acoquine avec une étudiante rebelle. Le duo se met en tête de quitter le Sénégal pour Paris et use de tous les moyens pour réunir l'argent du voyage. Au son, la boucle obsédante d'une chanson de Joséphine Baker se fait l'écho de leur idée fixe. Pour son premier film, Djibril Diop Mambéty s'affranchit de tous les clichés qui pèsent sur le cinéma africain pour dépeindre le périple de ses amants criminels avec une liberté formelle et une exaltation qui doit autant à la Nouvelle Vague qu'aux visions enflammées d'un Glauber Rocha."
+            }
+          ]
         },
         {
           "idSeance": 217138,
@@ -592,6 +584,9 @@
           "realisateurs": "Sylvain Chomet",
           "annee": 2003,
           "pays": "France-Canada-Belgique",
+          "duree": 79,
+          "version": "",
+          "format": "35 mm",
           "ageMinimal": 10,
           "textes": [
             {
@@ -618,9 +613,9 @@
           "realisateurs": "Marc Allégret",
           "annee": 1934,
           "pays": "France",
-          "duree": 92,
+          "duree": 85,
           "version": "",
-          "format": "35 mm",
+          "format": "DCP",
           "generique": [
             "Joséphine Baker",
             "Jean Gabin",
