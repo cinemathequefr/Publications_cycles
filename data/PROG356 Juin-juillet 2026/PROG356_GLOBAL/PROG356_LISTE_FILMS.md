@@ -149,13 +149,12 @@
   * Trafic  
   * Vacances de monsieur Hulot (Les)
 
-## Joséphine Baker (23)
+## Joséphine Baker (22)
 
   * Actualités féminines  
   * Championnat de danse  
   * Clair-obscur  
   * Fausse alerte  
-  * Harlem Sketches  
   * Joséphine Baker 1941 (Mon cœur est un oiseau des îles devant les grands blessés à Marseille)  
   * Joséphine Baker chante au théâtre des armées  
   * Joséphine Baker dans la zone  
@@ -180,11 +179,11 @@
   * Aurore (L')  
   * Cœur fidèle  
   * Enfant de Paris (L')  
+  * Homme à la caméra (L')  
   * Maris aveugles  
   * Nuits de Chicago (Les)  
   * Octobre  
-  * Selon la loi  
-  * Signe de Zorro (Le)
+  * Three Musketeers (The)
 
 ## Lina Wertmüller (22)
 
