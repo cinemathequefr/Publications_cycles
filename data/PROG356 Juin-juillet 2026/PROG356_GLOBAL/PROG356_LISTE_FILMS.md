@@ -119,13 +119,12 @@
   * Chère Louise  
   * Commissaire (La)  
   * Coup de torchon  
+  * Cri du sorcier (Le)  
   * Duel dans le Pacifique  
-  * Eugenio  
   * Européens (Les)  
   * Fellini Satyricon  
   * Femme tatouée (La)  
   * Invitation (L')  
-  * Julia  
   * Justice pour tous  
   * Maman a cent ans  
   * Opération Caprice  
@@ -133,6 +132,7 @@
   * Rebelle (Le)  
   * Série noire  
   * Sonate d'automne  
+  * Tambour (Le)  
   * Un jour, le Nil  
   * Vieil Homme et l'enfant (Le)
 
