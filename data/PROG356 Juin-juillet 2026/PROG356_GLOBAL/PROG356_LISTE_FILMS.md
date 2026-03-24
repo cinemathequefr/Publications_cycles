@@ -199,7 +199,7 @@
   * Film d'amour et d'anarchie  
   * Fin du monde dans notre lit conjugal (La)  
   * Métallurgiste et coiffeuse dans un tourbillon de sexe et de politique  
-  * Mimi métallo, blessé dans son honneur  
+  * Mimi métallo blessé dans son honneur  
   * Ne piquez pas la Zanzara  
   * Ninfa plebea  
   * Nuit d'été avec profil grec, yeux en amande et odeur de basilic  
@@ -241,6 +241,7 @@
 
   * Amants mouillés (Les)  
   * Angel Guts : Classe rouge  
+  * Angel Guts : Vertige rouge  
   * Blonde Suédoise (La)  
   * Doigts blancs de l'extase (Les)  
   * Emmanuelle à Tokyo  
@@ -257,7 +258,6 @@
   * Petits Secrets dans la chambre des courtisanes  
   * Rideau de fusuma (Le)  
   * Rue de la joie  
-  * Véritable Histoire d'Abe Sada (La)  
   * Vie secrète de madame Yoshino (La)
 
 ## Séances spéciales (6)
