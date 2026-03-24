@@ -163,9 +163,9 @@
   * Joséphine Day à Harlem  
   * Joséphine débute dans l'opérette  
   * Joséphine et le Kino Pocket  
-  * Journée royale Joséphine reine des colonies  
+  * Journée royale : Joséphine reine des colonies  
   * Now!  
-  * Pot au feu des vieux (Le)  
+  * Pot-au-feu des vieux (Le)  
   * Prague 1928  
   * Princesse Tam Tam  
   * Revue des revues (La)  
