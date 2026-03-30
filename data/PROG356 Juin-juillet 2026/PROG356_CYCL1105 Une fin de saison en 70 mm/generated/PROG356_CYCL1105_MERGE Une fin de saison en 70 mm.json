@@ -5,7 +5,7 @@
       "tri": 2,
       "items": [
         {
-          "idSeance": 210000,
+          "idSeance": 217288,
           "ordre": 1,
           "dateHeure": "2026-07-09T20:00:00",
           "idSalle": [
@@ -13,9 +13,8 @@
             "Henri Langlois"
           ],
           "dureeSeance": 195,
-          "mention": "Ouverture de la rétrospective",
           "idCategorie": 4161,
-          "idEvenement": 34657,
+          "idEvenement": 36515,
           "typeEvenement": 13,
           "idFilm": 32324,
           "art": "Les",
@@ -41,7 +40,7 @@
           ]
         },
         {
-          "idSeance": 210072,
+          "idSeance": 217287,
           "ordre": 1,
           "dateHeure": "2026-07-11T19:00:00",
           "idSalle": [
@@ -50,7 +49,7 @@
           ],
           "dureeSeance": 255,
           "idCategorie": 4161,
-          "idEvenement": 34659,
+          "idEvenement": 36516,
           "typeEvenement": 13,
           "idFilm": 40075,
           "titre": "Lawrence d'Arabie",
@@ -76,16 +75,16 @@
           ]
         },
         {
-          "idSeance": 210035,
+          "idSeance": 217286,
           "ordre": 1,
-          "dateHeure": "2026-07-10T17:00:00",
+          "dateHeure": "2026-07-10T17:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 165,
           "idCategorie": 4161,
-          "idEvenement": 34650,
+          "idEvenement": 36517,
           "typeEvenement": 13,
           "idFilm": 118065,
           "art": "The",
@@ -109,16 +108,16 @@
           ]
         },
         {
-          "idSeance": 217009,
+          "idSeance": 217289,
           "ordre": 1,
-          "dateHeure": "2026-07-12T17:00:00",
+          "dateHeure": "2026-07-10T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 165,
           "idCategorie": 4161,
-          "idEvenement": 35648,
+          "idEvenement": 36518,
           "typeEvenement": 13,
           "idFilm": 46248,
           "art": "Le",
@@ -180,7 +179,7 @@
         {
           "idSeance": 217284,
           "ordre": 1,
-          "dateHeure": "2026-07-10T20:00:00",
+          "dateHeure": "2026-07-10T20:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -214,12 +213,13 @@
         {
           "idSeance": 217283,
           "ordre": 1,
-          "dateHeure": "2026-07-12T20:00:00",
+          "dateHeure": "2026-07-12T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 150,
+          "typeAssoc": 118,
           "idCategorie": 4161,
           "idEvenement": 36520,
           "typeEvenement": 13,
@@ -240,6 +240,46 @@
             {
               "typeTexte": 1000,
               "texte": "Échoué sur Terre et pourchassé par l'armée américaine, un extraterrestre trouve refuge chez une jeune femme et prend l'apparence de son mari défunt. Carpenter imagine une variation fantastique de _New York-Miami_ de Frank Capra, qui mêle science-fiction, _road movie_ et romance dans un film aussi touchant qu'inattendu, empreint de la nostalgie des années 80. Irrésistible."
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 217283,
+          "ordre": 2,
+          "dateHeure": "2026-07-12T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 105,
+          "typeAssoc": 118,
+          "idCategorie": 4192,
+          "idEvenement": 36522,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Bernard Benoliel et Jean-Baptiste Thoret",
+          "duree": 75,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Jean-Baptiste Thoret",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 2
             }
           ]
         }

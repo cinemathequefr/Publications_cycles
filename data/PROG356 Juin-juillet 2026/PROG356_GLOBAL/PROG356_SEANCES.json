@@ -810,7 +810,7 @@
         "realisateurs": "Bruno Dumont",
         "annee": 1997,
         "duree": 96,
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idConf": 36325,
@@ -1822,7 +1822,9 @@
         "idFilm": 122509,
         "titre": "Deux jours, une nuit",
         "realisateurs": "Jean-Pierre Dardenne, Luc Dardenne",
-        "annee": 2014
+        "annee": 2014,
+        "duree": 90,
+        "format": "DCP"
       },
       {
         "idConf": 36326,
@@ -4888,8 +4890,8 @@
     "hashEvenement": "f47184"
   },
   {
-    "idSeance": 210000,
-    "idEvenement": 34657,
+    "idSeance": 217288,
+    "idEvenement": 36515,
     "dateHeure": "2026-07-09T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -4898,7 +4900,6 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 32324,
@@ -4938,6 +4939,31 @@
     "hashEvenement": "f51367"
   },
   {
+    "idSeance": 217289,
+    "idEvenement": 36518,
+    "dateHeure": "2026-07-10T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Une fin de saison en 70 mm",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46248,
+        "titre": "Nom de la rose",
+        "art": "Le",
+        "realisateurs": "Jean-Jacques Annaud",
+        "annee": 1986,
+        "duree": 131,
+        "version": "VOSTF",
+        "format": "70 mm"
+      }
+    ],
+    "hashEvenement": "f46248"
+  },
+  {
     "idSeance": 217217,
     "idEvenement": 36239,
     "dateHeure": "2026-07-10T15:00:00",
@@ -4962,9 +4988,9 @@
     "hashEvenement": "f43358"
   },
   {
-    "idSeance": 210035,
-    "idEvenement": 34650,
-    "dateHeure": "2026-07-10T17:00:00",
+    "idSeance": 217286,
+    "idEvenement": 36517,
+    "dateHeure": "2026-07-10T17:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5036,30 +5062,6 @@
     "hashEvenement": "f155586"
   },
   {
-    "idSeance": 217284,
-    "idEvenement": 36519,
-    "dateHeure": "2026-07-10T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Une fin de saison en 70 mm",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 45125,
-        "titre": "Ran",
-        "realisateurs": "Akira Kurosawa",
-        "annee": 1985,
-        "duree": 164,
-        "version": "VOSTF",
-        "format": "70 mm"
-      }
-    ],
-    "hashEvenement": "f45125"
-  },
-  {
     "idSeance": 210037,
     "idEvenement": 35885,
     "dateHeure": "2026-07-10T20:30:00",
@@ -5083,6 +5085,30 @@
       }
     ],
     "hashEvenement": "f51386"
+  },
+  {
+    "idSeance": 217284,
+    "idEvenement": 36519,
+    "dateHeure": "2026-07-10T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Une fin de saison en 70 mm",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45125,
+        "titre": "Ran",
+        "realisateurs": "Akira Kurosawa",
+        "annee": 1985,
+        "duree": 164,
+        "version": "VOSTF",
+        "format": "70 mm"
+      }
+    ],
+    "hashEvenement": "f45125"
   },
   {
     "idSeance": 216822,
@@ -5209,8 +5235,8 @@
     "hashEvenement": "f70463f76716f80821"
   },
   {
-    "idSeance": 210072,
-    "idEvenement": 34659,
+    "idSeance": 217287,
+    "idEvenement": 36516,
     "dateHeure": "2026-07-11T19:00:00",
     "salle": "HL",
     "cycle": [
@@ -5257,29 +5283,38 @@
     "hashEvenement": "f51385"
   },
   {
-    "idSeance": 216860,
-    "idEvenement": 35269,
+    "idSeance": 217283,
+    "idEvenement": 36520,
     "dateHeure": "2026-07-12T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Marilyn Monroe",
+        "Une fin de saison en 70 mm",
         "Les films"
+      ],
+      [
+        "Une fin de saison en 70 mm",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 33440,
-        "titre": "Désaxés",
-        "art": "Les",
-        "realisateurs": "John Huston",
-        "annee": 1961,
-        "duree": 124,
+        "idFilm": 30920,
+        "titre": "Starman",
+        "realisateurs": "John Carpenter",
+        "annee": 1984,
+        "duree": 115,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "70 mm"
+      },
+      {
+        "idConf": 36522,
+        "titre": "Dialogue avec Bernard Benoliel et Jean-Baptiste Thoret",
+        "typeConference": "Dialogue",
+        "duree": 75
       }
     ],
-    "hashEvenement": "f33440"
+    "hashEvenement": "f30920c36522"
   },
   {
     "idSeance": 217149,
@@ -5304,29 +5339,29 @@
     "hashEvenement": "f35575"
   },
   {
-    "idSeance": 217009,
-    "idEvenement": 35648,
-    "dateHeure": "2026-07-12T17:00:00",
+    "idSeance": 216860,
+    "idEvenement": 35269,
+    "dateHeure": "2026-07-12T18:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Une fin de saison en 70 mm",
+        "Marilyn Monroe",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 46248,
-        "titre": "Nom de la rose",
-        "art": "Le",
-        "realisateurs": "Jean-Jacques Annaud",
-        "annee": 1986,
-        "duree": 131,
+        "idFilm": 33440,
+        "titre": "Désaxés",
+        "art": "Les",
+        "realisateurs": "John Huston",
+        "annee": 1961,
+        "duree": 124,
         "version": "VOSTF",
-        "format": "70 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f46248"
+    "hashEvenement": "f33440"
   },
   {
     "idSeance": 210091,
@@ -5351,29 +5386,5 @@
       }
     ],
     "hashEvenement": "f51368"
-  },
-  {
-    "idSeance": 217283,
-    "idEvenement": 36520,
-    "dateHeure": "2026-07-12T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Une fin de saison en 70 mm",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 30920,
-        "titre": "Starman",
-        "realisateurs": "John Carpenter",
-        "annee": 1984,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "70 mm"
-      }
-    ],
-    "hashEvenement": "f30920"
   }
 ]

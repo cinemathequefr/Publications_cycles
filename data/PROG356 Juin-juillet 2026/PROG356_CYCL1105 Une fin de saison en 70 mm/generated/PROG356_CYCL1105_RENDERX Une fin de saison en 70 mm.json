@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-07-09T20:00:00",
-    "2026-07-12T20:00:00"
+    "2026-07-12T14:30:00"
   ],
   "textePresentation": "> Tombée de rideau pour la saison à la Cinémathèque, avec un rendez-vous devenu incontournable, les projections grandioses en 70 mm sur l'écran géant de la salle Henri Langlois. L'occasion d'en prendre à nouveau plein les yeux avec une sélection éclectique : fresques épiques (_Lawrence d'Arabie_, _Ran_), chef-d'œuvre burlesque (_Playtime_), thriller médiéval (_Le Nom de la rose_), grand western (_Les Cheyennes_), road movie fantastique (_Starman_) ou encore le plus récent et multiprimé _The Master_.\r\n",
   "sousCycles": [
@@ -35,10 +35,9 @@
           ],
           "seances": [
             {
-              "idSeance": 210000,
+              "idSeance": 217288,
               "dateHeure": "2026-07-09T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "idSalle": "HL"
             }
           ]
         },
@@ -69,7 +68,7 @@
           ],
           "seances": [
             {
-              "idSeance": 210072,
+              "idSeance": 217287,
               "dateHeure": "2026-07-11T19:00:00",
               "idSalle": "HL"
             }
@@ -99,8 +98,8 @@
           ],
           "seances": [
             {
-              "idSeance": 210035,
-              "dateHeure": "2026-07-10T17:00:00",
+              "idSeance": 217286,
+              "dateHeure": "2026-07-10T17:30:00",
               "idSalle": "HL"
             }
           ]
@@ -131,8 +130,8 @@
           ],
           "seances": [
             {
-              "idSeance": 217009,
-              "dateHeure": "2026-07-12T17:00:00",
+              "idSeance": 217289,
+              "dateHeure": "2026-07-10T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -194,42 +193,66 @@
           "seances": [
             {
               "idSeance": 217284,
-              "dateHeure": "2026-07-10T20:00:00",
+              "dateHeure": "2026-07-10T20:30:00",
               "idSalle": "HL"
             }
           ]
         },
         {
-          "idFilm": 30920,
-          "content": [
+          "groupe": [
             {
               "idFilm": 30920,
-              "ordre": 1,
-              "titre": "Starman",
-              "realisateurs": "John Carpenter",
-              "pays": "États-Unis",
-              "annee": 1984,
-              "duree": 115,
-              "version": "VOSTF",
-              "format": "70 mm",
-              "generique": [
-                "Jeff Bridges",
-                "Karen Allen",
-                "Charles Martin Smith"
-              ],
-              "miniTexte": "Échoué sur Terre et pourchassé par l'armée américaine, un extraterrestre trouve refuge chez une jeune femme et prend l'apparence de son mari défunt. Carpenter imagine une variation fantastique de _New York-Miami_ de Frank Capra, qui mêle science-fiction, _road movie_ et romance dans un film aussi touchant qu'inattendu, empreint de la nostalgie des années 80. Irrésistible."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 30920,
+                  "ordre": 1,
+                  "titre": "Starman",
+                  "realisateurs": "John Carpenter",
+                  "pays": "États-Unis",
+                  "annee": 1984,
+                  "duree": 115,
+                  "version": "VOSTF",
+                  "format": "70 mm",
+                  "generique": [
+                    "Jeff Bridges",
+                    "Karen Allen",
+                    "Charles Martin Smith"
+                  ],
+                  "miniTexte": "Échoué sur Terre et pourchassé par l'armée américaine, un extraterrestre trouve refuge chez une jeune femme et prend l'apparence de son mari défunt. Carpenter imagine une variation fantastique de _New York-Miami_ de Frank Capra, qui mêle science-fiction, _road movie_ et romance dans un film aussi touchant qu'inattendu, empreint de la nostalgie des années 80. Irrésistible."
+                }
+              ]
+            },
             {
-              "idSeance": 217283,
-              "dateHeure": "2026-07-12T20:00:00",
-              "idSalle": "HL"
+              "idEvenement": 36522,
+              "content": [
+                {
+                  "idConf": 36522,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Bernard Benoliel et Jean-Baptiste Thoret",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217283,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-07-12T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Starman",
+        "mention": "avec Bernard Benoliel et Jean-Baptiste Thoret",
+        "dateHeure": "2026-07-12T14:30:00"
+      }
+    ]
+  }
 }
