@@ -129,7 +129,7 @@
   * Maman a cent ans  
   * Opération Caprice  
   * Pas de gué dans le feu  
-  * Rebelle (Le)  
+  * Pierre et Djemila  
   * Série noire  
   * Sonate d'automne  
   * Tambour (Le)  
