@@ -442,8 +442,9 @@
   * Vincent et Théo  
   * Young One (The)
 
-## Séances spéciales (3)
+## Séances spéciales (4)
 
   * Corde au cou (La)  
   * Derniers jours d'Emmanuel Kant (Les)  
   * Fils puni (Le)  
+  * Quand Marilyn chantait pour les GI's  

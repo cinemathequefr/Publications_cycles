@@ -110,13 +110,48 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Avant-première Patrick Jeudy",
+      "items": [
+        {
+          "idFilm": 155811,
+          "content": [
+            {
+              "idFilm": 155811,
+              "ordre": 1,
+              "titre": "Quand Marilyn chantait pour les GI's",
+              "realisateurs": "Patrick Jeudy",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 54,
+              "version": "",
+              "format": "DCP",
+              "miniTexte": "En 1954, Marilyn Monroe interrompt sa lune de miel pour se produire en Corée devant plus de 100 000 soldats américains. En quatre jours et dix concerts, malgré le froid et le trac, elle vit une expérience fondatrice qui révèle sa dimension de star, sur fond de guerre et d'Amérique anticommuniste."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217291,
+              "dateHeure": "2026-05-25T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
       {
         "dateHeure": "2026-03-30T20:00:00",
         "titreFilms": "La Corde au cou"
+      },
+      {
+        "dateHeure": "2026-05-25T20:00:00",
+        "titreFilms": "Quand Marilyn chantait pour les GI's"
       }
     ],
     "Séances présentées": [
