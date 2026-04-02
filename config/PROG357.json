@@ -179,14 +179,40 @@
       "titreEvenements": {}
     },
     {
+      "idCycleProg": 1109,
+      "titreCycle": "Louise Brooks",
+      "_charge_prog": "Pauline",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [4193], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "cancelledSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 1110,
+      "titreCycle": "Hans-Jürgen Syberberg",
+      "_charge_prog": "Pauline",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [4194], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "cancelledSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
+    },
+    {
       "idCycleProg": null,
       "titreCycle": "",
       "_charge_prog": "",
-      "isReg": true,
-      "triSousCycles": true,
+      "isReg": false,
+      "triSousCycles": false,
       "type": null,
       "sousCycles": [
-        { "titre": "Les films", "cats": [], "tri": 2, "printNoMT": true },
+        { "titre": "Les films", "cats": [], "tri": 2, "printNoMT": false },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
       ],
       "excludeSeances": [],
