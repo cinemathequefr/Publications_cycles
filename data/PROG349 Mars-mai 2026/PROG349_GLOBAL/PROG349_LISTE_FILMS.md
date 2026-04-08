@@ -8,7 +8,7 @@
 
   * Adel & Jano  
   * Ainsi commença le déclin d'Antoine  
-  * décision (La)  
+  * Décision (La)  
   * Diego  
   * Don Quichotte contre les forces du mal  
   * Étrange Humeur adolescente (L')  
@@ -331,21 +331,24 @@
   * Vengeance est à moi (La)  
   * Zodiac
 
-## Ma petite Cinémathèque (14)
+## Ma petite Cinémathèque (17)
 
   * Babe, le cochon devenu berger  
   * Bruit du gris (Le)  
   * Contes de la mère poule : Shangoul et Mangoul (Les)  
   * En rachâchant  
+  * Grosse Bruder (Der)  
   * Homme qui rétrécit (L')  
   * Indestructibles (Les)  
   * Magicien d'Oz (Le)  
   * Petit Chat curieux (Le)  
+  * Petit Pierre  
   * Pinocchio  
   * Ponyo sur la falaise  
   * Secret de la pyramide (Le)  
   * Table tournante (La)  
   * Temps modernes (Les)  
+  * Tôt ou tard  
   * Zéro de conduite
 
 ## Marilyn Monroe (22)
@@ -379,7 +382,7 @@
   * Homme de l'Ouest (L')  
   * Nouvelle Vague
 
-## Robert Altman (60)
+## Robert Altman (59)
 
   * Aria : Les Boréades  
   * Basements  
@@ -396,7 +399,6 @@
   * Fool for Love  
   * Gingerbread Man (The)  
   * Gosford Park  
-  * Health  
   * Histoire de James Dean (L')  
   * Honeymoon for Harriet  
   * Images  

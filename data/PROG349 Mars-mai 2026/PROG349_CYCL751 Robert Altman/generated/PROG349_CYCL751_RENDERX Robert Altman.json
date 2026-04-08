@@ -431,36 +431,6 @@
           ]
         },
         {
-          "idFilm": 56413,
-          "content": [
-            {
-              "idFilm": 56413,
-              "ordre": 1,
-              "titre": "Health",
-              "realisateurs": "Robert Altman",
-              "pays": "États-Unis",
-              "annee": 1980,
-              "duree": 105,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Carol Burnett",
-                "Glenda Jackson",
-                "James Garner",
-                "Lauren Bacall"
-              ],
-              "miniTexte": "Satire féroce de la scène politique américaine, _Health_ suit un congrès de diététiciens où de puissants lobbyistes s'apprêtent à élire leur nouveau président. En coulisses, magouilles, intox et scandales contaminent peu à peu l'événement. Dans la veine de Nashville, un reportage-fiction aux airs de carnaval, émaillé de séquences proprement hilarantes."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 207410,
-              "dateHeure": "2026-05-06T20:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 57097,
           "content": [
             {
@@ -550,7 +520,7 @@
               "annee": 1972,
               "duree": 101,
               "version": "VOSTF",
-              "format": "35 mm",
+              "format": "DCP",
               "adaptation": "D'après le roman _In Search of Unicorns_ de Susannah York.",
               "generique": [
                 "Susannah York",
@@ -1173,7 +1143,7 @@
               "pays": "États-Unis",
               "annee": 1979,
               "duree": 117,
-              "version": "VO",
+              "version": "VOSTF",
               "format": "35 mm",
               "generique": [
                 "Paul Newman",
@@ -1369,6 +1339,11 @@
           ],
           "seances": [
             {
+              "idSeance": 217276,
+              "dateHeure": "2026-05-06T20:30:00",
+              "idSalle": "GF"
+            },
+            {
               "idSeance": 208647,
               "dateHeure": "2026-05-22T18:30:00",
               "idSalle": "GF"
@@ -1481,8 +1456,8 @@
               "realisateurs": "Robert Altman",
               "pays": "Canada",
               "annee": 1988,
-              "duree": 109,
-              "version": "VOSTF",
+              "duree": 100,
+              "version": "VO",
               "format": "Vidéo",
               "generique": [
                 "John Travolta",
@@ -1512,7 +1487,7 @@
               "pays": "États-Unis",
               "annee": 1988,
               "duree": 108,
-              "version": "VOSTF",
+              "version": "VO",
               "format": "Vidéo",
               "adaptation": "D'après le roman _Ouragan sur le Caine_ d'Herman Wouk.",
               "generique": [
@@ -1842,7 +1817,7 @@
               "pays": "États-Unis",
               "annee": 1960,
               "duree": 50,
-              "version": "VOSTF",
+              "version": "VO",
               "format": "Vidéo",
               "generique": [
                 "Michael Landon",
@@ -1864,7 +1839,7 @@
     }
   ],
   "syntheseAction": {
-    "Dialogues": [
+    "Séances avec dialogue": [
       {
         "titreFilms": "John McCabe",
         "mention": "avec Jean-Baptiste Thoret",

@@ -44,7 +44,6 @@
   * A. Constant  
   * Aloïse  
   * Bonheur (Le)  
-  * Ça n'arrive qu'aux autres  
   * Dérive (La)  
   * Diabolo menthe  
   * Faustine et le bel été  
@@ -60,6 +59,7 @@
   * Jument vapeur (La)  
   * Lumière  
   * Maso et Miso vont en bateau  
+  * Mon amour, mon amour  
   * Nathalie Granger  
   * Pic et pic et colegram  
   * Qu'est-ce que tu veux, Julie ?  
@@ -260,10 +260,11 @@
   * Rue de la joie  
   * Vie secrète de madame Yoshino (La)
 
-## Séances spéciales (6)
+## Séances spéciales (7)
 
   * Aiguilles rouges (Les)  
   * Bananes mécaniques  
+  * Cobalto  
   * Diari di Angela: Noi due cineasti, capitolo secondo (I)  
   * Diari di Angela: Noi due cineasti, capitolo terzo (I)  
   * Diari di Angela: Noi due cineasti (I)  

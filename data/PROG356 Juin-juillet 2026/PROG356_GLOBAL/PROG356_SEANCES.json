@@ -255,6 +255,7 @@
         "Les films"
       ]
     ],
+    "mention": "Accompagnement musical par Jean-François Zygel",
     "items": [
       {
         "idFilm": 45280,
@@ -417,8 +418,8 @@
     "hashEvenement": "f48301"
   },
   {
-    "idSeance": 209099,
-    "idEvenement": 36031,
+    "idSeance": 217321,
+    "idEvenement": 36566,
     "dateHeure": "2026-05-30T19:30:00",
     "salle": "GF",
     "cycle": [
@@ -430,15 +431,15 @@
     "mention": "Séance présentée par Aurore Renaut",
     "items": [
       {
-        "idFilm": 51523,
-        "titre": "Ça n'arrive qu'aux autres",
+        "idFilm": 51411,
+        "titre": "Mon amour, mon amour",
         "realisateurs": "Nadine Trintignant",
-        "annee": 1971,
-        "duree": 90,
+        "annee": 1967,
+        "duree": 80,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f51523"
+    "hashEvenement": "f51411"
   },
   {
     "idSeance": 209096,
@@ -680,7 +681,7 @@
   },
   {
     "idSeance": 209128,
-    "idEvenement": 36388,
+    "idEvenement": 36565,
     "dateHeure": "2026-06-01T19:00:00",
     "salle": "LE",
     "cycle": [
@@ -692,6 +693,15 @@
     "mention": "Séance suivie d'une discussion avec Julián Hernández et Roberto Fiesco",
     "items": [
       {
+        "idFilm": 155813,
+        "titre": "Cobalto",
+        "realisateurs": "Julián Hernández",
+        "annee": 2023,
+        "duree": 21,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
         "idFilm": 115484,
         "titre": "Mil nubes de paz cercan el cielo, amor, jamás acabarás de ser amor",
         "realisateurs": "Julián Hernández",
@@ -701,7 +711,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f115484"
+    "hashEvenement": "f155813f115484"
   },
   {
     "idSeance": 217182,
@@ -1793,6 +1803,8 @@
         "realisateurs": "Gabriel de Gravone",
         "annee": 1927,
         "duree": 8,
+        "version": "INT. FR.",
+        "format": "DCP",
         "restauration": true
       },
       {
@@ -4187,7 +4199,9 @@
         "art": "La",
         "realisateurs": "James June Schneider, Benjamín Echazarreta",
         "annee": 2011,
-        "duree": 85
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f116754"
@@ -4303,7 +4317,8 @@
         "realisateurs": "Marc Allégret",
         "annee": 1934,
         "duree": 85,
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       },
       {
         "idConf": 36358,

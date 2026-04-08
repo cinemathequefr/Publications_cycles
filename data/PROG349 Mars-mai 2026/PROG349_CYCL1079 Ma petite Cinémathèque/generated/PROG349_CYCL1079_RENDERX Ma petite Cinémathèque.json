@@ -460,7 +460,7 @@
               "annee": 1940,
               "duree": 88,
               "version": "VF",
-              "format": "35 mm",
+              "format": "DCP",
               "ageMinimal": 6,
               "adaptation": "D'après le roman _Les Aventures de Pinocchio : Histoire d'un pantin_ de Carlo Collodi.",
               "miniTexte": "Pinocchio, un pantin de bois créé par le marionnettiste Geppetto, veut devenir un vrai petit garçon. Quand la Fée bleue exauce son vœu, il est entraîné dans des aventures périlleuses, mais est épaulé par son ami Jiminy Cricket. L'adaptation par Walt Disney d'un conte italien, tendre et sombre, aux trouvailles visuelles et sonores impressionnantes."
@@ -569,6 +569,80 @@
             {
               "idSeance": 208757,
               "dateHeure": "2026-05-20T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
+            }
+          ]
+        },
+        {
+          "idEvenement": 35669,
+          "content": [
+            {
+              "idFilm": 31066,
+              "ordre": 1,
+              "titre": "Temps modernes",
+              "art": "Les",
+              "titreVo": "Modern Times",
+              "realisateurs": "Charles Chaplin",
+              "pays": "États-Unis",
+              "annee": 1936,
+              "ageMinimal": 6,
+              "generique": [
+                "Charles Chaplin",
+                "Paulette Goddard",
+                "Henry Bergman"
+              ],
+              "miniTexte": "Malmené par les mécanismes rigoureux du travail à la chaîne, dans une usine hostile et sévère comme une prison, Charlot tente de fuir la vie moderne pour trouver le bonheur. Avec ses scènes devenues cultes (les engrenages, la chanson _Titine_), le film le plus célèbre de Chaplin, un chef-d'œuvre intemporel."
+            },
+            {
+              "idFilm": 134016,
+              "ordre": 2,
+              "titre": "Grosse Bruder",
+              "art": "Der",
+              "realisateurs": "Elisabeth Hüttermann, Jesús Pérez",
+              "pays": "Suisse-Allemagne",
+              "annee": 2009,
+              "duree": 6,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 143065,
+              "ordre": 3,
+              "titre": "Petit Pierre",
+              "realisateurs": "Emmanuel Clot",
+              "pays": "France",
+              "annee": 1980,
+              "duree": 8,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 6,
+              "generique": [
+                "Pierre Avezard"
+              ]
+            },
+            {
+              "idFilm": 155807,
+              "ordre": 4,
+              "titre": "Tôt ou tard",
+              "realisateurs": "Jadwiga Kowalska",
+              "pays": "France",
+              "annee": 2008,
+              "duree": null,
+              "version": "",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 206752,
+              "dateHeure": "2026-04-08T15:30:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
+            },
+            {
+              "idSeance": 206879,
+              "dateHeure": "2026-04-12T15:30:00",
               "idSalle": "GF",
               "ageMinimal": 6
             }
