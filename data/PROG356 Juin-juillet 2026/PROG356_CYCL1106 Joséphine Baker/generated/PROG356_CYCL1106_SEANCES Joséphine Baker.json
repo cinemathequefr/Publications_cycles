@@ -64,7 +64,7 @@
   {
     "idCategorie": 4175,
     "typeEvenement": 13,
-    "idEvenement": 36344,
+    "idEvenement": 36567,
     "idSeance": 209835,
     "dateHeure": "2026-07-02T18:30:00",
     "idSalle": [
@@ -74,8 +74,26 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 74038,
+        "idFilm": 155814,
         "ordre": 1,
+        "idSeance": 209835,
+        "idCopie": 31901,
+        "duree": 3,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155815,
+        "ordre": 2,
+        "idSeance": 209835,
+        "idCopie": 31902,
+        "duree": 1,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 74038,
+        "ordre": 3,
         "idSeance": 209835,
         "idCopie": 31836,
         "duree": 103,
@@ -220,7 +238,7 @@
   {
     "idCategorie": 4175,
     "typeEvenement": 13,
-    "idEvenement": 36349,
+    "idEvenement": 36570,
     "idSeance": 209932,
     "dateHeure": "2026-07-05T15:00:00",
     "idSalle": [
@@ -230,8 +248,17 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 151142,
+        "idFilm": 155816,
         "ordre": 1,
+        "idSeance": 209932,
+        "idCopie": 31903,
+        "duree": 15,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 151142,
+        "ordre": 2,
         "idSeance": 209932,
         "idCopie": 22834,
         "duree": 98,

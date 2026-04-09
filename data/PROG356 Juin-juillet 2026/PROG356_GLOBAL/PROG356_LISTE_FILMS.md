@@ -149,12 +149,14 @@
   * Trafic  
   * Vacances de monsieur Hulot (Les)
 
-## Joséphine Baker (22)
+## Joséphine Baker (25)
 
   * Actualités féminines  
   * Championnat de danse  
   * Clair-obscur  
   * Fausse alerte  
+  * Folie du jour, Folies Bergère  
+  * Harlem Sketches  
   * Joséphine Baker 1941 (Mon cœur est un oiseau des îles devant les grands blessés à Marseille)  
   * Joséphine Baker chante au théâtre des armées  
   * Joséphine Baker dans la zone  
@@ -169,6 +171,7 @@
   * Prague 1928  
   * Princesse Tam Tam  
   * Revue des revues (La)  
+  * Revues des Folies Bergère  
   * Sirène des tropiques (La)  
   * Touki bouki  
   * Triplettes de Belleville (Les)  
