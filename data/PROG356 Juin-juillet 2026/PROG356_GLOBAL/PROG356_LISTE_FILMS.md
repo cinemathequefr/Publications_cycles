@@ -198,7 +198,7 @@
   * Chacun à son poste et rien ne va  
   * Ciao, professore!  
   * D'amour et de sang  
-  * Fernando e Carolina  
+  * Ferdinando e Carolina  
   * Film d'amour et d'anarchie  
   * Fin du monde dans notre lit conjugal (La)  
   * Métallurgiste et coiffeuse dans un tourbillon de sexe et de politique  
