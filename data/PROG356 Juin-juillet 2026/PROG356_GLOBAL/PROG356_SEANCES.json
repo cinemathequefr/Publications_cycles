@@ -397,7 +397,7 @@
   {
     "idSeance": 209100,
     "idEvenement": 36034,
-    "dateHeure": "2026-05-30T17:30:00",
+    "dateHeure": "2026-05-30T17:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -421,7 +421,7 @@
   {
     "idSeance": 217321,
     "idEvenement": 36566,
-    "dateHeure": "2026-05-30T19:30:00",
+    "dateHeure": "2026-05-30T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -445,7 +445,7 @@
   {
     "idSeance": 209096,
     "idEvenement": 35867,
-    "dateHeure": "2026-05-30T20:00:00",
+    "dateHeure": "2026-05-30T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3081,7 +3081,7 @@
         "Nicolas Giuliani"
       ]
     ],
-    "mention": "Séance suivie d'une discussion avec Nicolas Giuliani et Arthur Harari",
+    "mention": "Séance suivie d'une discussion avec Nicolas Giuliani et Arthur Harari (sous réserve)",
     "items": [
       {
         "idFilm": 155757,
@@ -3791,7 +3791,7 @@
         "Repérages : Présences invisibles"
       ]
     ],
-    "mention": "Séance suivie d'une discussion avec Alicia Pratx, Adrien Casse et Antoine Héraly",
+    "mention": "Séance suivie d'une discussion avec Alicia Pratx, Adrien Casse, Antoine Héraly et Hélène Fressoz",
     "items": [
       {
         "idFilm": 155803,
@@ -3849,9 +3849,9 @@
     "hashEvenement": "f42527"
   },
   {
-    "idSeance": 209808,
+    "idSeance": 217326,
     "idEvenement": 36232,
-    "dateHeure": "2026-07-01T16:00:00",
+    "dateHeure": "2026-07-01T15:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4163,7 +4163,7 @@
   {
     "idSeance": 209877,
     "idEvenement": 36307,
-    "dateHeure": "2026-07-03T18:00:00",
+    "dateHeure": "2026-07-03T18:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -4212,7 +4212,7 @@
   {
     "idSeance": 217108,
     "idEvenement": 36308,
-    "dateHeure": "2026-07-03T20:00:00",
+    "dateHeure": "2026-07-03T20:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -4236,9 +4236,9 @@
     "hashEvenement": "f116754"
   },
   {
-    "idSeance": 217171,
-    "idEvenement": 35956,
-    "dateHeure": "2026-07-03T20:45:00",
+    "idSeance": 217328,
+    "idEvenement": 35965,
+    "dateHeure": "2026-07-03T21:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4248,17 +4248,16 @@
     ],
     "items": [
       {
-        "idFilm": 43901,
-        "titre": "Rocco et ses frères",
+        "idFilm": 43947,
+        "titre": "Sandra",
         "realisateurs": "Luchino Visconti",
-        "annee": 1960,
-        "duree": 165,
+        "annee": 1965,
+        "duree": 100,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f43901"
+    "hashEvenement": "f43947"
   },
   {
     "idSeance": 209876,
@@ -4496,7 +4495,7 @@
         "annee": 2004,
         "duree": 93,
         "version": "VF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f97655"
@@ -4536,8 +4535,8 @@
     "hashEvenement": "f155816f151142"
   },
   {
-    "idSeance": 209927,
-    "idEvenement": 35965,
+    "idSeance": 217327,
+    "idEvenement": 35956,
     "dateHeure": "2026-07-05T17:00:00",
     "salle": "HL",
     "cycle": [
@@ -4548,16 +4547,17 @@
     ],
     "items": [
       {
-        "idFilm": 43947,
-        "titre": "Sandra",
+        "idFilm": 43901,
+        "titre": "Rocco et ses frères",
         "realisateurs": "Luchino Visconti",
-        "annee": 1965,
-        "duree": 100,
+        "annee": 1960,
+        "duree": 165,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f43947"
+    "hashEvenement": "f43901"
   },
   {
     "idSeance": 217138,
@@ -4661,7 +4661,7 @@
   {
     "idSeance": 209928,
     "idEvenement": 35968,
-    "dateHeure": "2026-07-05T20:00:00",
+    "dateHeure": "2026-07-05T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4830,7 +4830,7 @@
         "annee": 1964,
         "duree": 109,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f64366"
@@ -5400,7 +5400,9 @@
         "titre": "Princess Bride",
         "realisateurs": "Rob Reiner",
         "annee": 1986,
-        "duree": 98
+        "duree": 98,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f35575"
