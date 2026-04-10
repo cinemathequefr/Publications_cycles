@@ -241,6 +241,7 @@
 
 ## Ken Loach (32)
 
+  * 11'09''01 – September 11 : Royaume-Uni  
   * Black Jack  
   * Bread and Roses  
   * Carla's Song  
@@ -268,7 +269,6 @@
   * Regards et sourires  
   * Riff-Raff  
   * Route Irish  
-  * September 11  
   * Sorry We Missed You  
   * Sweet Sixteen  
   * Tickets  
