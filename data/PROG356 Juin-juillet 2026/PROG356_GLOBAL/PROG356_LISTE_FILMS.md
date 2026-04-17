@@ -266,7 +266,7 @@
 ## Séances spéciales (7)
 
   * Aiguilles rouges (Les)  
-  * Bananes mécaniques  
+  * Chaussette surprise  
   * Cobalto  
   * Diari di Angela: Noi due cineasti, capitolo secondo (I)  
   * Diari di Angela: Noi due cineasti, capitolo terzo (I)  
