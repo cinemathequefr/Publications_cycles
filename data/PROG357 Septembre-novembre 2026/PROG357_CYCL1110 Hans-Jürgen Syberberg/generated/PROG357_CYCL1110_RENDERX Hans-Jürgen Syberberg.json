@@ -1,0 +1,59 @@
+{
+  "datesCycle": [
+    "2026-11-11T20:00:00",
+    "2026-11-14T14:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 39540,
+          "content": [
+            {
+              "idFilm": 39540,
+              "ordre": 1,
+              "titre": "Hitler, un film d'Allemagne",
+              "titreVo": "Hitler, ein Film aus Deutschland",
+              "realisateurs": "Hans-Jürgen Syberberg",
+              "pays": "Allemagne",
+              "annee": 1977
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212354,
+              "dateHeure": "2026-11-14T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 58037,
+          "content": [
+            {
+              "idFilm": 58037,
+              "ordre": 1,
+              "titre": "Ludwig, requiem pour un roi vierge",
+              "titreVo": "Ludwig – Requiem für einen jungfräulichen König",
+              "realisateurs": "Hans-Jürgen Syberberg",
+              "pays": "RFA",
+              "annee": 1972
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212252,
+              "dateHeure": "2026-11-11T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {}
+}
