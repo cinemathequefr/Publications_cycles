@@ -1,5 +1,29 @@
 [
   {
+    "idSeance": 210979,
+    "idEvenement": 36892,
+    "dateHeure": "2026-09-17T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Louise Brooks",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 48771,
+        "titre": "Prix de beauté",
+        "realisateurs": "Augusto Genina",
+        "annee": 1929,
+        "duree": 109,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f48771"
+  },
+  {
     "idSeance": 217352,
     "idEvenement": 36493,
     "dateHeure": "2026-09-30T20:00:00",
@@ -48,54 +72,6 @@
       }
     ],
     "hashEvenement": "f54223"
-  },
-  {
-    "idSeance": 211305,
-    "idEvenement": 36497,
-    "dateHeure": "2026-10-01T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le Space opera, les indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 62095,
-        "titre": "2010 : L'Année du premier contact",
-        "realisateurs": "Peter Hyams",
-        "annee": 1984,
-        "duree": 116,
-        "version": "VOSTF",
-        "format": "70 mm"
-      }
-    ],
-    "hashEvenement": "f62095"
-  },
-  {
-    "idSeance": 211306,
-    "idEvenement": 36500,
-    "dateHeure": "2026-10-01T20:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le Space opera, les indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 69787,
-        "titre": "Space Cowboys",
-        "realisateurs": "Clint Eastwood",
-        "annee": 2000,
-        "duree": 130,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f69787"
   },
   {
     "idSeance": 217356,
@@ -258,13 +234,62 @@
         "idFilm": 128190,
         "titre": "Seul sur Mars",
         "realisateurs": "Ridley Scott",
-        "annee": 2014,
+        "annee": 2015,
         "duree": 144,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
     "hashEvenement": "f128190"
+  },
+  {
+    "idSeance": 211569,
+    "idEvenement": 36461,
+    "dateHeure": "2026-10-12T20:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "François Mitterrand et le cinéma"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 94512,
+        "titre": "Promeneur du Champ-de-Mars",
+        "art": "Le",
+        "realisateurs": "Robert Guédiguian",
+        "annee": 2004,
+        "duree": 117,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f94512"
+  },
+  {
+    "idSeance": 211702,
+    "idEvenement": 36480,
+    "dateHeure": "2026-10-17T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "La « Bible » du Faust de Murnau"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 44903,
+        "titre": "Faust",
+        "realisateurs": "Friedrich Wilhelm Murnau",
+        "annee": 1926,
+        "duree": 108,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f44903"
   },
   {
     "idSeance": 212252,

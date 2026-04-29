@@ -209,7 +209,7 @@
   * Ville accuse (La)  
   * Violence et Passion
 
-## Jean-François Stévenin (27)
+## Jean-François Stévenin (26)
 
   * À nous la victoire  
   * Argent de poche (L')  
@@ -217,7 +217,6 @@
   * Chiens de guerre (Les)  
   * Chute libre  
   * De l'amour  
-  * Deux lions au soleil  
   * Double messieurs  
   * Guerre des polices (La)  
   * Jean-François Stévenin : Simple messieurs  
@@ -382,10 +381,9 @@
   * Homme de l'Ouest (L')  
   * Nouvelle Vague
 
-## Robert Altman (59)
+## Robert Altman (58)
 
   * Aria : Les Boréades  
-  * Basements  
   * Beyond Therapy  
   * Brewster McCloud  
   * Buffalo Bill et les Indiens  

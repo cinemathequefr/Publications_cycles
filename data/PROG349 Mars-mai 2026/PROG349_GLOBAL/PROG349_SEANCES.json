@@ -3445,33 +3445,9 @@
     "hashEvenement": "f39292"
   },
   {
-    "idSeance": 208534,
-    "idEvenement": 35455,
-    "dateHeure": "2026-04-17T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Cinéma bis",
-        "Eddie Romero"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 82147,
-        "titre": "Beast of the Yellow Night",
-        "realisateurs": "Eddie Romero",
-        "annee": 1971,
-        "duree": 87,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f82147"
-  },
-  {
     "idSeance": 208726,
     "idEvenement": 35495,
-    "dateHeure": "2026-04-17T19:00:00",
+    "dateHeure": "2026-04-17T17:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3502,6 +3478,30 @@
       }
     ],
     "hashEvenement": "f116303c35580"
+  },
+  {
+    "idSeance": 208534,
+    "idEvenement": 35455,
+    "dateHeure": "2026-04-17T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Eddie Romero"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 82147,
+        "titre": "Beast of the Yellow Night",
+        "realisateurs": "Eddie Romero",
+        "annee": 1971,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f82147"
   },
   {
     "idSeance": 208535,
@@ -4061,7 +4061,7 @@
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 1982,
         "duree": 7,
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 51499,
@@ -4168,7 +4168,7 @@
         "realisateurs": "Ted Wilde",
         "annee": 1927,
         "duree": 84,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "DCP"
       }
     ],
@@ -4370,7 +4370,7 @@
         "realisateurs": "Ted Wilde",
         "annee": 1928,
         "duree": 87,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "DCP"
       }
     ],
@@ -4394,6 +4394,7 @@
         "realisateurs": "Sam Taylor, Fred Newmeyer",
         "annee": 1923,
         "duree": 63,
+        "version": "INT. FR.",
         "format": "DCP",
         "restauration": true
       }
@@ -4758,7 +4759,7 @@
         "realisateurs": "Hal Roach, Fred C. Newmeyer, Sam Taylor",
         "annee": 1920,
         "duree": 48,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "35 mm"
       }
     ],
@@ -4945,11 +4946,11 @@
     "mention": "Séance présentée par Clément Cogitore",
     "items": [
       {
-        "idFilm": 155763,
-        "titre": "Adel & Jano",
-        "realisateurs": "Mona Tchepiega",
+        "idFilm": 155762,
+        "titre": "I'm in Love With the World Through the Eyes of a Girl",
+        "realisateurs": "Vega Royer-Gaspard",
         "annee": 2025,
-        "duree": 17,
+        "duree": 18,
         "format": "DCP"
       },
       {
@@ -4961,35 +4962,19 @@
         "format": "DCP"
       },
       {
-        "idFilm": 155767,
-        "titre": "Furtif",
-        "realisateurs": "Joseph Rozé",
-        "annee": 2025,
-        "duree": 5,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155762,
-        "titre": "I'm in Love With the World Through the Eyes of a Girl",
-        "realisateurs": "Vega Royer-Gaspard",
-        "annee": 2025,
-        "duree": 18,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155772,
-        "titre": "Iris",
-        "realisateurs": "Lucie Wiart",
-        "annee": 2025,
-        "duree": 11,
-        "format": "DCP"
-      },
-      {
         "idFilm": 155764,
         "titre": "Kapitalisten, wir kriegen euch!",
         "realisateurs": "Lucie Wahl",
         "annee": 2025,
         "duree": 7,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155765,
+        "titre": "See You in Sodom",
+        "realisateurs": "Lane Heatherington",
+        "annee": 2024,
+        "duree": 16,
         "format": "DCP"
       },
       {
@@ -5009,20 +4994,27 @@
         "format": "DCP"
       },
       {
-        "idFilm": 155769,
-        "titre": "Préhensible (The Text Is Thunder)",
-        "art": "Le",
-        "realisateurs": "Assia Turquier-Zauberman",
-        "annee": 2026,
-        "duree": 9,
+        "idFilm": 155767,
+        "titre": "Furtif",
+        "realisateurs": "Joseph Rozé",
+        "annee": 2025,
+        "duree": 5,
         "format": "DCP"
       },
       {
-        "idFilm": 155765,
-        "titre": "See You in Sodom",
-        "realisateurs": "Lane Heatherington",
-        "annee": 2024,
-        "duree": 16,
+        "idFilm": 155772,
+        "titre": "Iris",
+        "realisateurs": "Lucie Wiart",
+        "annee": 2025,
+        "duree": 11,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155763,
+        "titre": "Adel & Jano",
+        "realisateurs": "Mona Tchepiega",
+        "annee": 2025,
+        "duree": 17,
         "format": "DCP"
       },
       {
@@ -5033,9 +5025,18 @@
         "annee": 2024,
         "duree": 2,
         "format": "DCP"
+      },
+      {
+        "idFilm": 155769,
+        "titre": "Préhensible (The Text Is Thunder)",
+        "art": "Le",
+        "realisateurs": "Assia Turquier-Zauberman",
+        "annee": 2026,
+        "duree": 9,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f155763f155768f155767f155762f155772f155764f155771f155766f155769f155765f155804"
+    "hashEvenement": "f155762f155768f155764f155765f155771f155766f155767f155772f155763f155804f155769"
   },
   {
     "idSeance": 208913,
@@ -5084,7 +5085,7 @@
         "realisateurs": "Hal Roach, Alfred J. Goulding",
         "annee": 1917,
         "duree": 48,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "DCP"
       }
     ],
@@ -5196,28 +5197,29 @@
     "hashEvenement": "f79083"
   },
   {
-    "idSeance": 207248,
-    "idEvenement": 35216,
+    "idSeance": 217344,
+    "idEvenement": 29788,
     "dateHeure": "2026-04-29T20:45:00",
     "salle": "JE",
     "cycle": [
       [
         "Robert Altman",
-        "Films pour la télévision"
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 128524,
-        "titre": "Basements",
+        "idFilm": 30204,
+        "titre": "Flambeurs",
+        "art": "Les",
         "realisateurs": "Robert Altman",
-        "annee": 1988,
-        "duree": 100,
-        "version": "VO",
-        "format": "Vidéo"
+        "annee": 1974,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f128524"
+    "hashEvenement": "f30204"
   },
   {
     "idSeance": 208562,
@@ -5238,6 +5240,7 @@
         "realisateurs": "Alfred J. Goulding, Hal Roach",
         "annee": 1920,
         "duree": 20,
+        "version": "INT. FR.",
         "format": "DCP"
       },
       {
@@ -5247,6 +5250,7 @@
         "realisateurs": "Fred C. Newmeyer",
         "annee": 1921,
         "duree": 30,
+        "version": "INT. FR.",
         "format": "DCP"
       },
       {
@@ -5255,6 +5259,7 @@
         "realisateurs": "Hal Roach, Fred C. Newmeyer",
         "annee": 1920,
         "duree": 20,
+        "version": "INT. FR.",
         "format": "DCP"
       }
     ],
@@ -5410,7 +5415,7 @@
         "realisateurs": "Fred C. Newmeyer",
         "annee": 1920,
         "duree": 21,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "DCP"
       },
       {
@@ -5571,7 +5576,7 @@
     "idSeance": 208894,
     "idEvenement": 35497,
     "dateHeure": "2026-05-02T18:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Ken Loach",
@@ -5595,7 +5600,7 @@
     "idSeance": 212809,
     "idEvenement": 35549,
     "dateHeure": "2026-05-02T18:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Jean-François Stévenin",
@@ -5619,7 +5624,7 @@
     "idSeance": 208741,
     "idEvenement": 35491,
     "dateHeure": "2026-05-02T20:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Ken Loach",
@@ -5668,7 +5673,7 @@
     "idSeance": 208573,
     "idEvenement": 29790,
     "dateHeure": "2026-05-02T20:45:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Robert Altman",
@@ -5801,8 +5806,8 @@
     "hashEvenement": "f123295"
   },
   {
-    "idSeance": 207369,
-    "idEvenement": 35537,
+    "idSeance": 217345,
+    "idEvenement": 35538,
     "dateHeure": "2026-05-03T17:30:00",
     "salle": "JE",
     "cycle": [
@@ -5813,15 +5818,16 @@
     ],
     "items": [
       {
-        "idFilm": 48461,
-        "titre": "Deux lions au soleil",
-        "realisateurs": "Claude Faraldo",
-        "annee": 1989,
-        "duree": 98,
+        "idFilm": 52356,
+        "titre": "Patriotes",
+        "art": "Les",
+        "realisateurs": "Éric Rochant",
+        "annee": 1994,
+        "duree": 142,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f48461"
+    "hashEvenement": "f52356"
   },
   {
     "idSeance": 207364,
@@ -7880,7 +7886,7 @@
         "annee": 1929,
         "duree": 82,
         "version": "VO",
-        "format": "35 mm"
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f59178"
@@ -8001,7 +8007,7 @@
         "titre": "Pont du Nord",
         "art": "Le",
         "realisateurs": "Jacques Rivette",
-        "annee": 1980,
+        "annee": 1981,
         "duree": 127,
         "format": "DCP"
       }
@@ -8052,8 +8058,7 @@
         "annee": 1969,
         "duree": 110,
         "version": "VOSTF",
-        "format": "35 mm",
-        "restauration": true
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f30349"
@@ -8078,7 +8083,7 @@
         "annee": 1986,
         "duree": 120,
         "version": "VOSTF",
-        "format": "70 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f45099"

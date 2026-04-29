@@ -5,10 +5,9 @@
   * Hitler, un film d'Allemagne  
   * Ludwig, requiem pour un roi vierge
 
-## Le Space opera, les indispensables (11)
+## Le Space opera, les indispensables (9)
 
   * 2001 : l'Odyssée de l'espace  
-  * 2010 : L'Année du premier contact  
   * Ad Astra  
   * Alien  
   * Étoffe des héros (L')  
@@ -16,5 +15,13 @@
   * Interstellar  
   * Seul sur Mars  
   * Solaris  
-  * Space Cowboys  
-  * Voyage dans la Lune (Le)  
+  * Voyage dans la Lune (Le)
+
+## Louise Brooks (1)
+
+  * Prix de beauté
+
+## Séances spéciales (2)
+
+  * Faust  
+  * Promeneur du Champ-de-Mars (Le)  
