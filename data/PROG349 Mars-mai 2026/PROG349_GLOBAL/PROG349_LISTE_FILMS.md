@@ -50,7 +50,7 @@
   * Maciste en enfer  
   * Odyssée sous la mer (L')
 
-## Fenêtre sur les collections (31)
+## Fenêtre sur les collections (32)
 
   * Arc de triomphe  
   * Assiettes tournantes  
@@ -65,6 +65,7 @@
   * Frontière (La)  
   * Guerre du Golfe... et après (La)  
   * Illusionniste (L')  
+  * Je veux voir (bande-annonce)  
   * Jongleur au ballon  
   * Marché d'esclaves en Orient  
   * Peinture à l'envers  

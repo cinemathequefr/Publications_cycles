@@ -390,7 +390,8 @@
             {
               "idSeance": 208906,
               "dateHeure": "2026-05-08T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Mehdi Taïbi et Sirine Pons"
             }
           ]
         },
@@ -432,13 +433,25 @@
                 "Ula Tabari"
               ],
               "miniTexte": "Un cinéaste palestinien expatrié revient en Israël pour faire un film sur la perte d'identité de la population arabe d'Israël. Premier film, premier pamphlet intimiste et politique. Avec un regard tendre et amer, le sens de la dérision et le goût de l'absurde, Elia Suleiman s'invente un univers, un langage, et une silhouette."
+            },
+            {
+              "idFilm": 155602,
+              "ordre": 3,
+              "titre": "Je veux voir (bande-annonce)",
+              "realisateurs": "Joana Hadjithomas, Khalil Joreige",
+              "pays": "Liban",
+              "annee": 2008,
+              "duree": 2,
+              "version": "VO",
+              "format": "35 mm"
             }
           ],
           "seances": [
             {
               "idSeance": 208907,
               "dateHeure": "2026-05-08T21:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Mehdi Taïbi et Sirine Pons"
             }
           ]
         }
@@ -446,11 +459,21 @@
     }
   ],
   "syntheseAction": {
-    "Séance présentée": [
+    "Séances présentées": [
       {
         "titreFilms": "Le Pont-Neuf / Arc de triomphe / Place Bellecour / Colleurs d'affiches / Danse serpentine, I / Escamotage d'une dame chez Robert-Houdin / Les Bouteilles / Peinture à l'envers / Le Squelette joyeux / Thiers, Mac-Mahon, Grévy, Carnot, Félix Faure / Prestidigitateur, I / Prestidigitateur, II / Le Prestidigitateur au café / Le Château hanté / Pierrot et la flûte enchantée / Le Repas fantastique / Les Poupées / Tentation de Saint-Antoine / Un prêté pour un rendu / Pierrot et la mouche / Jongleur au ballon / Assiettes tournantes / Serpent / Chapeaux à transformation / Écriture à l'envers",
         "mention": "par Frédéric Tabet",
         "dateHeure": "2026-04-03T18:30:00"
+      },
+      {
+        "titreFilms": "Marché d'esclaves en Orient / Le Temps qu'il reste (bande-annonce) / La Guerre du Golfe... et après",
+        "mention": "par Mehdi Taïbi et Sirine Pons",
+        "dateHeure": "2026-05-08T18:30:00"
+      },
+      {
+        "titreFilms": "La Frontière / Chronique d'une disparition / Je veux voir (bande-annonce)",
+        "mention": "par Mehdi Taïbi et Sirine Pons",
+        "dateHeure": "2026-05-08T21:00:00"
       }
     ]
   }

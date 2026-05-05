@@ -11,6 +11,32 @@
   * Swimmer (The)  
   * Tourmentés (Les)
 
+## 65e Semaine de la critique (23)
+
+  * À quoi rêvent les Maknines  
+  * Adgwa-Ata  
+  * Adieu monde cruel  
+  * City Of Owls  
+  * Deuxième Fille (La)  
+  * Du fioul dans les artères  
+  * Dua  
+  * Frappe (La)  
+  * Gradiva (La)  
+  * I Think You Should Be Here  
+  * Irish Travellers  
+  * Love Story  
+  * Man'mi  
+  * Nafron  
+  * Photo de classe (La)  
+  * Seis meses en el edificio rosa con azul  
+  * Sentinelle (La)  
+  * Skinny Bottines  
+  * Station (The)  
+  * „Vaterland“ oder Ein Bule Namens Yanto  
+  * Visite en terre irradiée  
+  * Viva  
+  * What Do You Seek in the Dark?
+
 ## Aujourd'hui le cinéma (20)
 
   * 3xMina  

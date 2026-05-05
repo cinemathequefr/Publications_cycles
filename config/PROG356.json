@@ -1,7 +1,7 @@
 {
   "idProg": 356,
   "titre": "Juin-juillet 2026",
-  "status": 1,
+  "status": 2,
   "cancelledPeriods": [{ "start": null, "end": null }],
   "cancelledSeances": [],
   "cycles": [
@@ -248,9 +248,29 @@
       "_charge_prog": "Bernard",
       "sousCycles": [
         {
-          "titre": "Les films",
-          "cats": [4147, 4201, 4202, 4203, 4204, 4205],
-          "tri": 2
+          "titre": "Séance d'ouverture",
+          "cats": [4204],
+          "tri": 4
+        },
+        {
+          "titre": "Compétition : longs métrages",
+          "cats": [4205],
+          "tri": 4
+        },
+        {
+          "titre": "Compétition : courts métrages",
+          "cats": [4202],
+          "tri": 4
+        },
+        {
+          "titre": "Séances spéciales : longs métrages",
+          "cats": [4203],
+          "tri": 4
+        },
+        {
+          "titre": "Séance spéciale : courts métrages",
+          "cats": [4201],
+          "tri": 4
         }
       ],
       "excludeSeances": [],

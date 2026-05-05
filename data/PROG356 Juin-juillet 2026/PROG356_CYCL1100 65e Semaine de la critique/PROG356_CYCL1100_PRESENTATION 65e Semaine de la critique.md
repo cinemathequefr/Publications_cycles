@@ -1,0 +1,7 @@
+# Les films de la 65<sup>e</sup> édition de la Semaine de la Critique
+
+Chaque année, la Semaine de la Critique propose au public parisien de découvrir en exclusivité les films de sa compétition, moins de quinze jours après le Festival de Cannes. En présence des équipes des courts et longs métrages, une semaine de projections à la Cinémathèque française, devenue au fil des éditions un rendez-vous incontournable.
+
+Section parallèle du Festival de Cannes créée en 1962 par le Syndicat Français de la Critique de Cinéma, la Semaine de la Critique se consacre à la découverte des jeunes talents de la création cinématographique, en mettant à l'honneur leurs premiers et deuxièmes longs métrages. C'est à la Semaine qu'ont ainsi été révélés Jacques Audiard, Guillermo del Toro, Ken Loach, François Ozon, Wong Kar-waï ou plus récemment Julia Ducournau, David Robert Mitchell, Jeff Nichols, Alice Winocour, Iris Kaltenbäck ou Charlotte Wells. Ce travail de recherche de nouveaux talents se concrétise chaque année sur la Croisette, lorsque la Semaine de la Critique présente sa programmation très sélective.
+
+La sélection 2025 avait marqué les esprits, avec notamment l'étonnant _A Useful Ghost_ du Thaïlandais Ratchapoom Boonbunchachoke, mais aussi _L'Intérêt d'Adam_ de Laura Wandel, porté par Léa Drucker, ou encore _Nino_ de Pauline Loquès, avec la révélation Théodore Pellerin. Raison de plus pour attendre la sélection 2026 avec la plus grande des impatiences.
