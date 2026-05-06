@@ -70,6 +70,19 @@
   * Sunshine  
   * Voyage dans la Lune (Le)
 
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (10)
+
+  * Anges du boulevard (Les)  
+  * Au bord de la mer bleue  
+  * Dictateur (Le)  
+  * Dumbo  
+  * Faisons un rêve  
+  * Femme du boulanger (La)  
+  * Gueule d'amour  
+  * Paradis perdu  
+  * Règle du jeu (La)  
+  * Vacances
+
 ## Louise Brooks (10)
 
   * American Venus (The)  
