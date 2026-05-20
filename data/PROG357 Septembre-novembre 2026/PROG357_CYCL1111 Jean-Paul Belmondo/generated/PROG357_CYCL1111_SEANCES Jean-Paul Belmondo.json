@@ -14,33 +14,16 @@
     "items": [
       {
         "idFilm": 48837,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 211436,
+        "idCopie": 22016,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "mention": "Ouverture de la rétrospective"
-  },
-  {
-    "idCategorie": 4206,
-    "typeEvenement": 13,
-    "idEvenement": 36619,
-    "idSeance": 211539,
-    "dateHeure": "2026-10-10T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 51129,
-        "ordre": 1,
-        "idSeance": 211539,
-        "idCopie": 5358,
-        "duree": 104,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
   },
   {
     "idCategorie": 4206,
@@ -63,6 +46,75 @@
         "version": "",
         "format": "35 mm"
       }
+    ]
+  },
+  {
+    "idCategorie": 4206,
+    "typeEvenement": 13,
+    "idEvenement": 36618,
+    "idSeance": 217475,
+    "dateHeure": "2026-10-15T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {
+        "idFilm": 48837,
+        "ordre": 1,
+        "idSeance": 217475,
+        "idCopie": 22016,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4231,
+    "typeEvenement": 14,
+    "idEvenement": 36992,
+    "idSeance": 217431,
+    "dateHeure": "2026-10-18T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 4231,
+    "typeEvenement": 14,
+    "idEvenement": 36993,
+    "idSeance": 217440,
+    "dateHeure": "2026-11-07T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 4231,
+    "typeEvenement": 14,
+    "idEvenement": 36994,
+    "idSeance": 217477,
+    "dateHeure": "2026-11-21T16:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "items": [
+      {}
     ]
   }
 ]

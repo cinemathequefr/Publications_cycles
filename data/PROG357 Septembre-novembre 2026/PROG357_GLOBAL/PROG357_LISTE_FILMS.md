@@ -1,5 +1,9 @@
 # Liste des films par cycle
 
+## Ciné-club de Murielle Joudet (1)
+
+  * À bout de souffle
+
 ## Cinéma bis (4)
 
   * Billy le cave  
@@ -9,7 +13,7 @@
 
 ## Fenêtre sur les collections (17)
 
-  * Ananas = La Culture des Ananas (Les)  
+  * Ananas (Les)  
   * Au carrefour des âges, le Liban  
   * Baalbeck  
   * Beyrouth, ô Beyrouth  
@@ -21,8 +25,8 @@
   * Je veux voir (bande-annonce)  
   * Pastilles Vichy-Lardy : cinéma  
   * Pathé Revue ca. 1929 n° indeterminé / Sujet « Sucreries »  
-  * Repas de bébé = Le Déjeuner de bébé = Le Goûter de bébé  
-  * Repas en famille = Vues japonaises  
+  * Repas de bébé (Le)  
+  * Repas en famille  
   * Un dessert pour Constance  
   * Ventre du magasin (Le)  
   * West Beyrouth (bande-annonce)
@@ -32,13 +36,11 @@
   * Hitler, un film d'Allemagne  
   * Ludwig, requiem pour un roi vierge
 
-## Jean-Paul Belmondo (3)
+## Jean-Paul Belmondo (1)
 
-  * À bout de souffle  
-  * Cartouche  
-  * Classe tous risques
+  * Cartouche
 
-## Le Space opera, les indispensables (29)
+## Le Space opera, les indispensables (31)
 
   * 2001 : l'Odyssée de l'espace  
   * 2010 : l'année du premier contact  
@@ -63,38 +65,51 @@
   * Out of the Present  
   * Planète des vampires (La)  
   * Premiers Hommes dans la Lune (Les)  
+  * Proxima  
   * Seul sur Mars  
   * Silent Running  
   * Solaris  
   * Space Cowboys  
   * Sunshine  
-  * Voyage dans la Lune (Le)
+  * Voyage dans la Lune (Le)  
+  * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (10)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (21)
 
   * Anges du boulevard (Les)  
+  * Assurance sur la mort  
   * Au bord de la mer bleue  
+  * Belle et la Bête (La)  
+  * Bourreaux meurent aussi (Les)  
   * Dictateur (Le)  
   * Dumbo  
+  * Espoir  
   * Faisons un rêve  
+  * Farrebique  
+  * Féline (La)  
   * Femme du boulanger (La)  
   * Gueule d'amour  
+  * Ivan le Terrible  
+  * Meshes of the Afternoon  
   * Paradis perdu  
   * Règle du jeu (La)  
+  * Rome, ville ouverte  
+  * Shanghai Gesture (The)  
+  * To Be Or Not to Be  
   * Vacances
 
 ## Louise Brooks (10)
 
-  * American Venus (The)  
+  * École des mendiants (L')  
   * Journal d'une fille perdue (Le)  
   * Just Another Blonde  
   * Loulou  
   * Mendiants de la vie (Les)  
   * Now We're in the Air  
   * Prix de beauté  
-  * Street of Forgotten Men (The)  
   * Un conte d'apothicaire  
-  * Une fille dans chaque port
+  * Une fille dans chaque port  
+  * Vénus moderne
 
 ## Séances spéciales (2)
 

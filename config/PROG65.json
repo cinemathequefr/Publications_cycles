@@ -28,6 +28,19 @@
       ]
     },
     {
+      "idCycleProg": 14,
+      "titreCycle": "Cinéma bis",
+      "isReg": true,
+      "triSousCycles": true,
+      "sousCycles": [
+        {
+          "titre": "Vampires",
+          "cats": [2224],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 18,
       "titreCycle": "Conservatoire des techniques cinématographiques",
       "sousCycles": [
@@ -41,6 +54,8 @@
     {
       "idCycleProg": 140,
       "titreCycle": "Aujourd'hui le cinéma",
+      "isReg": true,
+      "triSousCycles": true,
       "sousCycles": [
         {
           "titre": "Gabriel et Marilio Martins",
@@ -111,6 +126,11 @@
           "titre": "Prix André-Martin 2019",
           "cats": [2196],
           "tri": 4
+        },
+        {
+          "titre": "Émergence 2020",
+          "cats": [2200],
+          "tri": 4
         }
       ]
     },
@@ -163,7 +183,7 @@
       "sousCycles": [
         {
           "titre": "Les films",
-          "cats": [2180],
+          "cats": [2021, 2160, 2180],
           "tri": 1
         },
         {
@@ -184,6 +204,11 @@
         {
           "titre": "Marathon Buffy",
           "cats": [2162],
+          "tri": 4
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2076],
           "tri": 4
         }
       ]
@@ -534,7 +559,7 @@
       "sousCycles": [
         {
           "titre": "Films et conférences",
-          "cats": [2145, 2146],
+          "cats": [2145, 2146, 2255],
           "tri": 4
         }
       ]

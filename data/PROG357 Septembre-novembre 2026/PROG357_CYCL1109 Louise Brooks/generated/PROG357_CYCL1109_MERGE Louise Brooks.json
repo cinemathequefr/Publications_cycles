@@ -5,34 +5,6 @@
       "tri": 2,
       "items": [
         {
-          "idSeance": 211056,
-          "ordre": 1,
-          "dateHeure": "2026-09-19T17:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 90,
-          "idCategorie": 4193,
-          "idEvenement": 36549,
-          "typeEvenement": 13,
-          "idFilm": 69034,
-          "art": "The",
-          "titre": "American Venus",
-          "realisateurs": "Frank Tuttle",
-          "annee": 1925,
-          "pays": "États-Unis",
-          "duree": 8,
-          "version": "",
-          "format": "DCP",
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Concours de beauté, publicité et rêves de célébrité comme terreau d'une comédie située au cœur de l'Amérique des années 1920 : à travers la figure déjà fascinante de Louise Brooks dans son premier grand rôle, Tuttle capte l'émergence d'une féminité exposée et médiatisée – avec de véritables extraits de l'élection Miss America –, prisonnière d'un spectacle qui façonne les corps et les images."
-            }
-          ]
-        },
-        {
           "idSeance": 211073,
           "ordre": 1,
           "dateHeure": "2026-09-20T17:30:00",
@@ -87,6 +59,11 @@
           "duree": 32,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Dorothy Mackaill",
+            "Jack Mulhall",
+            "Louise Brooks"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
@@ -185,6 +162,11 @@
           "duree": 23,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Louise Brooks",
+            "Wallace Beery",
+            "Raymond Hatton"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
@@ -218,35 +200,17 @@
             "Georges Charlia",
             "Henri Bandini"
           ],
-          "textes": []
-        },
-        {
-          "idSeance": 211016,
-          "ordre": 1,
-          "dateHeure": "2026-09-18T19:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 105,
-          "idCategorie": 4193,
-          "idEvenement": 36925,
-          "typeEvenement": 13,
-          "idFilm": 73720,
-          "art": "The",
-          "titre": "Street of Forgotten Men",
-          "realisateurs": "Herbert Brenon",
-          "annee": 1925,
-          "pays": "États-Unis",
-          "duree": 75,
-          "version": "VO",
-          "format": "DCP",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Une jeune dactylo (Louise Brooks, lumineuse) remporte un concours de beauté qui attise jalousie et convoitise. Écrit à l'origine par René Clair, puis réalisé par Augusto Genina, _Prix de beauté_ conserve les traces fascinantes de la transition entre muet et parlant au fil d'un étrange assemblage de silences, de voix et de modernité mélancolique."
+            }
+          ]
         },
         {
           "idSeance": 211017,
           "ordre": 1,
-          "dateHeure": "2026-09-18T21:30:00",
+          "dateHeure": "2026-09-18T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -266,9 +230,16 @@
           "format": "35 mm",
           "generique": [
             "W. C. Fields",
-            "Louise Brooks"
+            "Louise Brooks",
+            "Blanche Ring"
           ],
-          "textes": []
+          "adaptation": "D'après la pièce _The Comic Supplement_ de J. P. McEvoy et W. C. Fields.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Un pharmacien voit son quotidien virer au chaos face à une galerie de clients envahissants et d'escrocs de passage. Hérité des numéros de W. C. Fields, un récit plein de malice aux gags et autres situations absurdes, illuminé par la présence singulière de Louise Brooks. Un tourbillon burlesque aussi désordonné que jubilatoire."
+            }
+          ]
         },
         {
           "idSeance": 211054,
@@ -306,6 +277,99 @@
               "texte": "Film également connu sous le titre _Poings de fer, cœur d'or_."
             }
           ]
+        },
+        {
+          "idSeance": 211056,
+          "ordre": 1,
+          "dateHeure": "2026-09-19T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 4193,
+          "idEvenement": 36549,
+          "typeEvenement": 13,
+          "idFilm": 69034,
+          "titre": "Vénus moderne",
+          "artVo": "The",
+          "titreVo": "American Venus",
+          "realisateurs": "Frank Tuttle",
+          "annee": 1925,
+          "pays": "États-Unis",
+          "duree": 8,
+          "version": "",
+          "format": "DCP",
+          "generique": [
+            "Esther Ralston",
+            "Lawrence Gray",
+            "Louise Brooks"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Concours de beauté, publicité et rêves de célébrité comme terreau d'une comédie située au cœur de l'Amérique des années 1920 : à travers la figure déjà fascinante de Louise Brooks dans son premier grand rôle, Tuttle capte l'émergence d'une féminité exposée et médiatisée – avec de véritables extraits de l'élection Miss America –, prisonnière d'un spectacle qui façonne les corps et les images."
+            }
+          ]
+        },
+        {
+          "idSeance": 211016,
+          "ordre": 1,
+          "dateHeure": "2026-09-18T18:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 4193,
+          "idEvenement": 36925,
+          "typeEvenement": 13,
+          "idFilm": 73720,
+          "art": "L'",
+          "titre": "École des mendiants",
+          "artVo": "The",
+          "titreVo": "Street of Forgotten Men",
+          "realisateurs": "Herbert Brenon",
+          "annee": 1925,
+          "pays": "États-Unis",
+          "duree": 75,
+          "version": "VO",
+          "format": "DCP",
+          "generique": [
+            "Percy Marmont",
+            "Mary Brian",
+            "Neil Hamilton"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Dans le quartier du Bowery, un escroc vit de combines et de faux-semblants jusqu'au jour où une jeune femme qu'il a protégée se retrouve menacée. Herbert Brenon ancre son récit dans un décor urbain riche en détails pittoresques et esquisse, derrière les tromperies, une possible rédemption. L'occasion pour Louise Brooks de faire ses débuts en pétillante femme de compagnie."
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 217426,
+          "dateHeure": "2026-09-19T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 60,
+          "idCategorie": 4228,
+          "idEvenement": 36988,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Marion Polirtszok",
+          "duree": 60,
+          "textes": []
         }
       ],
       "textes": []

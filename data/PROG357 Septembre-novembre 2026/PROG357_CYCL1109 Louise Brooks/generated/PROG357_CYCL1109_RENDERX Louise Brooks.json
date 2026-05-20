@@ -10,50 +10,33 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idEvenement": 36549,
+          "idFilm": 73720,
           "content": [
             {
-              "idFilm": 69034,
+              "idFilm": 73720,
               "ordre": 1,
-              "titre": "American Venus",
-              "art": "The",
-              "realisateurs": "Frank Tuttle",
+              "titre": "École des mendiants",
+              "art": "L'",
+              "titreVo": "Street of Forgotten Men",
+              "artVo": "The",
+              "realisateurs": "Herbert Brenon",
               "pays": "États-Unis",
               "annee": 1925,
-              "duree": 8,
-              "version": "",
+              "duree": 75,
+              "version": "VO",
               "format": "DCP",
-              "miniTexte": "Concours de beauté, publicité et rêves de célébrité comme terreau d'une comédie située au cœur de l'Amérique des années 1920 : à travers la figure déjà fascinante de Louise Brooks dans son premier grand rôle, Tuttle capte l'émergence d'une féminité exposée et médiatisée – avec de véritables extraits de l'élection Miss America –, prisonnière d'un spectacle qui façonne les corps et les images."
-            },
-            {
-              "idFilm": 65204,
-              "ordre": 2,
-              "titre": "Now We're in the Air",
-              "realisateurs": "Frank R. Strayer",
-              "pays": "États-Unis",
-              "annee": 1927,
-              "duree": 23,
-              "version": "",
-              "format": "DCP",
-              "miniTexte": "D'espionnage en quiproquos, deux aviateurs maladroits sont entraînés dans la guerre. Porté par le duo comique Wallace Beery et Raymond Hatton, ce troisième volet d'une série de comédies militaires privilégie le burlesque et l'aventure. Louise Brooks y joue deux jumelles espiègles, apportant charme et légèreté à une fantaisie rythmée, ponctuée de spectaculaires scènes aériennes empruntées à _Wings_ de William Wellman."
-            },
-            {
-              "idFilm": 73728,
-              "ordre": 3,
-              "titre": "Just Another Blonde",
-              "realisateurs": "Alfred Santell",
-              "pays": "États-Unis",
-              "annee": 1926,
-              "duree": 32,
-              "version": "",
-              "format": "DCP",
-              "miniTexte": "Un joueur new-yorkais doit séduire la femme qu'il aime pour le compte de son meilleur ami. À Coney Island, le charme sert d'arme, les promesses s'échangent comme des jetons, et les cœurs tombent plus vite que les illusions. Tourné en décors réels, _Just Another Blonde_ transforme la réussite en jeu de dupes vif et insolent, où chacun tente sa chance, quitte à tricher un peu."
+              "generique": [
+                "Percy Marmont",
+                "Mary Brian",
+                "Neil Hamilton"
+              ],
+              "miniTexte": "Dans le quartier du Bowery, un escroc vit de combines et de faux-semblants jusqu'au jour où une jeune femme qu'il a protégée se retrouve menacée. Herbert Brenon ancre son récit dans un décor urbain riche en détails pittoresques et esquisse, derrière les tromperies, une possible rédemption. L'occasion pour Louise Brooks de faire ses débuts en pétillante femme de compagnie."
             }
           ],
           "seances": [
             {
-              "idSeance": 211056,
-              "dateHeure": "2026-09-19T17:30:00",
+              "idSeance": 211016,
+              "dateHeure": "2026-09-18T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -174,7 +157,8 @@
                 "Louise Brooks",
                 "Georges Charlia",
                 "Henri Bandini"
-              ]
+              ],
+              "miniTexte": "Une jeune dactylo (Louise Brooks, lumineuse) remporte un concours de beauté qui attise jalousie et convoitise. Écrit à l'origine par René Clair, puis réalisé par Augusto Genina, _Prix de beauté_ conserve les traces fascinantes de la transition entre muet et parlant au fil d'un étrange assemblage de silences, de voix et de modernité mélancolique."
             }
           ],
           "seances": [
@@ -183,30 +167,6 @@
               "dateHeure": "2026-09-17T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
-            }
-          ]
-        },
-        {
-          "idFilm": 73720,
-          "content": [
-            {
-              "idFilm": 73720,
-              "ordre": 1,
-              "titre": "Street of Forgotten Men",
-              "art": "The",
-              "realisateurs": "Herbert Brenon",
-              "pays": "États-Unis",
-              "annee": 1925,
-              "duree": 75,
-              "version": "VO",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 211016,
-              "dateHeure": "2026-09-18T19:30:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -224,16 +184,19 @@
               "duree": 70,
               "version": "VO",
               "format": "35 mm",
+              "adaptation": "D'après la pièce _The Comic Supplement_ de J. P. McEvoy et W. C. Fields.",
               "generique": [
                 "W. C. Fields",
-                "Louise Brooks"
-              ]
+                "Louise Brooks",
+                "Blanche Ring"
+              ],
+              "miniTexte": "Un pharmacien voit son quotidien virer au chaos face à une galerie de clients envahissants et d'escrocs de passage. Hérité des numéros de W. C. Fields, un récit plein de malice aux gags et autres situations absurdes, illuminé par la présence singulière de Louise Brooks. Un tourbillon burlesque aussi désordonné que jubilatoire."
             }
           ],
           "seances": [
             {
               "idSeance": 211017,
-              "dateHeure": "2026-09-18T21:30:00",
+              "dateHeure": "2026-09-18T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -268,9 +231,104 @@
               "idSalle": "GF"
             }
           ]
+        },
+        {
+          "idEvenement": 36549,
+          "content": [
+            {
+              "idFilm": 69034,
+              "ordre": 1,
+              "titre": "Vénus moderne",
+              "titreVo": "American Venus",
+              "artVo": "The",
+              "realisateurs": "Frank Tuttle",
+              "pays": "États-Unis",
+              "annee": 1925,
+              "duree": 8,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Esther Ralston",
+                "Lawrence Gray",
+                "Louise Brooks"
+              ],
+              "miniTexte": "Concours de beauté, publicité et rêves de célébrité comme terreau d'une comédie située au cœur de l'Amérique des années 1920 : à travers la figure déjà fascinante de Louise Brooks dans son premier grand rôle, Tuttle capte l'émergence d'une féminité exposée et médiatisée – avec de véritables extraits de l'élection Miss America –, prisonnière d'un spectacle qui façonne les corps et les images."
+            },
+            {
+              "idFilm": 65204,
+              "ordre": 2,
+              "titre": "Now We're in the Air",
+              "realisateurs": "Frank R. Strayer",
+              "pays": "États-Unis",
+              "annee": 1927,
+              "duree": 23,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Louise Brooks",
+                "Wallace Beery",
+                "Raymond Hatton"
+              ],
+              "miniTexte": "D'espionnage en quiproquos, deux aviateurs maladroits sont entraînés dans la guerre. Porté par le duo comique Wallace Beery et Raymond Hatton, ce troisième volet d'une série de comédies militaires privilégie le burlesque et l'aventure. Louise Brooks y joue deux jumelles espiègles, apportant charme et légèreté à une fantaisie rythmée, ponctuée de spectaculaires scènes aériennes empruntées à _Wings_ de William Wellman."
+            },
+            {
+              "idFilm": 73728,
+              "ordre": 3,
+              "titre": "Just Another Blonde",
+              "realisateurs": "Alfred Santell",
+              "pays": "États-Unis",
+              "annee": 1926,
+              "duree": 32,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Dorothy Mackaill",
+                "Jack Mulhall",
+                "Louise Brooks"
+              ],
+              "miniTexte": "Un joueur new-yorkais doit séduire la femme qu'il aime pour le compte de son meilleur ami. À Coney Island, le charme sert d'arme, les promesses s'échangent comme des jetons, et les cœurs tombent plus vite que les illusions. Tourné en décors réels, _Just Another Blonde_ transforme la réussite en jeu de dupes vif et insolent, où chacun tente sa chance, quitte à tricher un peu."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211056,
+              "dateHeure": "2026-09-19T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 36988,
+          "content": [
+            {
+              "idConf": 36988,
+              "titre": "Dialogue avec Marion Polirtszok",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217426,
+              "dateHeure": "2026-09-19T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séance avec dialogue": [
+      {
+        "mention": "avec Marion Polirtszok",
+        "dateHeure": "2026-09-19T16:30:00"
+      }
+    ]
+  }
 }

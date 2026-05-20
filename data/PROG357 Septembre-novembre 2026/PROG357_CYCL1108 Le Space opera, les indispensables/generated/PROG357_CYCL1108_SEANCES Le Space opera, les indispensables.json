@@ -36,9 +36,32 @@
   {
     "idCategorie": 4190,
     "typeEvenement": 13,
+    "idEvenement": 36509,
+    "idSeance": 217459,
+    "dateHeure": "2026-10-02T18:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 128190,
+        "ordre": 1,
+        "idSeance": 217459,
+        "idCopie": 31874,
+        "duree": 144,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4190,
+    "typeEvenement": 13,
     "idEvenement": 36491,
     "idSeance": 217356,
-    "dateHeure": "2026-10-02T19:00:00",
+    "dateHeure": "2026-10-02T21:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -118,32 +141,32 @@
         "idFilm": 33962,
         "ordre": 1,
         "idSeance": 217355,
-        "idCopie": 31884,
+        "idCopie": 10245,
         "duree": 193,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "70 mm"
       }
     ]
   },
   {
     "idCategorie": 4190,
     "typeEvenement": 13,
-    "idEvenement": 36508,
-    "idSeance": 211393,
-    "dateHeure": "2026-10-04T14:30:00",
+    "idEvenement": 36863,
+    "idSeance": 217456,
+    "dateHeure": "2026-10-04T15:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 195,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 124931,
+        "idFilm": 105028,
         "ordre": 1,
-        "idSeance": 211393,
-        "idCopie": 31873,
-        "duree": 169,
-        "version": "VOSTF",
+        "idSeance": 217456,
+        "idCopie": 13333,
+        "duree": 103,
+        "version": "VF",
         "format": "DCP"
       }
     ]
@@ -174,21 +197,21 @@
   {
     "idCategorie": 4190,
     "typeEvenement": 13,
-    "idEvenement": 36509,
-    "idSeance": 211395,
+    "idEvenement": 36508,
+    "idSeance": 217458,
     "dateHeure": "2026-10-04T20:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 180,
+    "dureeSeance": 195,
     "items": [
       {
-        "idFilm": 128190,
+        "idFilm": 124931,
         "ordre": 1,
-        "idSeance": 211395,
-        "idCopie": 31874,
-        "duree": 144,
+        "idSeance": 217458,
+        "idCopie": 31873,
+        "duree": 169,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -336,47 +359,48 @@
   {
     "idCategorie": 4190,
     "typeEvenement": 13,
-    "idEvenement": 36486,
-    "idSeance": 211543,
-    "dateHeure": "2026-10-10T15:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 44229,
-        "ordre": 1,
-        "idSeance": 211543,
-        "idCopie": 23251,
-        "duree": 103,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4190,
-    "typeEvenement": 13,
-    "idEvenement": 36497,
-    "idSeance": 217385,
-    "dateHeure": "2026-10-10T18:00:00",
+    "idEvenement": 36493,
+    "idSeance": 217452,
+    "dateHeure": "2026-10-10T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 195,
     "items": [
       {
-        "idFilm": 62095,
+        "idFilm": 52565,
         "ordre": 1,
-        "idSeance": 217385,
-        "idCopie": 31878,
-        "duree": 116,
+        "idSeance": 217452,
+        "idCopie": 21868,
+        "duree": 15,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 54223,
+        "ordre": 2,
+        "idSeance": 217452,
+        "idCopie": 10925,
+        "duree": 149,
         "version": "VOSTF",
         "format": "70 mm"
       }
+    ]
+  },
+  {
+    "idCategorie": 4230,
+    "typeEvenement": 14,
+    "idEvenement": 36990,
+    "idSeance": 217469,
+    "dateHeure": "2026-10-10T17:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "items": [
+      {}
     ]
   },
   {
@@ -384,7 +408,7 @@
     "typeEvenement": 13,
     "idEvenement": 36506,
     "idSeance": 211541,
-    "dateHeure": "2026-10-10T20:30:00",
+    "dateHeure": "2026-10-10T18:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -399,6 +423,29 @@
         "duree": 91,
         "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4190,
+    "typeEvenement": 13,
+    "idEvenement": 36497,
+    "idSeance": 217453,
+    "dateHeure": "2026-10-10T20:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 62095,
+        "ordre": 1,
+        "idSeance": 217453,
+        "idCopie": 31878,
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "70 mm"
       }
     ]
   },
@@ -603,7 +650,7 @@
         "ordre": 1,
         "idSeance": 211670,
         "idCopie": 31869,
-        "duree": 91,
+        "duree": 92,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -635,9 +682,32 @@
   {
     "idCategorie": 4190,
     "typeEvenement": 13,
+    "idEvenement": 36512,
+    "idSeance": 217455,
+    "dateHeure": "2026-10-18T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 143368,
+        "ordre": 1,
+        "idSeance": 217455,
+        "idCopie": 23450,
+        "duree": 106,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4190,
+    "typeEvenement": 13,
     "idEvenement": 36483,
     "idSeance": 211725,
-    "dateHeure": "2026-10-18T17:30:00",
+    "dateHeure": "2026-10-18T20:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -653,6 +723,29 @@
         "version": "INT. FR.",
         "format": "DCP",
         "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4190,
+    "typeEvenement": 13,
+    "idEvenement": 36486,
+    "idSeance": 211735,
+    "dateHeure": "2026-10-19T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 44229,
+        "ordre": 1,
+        "idSeance": 211735,
+        "idCopie": 23251,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   }

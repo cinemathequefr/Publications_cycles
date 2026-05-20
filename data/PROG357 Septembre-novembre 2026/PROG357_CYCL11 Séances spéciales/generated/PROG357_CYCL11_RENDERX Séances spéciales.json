@@ -3,6 +3,29 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 36991,
+          "content": [
+            {
+              "idConf": 36991,
+              "titre": "Table Ronde François Mitterrand",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217470,
+              "dateHeure": "2026-10-12T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "François Mitterrand et le cinéma",
       "items": [
         {
@@ -52,7 +75,7 @@
               "realisateurs": "Friedrich Wilhelm Murnau",
               "pays": "Allemagne",
               "annee": 1926,
-              "duree": 108,
+              "duree": 110,
               "version": "INT. FR.",
               "format": "DCP",
               "restauration": true,
@@ -75,5 +98,12 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séance avec dialogue": [
+      {
+        "mention": "Table Ronde François Mitterrand",
+        "dateHeure": "2026-10-12T19:00:00"
+      }
+    ]
+  }
 }

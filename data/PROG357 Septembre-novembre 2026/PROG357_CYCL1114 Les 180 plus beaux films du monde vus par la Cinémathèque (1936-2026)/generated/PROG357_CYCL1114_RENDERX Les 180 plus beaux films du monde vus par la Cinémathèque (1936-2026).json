@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2026-09-17T18:30:00",
-    "2026-09-20T19:30:00"
+    "2026-09-16T20:00:00",
+    "2026-09-24T20:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -32,6 +32,36 @@
           ]
         },
         {
+          "idFilm": 36846,
+          "content": [
+            {
+              "idFilm": 36846,
+              "ordre": 1,
+              "titre": "Assurance sur la mort",
+              "titreVo": "Double Indemnity",
+              "realisateurs": "Billy Wilder",
+              "pays": "États-Unis",
+              "annee": 1944,
+              "duree": 104,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Double Indemnity_ de James M. Cain.",
+              "generique": [
+                "Barbara Stanwyck",
+                "Fred MacMurray",
+                "Edward G. Robinson"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211111,
+              "dateHeure": "2026-09-23T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 70817,
           "content": [
             {
@@ -42,6 +72,9 @@
               "realisateurs": "Boris Barnet",
               "pays": "URSS",
               "annee": 1936,
+              "duree": 70,
+              "version": "VO",
+              "format": "35 mm",
               "generique": [
                 "Lev Sverdline",
                 "Nikolay Kryuchkov",
@@ -60,6 +93,70 @@
           ]
         },
         {
+          "idFilm": 47711,
+          "content": [
+            {
+              "idFilm": 47711,
+              "ordre": 1,
+              "titre": "Belle et la Bête",
+              "art": "La",
+              "realisateurs": "Jean Cocteau",
+              "pays": "France",
+              "annee": 1946,
+              "duree": 100,
+              "version": "",
+              "format": "35 mm",
+              "ageMinimal": 6,
+              "adaptation": "D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.",
+              "generique": [
+                "Josette Day",
+                "Jean Marais",
+                "Michel Auclair"
+              ],
+              "isFocus": true,
+              "miniTexte": "Cocteau sort exsangue du tournage épique, Jean Marais a souffert mille tortures sous son maquillage de Bête. Le conte cruel de M<sup>me</sup> Leprince de Beaumont prend corps dans les décors féeriques de Christian Bérard, sous les lumières du génial Henri Alekan, convoque Vermeer et les gravures de Gustave Doré, séduit par ses trucages artisanaux. Des bras tiennent des chandeliers, des voilages dansent dans une brise invisible, Josette Day, la Belle, semble glisser sur le sol. Et Cocteau, cinéaste-poète, tisse, dans une atmosphère qui tient du merveilleux et du surréalisme, un chef-d'œuvre enchanteur, le fameux « ruban de rêves » qui éblouissait Orson Welles."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211142,
+              "dateHeure": "2026-09-24T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 34162,
+          "content": [
+            {
+              "idFilm": 34162,
+              "ordre": 1,
+              "titre": "Bourreaux meurent aussi",
+              "art": "Les",
+              "titreVo": "Hangmen Also Die!",
+              "realisateurs": "Fritz Lang",
+              "pays": "États-Unis",
+              "annee": 1943,
+              "duree": 136,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Hans Heinz von Twardowski",
+                "Brian Donlevy",
+                "Walter Brennan",
+                "Anna Lee"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217402,
+              "dateHeure": "2026-09-20T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 31336,
           "content": [
             {
@@ -72,6 +169,9 @@
               "realisateurs": "Charles Chaplin",
               "pays": "États-Unis",
               "annee": 1940,
+              "duree": 124,
+              "version": "VOSTF",
+              "format": "DCP",
               "ageMinimal": 10,
               "generique": [
                 "Charles Chaplin",
@@ -97,7 +197,10 @@
               "titre": "Dumbo",
               "realisateurs": "Ben Sharpsteen, Norman Ferguson, Wilfred Jackson",
               "pays": "États-Unis",
-              "annee": 1941
+              "annee": 1941,
+              "duree": 64,
+              "version": "",
+              "format": ""
             }
           ],
           "seances": [
@@ -105,6 +208,31 @@
               "idSeance": 217396,
               "dateHeure": "2026-09-19T14:30:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 50009,
+          "content": [
+            {
+              "idFilm": 50009,
+              "ordre": 1,
+              "titre": "Espoir",
+              "titreVo": "Sierra de Teruel",
+              "realisateurs": "André Malraux",
+              "pays": "France-Espagne",
+              "annee": 1939,
+              "duree": 90,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 210947,
+              "dateHeure": "2026-09-16T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
             }
           ]
         },
@@ -118,6 +246,10 @@
               "realisateurs": "Sacha Guitry",
               "pays": "France",
               "annee": 1936,
+              "duree": 80,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
               "adaptation": "D'après la pièce _Faisons un rêve_ de Sacha Guitry.",
               "generique": [
                 "Sacha Guitry",
@@ -137,6 +269,60 @@
           ]
         },
         {
+          "idFilm": 51024,
+          "content": [
+            {
+              "idFilm": 51024,
+              "ordre": 1,
+              "titre": "Farrebique",
+              "realisateurs": "Georges Rouquier",
+              "pays": "France",
+              "annee": 1946,
+              "duree": 90,
+              "version": "VOSTF",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217404,
+              "dateHeure": "2026-09-24T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 59489,
+          "content": [
+            {
+              "idFilm": 59489,
+              "ordre": 1,
+              "titre": "Féline",
+              "art": "La",
+              "titreVo": "Cat People",
+              "realisateurs": "Jacques Tourneur",
+              "pays": "États-Unis",
+              "annee": 1942,
+              "duree": 73,
+              "version": "VO",
+              "format": "35 mm",
+              "generique": [
+                "Simone Simon",
+                "Kent Smith",
+                "Tom Conway"
+              ],
+              "miniTexte": "Une jeune femme est convaincue d'être victime d'une malédiction ancestrale, qui la transforme en panthère sanguinaire. De la brume, des métamorphoses, l'eau trouble d'une piscine, des cages et des barreaux : Tourneur peint l'ombre avec la lumière, file les métaphores et livre en creux un point de vue bouleversant sur la sexualité et le désir féminins. L'épouvante par le versant surnaturel et poétique."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217401,
+              "dateHeure": "2026-09-19T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 50488,
           "content": [
             {
@@ -147,6 +333,9 @@
               "realisateurs": "Marcel Pagnol",
               "pays": "France",
               "annee": 1938,
+              "duree": 133,
+              "version": "",
+              "format": "DCP",
               "adaptation": "D'après un épisode de _Jean le Bleu_ de Jean Giono.",
               "generique": [
                 "Raimu",
@@ -159,9 +348,9 @@
           ],
           "seances": [
             {
-              "idSeance": 211053,
-              "dateHeure": "2026-09-19T21:00:00",
-              "idSalle": "HL"
+              "idSeance": 217400,
+              "dateHeure": "2026-09-17T16:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -175,6 +364,9 @@
               "realisateurs": "Jean Grémillon",
               "pays": "France-Allemagne",
               "annee": 1937,
+              "duree": 94,
+              "version": "",
+              "format": "35 mm",
               "generique": [
                 "Jean Gabin",
                 "Mireille Balin",
@@ -191,6 +383,59 @@
           ]
         },
         {
+          "idFilm": 53332,
+          "content": [
+            {
+              "idFilm": 53332,
+              "ordre": 1,
+              "titre": "Ivan le Terrible",
+              "titreVo": "Ivan Grozny",
+              "realisateurs": "Sergueï M. Eisenstein",
+              "pays": "URSS",
+              "annee": 1944,
+              "duree": 190,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Nikolaï Tcherkassov",
+                "Lioudmila Tselikovskaïa",
+                "Serafima Birman"
+              ],
+              "miniTexte": "1547, le Grand Duc de Moscovie est couronné Tsar de toutes les Russies. Ivan débute son règne dans une atmosphère trouble, semée de complots et de jalousie. Conçu à l'origine comme une trilogie, l'ultime œuvre d'Eisenstein conjugue architecture, peinture, sculpture, musique et danse. Véritable somme artistique, chargée de symboles, où se déploie une réflexion sur le pouvoir, d'une puissance visuelle sans égale."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211110,
+              "dateHeure": "2026-09-23T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 62687,
+          "content": [
+            {
+              "idFilm": 62687,
+              "ordre": 1,
+              "titre": "Meshes of the Afternoon",
+              "realisateurs": "Maya Deren, Alexander Hackenschmied",
+              "pays": "États-Unis",
+              "annee": 1943,
+              "duree": 14,
+              "version": "",
+              "format": "Numérique"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211109,
+              "dateHeure": "2026-09-23T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 48687,
           "content": [
             {
@@ -200,6 +445,9 @@
               "realisateurs": "Abel Gance",
               "pays": "France",
               "annee": 1940,
+              "duree": 90,
+              "version": "",
+              "format": "DCP",
               "generique": [
                 "Fernand Gravey",
                 "Elvire Popesco",
@@ -211,9 +459,9 @@
           ],
           "seances": [
             {
-              "idSeance": 211070,
-              "dateHeure": "2026-09-20T19:30:00",
-              "idSalle": "HL"
+              "idSeance": 217403,
+              "dateHeure": "2026-09-21T18:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -228,6 +476,9 @@
               "realisateurs": "Jean Renoir",
               "pays": "France",
               "annee": 1939,
+              "duree": 106,
+              "version": "",
+              "format": "DCP",
               "generique": [
                 "Marcel Dalio",
                 "Nora Gregor",
@@ -246,6 +497,97 @@
           ]
         },
         {
+          "idFilm": 41995,
+          "content": [
+            {
+              "idFilm": 41995,
+              "ordre": 1,
+              "titre": "Rome, ville ouverte",
+              "titreVo": "Roma città aperta",
+              "realisateurs": "Roberto Rossellini",
+              "pays": "Italie",
+              "annee": 1945,
+              "duree": 101,
+              "version": "VO",
+              "format": "35 mm",
+              "generique": [
+                "Aldo Fabrizi",
+                "Anna Magnani",
+                "Marcello Pagliero"
+              ],
+              "isFocus": true,
+              "miniTexte": "Le Grand Prix du Festival de Cannes 1946, considéré comme le premier film néoréaliste du cinéma italien. Dans cette peinture sociale et politique du pays, Rossellini débute sa trilogie de la guerre avec le combat pour la liberté d'un peuple opprimé. À travers les aventures quotidiennes d'un groupe d'Italiens sous l'occupation nazie, il s'inspire d'histoires vraies pour construire un scénario tourné grâce à quelques pellicules de photographies accolées. Un véritable hommage aux martyrs, de l'esprit de résistance au renoncement, qui a lancé la carrière d'Anna Magnani."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211143,
+              "dateHeure": "2026-09-24T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 45787,
+          "content": [
+            {
+              "idFilm": 45787,
+              "ordre": 1,
+              "titre": "Shanghai Gesture",
+              "art": "The",
+              "realisateurs": "Josef von Sternberg",
+              "pays": "États-Unis",
+              "annee": 1941,
+              "duree": 99,
+              "version": "VO",
+              "format": "35 mm",
+              "adaptation": "D'après la pièce _The Shanghai Gesture_ de John Colton.",
+              "generique": [
+                "Gene Tierney",
+                "Walter Huston",
+                "Victor Mature"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217399,
+              "dateHeure": "2026-09-18T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 34625,
+          "content": [
+            {
+              "idFilm": 34625,
+              "ordre": 1,
+              "titre": "To Be Or Not to Be",
+              "realisateurs": "Ernst Lubitsch",
+              "pays": "États-Unis",
+              "annee": 1942,
+              "duree": 99,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Carole Lombard",
+                "Jack Benny",
+                "Robert Stack"
+              ],
+              "isFocus": true,
+              "miniTexte": "Pendant l'invasion de la Pologne par l'Allemagne, une troupe d'acteurs se retrouve engagée dans de périlleuses actions de résistance, où les talents de comédiens de chacun permettent de déjouer les plans nazis. Persuadé que l'on peut rire de tout, Lubitsch utilise le théâtre comme une arme burlesque pour composer une satire au suspense haletant, qui associe dialogues incisifs et caricature implacable. Dans la lignée du _Dictateur_, une joyeuse charge antinazie, aux multiples jeux de dupes et autres quiproquos irrésistibles."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211083,
+              "dateHeure": "2026-09-21T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 56960,
           "content": [
             {
@@ -256,6 +598,9 @@
               "realisateurs": "George Cukor",
               "pays": "États-Unis",
               "annee": 1938,
+              "duree": 96,
+              "version": "VOSTF",
+              "format": "35 mm",
               "adaptation": "D'après la pièce _Vacances_ de Philip Barry.",
               "generique": [
                 "Katharine Hepburn",
@@ -269,7 +614,7 @@
           "seances": [
             {
               "idSeance": 211052,
-              "dateHeure": "2026-09-19T19:00:00",
+              "dateHeure": "2026-09-19T17:00:00",
               "idSalle": "HL"
             }
           ]

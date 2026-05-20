@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-10-07T20:00:00",
-    "2026-10-11T14:30:00"
+    "2026-11-21T16:45:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -19,6 +19,10 @@
               "realisateurs": "Jean-Luc Godard",
               "pays": "France",
               "annee": 1960,
+              "duree": 90,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
               "generique": [
                 "Jean-Paul Belmondo",
                 "Jean Seberg",
@@ -34,6 +38,11 @@
               "dateHeure": "2026-10-07T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "idSeance": 217475,
+              "dateHeure": "2026-10-15T19:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -66,34 +75,60 @@
               "idSalle": "HL"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
         {
-          "idFilm": 51129,
+          "idConf": 36992,
           "content": [
             {
-              "idFilm": 51129,
-              "ordre": 1,
-              "titre": "Classe tous risques",
-              "realisateurs": "Claude Sautet",
-              "pays": "France-Italie",
-              "annee": 1959,
-              "duree": 104,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Classe tous risques_ de José Giovanni.",
-              "generique": [
-                "Lino Ventura",
-                "Jean-Paul Belmondo",
-                "Sandra Milo",
-                "Marcel Dalio"
-              ],
-              "miniTexte": "À Milan, un gangster, bon père de famille, tente de regagner Paris avec l'aide d'un protecteur désigné, alors qu'une condamnation à mort pèse sur lui. Les débuts de Claude Sautet, marqués par la veine noire américaine, constituent l'un des moments forts du cinéma français des années 60, en plein avènement de la Nouvelle Vague."
+              "idConf": 36992,
+              "titre": "Table Ronde Belmondo",
+              "typeConference": "Dialogue"
             }
           ],
           "seances": [
             {
-              "idSeance": 211539,
-              "dateHeure": "2026-10-10T14:30:00",
+              "idSeance": 217431,
+              "dateHeure": "2026-10-18T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 36993,
+          "content": [
+            {
+              "idConf": 36993,
+              "titre": "Dialogue avec Stéphane Lerouge",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217440,
+              "dateHeure": "2026-11-07T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 36994,
+          "content": [
+            {
+              "idConf": 36994,
+              "titre": "Dialogue avec Alain Bergala",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217477,
+              "dateHeure": "2026-11-21T16:45:00",
               "idSalle": "HL"
             }
           ]
@@ -101,5 +136,20 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances avec dialogue": [
+      {
+        "mention": "Table Ronde Belmondo",
+        "dateHeure": "2026-10-18T16:30:00"
+      },
+      {
+        "mention": "avec Stéphane Lerouge",
+        "dateHeure": "2026-11-07T16:30:00"
+      },
+      {
+        "mention": "avec Alain Bergala",
+        "dateHeure": "2026-11-21T16:45:00"
+      }
+    ]
+  }
 }

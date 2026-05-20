@@ -1,10 +1,10 @@
 [
   {
     "idFilm": 78657,
-    "titre": "Ananas = La Culture des Ananas",
+    "titre": "Ananas",
     "art": "Les",
     "realisateurs": "Louis Feuillade",
-    "annee": 1912,
+    "annee": 1913,
     "pays": "France",
     "generique": [
       "Clément Mary",
@@ -115,28 +115,36 @@
   },
   {
     "idFilm": 52530,
-    "titre": "Repas de bébé = Le Déjeuner de bébé = Le Goûter de bébé",
+    "titre": "Repas de bébé",
+    "art": "Le",
     "realisateurs": "Louis Lumière",
     "annee": 1895,
     "pays": "France",
+    "ageMinimal": 3,
     "textes": []
   },
   {
     "idFilm": 52668,
-    "titre": "Repas en famille = Vues japonaises",
-    "realisateurs": "Opérateurs Lumière",
+    "titre": "Repas en famille",
+    "realisateurs": "Constant Girel",
     "annee": 1897,
     "pays": "France",
-    "textes": []
+    "textes": [
+      {
+        "typeTexte": 1000,
+        "texte": "Vue Lumière n° 734, enregistrée à Kyōto : une famille japonaise prend le thé."
+      }
+    ]
   },
   {
     "idFilm": 108635,
     "titre": "Un dessert pour Constance",
     "realisateurs": "Sarah Maldoror",
-    "annee": 1979,
+    "annee": 1981,
     "pays": "France",
     "generique": [
-      "Sidiki Bakaba"
+      "Sidiki Bakaba",
+      "Cheik Doukouré"
     ],
     "textes": []
   },
