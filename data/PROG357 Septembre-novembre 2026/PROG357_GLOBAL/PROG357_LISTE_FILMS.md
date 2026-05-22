@@ -17,7 +17,7 @@
   * Au carrefour des âges, le Liban  
   * Baalbeck  
   * Beyrouth, ô Beyrouth  
-  * Charcuterie mécanique = Charcuterie américaine  
+  * Charcuterie mécanique  
   * Détresse et charité  
   * Halles (Les)  
   * Je ne veux plus de cuisinière  
