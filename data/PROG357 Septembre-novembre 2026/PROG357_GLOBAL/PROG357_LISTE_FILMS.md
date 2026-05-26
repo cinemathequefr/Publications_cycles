@@ -12,6 +12,22 @@
   * Peuple des abîmes (Le)  
   * Soldat qui déclara la paix (Le)
 
+## Damien Odoul (13)
+
+  * À l'ouest de l'Orient  
+  * Anima  
+  * Barbots (Les)  
+  * Cet enfant-là  
+  * Douce (La)  
+  * Elegeia  
+  * Joug (Le)  
+  * Magik  
+  * Réminiscences  
+  * Sans monde  
+  * Souffle (Le)  
+  * Théo et les métamorphoses  
+  * TOB (Tête d'œuf bouilli)
+
 ## Fenêtre sur les collections (17)
 
   * Ananas (Les)  
@@ -32,14 +48,15 @@
   * Ventre du magasin (Le)  
   * West Beyrouth (bande-annonce)
 
-## Hans-Jürgen Syberberg (2)
+## Jean-Paul Belmondo (3)
 
-  * Hitler, un film d'Allemagne  
-  * Ludwig, requiem pour un roi vierge
+  * Cartouche  
+  * Magnifique (Le)  
+  * Pierrot le fou
 
-## Jean-Paul Belmondo (1)
+## La Cinémathèque française, une histoire au féminin pluriel (1)
 
-  * Cartouche
+  * Fanchon le criquet
 
 ## Le Space opera, les indispensables (31)
 
@@ -75,7 +92,7 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (28)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (26)
 
   * Anges du boulevard (Les)  
   * Assurance sur la mort  
@@ -86,12 +103,10 @@
   * Démon des armes (Le)  
   * Dictateur (Le)  
   * Dumbo  
-  * Enfants de la ruche (Les)  
   * Faisons un rêve  
   * Farrebique  
   * Féline (La)  
   * Femme du boulanger (La)  
-  * Ivan le Terrible  
   * J'ai vécu l'enfer de Corée  
   * Meshes of the Afternoon  
   * Narcisse noir (Le)  
@@ -106,20 +121,27 @@
   * Vacances  
   * Voleur de bicyclette (Le)
 
-## Louise Brooks (10)
+## Louise Brooks (13)
 
   * École des mendiants (L')  
   * Journal d'une fille perdue (Le)  
   * Just Another Blonde  
   * Loulou  
   * Mendiants de la vie (Les)  
+  * Meurtre du canari (Le)  
+  * Moi  
   * Now We're in the Air  
   * Prix de beauté  
   * Un conte d'apothicaire  
   * Une fille dans chaque port  
-  * Vénus moderne
+  * Vénus moderne  
+  * Windy Riley Goes to Hollywood
 
 ## Séances spéciales (2)
 
   * Faust  
-  * Promeneur du Champ-de-Mars (Le)  
+  * Promeneur du Champ-de-Mars (Le)
+
+## Tai Katō (1)
+
+  * Requiem pour un génocide  

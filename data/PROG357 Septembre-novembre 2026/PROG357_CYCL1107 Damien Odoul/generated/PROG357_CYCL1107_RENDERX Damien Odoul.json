@@ -1,10 +1,216 @@
 {
   "datesCycle": [
-    "2026-10-24T16:30:00",
-    "2026-10-24T16:30:00"
+    "2026-10-21T20:00:00",
+    "2026-10-25T15:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 76245,
+          "content": [
+            {
+              "idFilm": 76245,
+              "ordre": 1,
+              "titre": "Souffle",
+              "art": "Le",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 2000,
+              "duree": 77,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Pierre-Louis Bonnetblanc",
+                "Dominique Chevallier",
+                "Maxime Dalbrut"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211869,
+              "dateHeure": "2026-10-24T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 152365,
+          "content": [
+            {
+              "idFilm": 152365,
+              "ordre": 1,
+              "titre": "Théo et les métamorphoses",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 2019,
+              "duree": 96,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211762,
+              "dateHeure": "2026-10-21T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Courts métrages",
+      "items": [
+        {
+          "idEvenement": 36464,
+          "content": [
+            {
+              "idFilm": 76264,
+              "ordre": 1,
+              "titre": "Douce",
+              "art": "La",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 1988,
+              "duree": 13,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Pascal Pagnat",
+                "Jean Fuentes"
+              ]
+            },
+            {
+              "idFilm": 76266,
+              "ordre": 2,
+              "titre": "À l'ouest de l'Orient",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 1990,
+              "duree": 17,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 76267,
+              "ordre": 3,
+              "titre": "TOB (Tête d'œuf bouilli)",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 1994,
+              "duree": 15,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Juan Fuentes",
+                "Valérie Allain"
+              ]
+            },
+            {
+              "idFilm": 76268,
+              "ordre": 4,
+              "titre": "Elegeia",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 1995
+            },
+            {
+              "idFilm": 76271,
+              "ordre": 5,
+              "titre": "Barbots",
+              "art": "Les",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 1995,
+              "duree": 33,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 76269,
+              "ordre": 6,
+              "titre": "Sans monde",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 2000,
+              "duree": 3,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 76270,
+              "ordre": 7,
+              "titre": "Magik",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 2001,
+              "duree": 4,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 155863,
+              "ordre": 8,
+              "titre": "Joug",
+              "art": "Le",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 2002,
+              "duree": 0,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 155864,
+              "ordre": 9,
+              "titre": "Réminiscences",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 2003,
+              "duree": 5,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 155866,
+              "ordre": 10,
+              "titre": "Anima",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 2006,
+              "duree": 2,
+              "version": "",
+              "format": "Numérique"
+            },
+            {
+              "idFilm": 155865,
+              "ordre": 11,
+              "titre": "Cet enfant-là",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 11,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211886,
+              "dateHeure": "2026-10-25T15:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
     {
       "tri": 4,
       "titreSousCycle": "Rencontres et conférences",

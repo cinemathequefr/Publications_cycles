@@ -363,9 +363,9 @@
     "hashEvenement": "f56960"
   },
   {
-    "idSeance": 211056,
-    "idEvenement": 36549,
-    "dateHeure": "2026-09-19T17:30:00",
+    "idSeance": 217524,
+    "idEvenement": 36546,
+    "dateHeure": "2026-09-19T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -375,31 +375,17 @@
     ],
     "items": [
       {
-        "idFilm": 69034,
-        "titre": "Vénus moderne",
-        "realisateurs": "Frank Tuttle",
-        "annee": 1925,
+        "idFilm": 36843,
+        "titre": "Mendiants de la vie",
+        "art": "Les",
+        "realisateurs": "William A. Wellman",
+        "annee": 1928,
+        "duree": 82,
         "version": "INT. FR.",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 65204,
-        "titre": "Now We're in the Air",
-        "realisateurs": "Frank R. Strayer",
-        "annee": 1927,
-        "duree": 23,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 73728,
-        "titre": "Just Another Blonde",
-        "realisateurs": "Alfred Santell",
-        "annee": 1926,
-        "duree": 32,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f69034f65204f73728"
+    "hashEvenement": "f36843"
   },
   {
     "idSeance": 217508,
@@ -429,7 +415,7 @@
   {
     "idSeance": 211055,
     "idEvenement": 36545,
-    "dateHeure": "2026-09-19T19:30:00",
+    "dateHeure": "2026-09-19T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -551,8 +537,8 @@
     "hashEvenement": "f34162"
   },
   {
-    "idSeance": 211074,
-    "idEvenement": 36546,
+    "idSeance": 217525,
+    "idEvenement": 36550,
     "dateHeure": "2026-09-20T20:00:00",
     "salle": "GF",
     "cycle": [
@@ -563,22 +549,30 @@
     ],
     "items": [
       {
-        "idFilm": 36843,
-        "titre": "Mendiants de la vie",
-        "art": "Les",
-        "realisateurs": "William A. Wellman",
-        "annee": 1928,
+        "idFilm": 73746,
+        "titre": "Windy Riley Goes to Hollywood",
+        "realisateurs": "Roscoe Arbuckle",
+        "annee": 1930,
+        "duree": 18,
+        "version": "VO"
+      },
+      {
+        "idFilm": 63583,
+        "titre": "Meurtre du canari",
+        "art": "Le",
+        "realisateurs": "Malcolm St. Clair, Frank Tuttle",
+        "annee": 1929,
         "duree": 82,
-        "version": "INT. FR.",
-        "format": "DCP"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f36843"
+    "hashEvenement": "f73746f63583"
   },
   {
     "idSeance": 217512,
     "idEvenement": 36775,
-    "dateHeure": "2026-09-21T18:00:00",
+    "dateHeure": "2026-09-21T15:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -601,7 +595,7 @@
   {
     "idSeance": 217513,
     "idEvenement": 36686,
-    "dateHeure": "2026-09-21T20:00:00",
+    "dateHeure": "2026-09-21T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -646,11 +640,15 @@
     "hashEvenement": "f62687"
   },
   {
-    "idSeance": 217514,
-    "idEvenement": 36688,
+    "idSeance": 217528,
+    "idEvenement": 36681,
     "dateHeure": "2026-09-23T20:00:00",
     "salle": "HL",
     "cycle": [
+      [
+        "Ciné-club de Murielle Joudet",
+        "Les films"
+      ],
       [
         "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
         "Les films"
@@ -658,16 +656,35 @@
     ],
     "items": [
       {
-        "idFilm": 53332,
-        "titre": "Ivan le Terrible",
-        "realisateurs": "Sergueï M. Eisenstein",
-        "annee": 1944,
-        "duree": 190,
-        "version": "VOSTF",
+        "idFilm": 48989,
+        "titre": "Gueule d'amour",
+        "realisateurs": "Jean Grémillon",
+        "annee": 1937,
+        "duree": 94,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f53332"
+    "hashEvenement": "f48989"
+  },
+  {
+    "idSeance": 217427,
+    "idEvenement": 37002,
+    "dateHeure": "2026-09-23T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37002,
+        "titre": "Dialogue avec Murielle Joudet",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "c37002"
   },
   {
     "idSeance": 217517,
@@ -718,31 +735,67 @@
     "hashEvenement": "f36846"
   },
   {
-    "idSeance": 217496,
-    "idEvenement": 36681,
-    "dateHeure": "2026-09-24T19:00:00",
+    "idSeance": 217526,
+    "idEvenement": 37017,
+    "dateHeure": "2026-09-24T18:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Ciné-club de Murielle Joudet",
-        "Les films"
-      ],
-      [
-        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Louise Brooks",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 48989,
-        "titre": "Gueule d'amour",
-        "realisateurs": "Jean Grémillon",
-        "annee": 1937,
-        "duree": 94,
+        "idFilm": 73742,
+        "titre": "Moi",
+        "realisateurs": "Malcolm St. Clair",
+        "annee": 1926,
+        "duree": 75,
+        "version": "STF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f48989"
+    "hashEvenement": "f73742"
+  },
+  {
+    "idSeance": 217527,
+    "idEvenement": 36549,
+    "dateHeure": "2026-09-24T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Louise Brooks",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 69034,
+        "titre": "Vénus moderne",
+        "realisateurs": "Frank Tuttle",
+        "annee": 1925,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 65204,
+        "titre": "Now We're in the Air",
+        "realisateurs": "Frank R. Strayer",
+        "annee": 1927,
+        "duree": 23,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 73728,
+        "titre": "Just Another Blonde",
+        "realisateurs": "Alfred Santell",
+        "annee": 1926,
+        "duree": 32,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f69034f65204f73728"
   },
   {
     "idSeance": 211143,
@@ -767,26 +820,6 @@
       }
     ],
     "hashEvenement": "f41995"
-  },
-  {
-    "idSeance": 217427,
-    "idEvenement": 37002,
-    "dateHeure": "2026-09-24T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Ciné-club de Murielle Joudet",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 37002,
-        "titre": "Dialogue avec Murielle Joudet",
-        "typeConference": "Dialogue"
-      }
-    ],
-    "hashEvenement": "c37002"
   },
   {
     "idSeance": 211179,
@@ -963,29 +996,25 @@
     "hashEvenement": "f33904"
   },
   {
-    "idSeance": 211230,
-    "idEvenement": 36784,
+    "idSeance": 211236,
+    "idEvenement": 36679,
     "dateHeure": "2026-09-27T14:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
-        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
-        "Les films"
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Homologues et alliées"
       ]
     ],
     "items": [
       {
-        "idFilm": 139731,
-        "titre": "Enfants de la ruche",
-        "art": "Les",
-        "realisateurs": "Hiroshi Shimizu",
-        "annee": 1948,
-        "duree": 84,
-        "version": "VOSTA",
-        "format": "35 mm"
+        "idFilm": 122155,
+        "titre": "Fanchon le criquet",
+        "realisateurs": "James Kirkwood",
+        "annee": 1915
       }
     ],
-    "hashEvenement": "f139731"
+    "hashEvenement": "f122155"
   },
   {
     "idSeance": 217467,
@@ -1451,33 +1480,29 @@
     "hashEvenement": "f68599"
   },
   {
-    "idSeance": 211436,
-    "idEvenement": 36618,
+    "idSeance": 217529,
+    "idEvenement": 36641,
     "dateHeure": "2026-10-07T20:00:00",
     "salle": "HL",
     "cycle": [
-      [
-        "Ciné-club de Murielle Joudet",
-        "Les films"
-      ],
       [
         "Jean-Paul Belmondo",
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
     "items": [
       {
-        "idFilm": 48837,
-        "titre": "À bout de souffle",
-        "realisateurs": "Jean-Luc Godard",
-        "annee": 1960,
-        "duree": 90,
+        "idFilm": 47148,
+        "titre": "Magnifique",
+        "art": "Le",
+        "realisateurs": "Philippe de Broca",
+        "annee": 1973,
+        "duree": 93,
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f48837"
+    "hashEvenement": "f47148"
   },
   {
     "idSeance": 211440,
@@ -1507,7 +1532,7 @@
     "idSeance": 211465,
     "idEvenement": 36484,
     "dateHeure": "2026-10-08T18:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Le Space opera, les indispensables",
@@ -1530,7 +1555,7 @@
     "idSeance": 217384,
     "idEvenement": 36485,
     "dateHeure": "2026-10-08T20:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Le Space opera, les indispensables",
@@ -1657,7 +1682,7 @@
   {
     "idSeance": 211541,
     "idEvenement": 36506,
-    "dateHeure": "2026-10-10T18:30:00",
+    "dateHeure": "2026-10-10T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1681,7 +1706,7 @@
   {
     "idSeance": 217453,
     "idEvenement": 36497,
-    "dateHeure": "2026-10-10T20:30:00",
+    "dateHeure": "2026-10-10T21:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1892,6 +1917,31 @@
     "hashEvenement": "f36771"
   },
   {
+    "idSeance": 211600,
+    "idEvenement": 35935,
+    "dateHeure": "2026-10-14T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 63785,
+        "titre": "Requiem pour un génocide",
+        "realisateurs": "Tai Katō",
+        "annee": 1968,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f63785"
+  },
+  {
     "idSeance": 211603,
     "idEvenement": 36490,
     "dateHeure": "2026-10-14T20:45:00",
@@ -1919,7 +1969,7 @@
     "idSeance": 211628,
     "idEvenement": 36890,
     "dateHeure": "2026-10-15T18:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Le Space opera, les indispensables",
@@ -1991,7 +2041,7 @@
     "idSeance": 217392,
     "idEvenement": 36500,
     "dateHeure": "2026-10-15T20:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Le Space opera, les indispensables",
@@ -2179,6 +2229,30 @@
     "hashEvenement": "f44229"
   },
   {
+    "idSeance": 211762,
+    "idEvenement": 36477,
+    "dateHeure": "2026-10-21T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Damien Odoul",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 152365,
+        "titre": "Théo et les métamorphoses",
+        "realisateurs": "Damien Odoul",
+        "annee": 2019,
+        "duree": 96,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f152365"
+  },
+  {
     "idSeance": 217432,
     "idEvenement": 37007,
     "dateHeure": "2026-10-22T19:00:00",
@@ -2219,6 +2293,30 @@
     "hashEvenement": "c36996"
   },
   {
+    "idSeance": 211869,
+    "idEvenement": 36470,
+    "dateHeure": "2026-10-24T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Damien Odoul",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 76245,
+        "titre": "Souffle",
+        "art": "Le",
+        "realisateurs": "Damien Odoul",
+        "annee": 2000,
+        "duree": 77,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f76245"
+  },
+  {
     "idSeance": 217434,
     "idEvenement": 36995,
     "dateHeure": "2026-10-24T16:30:00",
@@ -2237,6 +2335,109 @@
       }
     ],
     "hashEvenement": "c36995"
+  },
+  {
+    "idSeance": 211886,
+    "idEvenement": 36464,
+    "dateHeure": "2026-10-25T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Damien Odoul",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 76264,
+        "titre": "Douce",
+        "art": "La",
+        "realisateurs": "Damien Odoul",
+        "annee": 1988,
+        "duree": 13,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 76266,
+        "titre": "À l'ouest de l'Orient",
+        "realisateurs": "Damien Odoul",
+        "annee": 1990,
+        "duree": 17,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 76267,
+        "titre": "TOB (Tête d'œuf bouilli)",
+        "realisateurs": "Damien Odoul",
+        "annee": 1994,
+        "duree": 15,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 76268,
+        "titre": "Elegeia",
+        "realisateurs": "Damien Odoul",
+        "annee": 1995
+      },
+      {
+        "idFilm": 76271,
+        "titre": "Barbots",
+        "art": "Les",
+        "realisateurs": "Damien Odoul",
+        "annee": 1995,
+        "duree": 33,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 76269,
+        "titre": "Sans monde",
+        "realisateurs": "Damien Odoul",
+        "annee": 2000,
+        "duree": 3,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 76270,
+        "titre": "Magik",
+        "realisateurs": "Damien Odoul",
+        "annee": 2001,
+        "duree": 4,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 155863,
+        "titre": "Joug",
+        "art": "Le",
+        "realisateurs": "Damien Odoul",
+        "annee": 2002,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 155864,
+        "titre": "Réminiscences",
+        "realisateurs": "Damien Odoul",
+        "annee": 2003,
+        "duree": 5,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 155866,
+        "titre": "Anima",
+        "realisateurs": "Damien Odoul",
+        "annee": 2006,
+        "duree": 2,
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 155865,
+        "titre": "Cet enfant-là",
+        "realisateurs": "Damien Odoul",
+        "annee": 2025,
+        "duree": 11,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f76264f76266f76267f76268f76271f76269f76270f155863f155864f155866f155865"
   },
   {
     "idSeance": 217471,
@@ -2364,6 +2565,31 @@
     "hashEvenement": "f155603f155604f104626"
   },
   {
+    "idSeance": 212191,
+    "idEvenement": 36641,
+    "dateHeure": "2026-11-07T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Jean-Paul Belmondo",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47148,
+        "titre": "Magnifique",
+        "art": "Le",
+        "realisateurs": "Philippe de Broca",
+        "annee": 1973,
+        "duree": 93,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f47148"
+  },
+  {
     "idSeance": 217440,
     "idEvenement": 36993,
     "dateHeure": "2026-11-07T16:30:00",
@@ -2382,29 +2608,6 @@
       }
     ],
     "hashEvenement": "c36993"
-  },
-  {
-    "idSeance": 212252,
-    "idEvenement": 36559,
-    "dateHeure": "2026-11-11T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Hans-Jürgen Syberberg",
-        "Les films"
-      ]
-    ],
-    "mention": "Ouverture de la rétrospective",
-    "items": [
-      {
-        "idFilm": 58037,
-        "titre": "Ludwig, requiem pour un roi vierge",
-        "realisateurs": "Hans-Jürgen Syberberg",
-        "annee": 1972,
-        "duree": 140
-      }
-    ],
-    "hashEvenement": "f58037"
   },
   {
     "idSeance": 217436,
@@ -2427,28 +2630,6 @@
     "hashEvenement": "c36999"
   },
   {
-    "idSeance": 212354,
-    "idEvenement": 36557,
-    "dateHeure": "2026-11-14T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Hans-Jürgen Syberberg",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 39540,
-        "titre": "Hitler, un film d'Allemagne",
-        "realisateurs": "Hans-Jürgen Syberberg",
-        "annee": 1977,
-        "duree": 430
-      }
-    ],
-    "hashEvenement": "f39540"
-  },
-  {
     "idSeance": 217437,
     "idEvenement": 37000,
     "dateHeure": "2026-11-19T21:00:00",
@@ -2467,6 +2648,29 @@
       }
     ],
     "hashEvenement": "c37000"
+  },
+  {
+    "idSeance": 212517,
+    "idEvenement": 36632,
+    "dateHeure": "2026-11-21T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Jean-Paul Belmondo",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48860,
+        "titre": "Pierrot le fou",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 1965,
+        "duree": 111,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f48860"
   },
   {
     "idSeance": 217477,
@@ -2491,7 +2695,7 @@
   {
     "idSeance": 217439,
     "idEvenement": 37006,
-    "dateHeure": "2026-11-26T21:00:00",
+    "dateHeure": "2026-11-25T21:00:00",
     "salle": "GF",
     "cycle": [
       [
