@@ -6,6 +6,41 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 48989,
+          "content": [
+            {
+              "idFilm": 48989,
+              "ordre": 1,
+              "titre": "Gueule d'amour",
+              "realisateurs": "Jean Grémillon",
+              "pays": "France-Allemagne",
+              "annee": 1937,
+              "duree": 94,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après _Gueule d'Amour_ d'André Beucler.",
+              "generique": [
+                "Jean Gabin",
+                "Mireille Balin",
+                "René Lefèvre"
+              ],
+              "miniTexte": "Orange, 1936. Un officier de garnison, qui fait flamber les cœurs, s'éprend d'une aventurière mondaine. Entre bonheurs simples, séparations et retrouvailles, la belle causera sa perte. Dans la veine classique des grands mélodrames français de l'époque, Grémillon filme leur tragique histoire d'amour, les ravages d'une passion dévorante et les déchirements intérieurs du beau militaire appelé « Gueule d'amour » – surnom qui restera attaché de longues années à Jean Gabin."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217504,
+              "dateHeure": "2026-09-18T18:00:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 217496,
+              "dateHeure": "2026-09-24T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 48837,
           "content": [
             {
@@ -49,6 +84,23 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
+          "idConf": 37002,
+          "content": [
+            {
+              "idConf": 37002,
+              "titre": "Dialogue avec Murielle Joudet",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217427,
+              "dateHeure": "2026-09-24T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idConf": 37001,
           "content": [
             {
@@ -69,7 +121,11 @@
     }
   ],
   "syntheseAction": {
-    "Séance avec dialogue": [
+    "Séances avec dialogue": [
+      {
+        "mention": "avec Murielle Joudet",
+        "dateHeure": "2026-09-24T20:30:00"
+      },
       {
         "mention": "avec Murielle Joudet",
         "dateHeure": "2026-10-15T20:15:00"

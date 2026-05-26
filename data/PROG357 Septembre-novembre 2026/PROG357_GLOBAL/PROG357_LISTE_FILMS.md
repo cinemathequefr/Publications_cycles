@@ -1,8 +1,9 @@
 # Liste des films par cycle
 
-## Ciné-club de Murielle Joudet (1)
+## Ciné-club de Murielle Joudet (2)
 
-  * À bout de souffle
+  * À bout de souffle  
+  * Gueule d'amour
 
 ## Cinéma bis (4)
 
@@ -74,29 +75,36 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (21)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (28)
 
   * Anges du boulevard (Les)  
   * Assurance sur la mort  
   * Au bord de la mer bleue  
-  * Belle et la Bête (La)  
   * Bourreaux meurent aussi (Les)  
+  * Casque d'or  
+  * Chien enragé  
+  * Démon des armes (Le)  
   * Dictateur (Le)  
   * Dumbo  
-  * Espoir  
+  * Enfants de la ruche (Les)  
   * Faisons un rêve  
   * Farrebique  
   * Féline (La)  
   * Femme du boulanger (La)  
-  * Gueule d'amour  
   * Ivan le Terrible  
+  * J'ai vécu l'enfer de Corée  
   * Meshes of the Afternoon  
+  * Narcisse noir (Le)  
+  * Outrage  
   * Paradis perdu  
+  * Passagers de la nuit (Les)  
+  * Rebelle (Le)  
   * Règle du jeu (La)  
   * Rome, ville ouverte  
   * Shanghai Gesture (The)  
   * To Be Or Not to Be  
-  * Vacances
+  * Vacances  
+  * Voleur de bicyclette (Le)
 
 ## Louise Brooks (10)
 
