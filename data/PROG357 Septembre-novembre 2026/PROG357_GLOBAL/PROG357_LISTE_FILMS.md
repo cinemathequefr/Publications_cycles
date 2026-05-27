@@ -92,24 +92,30 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (26)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (32)
 
   * Anges du boulevard (Les)  
+  * Appât (L')  
   * Assurance sur la mort  
   * Au bord de la mer bleue  
+  * Belle et la Bête (La)  
   * Bourreaux meurent aussi (Les)  
   * Casque d'or  
   * Chien enragé  
   * Démon des armes (Le)  
+  * Détour  
   * Dictateur (Le)  
   * Dumbo  
+  * Enfants de la ruche (Les)  
   * Faisons un rêve  
   * Farrebique  
   * Féline (La)  
   * Femme du boulanger (La)  
+  * Ivan le Terrible  
   * J'ai vécu l'enfer de Corée  
   * Meshes of the Afternoon  
   * Narcisse noir (Le)  
+  * On murmure dans la ville  
   * Outrage  
   * Paradis perdu  
   * Passagers de la nuit (Les)  
