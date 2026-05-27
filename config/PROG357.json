@@ -362,13 +362,38 @@
     {
       "idCycleProg": 1117,
       "titreCycle": "Lisandro Alonso",
-      "_charge_prog": "Katia",
-      "isReg": false,
+      "_charge_prog": "Caroline",
+      "isReg": true,
       "triSousCycles": false,
-      "type": null,
+      "type": true,
       "sousCycles": [
-        { "titre": "Les films", "cats": [4235], "tri": 2, "printNoMT": false },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        {
+          "titre": "Les films",
+          "cats": [4235],
+          "tri": 2,
+          "printNoMT": false
+        }
+      ],
+      "excludeSeances": [],
+      "cancelledSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 1118,
+      "titreCycle": "Ma petite Cinémathèque",
+      "_charge_prog": "Élodie, Pierre",
+      "isReg": true,
+      "triSousCycles": false,
+      "type": true,
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [4219],
+          "tri": 2,
+          "printNoMT": false
+        },
+        { "titre": "Les films", "cats": [4237], "tri": 2 }
       ],
       "excludeSeances": [],
       "cancelledSeances": [],
