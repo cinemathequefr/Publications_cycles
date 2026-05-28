@@ -118,7 +118,7 @@
   * Farrebique  
   * Féline (La)  
   * Femme du boulanger (La)  
-  * Intendant Sansho (L')  
+  * Intendant Sanshō (L')  
   * Ivan le Terrible  
   * J'ai vécu l'enfer de Corée  
   * Johnny Guitar  
