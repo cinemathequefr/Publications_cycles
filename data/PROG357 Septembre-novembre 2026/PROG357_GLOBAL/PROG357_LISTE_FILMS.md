@@ -48,17 +48,23 @@
   * Ventre du magasin (Le)  
   * West Beyrouth (bande-annonce)
 
-## Jean-Paul Belmondo (9)
+## Jean-Paul Belmondo (15)
 
   * Cartouche  
   * Ciociara (La)  
   * Classe tous risques  
   * Doulos (Le)  
+  * Homme de Rio (L')  
+  * Itinéraire d'un enfant gâté  
   * Léon Morin, prêtre  
   * Magnifique (Le)  
   * Pierrot le fou  
+  * Sirène du Mississipi (La)  
+  * Stavisky  
+  * Tribulations d'un Chinois en Chine (Les)  
   * Un singe en hiver  
-  * Une femme est une femme
+  * Une femme est une femme  
+  * Voleur (Le)
 
 ## La Cinémathèque française, une histoire au féminin pluriel (1)
 
