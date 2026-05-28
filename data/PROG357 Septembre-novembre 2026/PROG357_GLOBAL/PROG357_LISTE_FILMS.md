@@ -48,11 +48,17 @@
   * Ventre du magasin (Le)  
   * West Beyrouth (bande-annonce)
 
-## Jean-Paul Belmondo (3)
+## Jean-Paul Belmondo (9)
 
   * Cartouche  
+  * Ciociara (La)  
+  * Classe tous risques  
+  * Doulos (Le)  
+  * Léon Morin, prêtre  
   * Magnifique (Le)  
-  * Pierrot le fou
+  * Pierrot le fou  
+  * Un singe en hiver  
+  * Une femme est une femme
 
 ## La Cinémathèque française, une histoire au féminin pluriel (1)
 
@@ -92,7 +98,7 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (32)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (38)
 
   * Anges du boulevard (Les)  
   * Appât (L')  
@@ -101,6 +107,7 @@
   * Belle et la Bête (La)  
   * Bourreaux meurent aussi (Les)  
   * Casque d'or  
+  * Chantons sous la pluie  
   * Chien enragé  
   * Démon des armes (Le)  
   * Détour  
@@ -111,14 +118,19 @@
   * Farrebique  
   * Féline (La)  
   * Femme du boulanger (La)  
+  * Intendant Sansho (L')  
   * Ivan le Terrible  
   * J'ai vécu l'enfer de Corée  
+  * Johnny Guitar  
+  * Madame de...  
   * Meshes of the Afternoon  
   * Narcisse noir (Le)  
+  * Nuit du chasseur (La)  
   * On murmure dans la ville  
   * Outrage  
   * Paradis perdu  
   * Passagers de la nuit (Les)  
+  * Prisonnière du désert (La)  
   * Rebelle (Le)  
   * Règle du jeu (La)  
   * Rome, ville ouverte  
@@ -143,9 +155,10 @@
   * Vénus moderne  
   * Windy Riley Goes to Hollywood
 
-## Séances spéciales (2)
+## Séances spéciales (3)
 
   * Faust  
+  * Portobello  
   * Promeneur du Champ-de-Mars (Le)
 
 ## Tai Katō (1)
