@@ -213,6 +213,29 @@
     ]
   },
   {
+    "idCategorie": 4206,
+    "typeEvenement": 13,
+    "idEvenement": 36636,
+    "idSeance": 211719,
+    "dateHeure": "2026-10-18T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 49740,
+        "ordre": 1,
+        "idSeance": 211719,
+        "idCopie": 28046,
+        "duree": 115,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
     "idCategorie": 4231,
     "typeEvenement": 14,
     "idEvenement": 36992,
@@ -339,17 +362,22 @@
     "idCategorie": 4206,
     "typeEvenement": 13,
     "idEvenement": 36640,
-    "idSeance": 212371,
+    "idSeance": 217586,
     "dateHeure": "2026-11-15T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 150,
     "items": [
       {
         "idFilm": 50893,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 217586,
+        "idCopie": 20402,
+        "duree": 120,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },

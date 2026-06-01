@@ -165,8 +165,8 @@
         "realisateurs": "Herbert Brenon",
         "annee": 1925,
         "duree": 75,
-        "version": "VO",
-        "format": "35 mm"
+        "version": "INT. FR.",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f73720"
@@ -197,30 +197,6 @@
     "hashEvenement": "f64059"
   },
   {
-    "idSeance": 211017,
-    "idEvenement": 36927,
-    "dateHeure": "2026-09-18T20:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Louise Brooks",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 73724,
-        "titre": "Un conte d'apothicaire",
-        "realisateurs": "A. Edward Sutherland",
-        "annee": 1926,
-        "duree": 70,
-        "version": "VO",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f73724"
-  },
-  {
     "idSeance": 217532,
     "idEvenement": 36774,
     "dateHeure": "2026-09-18T20:15:00",
@@ -243,6 +219,30 @@
       }
     ],
     "hashEvenement": "f56960"
+  },
+  {
+    "idSeance": 211017,
+    "idEvenement": 36927,
+    "dateHeure": "2026-09-18T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Louise Brooks",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 73724,
+        "titre": "Un conte d'apothicaire",
+        "realisateurs": "A. Edward Sutherland",
+        "annee": 1926,
+        "duree": 70,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f73724"
   },
   {
     "idSeance": 217380,
@@ -333,7 +333,7 @@
     "items": [
       {
         "idConf": 36988,
-        "titre": "Dialogue avec Marion Polirtszok",
+        "titre": "Dialogue avec Marion Polirsztok",
         "typeConference": "Dialogue"
       }
     ],
@@ -800,9 +800,9 @@
         "titre": "Rome, ville ouverte",
         "realisateurs": "Roberto Rossellini",
         "annee": 1945,
-        "duree": 101,
-        "version": "VO",
-        "format": "35 mm"
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f41995"
@@ -1052,30 +1052,6 @@
     "hashEvenement": "f33904"
   },
   {
-    "idSeance": 211236,
-    "idEvenement": 36679,
-    "dateHeure": "2026-09-27T14:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "La Cinémathèque française, une histoire au féminin pluriel",
-        "Homologues et alliées"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 122155,
-        "titre": "Fanchon le criquet",
-        "realisateurs": "James Kirkwood",
-        "annee": 1915,
-        "duree": 72,
-        "version": "INT. FR.",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f122155"
-  },
-  {
     "idSeance": 217551,
     "idEvenement": 37034,
     "dateHeure": "2026-09-27T14:30:00",
@@ -1097,6 +1073,30 @@
       }
     ],
     "hashEvenement": "f155867"
+  },
+  {
+    "idSeance": 217573,
+    "idEvenement": 36679,
+    "dateHeure": "2026-09-27T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Homologues et alliées"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 122155,
+        "titre": "Fanchon le criquet",
+        "realisateurs": "James Kirkwood",
+        "annee": 1915,
+        "duree": 72,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f122155"
   },
   {
     "idSeance": 217467,
@@ -1168,7 +1168,7 @@
     "hashEvenement": "f75644"
   },
   {
-    "idSeance": 217554,
+    "idSeance": 217574,
     "idEvenement": 36788,
     "dateHeure": "2026-09-28T20:30:00",
     "salle": "GF",
@@ -1226,7 +1226,7 @@
     "hashEvenement": "f52565f54223"
   },
   {
-    "idSeance": 217555,
+    "idSeance": 217575,
     "idEvenement": 36787,
     "dateHeure": "2026-10-01T17:30:00",
     "salle": "GF",
@@ -1274,7 +1274,7 @@
     "hashEvenement": "f53332"
   },
   {
-    "idSeance": 217556,
+    "idSeance": 217576,
     "idEvenement": 36872,
     "dateHeure": "2026-10-02T16:00:00",
     "salle": "GF",
@@ -1322,7 +1322,7 @@
     "hashEvenement": "f128190"
   },
   {
-    "idSeance": 217557,
+    "idSeance": 217577,
     "idEvenement": 36789,
     "dateHeure": "2026-10-02T18:30:00",
     "salle": "GF",
@@ -1347,74 +1347,106 @@
     "hashEvenement": "f45270"
   },
   {
-    "idSeance": 211344,
+    "idSeance": 217578,
     "idEvenement": 36899,
     "dateHeure": "2026-10-02T18:30:00",
     "salle": "JE",
     "cycle": [
       [
         "Fenêtre sur les collections",
-        "Fenêtre sur le Liban"
+        "À table !"
       ]
     ],
     "items": [
       {
-        "idFilm": 117358,
-        "titre": "Halles",
-        "art": "Les",
-        "realisateurs": "Boris Kaufman, André Galitzine",
-        "annee": 1927
+        "idFilm": 155870,
+        "titre": "Vie d'une bouteille de champagne depuis la grappe jusqu'à la coupe",
+        "art": "La",
+        "realisateurs": "Anonyme",
+        "annee": 1900,
+        "duree": 7,
+        "version": "INT. FR.",
+        "format": "DCP"
       },
       {
         "idFilm": 78657,
         "titre": "Ananas",
         "art": "Les",
         "realisateurs": "Louis Feuillade",
-        "annee": 1913
+        "annee": 1913,
+        "duree": 5,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 117358,
+        "titre": "Halles",
+        "art": "Les",
+        "realisateurs": "Boris Kaufman, André Galitzine",
+        "annee": 1927,
+        "duree": 23,
+        "format": "DCP",
+        "restauration": true
       },
       {
         "idFilm": 52570,
         "titre": "Charcuterie mécanique",
         "realisateurs": "Louis Lumière",
-        "annee": 1895
+        "annee": 1895,
+        "duree": 1,
+        "format": "DCP"
       },
       {
         "idFilm": 155854,
         "titre": "Ventre du magasin",
         "art": "Le",
         "realisateurs": "Jean Benoit-Levy",
-        "annee": 1930
-      },
-      {
-        "idFilm": 137494,
-        "titre": "Je ne veux plus de cuisinière",
-        "realisateurs": "Roméo Bosetti",
-        "annee": 1912
+        "annee": 1930,
+        "duree": 16,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       },
       {
         "idFilm": 52530,
         "titre": "Repas de bébé",
         "art": "Le",
         "realisateurs": "Louis Lumière",
-        "annee": 1895
+        "annee": 1895,
+        "duree": 1,
+        "format": "DCP",
+        "restauration": true
       },
       {
         "idFilm": 52668,
         "titre": "Repas en famille",
         "realisateurs": "Constant Girel",
-        "annee": 1897
+        "annee": 1897,
+        "duree": 1,
+        "format": "DCP",
+        "restauration": true
       },
       {
         "idFilm": 52445,
         "titre": "Détresse et charité",
         "realisateurs": "Georges Méliès",
-        "annee": 1904
+        "annee": 1904,
+        "duree": 11,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 137494,
+        "titre": "Je ne veux plus de cuisinière",
+        "realisateurs": "Roméo Bosetti",
+        "annee": 1912
       }
     ],
-    "hashEvenement": "f117358f78657f52570f155854f137494f52530f52668f52445"
+    "hashEvenement": "f155870f78657f117358f52570f155854f52530f52668f52445f137494"
   },
   {
-    "idSeance": 217558,
+    "idSeance": 217580,
     "idEvenement": 36790,
     "dateHeure": "2026-10-02T20:30:00",
     "salle": "GF",
@@ -1438,14 +1470,14 @@
     "hashEvenement": "f35504"
   },
   {
-    "idSeance": 217382,
+    "idSeance": 217579,
     "idEvenement": 36894,
     "dateHeure": "2026-10-02T20:30:00",
     "salle": "JE",
     "cycle": [
       [
         "Fenêtre sur les collections",
-        "Fenêtre sur le Liban"
+        "À table !"
       ]
     ],
     "items": [
@@ -1453,19 +1485,28 @@
         "idFilm": 155853,
         "titre": "Pathé Revue ca. 1929 n° indeterminé / Sujet « Sucreries »",
         "realisateurs": "Anonyme",
-        "annee": 1929
+        "annee": 1929,
+        "duree": 3,
+        "version": "INT. FR.",
+        "format": "DCP"
       },
       {
         "idFilm": 155852,
         "titre": "Pastilles Vichy-Lardy : cinéma",
         "realisateurs": "Anonyme",
-        "annee": 1980
+        "annee": 1980,
+        "duree": 1,
+        "format": "DCP"
       },
       {
         "idFilm": 108635,
         "titre": "Un dessert pour Constance",
         "realisateurs": "Sarah Maldoror",
-        "annee": 1981
+        "annee": 1981,
+        "duree": 70,
+        "version": "VF",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f155853f155852f108635"
@@ -1519,7 +1560,7 @@
     "hashEvenement": "f140118"
   },
   {
-    "idSeance": 211380,
+    "idSeance": 217581,
     "idEvenement": 36696,
     "dateHeure": "2026-10-03T15:00:00",
     "salle": "GF",
@@ -1547,9 +1588,9 @@
     "hashEvenement": "f30069"
   },
   {
-    "idSeance": 217559,
+    "idSeance": 217582,
     "idEvenement": 36697,
-    "dateHeure": "2026-10-03T17:00:00",
+    "dateHeure": "2026-10-03T17:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1572,7 +1613,7 @@
   {
     "idSeance": 217354,
     "idEvenement": 36495,
-    "dateHeure": "2026-10-03T17:30:00",
+    "dateHeure": "2026-10-03T17:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1594,7 +1635,7 @@
     "hashEvenement": "f36119"
   },
   {
-    "idSeance": 211382,
+    "idSeance": 217583,
     "idEvenement": 36700,
     "dateHeure": "2026-10-03T19:30:00",
     "salle": "GF",
@@ -1621,7 +1662,7 @@
   {
     "idSeance": 217355,
     "idEvenement": 36496,
-    "dateHeure": "2026-10-03T20:00:00",
+    "dateHeure": "2026-10-03T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1668,7 +1709,7 @@
     "hashEvenement": "f105028"
   },
   {
-    "idSeance": 217560,
+    "idSeance": 217584,
     "idEvenement": 36698,
     "dateHeure": "2026-10-04T17:15:00",
     "salle": "GF",
@@ -1717,9 +1758,9 @@
     "hashEvenement": "f142701"
   },
   {
-    "idSeance": 217562,
+    "idSeance": 217585,
     "idEvenement": 36791,
-    "dateHeure": "2026-10-04T19:30:00",
+    "dateHeure": "2026-10-04T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2389,7 +2430,7 @@
     "items": [
       {
         "idFilm": 63785,
-        "titre": "Requiem pour un génocide",
+        "titre": "Requiem pour un massacre",
         "realisateurs": "Tai Katō",
         "annee": 1968,
         "duree": 90,
@@ -2422,6 +2463,30 @@
       }
     ],
     "hashEvenement": "f34064"
+  },
+  {
+    "idSeance": 211631,
+    "idEvenement": 36095,
+    "dateHeure": "2026-10-15T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155712,
+        "titre": "Problèmes d'épées et problèmes de femmes, partie 2",
+        "realisateurs": "Tai Katō",
+        "annee": 1951,
+        "duree": 71,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155712"
   },
   {
     "idSeance": 211628,
@@ -2476,6 +2541,30 @@
     "hashEvenement": "f48837"
   },
   {
+    "idSeance": 211632,
+    "idEvenement": 36094,
+    "dateHeure": "2026-10-15T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155711,
+        "titre": "Problèmes d'épées et problèmes de femmes, partie 1",
+        "realisateurs": "Tai Katō",
+        "annee": 1951,
+        "duree": 70,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155711"
+  },
+  {
     "idSeance": 217430,
     "idEvenement": 37001,
     "dateHeure": "2026-10-15T20:15:00",
@@ -2520,6 +2609,31 @@
     "hashEvenement": "f69787"
   },
   {
+    "idSeance": 211666,
+    "idEvenement": 36104,
+    "dateHeure": "2026-10-16T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155721,
+        "titre": "Vent, les femmes et la route",
+        "art": "Le",
+        "realisateurs": "Tai Katō",
+        "annee": 1958,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155721"
+  },
+  {
     "idSeance": 211670,
     "idEvenement": 36502,
     "dateHeure": "2026-10-16T19:00:00",
@@ -2542,6 +2656,31 @@
       }
     ],
     "hashEvenement": "f79916"
+  },
+  {
+    "idSeance": 211667,
+    "idEvenement": 35930,
+    "dateHeure": "2026-10-16T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 63781,
+        "titre": "Spectre de Dame Iwa",
+        "art": "Le",
+        "realisateurs": "Tai Katō",
+        "annee": 1961,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f63781"
   },
   {
     "idSeance": 217393,
@@ -2593,6 +2732,77 @@
     "hashEvenement": "f44903"
   },
   {
+    "idSeance": 211704,
+    "idEvenement": 35933,
+    "dateHeure": "2026-10-17T17:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 63777,
+        "titre": "Liens de sang",
+        "realisateurs": "Tai Katō",
+        "annee": 1962,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f63777"
+  },
+  {
+    "idSeance": 211705,
+    "idEvenement": 35926,
+    "dateHeure": "2026-10-17T19:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 63780,
+        "titre": "Contes cruels au pays du soleil couchant",
+        "realisateurs": "Tai Katō",
+        "annee": 1964,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f63780"
+  },
+  {
+    "idSeance": 211719,
+    "idEvenement": 36636,
+    "dateHeure": "2026-10-18T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Jean-Paul Belmondo",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49740,
+        "titre": "Un homme qui me plaît",
+        "realisateurs": "Claude Lelouch",
+        "annee": 1969,
+        "duree": 115,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f49740"
+  },
+  {
     "idSeance": 217431,
     "idEvenement": 36992,
     "dateHeure": "2026-10-18T16:30:00",
@@ -2636,6 +2846,31 @@
     "hashEvenement": "f143368"
   },
   {
+    "idSeance": 211720,
+    "idEvenement": 35931,
+    "dateHeure": "2026-10-18T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 63769,
+        "titre": "Ninja du vent",
+        "art": "Le",
+        "realisateurs": "Tai Katō",
+        "annee": 1964,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f63769"
+  },
+  {
     "idSeance": 211725,
     "idEvenement": 36483,
     "dateHeure": "2026-10-18T20:00:00",
@@ -2660,6 +2895,31 @@
       }
     ],
     "hashEvenement": "f40667"
+  },
+  {
+    "idSeance": 211721,
+    "idEvenement": 35934,
+    "dateHeure": "2026-10-18T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 63782,
+        "titre": "Sang de la vengeance",
+        "art": "Le",
+        "realisateurs": "Tai Katō",
+        "annee": 1965,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f63782"
   },
   {
     "idSeance": 211735,
@@ -2687,6 +2947,31 @@
     "hashEvenement": "f44229"
   },
   {
+    "idSeance": 217571,
+    "idEvenement": 36097,
+    "dateHeure": "2026-10-21T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155714,
+        "titre": "Journal d'une hirondelle",
+        "art": "Le",
+        "realisateurs": "Tai Katō",
+        "annee": 1952,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155714"
+  },
+  {
     "idSeance": 211762,
     "idEvenement": 36477,
     "dateHeure": "2026-10-21T20:00:00",
@@ -2709,6 +2994,31 @@
       }
     ],
     "hashEvenement": "f152365"
+  },
+  {
+    "idSeance": 211766,
+    "idEvenement": 36096,
+    "dateHeure": "2026-10-21T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155713,
+        "titre": "Port de Shimizu, plus effrayant que l'enfer",
+        "art": "Le",
+        "realisateurs": "Tai Katō",
+        "annee": 1952,
+        "duree": 79,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155713"
   },
   {
     "idSeance": 217432,
@@ -2744,11 +3054,60 @@
     "items": [
       {
         "idConf": 36996,
-        "titre": " Le cinéma sur les Champs-Elysées",
+        "titre": "Le cinéma sur les Champs-Élysées",
         "typeConference": "Conférence"
       }
     ],
     "hashEvenement": "c36996"
+  },
+  {
+    "idSeance": 211829,
+    "idEvenement": 36098,
+    "dateHeure": "2026-10-23T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155715,
+        "titre": "Jiraya le ninja",
+        "realisateurs": "Tai Katō",
+        "annee": 1955,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155715"
+  },
+  {
+    "idSeance": 211830,
+    "idEvenement": 36099,
+    "dateHeure": "2026-10-23T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155716,
+        "titre": "Serpent contre-attaque",
+        "art": "Le",
+        "realisateurs": "Tai Katō",
+        "annee": 1955,
+        "duree": 70,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155716"
   },
   {
     "idSeance": 211869,
@@ -2769,6 +3128,7 @@
         "realisateurs": "Damien Odoul",
         "annee": 2000,
         "duree": 77,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -2970,6 +3330,26 @@
     "hashEvenement": "f49848"
   },
   {
+    "idSeance": 217435,
+    "idEvenement": 36998,
+    "dateHeure": "2026-11-05T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec Luc Lagier",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 36998,
+        "titre": "Dialogue avec Luc Lagier",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "c36998"
+  },
+  {
     "idSeance": 212157,
     "idEvenement": 35599,
     "dateHeure": "2026-11-06T18:30:00",
@@ -3124,7 +3504,27 @@
     "hashEvenement": "f51580"
   },
   {
-    "idSeance": 212371,
+    "idSeance": 217436,
+    "idEvenement": 36999,
+    "dateHeure": "2026-11-12T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec Luc Lagier",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 36999,
+        "titre": "Dialogue avec Luc Lagier",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "c36999"
+  },
+  {
+    "idSeance": 217586,
     "idEvenement": 36640,
     "dateHeure": "2026-11-15T14:30:00",
     "salle": "HL",
@@ -3139,10 +3539,32 @@
         "idFilm": 50893,
         "titre": "Stavisky",
         "realisateurs": "Alain Resnais",
-        "annee": 1974
+        "annee": 1974,
+        "duree": 120,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f50893"
+  },
+  {
+    "idSeance": 217437,
+    "idEvenement": 37000,
+    "dateHeure": "2026-11-19T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec Luc Lagier",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37000,
+        "titre": "Dialogue avec Luc Lagier",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "c37000"
   },
   {
     "idSeance": 212517,
@@ -3215,6 +3637,26 @@
       }
     ],
     "hashEvenement": "f47154"
+  },
+  {
+    "idSeance": 217439,
+    "idEvenement": 37006,
+    "dateHeure": "2026-11-25T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec Luc Lagier",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37006,
+        "titre": "Dialogue avec Luc Lagier",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "c37006"
   },
   {
     "idSeance": 217441,

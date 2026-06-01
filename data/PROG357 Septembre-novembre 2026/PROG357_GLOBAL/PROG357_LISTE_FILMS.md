@@ -28,7 +28,7 @@
   * Théo et les métamorphoses  
   * TOB (Tête d'œuf bouilli)
 
-## Fenêtre sur les collections (17)
+## Fenêtre sur les collections (18)
 
   * Ananas (Les)  
   * Au carrefour des âges, le Liban  
@@ -46,9 +46,10 @@
   * Repas en famille  
   * Un dessert pour Constance  
   * Ventre du magasin (Le)  
+  * Vie d'une bouteille de champagne depuis la grappe jusqu'à la coupe (La)  
   * West Beyrouth (bande-annonce)
 
-## Jean-Paul Belmondo (15)
+## Jean-Paul Belmondo (16)
 
   * Cartouche  
   * Ciociara (La)  
@@ -62,6 +63,7 @@
   * Sirène du Mississipi (La)  
   * Stavisky  
   * Tribulations d'un Chinois en Chine (Les)  
+  * Un homme qui me plaît  
   * Un singe en hiver  
   * Une femme est une femme  
   * Voleur (Le)
@@ -167,6 +169,18 @@
   * Portobello  
   * Promeneur du Champ-de-Mars (Le)
 
-## Tai Katō (1)
+## Tai Katō (13)
 
-  * Requiem pour un génocide  
+  * Contes cruels au pays du soleil couchant  
+  * Jiraya le ninja  
+  * Journal d'une hirondelle (Le)  
+  * Liens de sang  
+  * Ninja du vent (Le)  
+  * Port de Shimizu, plus effrayant que l'enfer (Le)  
+  * Problèmes d'épées et problèmes de femmes, partie 1  
+  * Problèmes d'épées et problèmes de femmes, partie 2  
+  * Requiem pour un massacre  
+  * Sang de la vengeance (Le)  
+  * Serpent contre-attaque (Le)  
+  * Spectre de Dame Iwa (Le)  
+  * Vent, les femmes et la route (Le)  
