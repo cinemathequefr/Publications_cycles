@@ -5,24 +5,42 @@
   * À bout de souffle  
   * Gueule d'amour
 
-## Cinéma bis (4)
+## Cinéma bis (14)
 
   * Billy le cave  
+  * Daleks envahissent la terre (Les)  
+  * Deux visages du Docteur Jekyll (Les)  
+  * Docteur et les assassins (Le)  
+  * Froid Baiser de la mort (Le)  
+  * Impasse aux violences (L')  
+  * Johnny le bâtard  
+  * Monstre de Venise (Le)  
   * Mystère de l'île aux monstres (Le)  
   * Peuple des abîmes (Le)  
-  * Soldat qui déclara la paix (Le)
+  * Retour de Frankenstein (Le)  
+  * Schizo  
+  * Soldat qui déclara la paix (Le)  
+  * SS était là (Le)
 
-## Damien Odoul (13)
+## Damien Odoul (21)
 
+  * À la grâce de Dieu  
   * À l'ouest de l'Orient  
   * Anima  
   * Barbots (Les)  
   * Cet enfant-là  
   * Douce (La)  
   * Elegeia  
+  * En attendant le déluge  
+  * Errance  
+  * Histoire de Richard O. (L')  
   * Joug (Le)  
   * Magik  
+  * Morasseix  
+  * Peur (La)  
   * Réminiscences  
+  * Reste du monde (Le)  
+  * Richesse du loup (La)  
   * Sans monde  
   * Souffle (Le)  
   * Théo et les métamorphoses  
@@ -49,7 +67,7 @@
   * Vie d'une bouteille de champagne depuis la grappe jusqu'à la coupe (La)  
   * West Beyrouth (bande-annonce)
 
-## Jean-Paul Belmondo (16)
+## Jean-Paul Belmondo (17)
 
   * Cartouche  
   * Ciociara (La)  
@@ -64,6 +82,7 @@
   * Stavisky  
   * Tribulations d'un Chinois en Chine (Les)  
   * Un homme qui me plaît  
+  * Un nommé La Rocca  
   * Un singe en hiver  
   * Une femme est une femme  
   * Voleur (Le)
@@ -106,26 +125,33 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (38)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (50)
 
+  * Accattone  
   * Anges du boulevard (Les)  
   * Appât (L')  
+  * Assoiffé  
   * Assurance sur la mort  
   * Au bord de la mer bleue  
   * Belle et la Bête (La)  
   * Bourreaux meurent aussi (Les)  
   * Casque d'or  
   * Chantons sous la pluie  
+  * Chasse au lion à l'arc (La)  
   * Chien enragé  
   * Démon des armes (Le)  
   * Détour  
   * Dictateur (Le)  
+  * Dolce vita (La)  
   * Dumbo  
+  * Elle et lui  
   * Enfants de la ruche (Les)  
   * Faisons un rêve  
   * Farrebique  
   * Féline (La)  
   * Femme du boulanger (La)  
+  * Fièvre dans le sang (La)  
+  * Gare centrale  
   * Intendant Sanshō (L')  
   * Ivan le Terrible  
   * J'ai vécu l'enfer de Corée  
@@ -133,6 +159,7 @@
   * Madame de...  
   * Meshes of the Afternoon  
   * Narcisse noir (Le)  
+  * Nuages flottants  
   * Nuit du chasseur (La)  
   * On murmure dans la ville  
   * Outrage  
@@ -141,11 +168,15 @@
   * Prisonnière du désert (La)  
   * Rebelle (Le)  
   * Règle du jeu (La)  
+  * Rio Bravo  
   * Rome, ville ouverte  
+  * Salon de musique (Le)  
   * Shanghai Gesture (The)  
   * To Be Or Not to Be  
+  * Un condamné à mort s'est échappé  
   * Vacances  
-  * Voleur de bicyclette (Le)
+  * Voleur de bicyclette (Le)  
+  * Yeux sans visage (Les)
 
 ## Louise Brooks (13)
 
@@ -163,16 +194,24 @@
   * Vénus moderne  
   * Windy Riley Goes to Hollywood
 
+## Ma petite Cinémathèque (4)
+
+  * Cinq Mille Doigts du docteur T. (Les)  
+  * Extraordinaire Voyage de Marona (L')  
+  * James et la pêche géante  
+  * Katia et le crocodile
+
 ## Séances spéciales (3)
 
   * Faust  
   * Portobello  
   * Promeneur du Champ-de-Mars (Le)
 
-## Tai Katō (13)
+## Tai Katō (14)
 
   * Contes cruels au pays du soleil couchant  
   * Jiraya le ninja  
+  * Joueuse de l'ère Shōwa (La)  
   * Journal d'une hirondelle (Le)  
   * Liens de sang  
   * Ninja du vent (Le)  
