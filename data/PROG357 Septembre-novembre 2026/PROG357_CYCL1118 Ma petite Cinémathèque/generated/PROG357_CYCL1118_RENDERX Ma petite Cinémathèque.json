@@ -6,6 +6,94 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 31320,
+          "content": [
+            {
+              "idFilm": 31320,
+              "ordre": 1,
+              "titre": "Aventures de Robin des Bois",
+              "art": "Les",
+              "titreVo": "Adventures of Robin Hood",
+              "artVo": "The",
+              "realisateurs": "Michael Curtiz, William Keighley",
+              "pays": "États-Unis",
+              "annee": 1938,
+              "ageMinimal": 8,
+              "generique": [
+                "Errol Flynn",
+                "Olivia de Havilland",
+                "Basil Rathbone",
+                "Claude Rains"
+              ],
+              "miniTexte": "Solidarité, duels, trahisons et manigances habiles : dans la forêt de Sherwood, les exploits bondissants de Robin des Bois, entre son amour pour la belle Marianne et la révolte qu'il mène contre le prince Jean. Un fleuron du Technicolor, qui fit d'Errol Flynn une star."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217691,
+              "dateHeure": "2026-11-29T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 8
+            }
+          ]
+        },
+        {
+          "idFilm": 99842,
+          "content": [
+            {
+              "idFilm": 99842,
+              "ordre": 1,
+              "titre": "Azur et Asmar",
+              "realisateurs": "Michel Ocelot",
+              "pays": "France-Espagne",
+              "annee": 2006,
+              "ageMinimal": 6,
+              "miniTexte": "Le blond Azur, héritier du châtelain, et le brun Asmar, fils de la nourrice, sont élevés comme des frères, jusqu'à ce que la vie les sépare. Ils se retrouvent bien plus tard, rêvant tous deux d'épouser la fée des Djinns. Un bijou d'animation imprégné de poésie, qui parle de tolérance et de fraternité."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217703,
+              "dateHeure": "2026-11-18T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
+            }
+          ]
+        },
+        {
+          "idFilm": 38069,
+          "content": [
+            {
+              "idFilm": 38069,
+              "ordre": 1,
+              "titre": "Bonjour",
+              "titreVo": "Ohayō",
+              "realisateurs": "Yasujirō Ozu",
+              "pays": "Japon",
+              "annee": 1959,
+              "duree": 94,
+              "version": "VOSTF",
+              "format": "DCP",
+              "ageMinimal": 10,
+              "generique": [
+                "Kōji Shidara",
+                "Masahiko Shimazu",
+                "Chishū Ryū",
+                "Kuniko Miyake"
+              ],
+              "miniTexte": "Le quotidien d'un petit quartier de banlieue pris dans le changement technologique né de l'après-guerre. Lointain descendant de _Gosses de Tokyo_, _Bonjour_ est le plus drôle, et faussement léger, des six derniers grands Ozu en couleurs. Sismographie des bouleversements de l'ordre établi, cousinage avec Tati (l'irruption de la modernité, la télévision que réclament les deux frères en grève de la parole) : une chronique sensible, particulièrement touchante tant Ozu y fait montre de délicatesse."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217690,
+              "dateHeure": "2026-11-15T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 10
+            }
+          ]
+        },
+        {
           "idFilm": 47142,
           "content": [
             {
@@ -61,12 +149,6 @@
           ],
           "seances": [
             {
-              "idSeance": 217607,
-              "dateHeure": "2026-10-07T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 10
-            },
-            {
               "idSeance": 217608,
               "dateHeure": "2026-10-18T15:00:00",
               "idSalle": "GF",
@@ -100,8 +182,39 @@
             {
               "idSeance": 217601,
               "dateHeure": "2026-10-24T15:00:00",
-              "idSalle": "GF",
+              "idSalle": "JE",
               "ageMinimal": 10
+            }
+          ]
+        },
+        {
+          "idFilm": 31156,
+          "content": [
+            {
+              "idFilm": 31156,
+              "ordre": 1,
+              "titre": "Cirque",
+              "art": "Le",
+              "titreVo": "Circus",
+              "artVo": "The",
+              "realisateurs": "Charles Chaplin",
+              "pays": "États-Unis",
+              "annee": 1928,
+              "ageMinimal": 4,
+              "generique": [
+                "Charles Chaplin",
+                "Merna Kennedy",
+                "Al Ernest Garcia"
+              ],
+              "miniTexte": "Poursuivi par la police, Charlot sème la pagaille dans un cirque. Un potentiel infini de gags et de pirouettes, et le cadre idéal pour toucher le cœur de la belle écuyère, amoureuse du funambule."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217695,
+              "dateHeure": "2026-11-04T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 4
             }
           ]
         },
@@ -111,7 +224,7 @@
             {
               "idFilm": 45126,
               "ordre": 1,
-              "titre": "Dumbo",
+              "titre": "Dumbo, l'éléphant volant",
               "realisateurs": "Ben Sharpsteen, Norman Ferguson, Wilfred Jackson",
               "pays": "États-Unis",
               "annee": 1941,
@@ -176,8 +289,8 @@
           ],
           "seances": [
             {
-              "idSeance": 211882,
-              "dateHeure": "2026-10-25T15:00:00",
+              "idSeance": 217693,
+              "dateHeure": "2026-11-08T15:00:00",
               "idSalle": "HL",
               "ageMinimal": 9
             }
@@ -230,6 +343,37 @@
               "dateHeure": "2026-10-21T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 5
+            }
+          ]
+        },
+        {
+          "idFilm": 41594,
+          "content": [
+            {
+              "idFilm": 41594,
+              "ordre": 1,
+              "titre": "Main au collet",
+              "art": "La",
+              "titreVo": "To Catch a Thief",
+              "realisateurs": "Alfred Hitchcock",
+              "pays": "États-Unis",
+              "annee": 1954,
+              "ageMinimal": 10,
+              "adaptation": "D'après le roman _La Main au collet_ de David Dodge.",
+              "generique": [
+                "Cary Grant",
+                "Grace Kelly",
+                "Charles Vanel"
+              ],
+              "miniTexte": "Accusé d'une série de vols de bijoux, un cambrioleur retraité sur la Côte d'Azur doit confondre le véritable coupable pour se disculper. Une comédie policière du maître Hitchcock, où le suspense le dispute à l'humour entre un bal costumé, un pique-nique ou une poursuite sur la route de la corniche."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217705,
+              "dateHeure": "2026-10-28T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 10
             }
           ]
         },
@@ -292,8 +436,33 @@
           ],
           "seances": [
             {
-              "idSeance": 217642,
-              "dateHeure": "2026-09-25T21:00:00",
+              "idSeance": 217692,
+              "dateHeure": "2026-10-07T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 8
+            }
+          ]
+        },
+        {
+          "idFilm": 77554,
+          "content": [
+            {
+              "idFilm": 77554,
+              "ordre": 1,
+              "titre": "Voyage de Chihiro",
+              "art": "Le",
+              "titreVo": "Sen to Chihiro no kamikakushi",
+              "realisateurs": "Hayao Miyazaki",
+              "pays": "Japon",
+              "annee": 2001,
+              "ageMinimal": 8,
+              "miniTexte": "Piégés dans un monde de fantômes, de sorciers et d'esclaves, la jeune Chihiro doit affronter la sorcière Yubaba pour se sauver et libérer ses parents. Un conte tourbillonnant à l'imaginaire débordant, féerie d'images, de sons et de messages cachés qui racontent aussi une certaine histoire du Japon. Un petit chef-d'œuvre, Ours d'or et Oscar du meilleur film d'animation."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217696,
+              "dateHeure": "2026-11-11T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 8
             }
@@ -321,6 +490,36 @@
               "idSeance": 217456,
               "dateHeure": "2026-10-04T15:00:00",
               "idSalle": "HL",
+              "ageMinimal": 6
+            }
+          ]
+        },
+        {
+          "idFilm": 49849,
+          "content": [
+            {
+              "idFilm": 49849,
+              "ordre": 1,
+              "titre": "Zazie dans le métro",
+              "realisateurs": "Louis Malle",
+              "pays": "France",
+              "annee": 1960,
+              "ageMinimal": 6,
+              "adaptation": "D'après le roman _Zazie dans le métro_ de Raymond Queneau.",
+              "generique": [
+                "Catherine Demongeot",
+                "Philippe Noiret",
+                "Carla Marlier",
+                "Annie Fratellini"
+              ],
+              "miniTexte": "Entre deux trucages malins, le film tendre et drôle de Louis Malle suit l'espiègle Zazie, qui sème la zizanie dans la capitale. Une peinture burlesque d'après l'œuvre de Raymond Queneau, avec ses personnages pittoresques et son langage fleuri."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217704,
+              "dateHeure": "2026-11-25T15:00:00",
+              "idSalle": "GF",
               "ageMinimal": 6
             }
           ]
