@@ -20,29 +20,36 @@
   * Soldat qui déclara la paix (Le)  
   * SS était là (Le)
 
-## Damien Odoul (21)
+## Damien Odoul (28)
 
   * À la grâce de Dieu  
   * À l'ouest de l'Orient  
   * Anima  
   * Barbots (Les)  
   * Cet enfant-là  
+  * Doby(e)do  
   * Douce (La)  
   * Elegeia  
   * En attendant le déluge  
   * Errance  
+  * Folle Parade (La)  
   * Histoire de Richard O. (L')  
   * Joug (Le)  
   * Magik  
+  * Maison des morts (La)  
   * Morasseix  
+  * Petites Épiphanies  
   * Peur (La)  
   * Réminiscences  
   * Reste du monde (Le)  
   * Richesse du loup (La)  
   * Sans monde  
   * Souffle (Le)  
+  * Tchécoslovaquie 68/89  
+  * Temps des transhumances (Le)  
   * Théo et les métamorphoses  
-  * TOB (Tête d'œuf bouilli)
+  * TOB (Tête d'œuf bouilli)  
+  * Tzotzil
 
 ## Fenêtre sur les collections (18)
 
@@ -125,7 +132,7 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (91)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (81)
 
   * Accattone  
   * Amour l'après-midi (L')  
@@ -135,15 +142,12 @@
   * Assoiffé  
   * Assurance sur la mort  
   * Au bord de la mer bleue  
-  * Au nom du père  
   * Barry Lyndon  
   * Belle et la Bête (La)  
   * Bonjour  
   * Bourreaux meurent aussi (Les)  
-  * Break-up, érotisme et ballons rouges  
   * Casque d'or  
   * Cet obscur objet du désir  
-  * Chagrin et la Pitié (Le)  
   * Chantons sous la pluie  
   * Chasse au lion à l'arc (La)  
   * Chien enragé  
@@ -176,8 +180,6 @@
   * Johnny Guitar  
   * Madame de...  
   * Maman et la Putain (La)  
-  * Martha  
-  * Meshes of the Afternoon  
   * Moissons du ciel (Les)  
   * Monsieur Klein  
   * Narcisse noir (Le)  
@@ -189,7 +191,6 @@
   * Paradis perdu  
   * Parapluies de Cherbourg (Les)  
   * Parrain (Le)  
-  * Party (La)  
   * Passagers de la nuit (Les)  
   * Passe montagne  
   * Passion  
@@ -199,7 +200,6 @@
   * Règle du jeu (La)  
   * Rio Bravo  
   * Rome, ville ouverte  
-  * Salamandre (La)  
   * Salon de musique (Le)  
   * Scènes de la vie conjugale  
   * Shanghai Gesture (The)  
@@ -207,7 +207,6 @@
   * Son nom de Venise dans Calcutta désert  
   * Suspiria  
   * Tempête à Washington  
-  * Terre en transe  
   * To Be Or Not to Be  
   * Un condamné à mort s'est échappé  
   * Une femme sous influence  
@@ -215,9 +214,7 @@
   * Vengeance est à moi (La)  
   * Voleur de bicyclette (Le)  
   * Voyage au bout de l'enfer  
-  * Wanda  
-  * Yeux sans visage (Les)  
-  * Z
+  * Yeux sans visage (Les)
 
 ## Lisandro Alonso (9)
 
@@ -266,11 +263,12 @@
   * Portobello  
   * Promeneur du Champ-de-Mars (Le)
 
-## Tai Katō (39)
+## Tai Katō (42)
 
   * Aventures de Genji Kurō, partie 1 (Les)  
   * Aventures de Genji Kurō, partie 2 (Les)  
   * Batailles sur la route  
+  * Bête dans l'ombre (La)  
   * Château en flammes (Le)  
   * Chroniques guerrières du clan Sanada  
   * Comme une flamme  
@@ -283,6 +281,7 @@
   * Huit vues du rōnin  
   * Indomptable d'Edō (L')  
   * Jeunes chevaliers d'Edō (Les)  
+  * Jiraya le ninja  
   * Joueuse de l'ère Shōwa (La)  
   * Journal d'une hirondelle (Le)  
   * Jusqu'à l'os  
@@ -301,6 +300,7 @@
   * Rōnin transi d'amour (Le)  
   * Sang de la vengeance (Le)  
   * Seigneur aux cerisiers (Le)  
+  * Serpent contre-attaque (Le)  
   * Spectre de Dame Iwa (Le)  
   * Sur la route d'Asagiri  
   * Tange Sazen et le parchemin  
