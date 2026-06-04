@@ -1,20 +1,743 @@
 {
   "datesCycle": [
-    "2026-09-27T15:00:00",
-    "2026-09-27T16:30:00"
+    "2026-09-25T20:00:00",
+    "2026-10-01T18:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
     {
       "tri": 2,
+      "titreSousCycle": "Lotte Eisner",
+      "items": [
+        {
+          "idEvenement": 37110,
+          "content": [
+            {
+              "idFilm": 155876,
+              "ordre": 1,
+              "titre": "Échos du cinéma N°25",
+              "art": "Les",
+              "realisateurs": "Inconnu Inconnu",
+              "pays": "France",
+              "annee": 1961,
+              "duree": 26,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 39740,
+              "ordre": 2,
+              "titre": "Fata Morgana",
+              "realisateurs": "Werner Herzog",
+              "pays": "RFA",
+              "annee": 1971,
+              "duree": 73,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217609,
+              "dateHeure": "2026-09-30T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Marie Epstein",
+      "items": [
+        {
+          "idEvenement": 37109,
+          "content": [
+            {
+              "idFilm": 119940,
+              "ordre": 1,
+              "titre": "Jean Epstein, la mer lyrosophe",
+              "titreVo": "Jean Epstein, Young Oceans of Cinema",
+              "realisateurs": "James June Schneider",
+              "pays": "France",
+              "annee": 2011,
+              "duree": 68,
+              "version": "VF",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 49163,
+              "ordre": 2,
+              "titre": "Cinémathèque française",
+              "art": "La",
+              "realisateurs": "Jean Herman",
+              "pays": "France",
+              "annee": 1962,
+              "duree": 8,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idFilm": 48086,
+              "ordre": 3,
+              "titre": "Cœur fidèle",
+              "realisateurs": "Jean Epstein",
+              "pays": "France",
+              "annee": 1923,
+              "duree": 84,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Léon Mathot",
+                "Gina Manès",
+                "Edmond Van Daële",
+                "Claude Bénédict",
+                "Madame Maufroy"
+              ],
+              "isFocus": true,
+              "miniTexte": "« L'œuvre d'Epstein, étant purement narrative, est à la merci du sujet. _Cœur fidèle_, par exemple, est très en dessous de sa réputation. Il n'en contient pas moins des morceaux d'une sensibilité rare qui ne vieilliront jamais. C'est un exercice de style où Epstein va s'assimiler toutes les possibilités, toutes les découvertes, toutes les apparences connues du cinéma. Et pourtant ce film, qui techniquement ne découvre rien qui ne soit déjà découvert, va être salué par la critique tout entière comme une œuvre révolutionnaire. » (Henri Langlois)"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217603,
+              "dateHeure": "2026-09-26T18:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Mary Meerson",
+      "items": [
+        {
+          "idEvenement": 37112,
+          "content": [
+            {
+              "idFilm": 155875,
+              "ordre": 1,
+              "titre": "Femmes de Langlois (TV)",
+              "art": "Les",
+              "realisateurs": "Paule Zajdermann, Martine Jouando",
+              "pays": "France",
+              "annee": 1986,
+              "duree": 15,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 36282,
+              "ordre": 2,
+              "titre": "Fleuve",
+              "art": "Le",
+              "titreVo": "River",
+              "artVo": "The",
+              "realisateurs": "Jean Renoir",
+              "pays": "États-Unis",
+              "annee": 1951,
+              "duree": 99,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _The River_ de Margaret Rumer Godden.",
+              "generique": [
+                "Nora Swinburne",
+                "Esmond Knight",
+                "Adrienne Corri"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217605,
+              "dateHeure": "2026-09-27T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Musidora",
+      "items": [
+        {
+          "idEvenement": 36655,
+          "content": [
+            {
+              "idFilm": 155651,
+              "ordre": 1,
+              "titre": "Magique Image",
+              "art": "La",
+              "realisateurs": "Musidora",
+              "pays": "France",
+              "annee": 1950,
+              "duree": 12,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "miniTexte": "Récemment retrouvé par Yvon Dupart de l'Association des amis de Musidora, _La Magique Image_ était considéré comme perdu. Sept ans avant sa mort, la cinéaste, comédienne et productrice réalise en 1950 un essai documentaire, commande d'Henri Langlois pour son festival d'Antibes : un ultime hommage à Feuillade, qui condense toute sa pensée du montage, de la mémoire et de l'image."
+            },
+            {
+              "idFilm": 50204,
+              "ordre": 2,
+              "titre": "Soleil et ombre",
+              "realisateurs": "Jacques Lasseyne, Musidora",
+              "pays": "France",
+              "annee": 1922,
+              "duree": 49,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "adaptation": "D'après la nouvelle _L'Espagnole_ de Maria Star.",
+              "generique": [
+                "Musidora",
+                "Antonio Canero",
+                "Simone Cynthia"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211177,
+              "dateHeure": "2026-09-25T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Germaine Dulac",
+      "items": [
+        {
+          "groupe": [
+            {
+              "idEvenement": 36657,
+              "content": [
+                {
+                  "idFilm": 48275,
+                  "ordre": 1,
+                  "titre": "Fête espagnole",
+                  "art": "La",
+                  "realisateurs": "Germaine Dulac",
+                  "pays": "France",
+                  "annee": 1920,
+                  "duree": 23,
+                  "version": "INT. FR.",
+                  "format": "35 mm",
+                  "generique": [
+                    "Ève Francis",
+                    "Jean Toulout",
+                    "Gaston Modot",
+                    "Robert Delsol",
+                    "Anna Gay"
+                  ]
+                },
+                {
+                  "idFilm": 41264,
+                  "ordre": 2,
+                  "titre": "Invitation au voyage",
+                  "art": "L'",
+                  "realisateurs": "Germaine Dulac",
+                  "pays": "France",
+                  "annee": 1927,
+                  "duree": 40,
+                  "version": "INT. FR.",
+                  "format": "35 mm",
+                  "adaptation": "D'après le poème _L'Invitation au voyage_ de Charles Baudelaire.",
+                  "generique": [
+                    "Emma Gynt",
+                    "Raymond Dubreuil",
+                    "Robert Mirfeuil"
+                  ]
+                },
+                {
+                  "idFilm": 57083,
+                  "ordre": 3,
+                  "titre": "Souriante Madame Beudet",
+                  "art": "La",
+                  "realisateurs": "Germaine Dulac",
+                  "pays": "France",
+                  "annee": 1923,
+                  "duree": 36,
+                  "version": "INT. FR.",
+                  "format": "35 mm",
+                  "adaptation": "D'après la pièce _La Souriante madame Beudet_ de Denys Amiel et André Obey.",
+                  "generique": [
+                    "Germaine Dermoz",
+                    "Alexandre Arquillière",
+                    "Jean d'Yd"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 37130,
+              "content": [
+                {
+                  "idConf": 37130,
+                  "ordre": 4,
+                  "titre": "Film + dialogue avec Clément Lafite",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 211307,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-10-01T18:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Renée Lichtig",
+      "items": [
+        {
+          "idEvenement": 36660,
+          "content": [
+            {
+              "idFilm": 155900,
+              "ordre": 1,
+              "titre": "Émission Clair de nuit TV",
+              "realisateurs": "Inconnu Inconnu",
+              "pays": "France",
+              "annee": 2001,
+              "duree": 20,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 37220,
+              "ordre": 2,
+              "titre": "Symphonie nuptiale",
+              "art": "La",
+              "titreVo": "Wedding March",
+              "artVo": "The",
+              "realisateurs": "Erich von Stroheim",
+              "pays": "États-Unis",
+              "annee": 1928,
+              "duree": 109,
+              "version": "Autres",
+              "format": "35 mm",
+              "generique": [
+                "Fay Wray",
+                "Zasu Pitts",
+                "Erich von Stroheim"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217604,
+              "dateHeure": "2026-09-26T20:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Jehanne d'Alcy et Madeleine Malthête-Méliès",
+      "items": [
+        {
+          "idEvenement": 36672,
+          "content": [
+            {
+              "idFilm": 155877,
+              "ordre": 1,
+              "titre": "Fantômes de la Cinémathèque – rushes",
+              "art": "Les",
+              "realisateurs": "Inconnu Inconnu",
+              "pays": "France",
+              "annee": 2002,
+              "duree": 38,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 52460,
+              "ordre": 2,
+              "titre": "Escamotage d'une dame chez Robert-Houdin",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1896,
+              "duree": 2,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "ageMinimal": 6,
+              "generique": [
+                "Georges Méliès",
+                "Jehanne d'Alcy"
+              ]
+            },
+            {
+              "idFilm": 88028,
+              "ordre": 3,
+              "titre": "Les Bulles de savon vivantes",
+              "art": "Les",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1906,
+              "duree": 4,
+              "version": "INT. FR.",
+              "format": "Numérique"
+            },
+            {
+              "idFilm": 52488,
+              "ordre": 4,
+              "titre": "Merveilleux Éventail vivant",
+              "art": "Le",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1904,
+              "duree": 4,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "generique": [
+                "Georges Méliès"
+              ]
+            },
+            {
+              "idFilm": 91186,
+              "ordre": 5,
+              "titre": "Baquet de Mesmer",
+              "art": "Le",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1905,
+              "duree": 4,
+              "version": "INT. FR.",
+              "format": "Numérique"
+            },
+            {
+              "idFilm": 91607,
+              "ordre": 6,
+              "titre": "Enchanteur Alcofribas",
+              "art": "L'",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1903,
+              "duree": 4,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 102255,
+              "ordre": 7,
+              "titre": "Tonneau des Danaïdes",
+              "art": "Le",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1900,
+              "duree": 1,
+              "version": "INT. FR.",
+              "format": ""
+            },
+            {
+              "idFilm": 102282,
+              "ordre": 8,
+              "titre": "Danseuse microscopique",
+              "art": "La",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1902,
+              "duree": 2,
+              "version": "INT. FR.",
+              "format": ""
+            },
+            {
+              "idFilm": 52514,
+              "ordre": 9,
+              "titre": "Royaume des fées",
+              "art": "Le",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1903,
+              "duree": 17,
+              "version": "INT. FR.",
+              "format": "Numérique",
+              "generique": [
+                "Georges Méliès",
+                "Bleuette Bernon",
+                "Marguerite Thévenard",
+                "Durafour"
+              ]
+            },
+            {
+              "idFilm": 84599,
+              "ordre": 10,
+              "titre": "Tentation de Saint-Antoine",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1898,
+              "duree": 1,
+              "version": "INT. FR.",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 52382,
+              "ordre": 11,
+              "titre": "Jeanne d'Arc",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1900,
+              "duree": 11,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Bleuette Bernon",
+                "Jehanne d'Alcy",
+                "Georges Méliès"
+              ]
+            },
+            {
+              "idFilm": 84852,
+              "ordre": 12,
+              "titre": "Illusionniste fin de siècle",
+              "art": "L'",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1899,
+              "duree": 2,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 9
+            },
+            {
+              "idFilm": 65733,
+              "ordre": 13,
+              "titre": "Chrysalide et le papillon d'or",
+              "art": "La",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1901,
+              "duree": 2,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 3
+            },
+            {
+              "idFilm": 52380,
+              "ordre": 14,
+              "titre": "Après le bal",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1897,
+              "duree": 1,
+              "version": "INT. FR.",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217870,
+              "dateHeure": "2026-09-26T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Sonika Bo",
+      "items": [
+        {
+          "idEvenement": 37116,
+          "content": [
+            {
+              "idFilm": 155878,
+              "ordre": 1,
+              "titre": "Cinéma sans étoiles",
+              "realisateurs": "Inconnu Inconnu",
+              "pays": "France",
+              "annee": 1963,
+              "duree": 3,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155899,
+              "ordre": 2,
+              "titre": "Cinéma : émission du 26 janvier 1967 TV",
+              "realisateurs": "Inconnu Inconnu",
+              "pays": "France",
+              "annee": 1967,
+              "duree": 2,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155897,
+              "ordre": 3,
+              "titre": "Vache donne deux choses, le lait et...",
+              "art": "La",
+              "realisateurs": "Edmond Tyborowski, Sonika Bo",
+              "pays": "France",
+              "annee": 1948,
+              "duree": 8,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 155898,
+              "ordre": 4,
+              "titre": "Elle est chez elle",
+              "realisateurs": "Sonika Bo",
+              "pays": "France",
+              "annee": 1948,
+              "duree": 6,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 51292,
+              "ordre": 5,
+              "titre": "Zanzabelle à Paris",
+              "realisateurs": "Ladislas Starewitch",
+              "pays": "France",
+              "annee": 1949,
+              "duree": 14,
+              "version": "",
+              "format": "16 mm"
+            },
+            {
+              "idFilm": 88715,
+              "ordre": 6,
+              "titre": "Gazouilly petit oiseau",
+              "realisateurs": "Ladislas Starewitch",
+              "pays": "France",
+              "annee": 1953,
+              "duree": 13,
+              "version": "",
+              "format": "16 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211278,
+              "dateHeure": "2026-09-30T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Nicole Vedrès, Sophie Derain",
+      "items": [
+        {
+          "idEvenement": 36676,
+          "content": [
+            {
+              "idFilm": 155879,
+              "ordre": 1,
+              "titre": "Démons et merveilles du cinéma",
+              "realisateurs": "Inconnu Inconnu",
+              "pays": "France",
+              "annee": 1964,
+              "duree": 9,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 144694,
+              "ordre": 2,
+              "titre": "Ciel des hommes",
+              "art": "Le",
+              "realisateurs": "Yvonne Dornès",
+              "pays": "France",
+              "annee": 1956,
+              "duree": 10,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 103082,
+              "ordre": 3,
+              "titre": "Harmonies de Paris",
+              "realisateurs": "Lucie Derain",
+              "pays": "France",
+              "annee": 1927,
+              "duree": 25,
+              "version": "INT. FR.",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 51631,
+              "ordre": 4,
+              "titre": "Paris 1900",
+              "realisateurs": "Nicole Vedrès",
+              "pays": "France",
+              "annee": 1947,
+              "duree": 80,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Claude Dauphin"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217606,
+              "dateHeure": "2026-09-27T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
       "titreSousCycle": "Homologues et alliées",
       "items": [
         {
-          "idFilm": 122155,
+          "idEvenement": 37120,
           "content": [
             {
-              "idFilm": 122155,
+              "idFilm": 155880,
               "ordre": 1,
+              "titre": "Congrès de Vence de la Fédération Internationale des Archives du Film",
+              "realisateurs": "Maurice Sigallas",
+              "pays": "France",
+              "annee": 1953,
+              "duree": 12,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155881,
+              "ordre": 2,
+              "titre": "Montage du Musée du cinéma – Mme Kawakita et Henri Langlois",
+              "realisateurs": "Eila Hershon",
+              "pays": "France",
+              "annee": 1968,
+              "duree": 5,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 122155,
+              "ordre": 3,
               "titre": "Fanchon le criquet",
               "titreVo": "Fanchon the Cricket",
               "realisateurs": "James Kirkwood",
@@ -65,10 +788,15 @@
     }
   ],
   "syntheseAction": {
-    "Séance avec dialogue": [
+    "Séances avec dialogue": [
       {
         "mention": "Film + Dialogue ",
         "dateHeure": "2026-09-27T16:30:00"
+      },
+      {
+        "titreFilms": "La Fête espagnole / L'Invitation au voyage / La Souriante Madame Beudet",
+        "mention": "Film + dialogue avec Clément Lafite",
+        "dateHeure": "2026-10-01T18:30:00"
       }
     ]
   }

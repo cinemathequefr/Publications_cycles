@@ -1,5 +1,9 @@
 # Liste des films par cycle
 
+## Archi Vives (1)
+
+  * David Copperfield
+
 ## Ciné-club de Murielle Joudet (2)
 
   * À bout de souffle  
@@ -72,17 +76,19 @@
   * Vie d'une bouteille de champagne depuis la grappe jusqu'à la coupe (La)  
   * West Beyrouth (bande-annonce)
 
-## Jean-Paul Belmondo (19)
+## Jean-Paul Belmondo (21)
 
   * Belmondo l'influenceur  
   * Cartouche  
   * Ciociara (La)  
   * Classe tous risques  
+  * Docteur Popaul  
   * Doulos (Le)  
   * Homme de Rio (L')  
   * Itinéraire d'un enfant gâté  
   * Léon Morin, prêtre  
   * Magnifique (Le)  
+  * Peur sur la ville  
   * Pierrot le fou  
   * Sirène du Mississipi (La)  
   * Stavisky  
@@ -94,9 +100,49 @@
   * Une femme est une femme  
   * Voleur (Le)
 
-## La Cinémathèque française, une histoire au féminin pluriel (1)
+## La Cinémathèque française, une histoire au féminin pluriel (41)
 
-  * Fanchon le criquet
+  * Après le bal  
+  * Baquet de Mesmer (Le)  
+  * Chrysalide et le papillon d'or (La)  
+  * Ciel des hommes (Le)  
+  * Cinéma : émission du 26 janvier 1967 TV  
+  * Cinéma sans étoiles  
+  * Cinémathèque française (La)  
+  * Cœur fidèle  
+  * Congrès de Vence de la Fédération Internationale des Archives du Film  
+  * Danseuse microscopique (La)  
+  * Démons et merveilles du cinéma  
+  * Échos du cinéma N°25 (Les)  
+  * Elle est chez elle  
+  * Émission Clair de nuit TV  
+  * Enchanteur Alcofribas (L')  
+  * Escamotage d'une dame chez Robert-Houdin  
+  * Fanchon le criquet  
+  * Fantômes de la Cinémathèque – rushes (Les)  
+  * Fata Morgana  
+  * Femmes de Langlois (TV) (Les)  
+  * Fête espagnole (La)  
+  * Fleuve (Le)  
+  * Gazouilly petit oiseau  
+  * Harmonies de Paris  
+  * Illusionniste fin de siècle (L')  
+  * Invitation au voyage (L')  
+  * Jean Epstein, la mer lyrosophe  
+  * Jeanne d'Arc  
+  * Les Bulles de savon vivantes (Les)  
+  * Magique Image (La)  
+  * Merveilleux Éventail vivant (Le)  
+  * Montage du Musée du cinéma – Mme Kawakita et Henri Langlois  
+  * Paris 1900  
+  * Royaume des fées (Le)  
+  * Soleil et ombre  
+  * Souriante Madame Beudet (La)  
+  * Symphonie nuptiale (La)  
+  * Tentation de Saint-Antoine  
+  * Tonneau des Danaïdes (Le)  
+  * Vache donne deux choses, le lait et... (La)  
+  * Zanzabelle à Paris
 
 ## Le Space opera, les indispensables (31)
 
@@ -132,9 +178,10 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (81)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (101)
 
   * Accattone  
+  * Amerika, rapports de classe  
   * Amour l'après-midi (L')  
   * Amours d'une blonde (Les)  
   * Anges du boulevard (Les)  
@@ -142,12 +189,15 @@
   * Assoiffé  
   * Assurance sur la mort  
   * Au bord de la mer bleue  
+  * Au nom du père  
   * Barry Lyndon  
   * Belle et la Bête (La)  
   * Bonjour  
   * Bourreaux meurent aussi (Les)  
+  * Break-up, érotisme et ballons rouges  
   * Casque d'or  
   * Cet obscur objet du désir  
+  * Chagrin et la Pitié (Le)  
   * Chantons sous la pluie  
   * Chasse au lion à l'arc (La)  
   * Chien enragé  
@@ -168,6 +218,7 @@
   * Femme d'à côté (La)  
   * Femme du boulanger (La)  
   * Fièvre dans le sang (La)  
+  * Furyo  
   * Gare centrale  
   * Gertrud  
   * Guépard (Le)  
@@ -179,7 +230,10 @@
   * Jetée (La)  
   * Johnny Guitar  
   * Madame de...  
+  * Maine Océan  
   * Maman et la Putain (La)  
+  * Martha  
+  * Meshes of the Afternoon  
   * Moissons du ciel (Les)  
   * Monsieur Klein  
   * Narcisse noir (Le)  
@@ -191,30 +245,42 @@
   * Paradis perdu  
   * Parapluies de Cherbourg (Les)  
   * Parrain (Le)  
+  * Party (La)  
   * Passagers de la nuit (Les)  
   * Passe montagne  
   * Passion  
+  * Playtime  
   * Pont du Nord (Le)  
   * Prisonnière du désert (La)  
   * Rebelle (Le)  
   * Règle du jeu (La)  
   * Rio Bravo  
   * Rome, ville ouverte  
+  * Sacrifice (Le)  
+  * Salamandre (La)  
   * Salon de musique (Le)  
+  * Sans toit ni loi  
   * Scènes de la vie conjugale  
   * Shanghai Gesture (The)  
+  * Shoah (deuxième époque)  
+  * Shoah (première époque)  
   * Simone Barbès ou la vertu  
   * Son nom de Venise dans Calcutta désert  
   * Suspiria  
   * Tempête à Washington  
+  * Terre en transe  
   * To Be Or Not to Be  
+  * Travail au noir  
   * Un condamné à mort s'est échappé  
   * Une femme sous influence  
   * Vacances  
+  * Variety  
   * Vengeance est à moi (La)  
   * Voleur de bicyclette (Le)  
   * Voyage au bout de l'enfer  
-  * Yeux sans visage (Les)
+  * Wanda  
+  * Yeux sans visage (Les)  
+  * Z
 
 ## Lisandro Alonso (9)
 
@@ -254,8 +320,8 @@
   * James et la pêche géante  
   * Katia et le crocodile  
   * Main au collet (La)  
-  * Voyage de Chihiro (Le)  
-  * Zazie dans le métro
+  * Monde de Nemo (Le)  
+  * Voyage de Chihiro (Le)
 
 ## Séances spéciales (3)
 

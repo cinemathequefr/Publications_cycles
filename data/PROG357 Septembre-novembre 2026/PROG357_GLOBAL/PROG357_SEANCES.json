@@ -605,6 +605,12 @@
     ],
     "items": [
       {
+        "idFilm": 62687,
+        "titre": "Meshes of the Afternoon",
+        "realisateurs": "Maya Deren, Alexander Hammid",
+        "annee": 1943
+      },
+      {
         "idFilm": 53332,
         "titre": "Ivan le Terrible",
         "realisateurs": "Sergueï M. Eisenstein",
@@ -614,7 +620,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f53332"
+    "hashEvenement": "f62687f53332"
   },
   {
     "idSeance": 217528,
@@ -662,30 +668,6 @@
       }
     ],
     "hashEvenement": "c37002"
-  },
-  {
-    "idSeance": 217517,
-    "idEvenement": 36782,
-    "dateHeure": "2026-09-24T16:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51024,
-        "titre": "Farrebique",
-        "realisateurs": "Georges Rouquier",
-        "annee": 1946,
-        "duree": 90,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f51024"
   },
   {
     "idSeance": 217772,
@@ -874,6 +856,41 @@
     "hashEvenement": "f148010"
   },
   {
+    "idSeance": 211177,
+    "idEvenement": 36655,
+    "dateHeure": "2026-09-25T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Musidora"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 155651,
+        "titre": "Magique Image",
+        "art": "La",
+        "realisateurs": "Musidora",
+        "annee": 1950,
+        "duree": 12,
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 50204,
+        "titre": "Soleil et ombre",
+        "realisateurs": "Jacques Lasseyne, Musidora",
+        "annee": 1922,
+        "duree": 49,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155651f50204"
+  },
+  {
     "idSeance": 217776,
     "idEvenement": 36782,
     "dateHeure": "2026-09-25T20:45:00",
@@ -946,6 +963,151 @@
     "hashEvenement": "f155867"
   },
   {
+    "idSeance": 217870,
+    "idEvenement": 36672,
+    "dateHeure": "2026-09-26T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Jehanne d'Alcy et Madeleine Malthête-Méliès"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155877,
+        "titre": "Fantômes de la Cinémathèque – rushes",
+        "art": "Les",
+        "realisateurs": "Inconnu Inconnu",
+        "annee": 2002,
+        "duree": 38,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 52460,
+        "titre": "Escamotage d'une dame chez Robert-Houdin",
+        "realisateurs": "Georges Méliès",
+        "annee": 1896,
+        "duree": 2,
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 88028,
+        "titre": "Les Bulles de savon vivantes",
+        "art": "Les",
+        "realisateurs": "Georges Méliès",
+        "annee": 1906,
+        "duree": 4,
+        "version": "INT. FR.",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 52488,
+        "titre": "Merveilleux Éventail vivant",
+        "art": "Le",
+        "realisateurs": "Georges Méliès",
+        "annee": 1904,
+        "duree": 4,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 91186,
+        "titre": "Baquet de Mesmer",
+        "art": "Le",
+        "realisateurs": "Georges Méliès",
+        "annee": 1905,
+        "duree": 4,
+        "version": "INT. FR.",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 91607,
+        "titre": "Enchanteur Alcofribas",
+        "art": "L'",
+        "realisateurs": "Georges Méliès",
+        "annee": 1903,
+        "duree": 4,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 102255,
+        "titre": "Tonneau des Danaïdes",
+        "art": "Le",
+        "realisateurs": "Georges Méliès",
+        "annee": 1900,
+        "duree": 1,
+        "version": "INT. FR."
+      },
+      {
+        "idFilm": 102282,
+        "titre": "Danseuse microscopique",
+        "art": "La",
+        "realisateurs": "Georges Méliès",
+        "annee": 1902,
+        "duree": 2,
+        "version": "INT. FR."
+      },
+      {
+        "idFilm": 52514,
+        "titre": "Royaume des fées",
+        "art": "Le",
+        "realisateurs": "Georges Méliès",
+        "annee": 1903,
+        "duree": 17,
+        "version": "INT. FR.",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 84599,
+        "titre": "Tentation de Saint-Antoine",
+        "realisateurs": "Georges Méliès",
+        "annee": 1898,
+        "duree": 1,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 52382,
+        "titre": "Jeanne d'Arc",
+        "realisateurs": "Georges Méliès",
+        "annee": 1900,
+        "duree": 11,
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 84852,
+        "titre": "Illusionniste fin de siècle",
+        "art": "L'",
+        "realisateurs": "Georges Méliès",
+        "annee": 1899,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 65733,
+        "titre": "Chrysalide et le papillon d'or",
+        "art": "La",
+        "realisateurs": "Georges Méliès",
+        "annee": 1901,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 52380,
+        "titre": "Après le bal",
+        "realisateurs": "Georges Méliès",
+        "annee": 1897,
+        "duree": 1,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155877f52460f88028f52488f91186f91607f102255f102282f52514f84599f52382f84852f65733f52380"
+  },
+  {
     "idSeance": 217777,
     "idEvenement": 36691,
     "dateHeure": "2026-09-26T17:30:00",
@@ -969,6 +1131,49 @@
       }
     ],
     "hashEvenement": "f41789"
+  },
+  {
+    "idSeance": 217603,
+    "idEvenement": 37109,
+    "dateHeure": "2026-09-26T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Marie Epstein"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 119940,
+        "titre": "Jean Epstein, la mer lyrosophe",
+        "realisateurs": "James June Schneider",
+        "annee": 2011,
+        "duree": 68,
+        "version": "VF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 49163,
+        "titre": "Cinémathèque française",
+        "art": "La",
+        "realisateurs": "Jean Herman",
+        "annee": 1962,
+        "duree": 8,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 48086,
+        "titre": "Cœur fidèle",
+        "realisateurs": "Jean Epstein",
+        "annee": 1923,
+        "duree": 84,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f119940f49163f48086"
   },
   {
     "idSeance": 217778,
@@ -996,8 +1201,41 @@
     "hashEvenement": "f31478"
   },
   {
+    "idSeance": 217604,
+    "idEvenement": 36660,
+    "dateHeure": "2026-09-26T20:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Renée Lichtig"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155900,
+        "titre": "Émission Clair de nuit TV",
+        "realisateurs": "Inconnu Inconnu",
+        "annee": 2001,
+        "duree": 20,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 37220,
+        "titre": "Symphonie nuptiale",
+        "art": "La",
+        "realisateurs": "Erich von Stroheim",
+        "annee": 1928,
+        "duree": 109,
+        "version": "Autres",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155900f37220"
+  },
+  {
     "idSeance": 217573,
-    "idEvenement": 36679,
+    "idEvenement": 37120,
     "dateHeure": "2026-09-27T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -1008,6 +1246,22 @@
     ],
     "items": [
       {
+        "idFilm": 155880,
+        "titre": "Congrès de Vence de la Fédération Internationale des Archives du Film",
+        "realisateurs": "Maurice Sigallas",
+        "annee": 1953,
+        "duree": 12,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155881,
+        "titre": "Montage du Musée du cinéma – Mme Kawakita et Henri Langlois",
+        "realisateurs": "Eila Hershon",
+        "annee": 1968,
+        "duree": 5,
+        "format": "DCP"
+      },
+      {
         "idFilm": 122155,
         "titre": "Fanchon le criquet",
         "realisateurs": "James Kirkwood",
@@ -1017,7 +1271,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f122155"
+    "hashEvenement": "f155880f155881f122155"
   },
   {
     "idSeance": 217467,
@@ -1065,6 +1319,40 @@
     "hashEvenement": "f139731"
   },
   {
+    "idSeance": 217605,
+    "idEvenement": 37112,
+    "dateHeure": "2026-09-27T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Mary Meerson"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155875,
+        "titre": "Femmes de Langlois (TV)",
+        "art": "Les",
+        "realisateurs": "Paule Zajdermann, Martine Jouando",
+        "annee": 1986,
+        "duree": 15,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 36282,
+        "titre": "Fleuve",
+        "art": "Le",
+        "realisateurs": "Jean Renoir",
+        "annee": 1951,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155875f36282"
+  },
+  {
     "idSeance": 217794,
     "idEvenement": 36693,
     "dateHeure": "2026-09-27T19:45:00",
@@ -1088,6 +1376,55 @@
       }
     ],
     "hashEvenement": "f37429"
+  },
+  {
+    "idSeance": 217606,
+    "idEvenement": 36676,
+    "dateHeure": "2026-09-27T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Nicole Vedrès, Sophie Derain"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155879,
+        "titre": "Démons et merveilles du cinéma",
+        "realisateurs": "Inconnu Inconnu",
+        "annee": 1964,
+        "duree": 9,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 144694,
+        "titre": "Ciel des hommes",
+        "art": "Le",
+        "realisateurs": "Yvonne Dornès",
+        "annee": 1956,
+        "duree": 10
+      },
+      {
+        "idFilm": 103082,
+        "titre": "Harmonies de Paris",
+        "realisateurs": "Lucie Derain",
+        "annee": 1927,
+        "duree": 25,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 51631,
+        "titre": "Paris 1900",
+        "realisateurs": "Nicole Vedrès",
+        "annee": 1947,
+        "duree": 80,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f155879f144694f103082f51631"
   },
   {
     "idSeance": 217795,
@@ -1190,6 +1527,70 @@
     "hashEvenement": "f45126"
   },
   {
+    "idSeance": 211278,
+    "idEvenement": 37116,
+    "dateHeure": "2026-09-30T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Sonika Bo"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155878,
+        "titre": "Cinéma sans étoiles",
+        "realisateurs": "Inconnu Inconnu",
+        "annee": 1963,
+        "duree": 3,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155899,
+        "titre": "Cinéma : émission du 26 janvier 1967 TV",
+        "realisateurs": "Inconnu Inconnu",
+        "annee": 1967,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155897,
+        "titre": "Vache donne deux choses, le lait et...",
+        "art": "La",
+        "realisateurs": "Edmond Tyborowski, Sonika Bo",
+        "annee": 1948,
+        "duree": 8,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 155898,
+        "titre": "Elle est chez elle",
+        "realisateurs": "Sonika Bo",
+        "annee": 1948,
+        "duree": 6,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 51292,
+        "titre": "Zanzabelle à Paris",
+        "realisateurs": "Ladislas Starewitch",
+        "annee": 1949,
+        "duree": 14,
+        "format": "16 mm"
+      },
+      {
+        "idFilm": 88715,
+        "titre": "Gazouilly petit oiseau",
+        "realisateurs": "Ladislas Starewitch",
+        "annee": 1953,
+        "duree": 13,
+        "format": "16 mm"
+      }
+    ],
+    "hashEvenement": "f155878f155899f155897f155898f51292f88715"
+  },
+  {
     "idSeance": 211274,
     "idEvenement": 36493,
     "dateHeure": "2026-09-30T20:00:00",
@@ -1223,6 +1624,93 @@
       }
     ],
     "hashEvenement": "f52565f54223"
+  },
+  {
+    "idSeance": 217609,
+    "idEvenement": 37110,
+    "dateHeure": "2026-09-30T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Lotte Eisner"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155876,
+        "titre": "Échos du cinéma N°25",
+        "art": "Les",
+        "realisateurs": "Inconnu Inconnu",
+        "annee": 1961,
+        "duree": 26,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 39740,
+        "titre": "Fata Morgana",
+        "realisateurs": "Werner Herzog",
+        "annee": 1971,
+        "duree": 73,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155876f39740"
+  },
+  {
+    "idSeance": 211307,
+    "idEvenement": 36657,
+    "dateHeure": "2026-10-01T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Germaine Dulac"
+      ],
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48275,
+        "titre": "Fête espagnole",
+        "art": "La",
+        "realisateurs": "Germaine Dulac",
+        "annee": 1920,
+        "duree": 23,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 41264,
+        "titre": "Invitation au voyage",
+        "art": "L'",
+        "realisateurs": "Germaine Dulac",
+        "annee": 1927,
+        "duree": 40,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 57083,
+        "titre": "Souriante Madame Beudet",
+        "art": "La",
+        "realisateurs": "Germaine Dulac",
+        "annee": 1923,
+        "duree": 36,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
+        "idConf": 37130,
+        "titre": "Dialogue avec Clément Lafite",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "f48275f41264f57083c37130"
   },
   {
     "idSeance": 217356,
@@ -1607,7 +2095,7 @@
   },
   {
     "idSeance": 217803,
-    "idEvenement": 36698,
+    "idEvenement": 37123,
     "dateHeure": "2026-10-04T14:30:00",
     "salle": "GF",
     "cycle": [
@@ -3327,8 +3815,8 @@
     "hashEvenement": "f56479"
   },
   {
-    "idSeance": 217571,
-    "idEvenement": 36097,
+    "idSeance": 217872,
+    "idEvenement": 35929,
     "dateHeure": "2026-10-21T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -3339,17 +3827,16 @@
     ],
     "items": [
       {
-        "idFilm": 155714,
-        "titre": "Journal d'une hirondelle",
-        "art": "Le",
+        "idFilm": 150503,
+        "titre": "Jusqu'à l'os",
         "realisateurs": "Tai Katō",
-        "annee": 1952,
-        "duree": 86,
+        "annee": 1966,
+        "duree": 88,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f155714"
+    "hashEvenement": "f150503"
   },
   {
     "idSeance": 211762,
@@ -3376,8 +3863,8 @@
     "hashEvenement": "f152365"
   },
   {
-    "idSeance": 211766,
-    "idEvenement": 36096,
+    "idSeance": 217873,
+    "idEvenement": 36113,
     "dateHeure": "2026-10-21T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -3388,17 +3875,16 @@
     ],
     "items": [
       {
-        "idFilm": 155713,
-        "titre": "Port de Shimizu, plus effrayant que l'enfer",
-        "art": "Le",
+        "idFilm": 155730,
+        "titre": "Dix-huit ans de prison",
         "realisateurs": "Tai Katō",
-        "annee": 1952,
-        "duree": 79,
+        "annee": 1967,
+        "duree": 91,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f155713"
+    "hashEvenement": "f155730"
   },
   {
     "idSeance": 217599,
@@ -3495,6 +3981,30 @@
       }
     ],
     "hashEvenement": "c37007"
+  },
+  {
+    "idSeance": 217830,
+    "idEvenement": 37041,
+    "dateHeure": "2026-10-22T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31424,
+        "titre": "David Copperfield",
+        "realisateurs": "George Cukor",
+        "annee": 1935,
+        "duree": 129,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f31424"
   },
   {
     "idSeance": 217821,
@@ -4708,9 +5218,9 @@
     "hashEvenement": "f155725"
   },
   {
-    "idSeance": 212059,
-    "idEvenement": 36875,
-    "dateHeure": "2026-11-02T16:30:00",
+    "idSeance": 217832,
+    "idEvenement": 36711,
+    "dateHeure": "2026-11-02T16:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4720,16 +5230,16 @@
     ],
     "items": [
       {
-        "idFilm": 41206,
-        "titre": "Il était une fois un merle chanteur",
-        "realisateurs": "Otar Iosseliani",
-        "annee": 1970,
-        "duree": 85,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 51378,
+        "titre": "Playtime",
+        "realisateurs": "Jacques Tati",
+        "annee": 1967,
+        "duree": 124,
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f41206"
+    "hashEvenement": "f51378"
   },
   {
     "idSeance": 217676,
@@ -4804,10 +5314,34 @@
     "hashEvenement": "f31156"
   },
   {
-    "idSeance": 212089,
-    "idEvenement": 35927,
+    "idSeance": 217833,
+    "idEvenement": 36803,
     "dateHeure": "2026-11-04T18:00:00",
     "salle": "GF",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 66751,
+        "titre": "Break-up, érotisme et ballons rouges",
+        "realisateurs": "Marco Ferreri",
+        "annee": 1968,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f66751"
+  },
+  {
+    "idSeance": 212089,
+    "idEvenement": 35927,
+    "dateHeure": "2026-11-04T18:30:00",
+    "salle": "HL",
     "cycle": [
       [
         "Tai Katō",
@@ -4829,10 +5363,10 @@
     "hashEvenement": "f115514"
   },
   {
-    "idSeance": 217745,
-    "idEvenement": 36716,
-    "dateHeure": "2026-11-04T19:00:00",
-    "salle": "HL",
+    "idSeance": 217834,
+    "idEvenement": 36712,
+    "dateHeure": "2026-11-04T20:30:00",
+    "salle": "GF",
     "cycle": [
       [
         "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
@@ -4841,23 +5375,23 @@
     ],
     "items": [
       {
-        "idFilm": 32001,
-        "titre": "Parrain",
-        "art": "Le",
-        "realisateurs": "Francis Ford Coppola",
-        "annee": 1972,
-        "duree": 175,
+        "idFilm": 32369,
+        "titre": "Party",
+        "art": "La",
+        "realisateurs": "Blake Edwards",
+        "annee": 1968,
+        "duree": 99,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f32001"
+    "hashEvenement": "f32369"
   },
   {
     "idSeance": 217687,
     "idEvenement": 35980,
-    "dateHeure": "2026-11-04T20:00:00",
-    "salle": "GF",
+    "dateHeure": "2026-11-04T20:45:00",
+    "salle": "HL",
     "cycle": [
       [
         "Tai Katō",
@@ -4947,9 +5481,9 @@
     "hashEvenement": "c36998"
   },
   {
-    "idSeance": 217747,
-    "idEvenement": 36974,
-    "dateHeure": "2026-11-06T16:30:00",
+    "idSeance": 217835,
+    "idEvenement": 36804,
+    "dateHeure": "2026-11-06T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4959,16 +5493,16 @@
     ],
     "items": [
       {
-        "idFilm": 51010,
-        "titre": "Amour l'après-midi",
-        "art": "L'",
-        "realisateurs": "Éric Rohmer",
-        "annee": 1972,
-        "duree": 95,
-        "format": "DCP"
+        "idFilm": 59413,
+        "titre": "Terre en transe",
+        "realisateurs": "Glauber Rocha",
+        "annee": 1967,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f51010"
+    "hashEvenement": "f59413"
   },
   {
     "idSeance": 212155,
@@ -5039,9 +5573,9 @@
     "hashEvenement": "f155601f155600f155602"
   },
   {
-    "idSeance": 217746,
-    "idEvenement": 36717,
-    "dateHeure": "2026-11-06T19:00:00",
+    "idSeance": 217836,
+    "idEvenement": 36713,
+    "dateHeure": "2026-11-06T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5051,16 +5585,15 @@
     ],
     "items": [
       {
-        "idFilm": 48450,
-        "titre": "Maman et la Putain",
-        "art": "La",
-        "realisateurs": "Jean Eustache",
-        "annee": 1973,
-        "duree": 220,
+        "idFilm": 47836,
+        "titre": "Z",
+        "realisateurs": "Costa-Gavras",
+        "annee": 1969,
+        "duree": 125,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f48450"
+    "hashEvenement": "f47836"
   },
   {
     "idSeance": 212156,
@@ -5201,9 +5734,9 @@
     "hashEvenement": "c36993"
   },
   {
-    "idSeance": 212196,
-    "idEvenement": 36876,
-    "dateHeure": "2026-11-07T17:30:00",
+    "idSeance": 217837,
+    "idEvenement": 36805,
+    "dateHeure": "2026-11-07T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5213,16 +5746,16 @@
     ],
     "items": [
       {
-        "idFilm": 46009,
-        "titre": "Scènes de la vie conjugale",
-        "realisateurs": "Ingmar Bergman",
-        "annee": 1973,
-        "duree": 168,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 50421,
+        "titre": "Chagrin et la Pitié",
+        "art": "Le",
+        "realisateurs": "Marcel Ophuls",
+        "annee": 1969,
+        "duree": 270,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f46009"
+    "hashEvenement": "f50421"
   },
   {
     "idSeance": 212193,
@@ -5247,31 +5780,6 @@
       }
     ],
     "hashEvenement": "f155690"
-  },
-  {
-    "idSeance": 217748,
-    "idEvenement": 36879,
-    "dateHeure": "2026-11-07T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 34025,
-        "titre": "Barry Lyndon",
-        "realisateurs": "Stanley Kubrick",
-        "annee": 1975,
-        "duree": 185,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f34025"
   },
   {
     "idSeance": 217693,
@@ -5302,8 +5810,8 @@
     "hashEvenement": "f47147"
   },
   {
-    "idSeance": 212214,
-    "idEvenement": 36811,
+    "idSeance": 217838,
+    "idEvenement": 36875,
     "dateHeure": "2026-11-08T17:00:00",
     "salle": "GF",
     "cycle": [
@@ -5314,18 +5822,16 @@
     ],
     "items": [
       {
-        "idFilm": 36385,
-        "titre": "Dents de la mer",
-        "art": "Les",
-        "realisateurs": "Steven Spielberg",
-        "annee": 1975,
-        "duree": 124,
+        "idFilm": 41206,
+        "titre": "Il était une fois un merle chanteur",
+        "realisateurs": "Otar Iosseliani",
+        "annee": 1970,
+        "duree": 85,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f36385"
+    "hashEvenement": "f41206"
   },
   {
     "idSeance": 217686,
@@ -5353,8 +5859,8 @@
     "hashEvenement": "f155688"
   },
   {
-    "idSeance": 212215,
-    "idEvenement": 36718,
+    "idSeance": 217839,
+    "idEvenement": 36806,
     "dateHeure": "2026-11-08T19:30:00",
     "salle": "GF",
     "cycle": [
@@ -5365,16 +5871,16 @@
     ],
     "items": [
       {
-        "idFilm": 31019,
-        "titre": "Une femme sous influence",
-        "realisateurs": "John Cassavetes",
-        "annee": 1974,
-        "duree": 146,
+        "idFilm": 34795,
+        "titre": "Wanda",
+        "realisateurs": "Barbara Loden",
+        "annee": 1970,
+        "duree": 105,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f31019"
+    "hashEvenement": "f34795"
   },
   {
     "idSeance": 217688,
@@ -5402,8 +5908,8 @@
     "hashEvenement": "f155721"
   },
   {
-    "idSeance": 212222,
-    "idEvenement": 36720,
+    "idSeance": 217840,
+    "idEvenement": 36715,
     "dateHeure": "2026-11-09T16:00:00",
     "salle": "GF",
     "cycle": [
@@ -5414,19 +5920,20 @@
     ],
     "items": [
       {
-        "idFilm": 49954,
-        "titre": "Monsieur Klein",
-        "realisateurs": "Joseph Losey",
-        "annee": 1976,
-        "duree": 122,
-        "format": "DCP"
+        "idFilm": 44666,
+        "titre": "Salamandre",
+        "art": "La",
+        "realisateurs": "Alain Tanner",
+        "annee": 1971,
+        "duree": 123,
+        "version": "VOSTF"
       }
     ],
-    "hashEvenement": "f49954"
+    "hashEvenement": "f44666"
   },
   {
-    "idSeance": 212223,
-    "idEvenement": 36880,
+    "idSeance": 217841,
+    "idEvenement": 36973,
     "dateHeure": "2026-11-09T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -5437,18 +5944,21 @@
     ],
     "items": [
       {
-        "idFilm": 53305,
-        "titre": "Son nom de Venise dans Calcutta désert",
-        "realisateurs": "Marguerite Duras",
-        "annee": 1976
+        "idFilm": 42566,
+        "titre": "Au nom du père",
+        "realisateurs": "Marco Bellocchio",
+        "annee": 1971,
+        "duree": 105,
+        "version": "VOSTA",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f53305"
+    "hashEvenement": "f42566"
   },
   {
-    "idSeance": 212224,
-    "idEvenement": 36813,
-    "dateHeure": "2026-11-09T20:30:00",
+    "idSeance": 217842,
+    "idEvenement": 36974,
+    "dateHeure": "2026-11-09T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5458,13 +5968,16 @@
     ],
     "items": [
       {
-        "idFilm": 57189,
-        "titre": "Suspiria",
-        "realisateurs": "Dario Argento",
-        "annee": 1977
+        "idFilm": 51010,
+        "titre": "Amour l'après-midi",
+        "art": "L'",
+        "realisateurs": "Éric Rohmer",
+        "annee": 1972,
+        "duree": 95,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f57189"
+    "hashEvenement": "f51010"
   },
   {
     "idSeance": 217696,
@@ -5489,29 +6002,8 @@
     "hashEvenement": "f77554"
   },
   {
-    "idSeance": 217684,
-    "idEvenement": 36814,
-    "dateHeure": "2026-11-11T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51338,
-        "titre": "Passe montagne",
-        "realisateurs": "Jean-François Stévenin",
-        "annee": 1978
-      }
-    ],
-    "hashEvenement": "f51338"
-  },
-  {
-    "idSeance": 212254,
-    "idEvenement": 35929,
+    "idSeance": 217874,
+    "idEvenement": 36097,
     "dateHeure": "2026-11-11T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -5522,20 +6014,21 @@
     ],
     "items": [
       {
-        "idFilm": 150503,
-        "titre": "Jusqu'à l'os",
+        "idFilm": 155714,
+        "titre": "Journal d'une hirondelle",
+        "art": "Le",
         "realisateurs": "Tai Katō",
-        "annee": 1966,
-        "duree": 88,
+        "annee": 1952,
+        "duree": 86,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f150503"
+    "hashEvenement": "f155714"
   },
   {
-    "idSeance": 217683,
-    "idEvenement": 36721,
+    "idSeance": 217843,
+    "idEvenement": 36716,
     "dateHeure": "2026-11-11T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -5546,13 +6039,17 @@
     ],
     "items": [
       {
-        "idFilm": 47184,
-        "titre": "Cet obscur objet du désir",
-        "realisateurs": "Luis Buñuel",
-        "annee": 1977
+        "idFilm": 32001,
+        "titre": "Parrain",
+        "art": "Le",
+        "realisateurs": "Francis Ford Coppola",
+        "annee": 1972,
+        "duree": 175,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f47184"
+    "hashEvenement": "f32001"
   },
   {
     "idSeance": 212255,
@@ -5579,9 +6076,9 @@
     "hashEvenement": "f63779"
   },
   {
-    "idSeance": 217694,
-    "idEvenement": 36883,
-    "dateHeure": "2026-11-12T16:30:00",
+    "idSeance": 217845,
+    "idEvenement": 36876,
+    "dateHeure": "2026-11-12T15:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5591,19 +6088,46 @@
     ],
     "items": [
       {
-        "idFilm": 33381,
-        "titre": "Empire contre-attaque",
-        "art": "L'",
-        "realisateurs": "Irvin Kershner",
-        "annee": 1980
+        "idFilm": 46009,
+        "titre": "Scènes de la vie conjugale",
+        "realisateurs": "Ingmar Bergman",
+        "annee": 1973,
+        "duree": 168,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f33381"
+    "hashEvenement": "f46009"
   },
   {
-    "idSeance": 212283,
-    "idEvenement": 36722,
-    "dateHeure": "2026-11-12T19:00:00",
+    "idSeance": 217879,
+    "idEvenement": 36101,
+    "dateHeure": "2026-11-12T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155718,
+        "titre": "Aventures de Genji Kurō, partie 1",
+        "art": "Les",
+        "realisateurs": "Tai Katō",
+        "annee": 1957,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155718"
+  },
+  {
+    "idSeance": 217844,
+    "idEvenement": 36717,
+    "dateHeure": "2026-11-12T19:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5613,13 +6137,41 @@
     ],
     "items": [
       {
-        "idFilm": 29605,
-        "titre": "Voyage au bout de l'enfer",
-        "realisateurs": "Michael Cimino",
-        "annee": 1978
+        "idFilm": 48450,
+        "titre": "Maman et la Putain",
+        "art": "La",
+        "realisateurs": "Jean Eustache",
+        "annee": 1973,
+        "duree": 220,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f29605"
+    "hashEvenement": "f48450"
+  },
+  {
+    "idSeance": 212285,
+    "idEvenement": 36103,
+    "dateHeure": "2026-11-12T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155720,
+        "titre": "Aventures de Genji Kurō, partie 2",
+        "art": "Les",
+        "realisateurs": "Tai Katō",
+        "annee": 1958,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155720"
   },
   {
     "idSeance": 217436,
@@ -5642,9 +6194,9 @@
     "hashEvenement": "c36999"
   },
   {
-    "idSeance": 217749,
-    "idEvenement": 36881,
-    "dateHeure": "2026-11-13T15:30:00",
+    "idSeance": 217850,
+    "idEvenement": 36718,
+    "dateHeure": "2026-11-13T16:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5654,14 +6206,88 @@
     ],
     "items": [
       {
-        "idFilm": 33685,
-        "titre": "Moissons du ciel",
-        "art": "Les",
-        "realisateurs": "Terrence Malick",
-        "annee": 1978
+        "idFilm": 31019,
+        "titre": "Une femme sous influence",
+        "realisateurs": "John Cassavetes",
+        "annee": 1974,
+        "duree": 146,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f33685"
+    "hashEvenement": "f31019"
+  },
+  {
+    "idSeance": 217880,
+    "idEvenement": 35939,
+    "dateHeure": "2026-11-13T16:45:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 63779,
+        "titre": "Chroniques guerrières du clan Sanada",
+        "realisateurs": "Tai Katō",
+        "annee": 1963,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f63779"
+  },
+  {
+    "idSeance": 217881,
+    "idEvenement": 36121,
+    "dateHeure": "2026-11-13T16:45:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155733,
+        "titre": "Comme une flamme",
+        "realisateurs": "Tai Katō",
+        "annee": 1981,
+        "duree": 147,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155733"
+  },
+  {
+    "idSeance": 217851,
+    "idEvenement": 36877,
+    "dateHeure": "2026-11-13T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 54480,
+        "titre": "Martha",
+        "realisateurs": "Rainer Werner Fassbinder",
+        "annee": 1974,
+        "duree": 112,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f54480"
   },
   {
     "idSeance": 212322,
@@ -5688,9 +6314,9 @@
     "hashEvenement": "f155818"
   },
   {
-    "idSeance": 217750,
-    "idEvenement": 36815,
-    "dateHeure": "2026-11-13T19:30:00",
+    "idSeance": 217852,
+    "idEvenement": 36879,
+    "dateHeure": "2026-11-13T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5700,14 +6326,17 @@
     ],
     "items": [
       {
-        "idFilm": 54853,
-        "titre": "Vengeance est à moi",
-        "art": "La",
-        "realisateurs": "Shōhei Imamura",
-        "annee": 1979
+        "idFilm": 34025,
+        "titre": "Barry Lyndon",
+        "realisateurs": "Stanley Kubrick",
+        "annee": 1975,
+        "duree": 185,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f54853"
+    "hashEvenement": "f34025"
   },
   {
     "idSeance": 217653,
@@ -5735,6 +6364,29 @@
     "hashEvenement": "f148174"
   },
   {
+    "idSeance": 217697,
+    "idEvenement": 36640,
+    "dateHeure": "2026-11-14T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Jean-Paul Belmondo",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50893,
+        "titre": "Stavisky",
+        "realisateurs": "Alain Resnais",
+        "annee": 1974,
+        "duree": 120,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f50893"
+  },
+  {
     "idSeance": 212358,
     "idEvenement": 36111,
     "dateHeure": "2026-11-14T15:00:00",
@@ -5759,9 +6411,35 @@
     "hashEvenement": "f155728"
   },
   {
+    "idSeance": 217854,
+    "idEvenement": 36811,
+    "dateHeure": "2026-11-14T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36385,
+        "titre": "Dents de la mer",
+        "art": "Les",
+        "realisateurs": "Steven Spielberg",
+        "annee": 1975,
+        "duree": 124,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f36385"
+  },
+  {
     "idSeance": 217685,
     "idEvenement": 36110,
-    "dateHeure": "2026-11-14T17:00:00",
+    "dateHeure": "2026-11-14T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5783,30 +6461,9 @@
     "hashEvenement": "f155727"
   },
   {
-    "idSeance": 212356,
-    "idEvenement": 36816,
-    "dateHeure": "2026-11-14T17:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51532,
-        "titre": "Simone Barbès ou la vertu",
-        "realisateurs": "Marie-Claude Treilhou",
-        "annee": 1980
-      }
-    ],
-    "hashEvenement": "f51532"
-  },
-  {
     "idSeance": 212360,
     "idEvenement": 36121,
-    "dateHeure": "2026-11-14T19:00:00",
+    "dateHeure": "2026-11-14T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5828,8 +6485,8 @@
     "hashEvenement": "f155733"
   },
   {
-    "idSeance": 212357,
-    "idEvenement": 36884,
+    "idSeance": 217855,
+    "idEvenement": 36720,
     "dateHeure": "2026-11-14T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -5840,18 +6497,19 @@
     ],
     "items": [
       {
-        "idFilm": 50955,
-        "titre": "Pont du Nord",
-        "art": "Le",
-        "realisateurs": "Jacques Rivette",
-        "annee": 1981
+        "idFilm": 49954,
+        "titre": "Monsieur Klein",
+        "realisateurs": "Joseph Losey",
+        "annee": 1976,
+        "duree": 122,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f50955"
+    "hashEvenement": "f49954"
   },
   {
-    "idSeance": 217586,
-    "idEvenement": 36640,
+    "idSeance": 217858,
+    "idEvenement": 36642,
     "dateHeure": "2026-11-15T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -5862,15 +6520,13 @@
     ],
     "items": [
       {
-        "idFilm": 50893,
-        "titre": "Stavisky",
-        "realisateurs": "Alain Resnais",
-        "annee": 1974,
-        "duree": 120,
-        "format": "DCP"
+        "idFilm": 51521,
+        "titre": "Peur sur la ville",
+        "realisateurs": "Henri Verneuil",
+        "annee": 1975
       }
     ],
-    "hashEvenement": "f50893"
+    "hashEvenement": "f51521"
   },
   {
     "idSeance": 217690,
@@ -5901,8 +6557,32 @@
     "hashEvenement": "f38069"
   },
   {
-    "idSeance": 212372,
-    "idEvenement": 36727,
+    "idSeance": 217882,
+    "idEvenement": 35939,
+    "dateHeure": "2026-11-15T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 63779,
+        "titre": "Chroniques guerrières du clan Sanada",
+        "realisateurs": "Tai Katō",
+        "annee": 1963,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f63779"
+  },
+  {
+    "idSeance": 217856,
+    "idEvenement": 36880,
     "dateHeure": "2026-11-15T17:00:00",
     "salle": "HL",
     "cycle": [
@@ -5913,13 +6593,13 @@
     ],
     "items": [
       {
-        "idFilm": 48850,
-        "titre": "Passion",
-        "realisateurs": "Jean-Luc Godard",
-        "annee": 1982
+        "idFilm": 53305,
+        "titre": "Son nom de Venise dans Calcutta désert",
+        "realisateurs": "Marguerite Duras",
+        "annee": 1976
       }
     ],
-    "hashEvenement": "f48850"
+    "hashEvenement": "f53305"
   },
   {
     "idSeance": 212377,
@@ -5947,8 +6627,8 @@
     "hashEvenement": "f63781"
   },
   {
-    "idSeance": 212373,
-    "idEvenement": 36726,
+    "idSeance": 217857,
+    "idEvenement": 36721,
     "dateHeure": "2026-11-15T19:00:00",
     "salle": "HL",
     "cycle": [
@@ -5959,19 +6639,18 @@
     ],
     "items": [
       {
-        "idFilm": 51567,
-        "titre": "Femme d'à côté",
-        "art": "La",
-        "realisateurs": "François Truffaut",
-        "annee": 1981
+        "idFilm": 47184,
+        "titre": "Cet obscur objet du désir",
+        "realisateurs": "Luis Buñuel",
+        "annee": 1977
       }
     ],
-    "hashEvenement": "f51567"
+    "hashEvenement": "f47184"
   },
   {
-    "idSeance": 212378,
-    "idEvenement": 36110,
-    "dateHeure": "2026-11-15T20:30:00",
+    "idSeance": 217883,
+    "idEvenement": 36121,
+    "dateHeure": "2026-11-15T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5981,16 +6660,16 @@
     ],
     "items": [
       {
-        "idFilm": 155727,
-        "titre": "Sur la route d'Asagiri",
+        "idFilm": 155733,
+        "titre": "Comme une flamme",
         "realisateurs": "Tai Katō",
-        "annee": 1961,
-        "duree": 83,
+        "annee": 1981,
+        "duree": 147,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f155727"
+    "hashEvenement": "f155733"
   },
   {
     "idSeance": 212386,
@@ -6063,6 +6742,27 @@
     "hashEvenement": "f99842"
   },
   {
+    "idSeance": 217860,
+    "idEvenement": 36813,
+    "dateHeure": "2026-11-18T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 57189,
+        "titre": "Suspiria",
+        "realisateurs": "Dario Argento",
+        "annee": 1977
+      }
+    ],
+    "hashEvenement": "f57189"
+  },
+  {
     "idSeance": 212417,
     "idEvenement": 35934,
     "dateHeure": "2026-11-18T18:30:00",
@@ -6088,9 +6788,9 @@
     "hashEvenement": "f63782"
   },
   {
-    "idSeance": 212414,
-    "idEvenement": 36729,
-    "dateHeure": "2026-11-18T19:00:00",
+    "idSeance": 217861,
+    "idEvenement": 36722,
+    "dateHeure": "2026-11-18T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6100,13 +6800,13 @@
     ],
     "items": [
       {
-        "idFilm": 43295,
-        "titre": "Il était une fois en Amérique",
-        "realisateurs": "Sergio Leone",
-        "annee": 1984
+        "idFilm": 29605,
+        "titre": "Voyage au bout de l'enfer",
+        "realisateurs": "Michael Cimino",
+        "annee": 1978
       }
     ],
-    "hashEvenement": "f43295"
+    "hashEvenement": "f29605"
   },
   {
     "idSeance": 212418,
@@ -6133,6 +6833,71 @@
     "hashEvenement": "f63783"
   },
   {
+    "idSeance": 217700,
+    "idEvenement": 36814,
+    "dateHeure": "2026-11-19T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51338,
+        "titre": "Passe montagne",
+        "realisateurs": "Jean-François Stévenin",
+        "annee": 1978
+      }
+    ],
+    "hashEvenement": "f51338"
+  },
+  {
+    "idSeance": 212446,
+    "idEvenement": 36881,
+    "dateHeure": "2026-11-19T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 33685,
+        "titre": "Moissons du ciel",
+        "art": "Les",
+        "realisateurs": "Terrence Malick",
+        "annee": 1978
+      }
+    ],
+    "hashEvenement": "f33685"
+  },
+  {
+    "idSeance": 212447,
+    "idEvenement": 36815,
+    "dateHeure": "2026-11-19T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 54853,
+        "titre": "Vengeance est à moi",
+        "art": "La",
+        "realisateurs": "Shōhei Imamura",
+        "annee": 1979
+      }
+    ],
+    "hashEvenement": "f54853"
+  },
+  {
     "idSeance": 217437,
     "idEvenement": 37000,
     "dateHeure": "2026-11-19T21:00:00",
@@ -6151,6 +6916,49 @@
       }
     ],
     "hashEvenement": "c37000"
+  },
+  {
+    "idSeance": 217701,
+    "idEvenement": 36883,
+    "dateHeure": "2026-11-20T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 33381,
+        "titre": "Empire contre-attaque",
+        "art": "L'",
+        "realisateurs": "Irvin Kershner",
+        "annee": 1980
+      }
+    ],
+    "hashEvenement": "f33381"
+  },
+  {
+    "idSeance": 217862,
+    "idEvenement": 36816,
+    "dateHeure": "2026-11-20T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51532,
+        "titre": "Simone Barbès ou la vertu",
+        "realisateurs": "Marie-Claude Treilhou",
+        "annee": 1980
+      }
+    ],
+    "hashEvenement": "f51532"
   },
   {
     "idSeance": 217654,
@@ -6176,6 +6984,28 @@
       }
     ],
     "hashEvenement": "f53561"
+  },
+  {
+    "idSeance": 212482,
+    "idEvenement": 36726,
+    "dateHeure": "2026-11-20T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51567,
+        "titre": "Femme d'à côté",
+        "art": "La",
+        "realisateurs": "François Truffaut",
+        "annee": 1981
+      }
+    ],
+    "hashEvenement": "f51567"
   },
   {
     "idSeance": 212485,
@@ -6226,8 +7056,8 @@
     "hashEvenement": "f48860"
   },
   {
-    "idSeance": 212521,
-    "idEvenement": 36112,
+    "idSeance": 217877,
+    "idEvenement": 36096,
     "dateHeure": "2026-11-21T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -6238,17 +7068,17 @@
     ],
     "items": [
       {
-        "idFilm": 155729,
-        "titre": "Plateau de l'opium : L'Attaque de l'escadron de l'enfer",
+        "idFilm": 155713,
+        "titre": "Port de Shimizu, plus effrayant que l'enfer",
         "art": "Le",
         "realisateurs": "Tai Katō",
-        "annee": 1966,
-        "duree": 92,
+        "annee": 1952,
+        "duree": 79,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f155729"
+    "hashEvenement": "f155713"
   },
   {
     "idSeance": 217477,
@@ -6271,9 +7101,56 @@
     "hashEvenement": "c36994"
   },
   {
-    "idSeance": 212522,
-    "idEvenement": 35932,
+    "idSeance": 217876,
+    "idEvenement": 36112,
     "dateHeure": "2026-11-21T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155729,
+        "titre": "Plateau de l'opium : L'Attaque de l'escadron de l'enfer",
+        "art": "Le",
+        "realisateurs": "Tai Katō",
+        "annee": 1966,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155729"
+  },
+  {
+    "idSeance": 212519,
+    "idEvenement": 36884,
+    "dateHeure": "2026-11-21T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50955,
+        "titre": "Pont du Nord",
+        "art": "Le",
+        "realisateurs": "Jacques Rivette",
+        "annee": 1981
+      }
+    ],
+    "hashEvenement": "f50955"
+  },
+  {
+    "idSeance": 217875,
+    "idEvenement": 35932,
+    "dateHeure": "2026-11-21T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6294,30 +7171,6 @@
       }
     ],
     "hashEvenement": "f63787"
-  },
-  {
-    "idSeance": 212523,
-    "idEvenement": 36113,
-    "dateHeure": "2026-11-21T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Tai Katō",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155730,
-        "titre": "Dix-huit ans de prison",
-        "realisateurs": "Tai Katō",
-        "annee": 1967,
-        "duree": 91,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f155730"
   },
   {
     "idSeance": 212534,
@@ -6349,6 +7202,27 @@
     "hashEvenement": "f47154"
   },
   {
+    "idSeance": 212535,
+    "idEvenement": 36727,
+    "dateHeure": "2026-11-22T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48850,
+        "titre": "Passion",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 1982
+      }
+    ],
+    "hashEvenement": "f48850"
+  },
+  {
     "idSeance": 212540,
     "idEvenement": 35935,
     "dateHeure": "2026-11-22T17:30:00",
@@ -6371,6 +7245,27 @@
       }
     ],
     "hashEvenement": "f63785"
+  },
+  {
+    "idSeance": 212536,
+    "idEvenement": 36818,
+    "dateHeure": "2026-11-22T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41099,
+        "titre": "Travail au noir",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1982
+      }
+    ],
+    "hashEvenement": "f41099"
   },
   {
     "idSeance": 212541,
@@ -6396,6 +7291,51 @@
       }
     ],
     "hashEvenement": "f155731"
+  },
+  {
+    "idSeance": 217702,
+    "idEvenement": 36819,
+    "dateHeure": "2026-11-23T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46282,
+        "titre": "Variety",
+        "realisateurs": "Bette Gordon",
+        "annee": 1983
+      }
+    ],
+    "hashEvenement": "f46282"
+  },
+  {
+    "idSeance": 217884,
+    "idEvenement": 35933,
+    "dateHeure": "2026-11-23T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 63777,
+        "titre": "Liens de sang",
+        "realisateurs": "Tai Katō",
+        "annee": 1962,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f63777"
   },
   {
     "idSeance": 212550,
@@ -6448,8 +7388,8 @@
     "hashEvenement": "f155874"
   },
   {
-    "idSeance": 217704,
-    "idEvenement": 37095,
+    "idSeance": 217867,
+    "idEvenement": 37129,
     "dateHeure": "2026-11-25T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -6460,13 +7400,84 @@
     ],
     "items": [
       {
-        "idFilm": 49849,
-        "titre": "Zazie dans le métro",
-        "realisateurs": "Louis Malle",
-        "annee": 1960
+        "idFilm": 87357,
+        "titre": "Monde de Nemo",
+        "art": "Le",
+        "realisateurs": "Andrew Stanton, Lee Unkrich",
+        "annee": 2002
       }
     ],
-    "hashEvenement": "f49849"
+    "hashEvenement": "f87357"
+  },
+  {
+    "idSeance": 217885,
+    "idEvenement": 36102,
+    "dateHeure": "2026-11-25T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155719,
+        "titre": "Seigneur aux cerisiers",
+        "art": "Le",
+        "realisateurs": "Tai Katō",
+        "annee": 1958,
+        "duree": 82,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155719"
+  },
+  {
+    "idSeance": 212577,
+    "idEvenement": 36728,
+    "dateHeure": "2026-11-25T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35368,
+        "titre": "Furyo",
+        "realisateurs": "Nagisa Ōshima",
+        "annee": 1983
+      }
+    ],
+    "hashEvenement": "f35368"
+  },
+  {
+    "idSeance": 212582,
+    "idEvenement": 35981,
+    "dateHeure": "2026-11-25T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155689,
+        "titre": "Miyamoto Musashi",
+        "realisateurs": "Tai Katō",
+        "annee": 1973,
+        "duree": 148,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155689"
   },
   {
     "idSeance": 217439,
@@ -6487,6 +7498,48 @@
       }
     ],
     "hashEvenement": "c37006"
+  },
+  {
+    "idSeance": 217868,
+    "idEvenement": 36822,
+    "dateHeure": "2026-11-26T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 55934,
+        "titre": "Maine Océan",
+        "realisateurs": "Jacques Rozier",
+        "annee": 1986
+      }
+    ],
+    "hashEvenement": "f55934"
+  },
+  {
+    "idSeance": 217863,
+    "idEvenement": 36886,
+    "dateHeure": "2026-11-26T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51614,
+        "titre": "Sans toit ni loi",
+        "realisateurs": "Agnès Varda",
+        "annee": 1985
+      }
+    ],
+    "hashEvenement": "f51614"
   },
   {
     "idSeance": 217681,
@@ -6514,6 +7567,76 @@
     "hashEvenement": "f76160"
   },
   {
+    "idSeance": 212611,
+    "idEvenement": 36111,
+    "dateHeure": "2026-11-26T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155728,
+        "titre": "Tange Sazen et le parchemin",
+        "realisateurs": "Tai Katō",
+        "annee": 1962,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155728"
+  },
+  {
+    "idSeance": 212610,
+    "idEvenement": 36820,
+    "dateHeure": "2026-11-26T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 39503,
+        "titre": "Amerika, rapports de classe",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1984
+      }
+    ],
+    "hashEvenement": "f39503"
+  },
+  {
+    "idSeance": 217886,
+    "idEvenement": 36117,
+    "dateHeure": "2026-11-26T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155732,
+        "titre": "Fleur et l'Épée",
+        "art": "La",
+        "realisateurs": "Tai Katō",
+        "annee": 1973,
+        "duree": 150,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155732"
+  },
+  {
     "idSeance": 217441,
     "idEvenement": 36997,
     "dateHeure": "2026-11-27T14:30:00",
@@ -6536,7 +7659,7 @@
   {
     "idSeance": 217655,
     "idEvenement": 36932,
-    "dateHeure": "2026-11-27T19:00:00",
+    "dateHeure": "2026-11-27T18:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -6557,6 +7680,27 @@
       }
     ],
     "hashEvenement": "f41167"
+  },
+  {
+    "idSeance": 212644,
+    "idEvenement": 36729,
+    "dateHeure": "2026-11-27T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43295,
+        "titre": "Il était une fois en Amérique",
+        "realisateurs": "Sergio Leone",
+        "annee": 1984
+      }
+    ],
+    "hashEvenement": "f43295"
   },
   {
     "idSeance": 212646,
@@ -6582,7 +7726,7 @@
   {
     "idSeance": 212648,
     "idEvenement": 36931,
-    "dateHeure": "2026-11-27T21:00:00",
+    "dateHeure": "2026-11-27T20:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -6628,29 +7772,25 @@
     "hashEvenement": "f91556"
   },
   {
-    "idSeance": 212680,
-    "idEvenement": 36117,
+    "idSeance": 217887,
+    "idEvenement": 36639,
     "dateHeure": "2026-11-28T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Tai Katō",
+        "Jean-Paul Belmondo",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 155732,
-        "titre": "Fleur et l'Épée",
-        "art": "La",
-        "realisateurs": "Tai Katō",
-        "annee": 1973,
-        "duree": 150,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 47450,
+        "titre": "Docteur Popaul",
+        "realisateurs": "Claude Chabrol",
+        "annee": 1972
       }
     ],
-    "hashEvenement": "f155732"
+    "hashEvenement": "f47450"
   },
   {
     "idSeance": 212684,
@@ -6676,6 +7816,33 @@
     "hashEvenement": "f99875"
   },
   {
+    "idSeance": 217864,
+    "idEvenement": 36730,
+    "dateHeure": "2026-11-28T17:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155526,
+        "titre": "Shoah (première époque)",
+        "realisateurs": "Claude Lanzmann",
+        "annee": 1985
+      },
+      {
+        "idFilm": 155527,
+        "titre": "Shoah (deuxième époque)",
+        "realisateurs": "Claude Lanzmann",
+        "annee": 1985
+      }
+    ],
+    "hashEvenement": "f155526f155527"
+  },
+  {
     "idSeance": 212685,
     "idEvenement": 37031,
     "dateHeure": "2026-11-28T19:30:00",
@@ -6698,6 +7865,33 @@
       }
     ],
     "hashEvenement": "f104707"
+  },
+  {
+    "idSeance": 217865,
+    "idEvenement": 36730,
+    "dateHeure": "2026-11-28T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155526,
+        "titre": "Shoah (première époque)",
+        "realisateurs": "Claude Lanzmann",
+        "annee": 1985
+      },
+      {
+        "idFilm": 155527,
+        "titre": "Shoah (deuxième époque)",
+        "realisateurs": "Claude Lanzmann",
+        "annee": 1985
+      }
+    ],
+    "hashEvenement": "f155526f155527"
   },
   {
     "idSeance": 212686,
@@ -6789,6 +7983,28 @@
       }
     ],
     "hashEvenement": "f123527"
+  },
+  {
+    "idSeance": 217869,
+    "idEvenement": 36732,
+    "dateHeure": "2026-11-29T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45008,
+        "titre": "Sacrifice",
+        "art": "Le",
+        "realisateurs": "Andreï Tarkovski",
+        "annee": 1986
+      }
+    ],
+    "hashEvenement": "f45008"
   },
   {
     "idSeance": 212704,

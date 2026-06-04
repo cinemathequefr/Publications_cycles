@@ -314,8 +314,12 @@
     "dureeSeance": 225,
     "items": [
       {
+        "idFilm": 62687,
+        "ordre": 1
+      },
+      {
         "idFilm": 53332,
-        "ordre": 1,
+        "ordre": 2,
         "idSeance": 217637,
         "idCopie": 31292,
         "duree": 190,
@@ -344,29 +348,6 @@
         "duree": 94,
         "version": "",
         "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
-    "idEvenement": 36782,
-    "idSeance": 217517,
-    "dateHeure": "2026-09-24T16:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 51024,
-        "ordre": 1,
-        "idSeance": 217517,
-        "idCopie": 12322,
-        "duree": 90,
-        "version": "VOSTF",
-        "format": "35 mm"
       }
     ]
   },
@@ -788,7 +769,7 @@
   {
     "idCategorie": 4219,
     "typeEvenement": 13,
-    "idEvenement": 36698,
+    "idEvenement": 37123,
     "idSeance": 217803,
     "dateHeure": "2026-10-04T14:30:00",
     "idSalle": [
@@ -1405,9 +1386,148 @@
   {
     "idCategorie": 4219,
     "typeEvenement": 13,
+    "idEvenement": 36711,
+    "idSeance": 217832,
+    "dateHeure": "2026-11-02T16:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 51378,
+        "ordre": 1,
+        "idSeance": 217832,
+        "idCopie": 280,
+        "duree": 124,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36803,
+    "idSeance": 217833,
+    "dateHeure": "2026-11-04T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 66751,
+        "ordre": 1,
+        "idSeance": 217833,
+        "idCopie": 10691,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36712,
+    "idSeance": 217834,
+    "dateHeure": "2026-11-04T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 32369,
+        "ordre": 1,
+        "idSeance": 217834,
+        "idCopie": 3440,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36804,
+    "idSeance": 217835,
+    "dateHeure": "2026-11-06T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 59413,
+        "ordre": 1,
+        "idSeance": 217835,
+        "idCopie": 4414,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36713,
+    "idSeance": 217836,
+    "dateHeure": "2026-11-06T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 47836,
+        "ordre": 1,
+        "idSeance": 217836,
+        "idCopie": 22776,
+        "duree": 125,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36805,
+    "idSeance": 217837,
+    "dateHeure": "2026-11-07T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 300,
+    "items": [
+      {
+        "idFilm": 50421,
+        "ordre": 1,
+        "idSeance": 217837,
+        "idCopie": 11624,
+        "duree": 270,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
     "idEvenement": 36875,
-    "idSeance": 212059,
-    "dateHeure": "2026-11-02T16:30:00",
+    "idSeance": 217838,
+    "dateHeure": "2026-11-08T17:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1417,7 +1537,7 @@
       {
         "idFilm": 41206,
         "ordre": 1,
-        "idSeance": 212059,
+        "idSeance": 217838,
         "idCopie": 32047,
         "duree": 85,
         "version": "VOSTF",
@@ -1428,21 +1548,21 @@
   {
     "idCategorie": 4219,
     "typeEvenement": 13,
-    "idEvenement": 36716,
-    "idSeance": 217745,
-    "dateHeure": "2026-11-04T19:00:00",
+    "idEvenement": 36806,
+    "idSeance": 217839,
+    "dateHeure": "2026-11-08T19:30:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
-    "dureeSeance": 210,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 32001,
+        "idFilm": 34795,
         "ordre": 1,
-        "idSeance": 217745,
-        "idCopie": 5904,
-        "duree": 175,
+        "idSeance": 217839,
+        "idCopie": 13326,
+        "duree": 105,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -1451,9 +1571,55 @@
   {
     "idCategorie": 4219,
     "typeEvenement": 13,
+    "idEvenement": 36715,
+    "idSeance": 217840,
+    "dateHeure": "2026-11-09T16:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 44666,
+        "ordre": 1,
+        "idSeance": 217840,
+        "idCopie": 12272,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36973,
+    "idSeance": 217841,
+    "dateHeure": "2026-11-09T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 42566,
+        "ordre": 1,
+        "idSeance": 217841,
+        "idCopie": 10171,
+        "duree": 105,
+        "version": "VOSTA",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
     "idEvenement": 36974,
-    "idSeance": 217747,
-    "dateHeure": "2026-11-06T16:30:00",
+    "idSeance": 217842,
+    "dateHeure": "2026-11-09T20:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1463,7 +1629,7 @@
       {
         "idFilm": 51010,
         "ordre": 1,
-        "idSeance": 217747,
+        "idSeance": 217842,
         "idCopie": 16205,
         "duree": 95,
         "version": "",
@@ -1474,22 +1640,22 @@
   {
     "idCategorie": 4219,
     "typeEvenement": 13,
-    "idEvenement": 36717,
-    "idSeance": 217746,
-    "dateHeure": "2026-11-06T19:00:00",
+    "idEvenement": 36716,
+    "idSeance": 217843,
+    "dateHeure": "2026-11-11T20:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
-    "dureeSeance": 255,
+    "dureeSeance": 210,
     "items": [
       {
-        "idFilm": 48450,
+        "idFilm": 32001,
         "ordre": 1,
-        "idSeance": 217746,
-        "idCopie": 32048,
-        "duree": 220,
-        "version": "",
+        "idSeance": 217843,
+        "idCopie": 5904,
+        "duree": 175,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ]
@@ -1498,8 +1664,8 @@
     "idCategorie": 4219,
     "typeEvenement": 13,
     "idEvenement": 36876,
-    "idSeance": 212196,
-    "dateHeure": "2026-11-07T17:30:00",
+    "idSeance": 217845,
+    "dateHeure": "2026-11-12T15:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1509,7 +1675,7 @@
       {
         "idFilm": 46009,
         "ordre": 1,
-        "idSeance": 212196,
+        "idSeance": 217845,
         "idCopie": 15443,
         "duree": 168,
         "version": "VOSTF",
@@ -1520,19 +1686,88 @@
   {
     "idCategorie": 4219,
     "typeEvenement": 13,
-    "idEvenement": 36879,
-    "idSeance": 217748,
-    "dateHeure": "2026-11-07T20:45:00",
+    "idEvenement": 36717,
+    "idSeance": 217844,
+    "dateHeure": "2026-11-12T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 255,
+    "items": [
+      {
+        "idFilm": 48450,
+        "ordre": 1,
+        "idSeance": 217844,
+        "idCopie": 32048,
+        "duree": 220,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36718,
+    "idSeance": 217850,
+    "dateHeure": "2026-11-13T16:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
+    ],
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 31019,
+        "ordre": 1,
+        "idSeance": 217850,
+        "idCopie": 11615,
+        "duree": 146,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36877,
+    "idSeance": 217851,
+    "dateHeure": "2026-11-13T18:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 54480,
+        "ordre": 1,
+        "idSeance": 217851,
+        "idCopie": 14090,
+        "duree": 112,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36879,
+    "idSeance": 217852,
+    "dateHeure": "2026-11-13T20:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
     ],
     "dureeSeance": 210,
     "items": [
       {
         "idFilm": 34025,
         "ordre": 1,
-        "idSeance": 217748,
+        "idSeance": 217852,
         "idCopie": 11625,
         "duree": 185,
         "version": "VOSTF",
@@ -1545,18 +1780,18 @@
     "idCategorie": 4219,
     "typeEvenement": 13,
     "idEvenement": 36811,
-    "idSeance": 212214,
-    "dateHeure": "2026-11-08T17:00:00",
+    "idSeance": 217854,
+    "dateHeure": "2026-11-14T17:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
     "dureeSeance": 150,
     "items": [
       {
         "idFilm": 36385,
         "ordre": 1,
-        "idSeance": 212214,
+        "idSeance": 217854,
         "idCopie": 32049,
         "duree": 124,
         "version": "VOSTF",
@@ -1568,226 +1803,23 @@
   {
     "idCategorie": 4219,
     "typeEvenement": 13,
-    "idEvenement": 36718,
-    "idSeance": 212215,
-    "dateHeure": "2026-11-08T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 180,
-    "items": [
-      {
-        "idFilm": 31019,
-        "ordre": 1,
-        "idSeance": 212215,
-        "idCopie": 11615,
-        "duree": 146,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
     "idEvenement": 36720,
-    "idSeance": 212222,
-    "dateHeure": "2026-11-09T16:00:00",
+    "idSeance": 217855,
+    "dateHeure": "2026-11-14T20:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
     "dureeSeance": 150,
     "items": [
       {
         "idFilm": 49954,
         "ordre": 1,
-        "idSeance": 212222,
+        "idSeance": 217855,
         "idCopie": 9349,
         "duree": 122,
         "version": "",
         "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
-    "idEvenement": 36880,
-    "idSeance": 212223,
-    "dateHeure": "2026-11-09T18:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 53305,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
-    "idEvenement": 36813,
-    "idSeance": 212224,
-    "dateHeure": "2026-11-09T20:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 57189,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
-    "idEvenement": 36814,
-    "idSeance": 217684,
-    "dateHeure": "2026-11-11T18:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 51338,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
-    "idEvenement": 36721,
-    "idSeance": 217683,
-    "dateHeure": "2026-11-11T20:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 47184,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
-    "idEvenement": 36883,
-    "idSeance": 217694,
-    "dateHeure": "2026-11-12T16:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 33381,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
-    "idEvenement": 36722,
-    "idSeance": 212283,
-    "dateHeure": "2026-11-12T19:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 29605,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
-    "idEvenement": 36881,
-    "idSeance": 217749,
-    "dateHeure": "2026-11-13T15:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 33685,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
-    "idEvenement": 36815,
-    "idSeance": 217750,
-    "dateHeure": "2026-11-13T19:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 54853,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
-    "idEvenement": 36816,
-    "idSeance": 212356,
-    "dateHeure": "2026-11-14T17:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 51532,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 4219,
-    "typeEvenement": 13,
-    "idEvenement": 36884,
-    "idSeance": 212357,
-    "dateHeure": "2026-11-14T20:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 50955,
-        "ordre": 1
       }
     ]
   },
@@ -1817,8 +1849,8 @@
   {
     "idCategorie": 4219,
     "typeEvenement": 13,
-    "idEvenement": 36727,
-    "idSeance": 212372,
+    "idEvenement": 36880,
+    "idSeance": 217856,
     "dateHeure": "2026-11-15T17:00:00",
     "idSalle": [
       "HL",
@@ -1827,7 +1859,151 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 48850,
+        "idFilm": 53305,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36721,
+    "idSeance": 217857,
+    "dateHeure": "2026-11-15T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 47184,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36813,
+    "idSeance": 217860,
+    "dateHeure": "2026-11-18T18:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 57189,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36722,
+    "idSeance": 217861,
+    "dateHeure": "2026-11-18T20:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 29605,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36814,
+    "idSeance": 217700,
+    "dateHeure": "2026-11-19T16:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 51338,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36881,
+    "idSeance": 212446,
+    "dateHeure": "2026-11-19T18:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 33685,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36815,
+    "idSeance": 212447,
+    "dateHeure": "2026-11-19T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 54853,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36883,
+    "idSeance": 217701,
+    "dateHeure": "2026-11-20T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 33381,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36816,
+    "idSeance": 217862,
+    "dateHeure": "2026-11-20T18:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 51532,
         "ordre": 1
       }
     ]
@@ -1836,8 +2012,8 @@
     "idCategorie": 4219,
     "typeEvenement": 13,
     "idEvenement": 36726,
-    "idSeance": 212373,
-    "dateHeure": "2026-11-15T19:00:00",
+    "idSeance": 212482,
+    "dateHeure": "2026-11-20T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1853,9 +2029,153 @@
   {
     "idCategorie": 4219,
     "typeEvenement": 13,
+    "idEvenement": 36884,
+    "idSeance": 212519,
+    "dateHeure": "2026-11-21T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 50955,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36727,
+    "idSeance": 212535,
+    "dateHeure": "2026-11-22T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 48850,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36818,
+    "idSeance": 212536,
+    "dateHeure": "2026-11-22T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 41099,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36819,
+    "idSeance": 217702,
+    "dateHeure": "2026-11-23T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 46282,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36728,
+    "idSeance": 212577,
+    "dateHeure": "2026-11-25T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 35368,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36822,
+    "idSeance": 217868,
+    "dateHeure": "2026-11-26T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 55934,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36886,
+    "idSeance": 217863,
+    "dateHeure": "2026-11-26T18:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 51614,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36820,
+    "idSeance": 212610,
+    "dateHeure": "2026-11-26T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 39503,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
     "idEvenement": 36729,
-    "idSeance": 212414,
-    "dateHeure": "2026-11-18T19:00:00",
+    "idSeance": 212644,
+    "dateHeure": "2026-11-27T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1864,6 +2184,68 @@
     "items": [
       {
         "idFilm": 43295,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36730,
+    "idSeance": 217864,
+    "dateHeure": "2026-11-28T17:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 155526,
+        "ordre": 1
+      },
+      {
+        "idFilm": 155527,
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36730,
+    "idSeance": 217865,
+    "dateHeure": "2026-11-28T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 155526,
+        "ordre": 1
+      },
+      {
+        "idFilm": 155527,
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 4219,
+    "typeEvenement": 13,
+    "idEvenement": 36732,
+    "idSeance": 217869,
+    "dateHeure": "2026-11-29T18:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 45008,
         "ordre": 1
       }
     ]
