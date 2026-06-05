@@ -711,76 +711,69 @@
       "titreSousCycle": "Homologues et alliées",
       "items": [
         {
-          "idEvenement": 37120,
-          "content": [
+          "groupe": [
             {
-              "idFilm": 155880,
-              "ordre": 1,
-              "titre": "Congrès de Vence de la Fédération Internationale des Archives du Film",
-              "realisateurs": "Maurice Sigallas",
-              "pays": "France",
-              "annee": 1953,
-              "duree": 12,
-              "version": "",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 155881,
-              "ordre": 2,
-              "titre": "Montage du Musée du cinéma – Mme Kawakita et Henri Langlois",
-              "realisateurs": "Eila Hershon",
-              "pays": "France",
-              "annee": 1968,
-              "duree": 5,
-              "version": "",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 122155,
-              "ordre": 3,
-              "titre": "Fanchon le criquet",
-              "titreVo": "Fanchon the Cricket",
-              "realisateurs": "James Kirkwood",
-              "pays": "États-Unis",
-              "annee": 1915,
-              "duree": 72,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "generique": [
-                "Mary Pickford",
-                "Jack Standing",
-                "Lottie Pickford"
+              "idEvenement": 37120,
+              "content": [
+                {
+                  "idFilm": 155880,
+                  "ordre": 1,
+                  "titre": "Congrès de Vence de la Fédération Internationale des Archives du Film",
+                  "realisateurs": "Maurice Sigallas",
+                  "pays": "France",
+                  "annee": 1953,
+                  "duree": 12,
+                  "version": "",
+                  "format": "DCP"
+                },
+                {
+                  "idFilm": 155881,
+                  "ordre": 2,
+                  "titre": "Montage du Musée du cinéma – Mme Kawakita et Henri Langlois",
+                  "realisateurs": "Eila Hershon",
+                  "pays": "France",
+                  "annee": 1968,
+                  "duree": 5,
+                  "version": "",
+                  "format": "DCP"
+                },
+                {
+                  "idFilm": 122155,
+                  "ordre": 3,
+                  "titre": "Fanchon le criquet",
+                  "titreVo": "Fanchon the Cricket",
+                  "realisateurs": "James Kirkwood",
+                  "pays": "États-Unis",
+                  "annee": 1915,
+                  "duree": 72,
+                  "version": "INT. FR.",
+                  "format": "DCP",
+                  "generique": [
+                    "Mary Pickford",
+                    "Jack Standing",
+                    "Lottie Pickford"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 217573,
-              "dateHeure": "2026-09-27T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 36989,
-          "content": [
-            {
-              "idConf": 36989,
-              "titre": "Film + Dialogue ",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217467,
-              "dateHeure": "2026-09-27T16:30:00",
-              "idSalle": "GF"
+              "idEvenement": 36989,
+              "content": [
+                {
+                  "idConf": 36989,
+                  "ordre": 4,
+                  "titre": "Film + Dialogue ",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217573,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-09-27T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         }
@@ -790,8 +783,9 @@
   "syntheseAction": {
     "Séances avec dialogue": [
       {
+        "titreFilms": "Congrès de Vence de la Fédération Internationale des Archives du Film / Montage du Musée du cinéma – Mme Kawakita et Henri Langlois / Fanchon le criquet",
         "mention": "Film + Dialogue ",
-        "dateHeure": "2026-09-27T16:30:00"
+        "dateHeure": "2026-09-27T15:00:00"
       },
       {
         "titreFilms": "La Fête espagnole / L'Invitation au voyage / La Souriante Madame Beudet",

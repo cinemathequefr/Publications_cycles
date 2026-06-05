@@ -178,7 +178,7 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (101)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (100)
 
   * Accattone  
   * Amerika, rapports de classe  
@@ -262,7 +262,6 @@
   * Sans toit ni loi  
   * Scènes de la vie conjugale  
   * Shanghai Gesture (The)  
-  * Shoah (deuxième époque)  
   * Shoah (première époque)  
   * Simone Barbès ou la vertu  
   * Son nom de Venise dans Calcutta désert  
@@ -329,7 +328,7 @@
   * Portobello  
   * Promeneur du Champ-de-Mars (Le)
 
-## Tai Katō (42)
+## Tai Katō (43)
 
   * Aventures de Genji Kurō, partie 1 (Les)  
   * Aventures de Genji Kurō, partie 2 (Les)  
@@ -362,6 +361,7 @@
   * Port de Shimizu, plus effrayant que l'enfer (Le)  
   * Problèmes d'épées et problèmes de femmes, partie 1  
   * Problèmes d'épées et problèmes de femmes, partie 2  
+  * Rashōmon  
   * Requiem pour un massacre  
   * Rōnin transi d'amour (Le)  
   * Sang de la vengeance (Le)  

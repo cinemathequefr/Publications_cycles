@@ -171,8 +171,8 @@
     "hashEvenement": "f56960"
   },
   {
-    "idSeance": 211016,
-    "idEvenement": 36925,
+    "idSeance": 211017,
+    "idEvenement": 36927,
     "dateHeure": "2026-09-18T18:45:00",
     "salle": "GF",
     "cycle": [
@@ -183,17 +183,16 @@
     ],
     "items": [
       {
-        "idFilm": 73720,
-        "titre": "École des mendiants",
-        "art": "L'",
-        "realisateurs": "Herbert Brenon",
-        "annee": 1925,
-        "duree": 75,
-        "version": "INT. FR.",
-        "format": "DCP"
+        "idFilm": 73724,
+        "titre": "Un conte d'apothicaire",
+        "realisateurs": "A. Edward Sutherland",
+        "annee": 1926,
+        "duree": 70,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f73720"
+    "hashEvenement": "f73724"
   },
   {
     "idSeance": 211018,
@@ -245,8 +244,8 @@
     "hashEvenement": "f50877"
   },
   {
-    "idSeance": 211017,
-    "idEvenement": 36927,
+    "idSeance": 211016,
+    "idEvenement": 36925,
     "dateHeure": "2026-09-18T20:45:00",
     "salle": "GF",
     "cycle": [
@@ -257,16 +256,17 @@
     ],
     "items": [
       {
-        "idFilm": 73724,
-        "titre": "Un conte d'apothicaire",
-        "realisateurs": "A. Edward Sutherland",
-        "annee": 1926,
-        "duree": 70,
-        "version": "VO",
-        "format": "35 mm"
+        "idFilm": 73720,
+        "titre": "École des mendiants",
+        "art": "L'",
+        "realisateurs": "Herbert Brenon",
+        "annee": 1925,
+        "duree": 75,
+        "version": "INT. FR.",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f73724"
+    "hashEvenement": "f73720"
   },
   {
     "idSeance": 217380,
@@ -608,7 +608,9 @@
         "idFilm": 62687,
         "titre": "Meshes of the Afternoon",
         "realisateurs": "Maya Deren, Alexander Hammid",
-        "annee": 1943
+        "annee": 1943,
+        "duree": 14,
+        "format": "Numérique"
       },
       {
         "idFilm": 53332,
@@ -1242,6 +1244,10 @@
       [
         "La Cinémathèque française, une histoire au féminin pluriel",
         "Homologues et alliées"
+      ],
+      [
+        "La Cinémathèque française, une histoire au féminin pluriel",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1268,30 +1274,15 @@
         "annee": 1915,
         "duree": 72,
         "version": "INT. FR.",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f155880f155881f122155"
-  },
-  {
-    "idSeance": 217467,
-    "idEvenement": 36989,
-    "dateHeure": "2026-09-27T16:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "La Cinémathèque française, une histoire au féminin pluriel",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+        "format": "DCP"
+      },
       {
         "idConf": 36989,
         "titre": "Dialogue ",
         "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "c36989"
+    "hashEvenement": "f155880f155881f122155c36989"
   },
   {
     "idSeance": 217793,
@@ -1723,6 +1714,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Eugénie Zvonkine",
     "items": [
       {
         "idFilm": 53695,
@@ -2430,6 +2422,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par François Angelier",
     "items": [
       {
         "idFilm": 51823,
@@ -2621,6 +2614,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Gabriela Trujillo",
     "items": [
       {
         "idFilm": 52831,
@@ -3292,6 +3286,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Bernard Benoliel",
     "items": [
       {
         "idFilm": 69787,
@@ -3656,6 +3651,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Alice Winocour",
     "items": [
       {
         "idFilm": 143368,
@@ -3903,7 +3899,9 @@
         "titre": "Extraordinaire Voyage de Marona",
         "art": "L'",
         "realisateurs": "Anca Damian",
-        "annee": 2018
+        "annee": 2018,
+        "duree": 62,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f142357"
@@ -4096,7 +4094,10 @@
         "idFilm": 61391,
         "titre": "James et la pêche géante",
         "realisateurs": "Henry Selick",
-        "annee": 1995
+        "annee": 1995,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f61391"
@@ -4256,7 +4257,9 @@
         "titre": "Cinq Mille Doigts du docteur T.",
         "art": "Les",
         "realisateurs": "Roy Rowland",
-        "annee": 1953
+        "annee": 1953,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f36468"
@@ -5308,7 +5311,11 @@
         "titre": "Cirque",
         "art": "Le",
         "realisateurs": "Charles Chaplin",
-        "annee": 1928
+        "annee": 1928,
+        "duree": 83,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f31156"
@@ -6002,31 +6009,6 @@
     "hashEvenement": "f77554"
   },
   {
-    "idSeance": 217874,
-    "idEvenement": 36097,
-    "dateHeure": "2026-11-11T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Tai Katō",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155714,
-        "titre": "Journal d'une hirondelle",
-        "art": "Le",
-        "realisateurs": "Tai Katō",
-        "annee": 1952,
-        "duree": 86,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f155714"
-  },
-  {
     "idSeance": 217843,
     "idEvenement": 36716,
     "dateHeure": "2026-11-11T20:00:00",
@@ -6557,8 +6539,8 @@
     "hashEvenement": "f38069"
   },
   {
-    "idSeance": 217882,
-    "idEvenement": 35939,
+    "idSeance": 217889,
+    "idEvenement": 36097,
     "dateHeure": "2026-11-15T15:00:00",
     "salle": "JE",
     "cycle": [
@@ -6569,16 +6551,17 @@
     ],
     "items": [
       {
-        "idFilm": 63779,
-        "titre": "Chroniques guerrières du clan Sanada",
+        "idFilm": 155714,
+        "titre": "Journal d'une hirondelle",
+        "art": "Le",
         "realisateurs": "Tai Katō",
-        "annee": 1963,
-        "duree": 100,
+        "annee": 1952,
+        "duree": 86,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f63779"
+    "hashEvenement": "f155714"
   },
   {
     "idSeance": 217856,
@@ -6648,28 +6631,28 @@
     "hashEvenement": "f47184"
   },
   {
-    "idSeance": 217883,
-    "idEvenement": 36121,
+    "idSeance": 217890,
+    "idEvenement": 36011,
     "dateHeure": "2026-11-15T19:30:00",
     "salle": "GF",
     "cycle": [
       [
         "Tai Katō",
-        "Les films"
+        "Tai Katō, assistant réalisateur"
       ]
     ],
     "items": [
       {
-        "idFilm": 155733,
-        "titre": "Comme une flamme",
-        "realisateurs": "Tai Katō",
-        "annee": 1981,
-        "duree": 147,
+        "idFilm": 46022,
+        "titre": "Rashōmon",
+        "realisateurs": "Akira Kurosawa",
+        "annee": 1950,
+        "duree": 88,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f155733"
+    "hashEvenement": "f46022"
   },
   {
     "idSeance": 212386,
@@ -6736,7 +6719,10 @@
         "idFilm": 99842,
         "titre": "Azur et Asmar",
         "realisateurs": "Michel Ocelot",
-        "annee": 2006
+        "annee": 2006,
+        "duree": 90,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f99842"
@@ -7674,7 +7660,7 @@
         "art": "Les",
         "realisateurs": "Terence Fisher",
         "annee": 1959,
-        "duree": 88,
+        "duree": 87,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -7817,7 +7803,7 @@
   },
   {
     "idSeance": 217864,
-    "idEvenement": 36730,
+    "idEvenement": 37134,
     "dateHeure": "2026-11-28T17:30:00",
     "salle": "HL",
     "cycle": [
@@ -7832,15 +7818,9 @@
         "titre": "Shoah (première époque)",
         "realisateurs": "Claude Lanzmann",
         "annee": 1985
-      },
-      {
-        "idFilm": 155527,
-        "titre": "Shoah (deuxième époque)",
-        "realisateurs": "Claude Lanzmann",
-        "annee": 1985
       }
     ],
-    "hashEvenement": "f155526f155527"
+    "hashEvenement": "f155526"
   },
   {
     "idSeance": 212685,
@@ -7868,7 +7848,7 @@
   },
   {
     "idSeance": 217865,
-    "idEvenement": 36730,
+    "idEvenement": 37134,
     "dateHeure": "2026-11-28T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -7883,15 +7863,9 @@
         "titre": "Shoah (première époque)",
         "realisateurs": "Claude Lanzmann",
         "annee": 1985
-      },
-      {
-        "idFilm": 155527,
-        "titre": "Shoah (deuxième époque)",
-        "realisateurs": "Claude Lanzmann",
-        "annee": 1985
       }
     ],
-    "hashEvenement": "f155526f155527"
+    "hashEvenement": "f155526"
   },
   {
     "idSeance": 212686,
@@ -7956,7 +7930,10 @@
         "titre": "Aventures de Robin des Bois",
         "art": "Les",
         "realisateurs": "Michael Curtiz, William Keighley",
-        "annee": 1938
+        "annee": 1938,
+        "duree": 102,
+        "version": "VO",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31320"
