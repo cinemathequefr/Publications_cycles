@@ -387,7 +387,7 @@
       "idCycleProg": 1117,
       "titreCycle": "Lisandro Alonso",
       "_charge_prog": "Caroline",
-      "isReg": true,
+      "isReg": false,
       "triSousCycles": false,
       "type": true,
       "sousCycles": [
@@ -415,6 +415,60 @@
       "cancelledSeances": [],
       "restaurations": [],
       "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 1120,
+      "titreCycle": "Robert Guédiguian",
+      "_charge_prog": "Katia",
+      "isReg": false,
+      "triSousCycles": false,
+      "type": true,
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [4253],
+          "tri": 2,
+          "printNoMT": false
+        }
+      ],
+      "excludeSeances": [],
+      "cancelledSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 54,
+      "titreCycle": "Courts métrages de la Fémis",
+      "_charge_prog": "Caroline, Bernard",
+      "triSousCycles": false,
+      "isReg": true,
+      "sousCycles": [
+        {
+          "titre": "Films de fin d'études, promotion 2026",
+          "cats": [4248],
+          "tri": 2
+        },
+        {
+          "titre": "Soirée de gala",
+          "cats": [4249],
+          "tri": 2
+        },
+        {
+          "titre": "Films de la résidence 2026",
+          "cats": [4250],
+          "tri": 2
+        },
+        {
+          "titre": "Films de l'Atelier Ludwigsburg-Paris 2026",
+          "cats": [4251],
+          "tri": 2
+        },
+        {
+          "titre": "Travaux du département scénario 2026",
+          "cats": [4252],
+          "tri": 2
+        }
+      ]
     }
   ]
 }
