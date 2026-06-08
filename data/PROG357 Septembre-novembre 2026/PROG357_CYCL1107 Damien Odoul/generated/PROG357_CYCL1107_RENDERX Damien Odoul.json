@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-10-21T20:00:00",
-    "2026-10-29T18:30:00"
+    "2026-11-02T20:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -29,10 +29,9 @@
           ],
           "seances": [
             {
-              "idSeance": 211898,
-              "dateHeure": "2026-10-26T20:00:00",
-              "idSalle": "HL",
-              "mention": "Avant-première"
+              "idSeance": 212058,
+              "dateHeure": "2026-11-02T20:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -63,8 +62,8 @@
           ],
           "seances": [
             {
-              "idSeance": 217764,
-              "dateHeure": "2026-10-22T18:30:00",
+              "idSeance": 217929,
+              "dateHeure": "2026-10-23T18:30:00",
               "idSalle": "JE"
             }
           ]
@@ -122,9 +121,9 @@
           ],
           "seances": [
             {
-              "idSeance": 217751,
-              "dateHeure": "2026-10-23T20:00:00",
-              "idSalle": "GF"
+              "idSeance": 217938,
+              "dateHeure": "2026-10-29T20:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -139,7 +138,7 @@
               "realisateurs": "Damien Odoul",
               "pays": "France",
               "annee": 2007,
-              "duree": 75,
+              "duree": 77,
               "version": "VO",
               "format": "35 mm",
               "generique": [
@@ -153,7 +152,7 @@
           "seances": [
             {
               "idSeance": 217755,
-              "dateHeure": "2026-10-26T18:30:00",
+              "dateHeure": "2026-10-26T21:00:00",
               "idSalle": "GF"
             }
           ]
@@ -273,8 +272,8 @@
           ],
           "seances": [
             {
-              "idSeance": 217759,
-              "dateHeure": "2026-10-22T20:30:00",
+              "idSeance": 217930,
+              "dateHeure": "2026-10-23T21:00:00",
               "idSalle": "JE"
             }
           ]
@@ -381,7 +380,8 @@
             {
               "idSeance": 211959,
               "dateHeure": "2026-10-29T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Damien Odoul et Valentine Verhague"
             }
           ]
         },
@@ -607,8 +607,8 @@
           ],
           "seances": [
             {
-              "idSeance": 217756,
-              "dateHeure": "2026-10-26T20:30:00",
+              "idSeance": 217932,
+              "dateHeure": "2026-10-26T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -640,16 +640,17 @@
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
-      {
-        "dateHeure": "2026-10-26T20:00:00",
-        "titreFilms": "À la grâce de Dieu"
-      }
-    ],
     "Séance avec dialogue": [
       {
         "mention": "Damien Odoul par Damien Odoul, une leçon de cinéma",
         "dateHeure": "2026-10-24T16:30:00"
+      }
+    ],
+    "Discussion": [
+      {
+        "titreFilms": "Tchécoslovaquie 68/89 / La Maison des morts / La Folle Parade / Le Temps des transhumances / Tzotzil",
+        "mention": "avec Damien Odoul et Valentine Verhague",
+        "dateHeure": "2026-10-29T18:30:00"
       }
     ]
   }

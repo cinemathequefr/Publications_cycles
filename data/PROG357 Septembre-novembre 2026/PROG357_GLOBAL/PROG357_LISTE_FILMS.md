@@ -100,7 +100,7 @@
   * Une femme est une femme  
   * Voleur (Le)
 
-## La Cinémathèque française, une histoire au féminin pluriel (41)
+## La Cinémathèque française, une histoire au féminin pluriel (40)
 
   * Après le bal  
   * Baquet de Mesmer (Le)  
@@ -127,7 +127,6 @@
   * Gazouilly petit oiseau  
   * Harmonies de Paris  
   * Illusionniste fin de siècle (L')  
-  * Invitation au voyage (L')  
   * Jean Epstein, la mer lyrosophe  
   * Jeanne d'Arc  
   * Les Bulles de savon vivantes (Les)  
@@ -178,7 +177,7 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (100)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (101)
 
   * Accattone  
   * Amerika, rapports de classe  
@@ -262,6 +261,7 @@
   * Sans toit ni loi  
   * Scènes de la vie conjugale  
   * Shanghai Gesture (The)  
+  * Shoah (deuxième époque)  
   * Shoah (première époque)  
   * Simone Barbès ou la vertu  
   * Son nom de Venise dans Calcutta désert  
@@ -281,7 +281,7 @@
   * Yeux sans visage (Les)  
   * Z
 
-## Lisandro Alonso (9)
+## Lisandro Alonso (10)
 
   * Dos en la vereda  
   * Eureka  
@@ -291,6 +291,7 @@
   * Libertad (La)  
   * Liverpool  
   * Muertos (Los)  
+  * No Title (AKA Lechuza)  
   * Sin título (Carta para Serra)
 
 ## Louise Brooks (13)
@@ -321,6 +322,20 @@
   * Main au collet (La)  
   * Monde de Nemo (Le)  
   * Voyage de Chihiro (Le)
+
+## Parlons cinéma... avec Luc Lagier (11)
+
+  * American Boy : A Profile of Steven Prince  
+  * Big Shave (The)  
+  * Blow up : Carrie en 8 minutes  
+  * Blow up : hommage à Martin Scorsese  
+  * Blow up : hommage à Resnais  
+  * Concours  
+  * Guernica  
+  * Hiroshima, mon amour  
+  * Incorruptibles (Les)  
+  * Italianamerican  
+  * Taking Off
 
 ## Séances spéciales (3)
 

@@ -6,39 +6,75 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 31424,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 37160,
+              "content": [
+                {
+                  "idConf": 37160,
+                  "titre": "L’archive pour aborder l’expression classique hollywoodienne : méthodes de David O. Selznick",
+                  "sousTitre": "Conférence de Pierre Berthomieu",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Cette conférence envisage les enjeux de l'archive face à la densité de l'« écriture » et de la forme dans l'atelier du cinéma classique. Célèbre pour ses productions couronnées de succès et façonnées dans un mélange de chaos étonnant et d'obsession méticuleuse, David O. Selznick fut un producteur-concepteur de films, scénariste et monteur, attentif aux acteurs, à l'image et la musique. Le gigantesque fonds d'archives conservé à l'université du Texas à Austin est l'occasion d'explorer en profondeur la polyphonie tendue de grandes productions d'Hollywood. Soucieuse d'éclairer la résistance de l'œuvre achevée et vivante aux idéologies et aux méthodes rigides, la réflexion sera illustrée de documents rares (scénarios, brouillons, mémos, dessins, partitions, photos, segments écartés...) et d'études inédites de cas – sur la forme possible d'une adaptation (_David Copperfield_) et sur le discours historique du style (_Autant en emporte le vent_)."
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217933,
+                  "idSeanceAssoc": 217830,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-10-22T17:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            },
             {
               "idFilm": 31424,
-              "ordre": 1,
-              "titre": "David Copperfield",
-              "titreVo": "Personal History, Adventures, Experience and Observations of David Copperfield the Younger",
-              "artVo": "The",
-              "realisateurs": "George Cukor",
-              "pays": "États-Unis",
-              "annee": 1935,
-              "duree": 129,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _David Copperfield_ de Charles Dickens.",
-              "generique": [
-                "Lionel Barrymore",
-                "W. C. Fields",
-                "Freddie Bartholomew"
+              "content": [
+                {
+                  "idFilm": 31424,
+                  "ordre": 1,
+                  "titre": "David Copperfield",
+                  "titreVo": "Personal History, Adventures, Experience and Observations of David Copperfield the Younger",
+                  "artVo": "The",
+                  "realisateurs": "George Cukor",
+                  "pays": "États-Unis",
+                  "annee": 1935,
+                  "duree": 129,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _David Copperfield_ de Charles Dickens.",
+                  "generique": [
+                    "Lionel Barrymore",
+                    "W. C. Fields",
+                    "Freddie Bartholomew"
+                  ],
+                  "miniTexte": "Une adaptation fidèle de l'œuvre de Dickens. Noir et blanc raffiné, décors soignés, une kyrielle de personnages bien trempés, dont l'excentrique W. C. Fields. Freddie Bartholomew incarne le jeune orphelin qui trace son chemin pour devenir écrivain, dans l'austère Angleterre victorienne ; le film fera de lui l'enfant-star de Hollywood."
+                }
               ],
-              "miniTexte": "Une adaptation fidèle de l'œuvre de Dickens. Noir et blanc raffiné, décors soignés, une kyrielle de personnages bien trempés, dont l'excentrique W. C. Fields. Freddie Bartholomew incarne le jeune orphelin qui trace son chemin pour devenir écrivain, dans l'austère Angleterre victorienne ; le film fera de lui l'enfant-star de Hollywood."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217830,
-              "dateHeure": "2026-10-22T19:00:00",
-              "idSalle": "JE"
+              "seances": [
+                {
+                  "idSeance": 217830,
+                  "idSeanceAssoc": 217933,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-10-22T19:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "L’archive pour aborder l’expression classique hollywoodienne : méthodes de David O. Selznick",
+        "mention": "par Pierre Berthomieu",
+        "dateHeure": "2026-10-22T17:30:00"
+      }
+    ]
+  }
 }
