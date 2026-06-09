@@ -297,11 +297,11 @@
   * Eureka  
   * Fantasma  
   * Jauja  
+  * Lechuza  
   * Libertad doble (La)  
   * Libertad (La)  
   * Liverpool  
   * Muertos (Los)  
-  * No Title (AKA Lechuza)  
   * Sin título (Carta para Serra)
 
 ## Louise Brooks (13)
@@ -347,9 +347,10 @@
   * Italianamerican  
   * Taking Off
 
-## Séances spéciales (3)
+## Séances spéciales (4)
 
   * Faust  
+  * Minotaur  
   * Portobello  
   * Promeneur du Champ-de-Mars (Le)
 

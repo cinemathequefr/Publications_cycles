@@ -37,6 +37,36 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Avant-première Andreï Zviaguintsev",
+      "items": [
+        {
+          "idFilm": 155911,
+          "content": [
+            {
+              "idFilm": 155911,
+              "ordre": 1,
+              "titre": "Minotaur",
+              "realisateurs": "Andreï Zviaguintsev",
+              "pays": "France-Lettonie-Allemagne",
+              "annee": 2026,
+              "duree": 140,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211243,
+              "dateHeure": "2026-09-28T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
@@ -133,6 +163,12 @@
     }
   ],
   "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2026-09-28T20:00:00",
+        "titreFilms": "Minotaur"
+      }
+    ],
     "Séance avec dialogue": [
       {
         "mention": "Table Ronde François Mitterrand",
