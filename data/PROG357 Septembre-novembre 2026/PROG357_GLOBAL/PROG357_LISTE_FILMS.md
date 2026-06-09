@@ -4,23 +4,31 @@
 
   * David Copperfield
 
+## Aujourd'hui le cinéma (7)
+
+  * A la recherche de l'oiseau gris aux rayures vertes  
+  * Agwe  
+  * Cœur Bleu  
+  * Des rêves en bateaux papiers  
+  * Journal du futur  
+  * Love Story  
+  * Shana
+
 ## Ciné-club de Murielle Joudet (2)
 
   * À bout de souffle  
   * Gueule d'amour
 
-## Cinéma bis (12)
+## Cinéma bis (10)
 
   * Billy le cave  
-  * Daleks envahissent la terre (Les)  
-  * Deux visages du Docteur Jekyll (Les)  
-  * Docteur et les assassins (Le)  
+  * Deux Visages du Docteur Jekyll (Les)  
+  * Docteur et les Assassins (Le)  
   * Impasse aux violences (L')  
   * Johnny le bâtard  
   * Mystère de l'île aux monstres (Le)  
   * Peuple des abîmes (Le)  
   * Retour de Frankenstein (Le)  
-  * Schizo  
   * Soldat qui déclara la paix (Le)  
   * SS était là (Le)
 
