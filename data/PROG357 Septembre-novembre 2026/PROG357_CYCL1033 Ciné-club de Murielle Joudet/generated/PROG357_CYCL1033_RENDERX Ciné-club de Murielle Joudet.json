@@ -6,32 +6,48 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 48989,
-          "content": [
+          "groupe": [
             {
               "idFilm": 48989,
-              "ordre": 1,
-              "titre": "Gueule d'amour",
-              "realisateurs": "Jean Grémillon",
-              "pays": "France-Allemagne",
-              "annee": 1937,
-              "duree": 94,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après _Gueule d'Amour_ d'André Beucler.",
-              "generique": [
-                "Jean Gabin",
-                "Mireille Balin",
-                "René Lefèvre"
-              ],
-              "miniTexte": "Orange, 1936. Un officier de garnison, qui fait flamber les cœurs, s'éprend d'une aventurière mondaine. Entre bonheurs simples, séparations et retrouvailles, la belle causera sa perte. Dans la veine classique des grands mélodrames français de l'époque, Grémillon filme leur tragique histoire d'amour, les ravages d'une passion dévorante et les déchirements intérieurs du beau militaire appelé « Gueule d'amour » – surnom qui restera attaché de longues années à Jean Gabin."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 48989,
+                  "ordre": 1,
+                  "titre": "Gueule d'amour",
+                  "realisateurs": "Jean Grémillon",
+                  "pays": "France-Allemagne",
+                  "annee": 1937,
+                  "duree": 94,
+                  "version": "",
+                  "format": "DCP",
+                  "adaptation": "D'après _Gueule d'Amour_ d'André Beucler.",
+                  "generique": [
+                    "Jean Gabin",
+                    "Mireille Balin",
+                    "René Lefèvre"
+                  ],
+                  "miniTexte": "Orange, 1936. Un officier de garnison, qui fait flamber les cœurs, s'éprend d'une aventurière mondaine. Entre bonheurs simples, séparations et retrouvailles, la belle causera sa perte. Dans la veine classique des grands mélodrames français de l'époque, Grémillon filme leur tragique histoire d'amour, les ravages d'une passion dévorante et les déchirements intérieurs du beau militaire appelé « Gueule d'amour » – surnom qui restera attaché de longues années à Jean Gabin."
+                }
+              ]
+            },
             {
-              "idSeance": 217528,
-              "dateHeure": "2026-09-23T20:00:00",
-              "idSalle": "HL"
+              "idEvenement": 37002,
+              "content": [
+                {
+                  "idConf": 37002,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217528,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-09-23T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -73,23 +89,6 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
-          "idConf": 37002,
-          "content": [
-            {
-              "idConf": 37002,
-              "titre": "Dialogue avec Murielle Joudet",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217427,
-              "dateHeure": "2026-09-23T20:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idConf": 37001,
           "content": [
             {
@@ -112,8 +111,9 @@
   "syntheseAction": {
     "Séances avec dialogue": [
       {
+        "titreFilms": "Gueule d'amour",
         "mention": "avec Murielle Joudet",
-        "dateHeure": "2026-09-23T20:30:00"
+        "dateHeure": "2026-09-23T19:00:00"
       },
       {
         "mention": "avec Murielle Joudet",

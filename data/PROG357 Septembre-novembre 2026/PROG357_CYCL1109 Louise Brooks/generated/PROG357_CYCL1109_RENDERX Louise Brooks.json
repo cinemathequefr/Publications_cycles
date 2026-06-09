@@ -235,33 +235,50 @@
           ]
         },
         {
-          "idFilm": 33126,
-          "content": [
+          "groupe": [
             {
               "idFilm": 33126,
-              "ordre": 1,
-              "titre": "Une fille dans chaque port",
-              "titreVo": "A Girl in Every Port",
-              "realisateurs": "Howard Hawks",
-              "pays": "États-Unis",
-              "annee": 1928,
-              "duree": 77,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "generique": [
-                "Victor McLaglen",
-                "Robert Armstrong",
-                "Louise Brooks"
-              ],
-              "isFocus": true,
-              "miniTexte": "Sur un scénario qu'il a lui-même écrit, Howard Hawks dirige Robert Armstrong et Victor McLaglen dans une comédie sur l'amitié virile mise à mal(e) par le sexe opposé. Avec, en filigrane, la relation ambiguë entre deux hommes, un thème qu'il reprendra maintes fois tout au long de sa carrière. Face à eux, menant un temps la danse, Louise Brooks, prêtée pour l'occasion par la Paramount. Hawks choisit cette « jolie fille révoltée » pour son physique et sa détermination. Elle apporte au film tout son côté avant-gardiste, et son rôle de garce lui vaut d'être repérée par Pabst, qui voit en elle sa future Loulou. _Une fille dans chaque port_ est « conçu au présent et s'identifie au passé », note Henri Langlois. Un mélodrame qui se teinte d'humour, résolument moderne, et, pour Hawks, séminal."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 33126,
+                  "ordre": 1,
+                  "titre": "Une fille dans chaque port",
+                  "titreVo": "A Girl in Every Port",
+                  "realisateurs": "Howard Hawks",
+                  "pays": "États-Unis",
+                  "annee": 1928,
+                  "duree": 77,
+                  "version": "INT. FR.",
+                  "format": "35 mm",
+                  "generique": [
+                    "Victor McLaglen",
+                    "Robert Armstrong",
+                    "Louise Brooks"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Sur un scénario qu'il a lui-même écrit, Howard Hawks dirige Robert Armstrong et Victor McLaglen dans une comédie sur l'amitié virile mise à mal(e) par le sexe opposé. Avec, en filigrane, la relation ambiguë entre deux hommes, un thème qu'il reprendra maintes fois tout au long de sa carrière. Face à eux, menant un temps la danse, Louise Brooks, prêtée pour l'occasion par la Paramount. Hawks choisit cette « jolie fille révoltée » pour son physique et sa détermination. Elle apporte au film tout son côté avant-gardiste, et son rôle de garce lui vaut d'être repérée par Pabst, qui voit en elle sa future Loulou. _Une fille dans chaque port_ est « conçu au présent et s'identifie au passé », note Henri Langlois. Un mélodrame qui se teinte d'humour, résolument moderne, et, pour Hawks, séminal."
+                }
+              ]
+            },
             {
-              "idSeance": 211054,
-              "dateHeure": "2026-09-19T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 36988,
+              "content": [
+                {
+                  "idConf": 36988,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Marion Polirsztok",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "Il semble entendu que la vie et la carrière de Louise Brooks furent profondément marquées par les deux films allemands tournés avec Pabst. « À Berlin, écrit-elle, (...) je devins une actrice ». Que fut-elle à Hollywood ? Une anti-star, suivant l'ouvrage qui lui est consacré en 1977 ? Revoir _Une fille dans chaque port_ sera l'occasion de retrouver Louise avant Lulu, l'image, les rôles et la féminité qu'elle a incarnés dans l'industrie américaine de la fin des années 1920 — Marion Polirsztok"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 211054,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-09-19T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -381,37 +398,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 36988,
-          "content": [
-            {
-              "idConf": 36988,
-              "titre": "Dialogue avec Marion Polirsztok",
-              "typeConference": "Dialogue",
-              "miniTexte": "Il semble entendu que la vie et la carrière de Louise Brooks furent profondément marquées par les deux films allemands tournés avec Pabst. « À Berlin, écrit-elle, (...) je devins une actrice ». Que fut-elle à Hollywood ? Une anti-star, suivant l'ouvrage qui lui est consacré en 1977 ? Revoir _Une fille dans chaque port_ sera l'occasion de retrouver Louise avant Lulu, l'image, les rôles et la féminité qu'elle a incarnés dans l'industrie américaine de la fin des années 1920 — Marion Polirsztok"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217426,
-              "dateHeure": "2026-09-19T16:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Séance avec dialogue": [
       {
+        "titreFilms": "Une fille dans chaque port",
         "mention": "avec Marion Polirsztok",
-        "dateHeure": "2026-09-19T16:30:00"
+        "dateHeure": "2026-09-19T15:00:00"
       }
     ]
   }
