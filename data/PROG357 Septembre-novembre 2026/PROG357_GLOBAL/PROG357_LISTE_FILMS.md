@@ -19,9 +19,10 @@
   * À bout de souffle  
   * Gueule d'amour
 
-## Cinéma bis (10)
+## Cinéma bis (12)
 
   * Billy le cave  
+  * Daleks envahissent la Terre (Les)  
   * Deux Visages du Docteur Jekyll (Les)  
   * Docteur et les Assassins (Le)  
   * Impasse aux violences (L')  
@@ -29,6 +30,7 @@
   * Mystère de l'île aux monstres (Le)  
   * Peuple des abîmes (Le)  
   * Retour de Frankenstein (Le)  
+  * Schizo  
   * Soldat qui déclara la paix (Le)  
   * SS était là (Le)
 
