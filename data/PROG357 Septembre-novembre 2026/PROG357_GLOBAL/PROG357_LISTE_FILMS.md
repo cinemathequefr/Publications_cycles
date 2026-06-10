@@ -86,13 +86,12 @@
   * Vie d'une bouteille de champagne depuis la grappe jusqu'à la coupe (La)  
   * West Beyrouth (bande-annonce)
 
-## Jean-Paul Belmondo (21)
+## Jean-Paul Belmondo (20)
 
   * Belmondo l'influenceur  
   * Cartouche  
   * Ciociara (La)  
   * Classe tous risques  
-  * Docteur Popaul  
   * Doulos (Le)  
   * Homme de Rio (L')  
   * Itinéraire d'un enfant gâté  
