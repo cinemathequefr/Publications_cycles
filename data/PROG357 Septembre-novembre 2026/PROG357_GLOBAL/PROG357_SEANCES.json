@@ -2777,6 +2777,10 @@
       [
         "Le Space opera, les indispensables",
         "Les films"
+      ],
+      [
+        "Le Space opera, les indispensables",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2798,9 +2802,14 @@
         "duree": 149,
         "version": "VOSTF",
         "format": "70 mm"
+      },
+      {
+        "idConf": 36990,
+        "titre": "Dialogue avec Claudie Haigneré",
+        "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "f52565f54223"
+    "hashEvenement": "f52565f54223c36990"
   },
   {
     "idSeance": 211546,
@@ -2848,26 +2857,6 @@
       }
     ],
     "hashEvenement": "f44724"
-  },
-  {
-    "idSeance": 217469,
-    "idEvenement": 36990,
-    "dateHeure": "2026-10-10T17:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le Space opera, les indispensables",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 36990,
-        "titre": "Dialogue avec Claudie Haigneré",
-        "typeConference": "Dialogue"
-      }
-    ],
-    "hashEvenement": "c36990"
   },
   {
     "idSeance": 217709,
@@ -6078,7 +6067,7 @@
         "realisateurs": "Marco Bellocchio",
         "annee": 1971,
         "duree": 105,
-        "version": "VOSTA",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -6764,7 +6753,9 @@
         "idFilm": 47184,
         "titre": "Cet obscur objet du désir",
         "realisateurs": "Luis Buñuel",
-        "annee": 1977
+        "annee": 1977,
+        "duree": 102,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f47184"
@@ -6882,7 +6873,10 @@
         "idFilm": 57189,
         "titre": "Suspiria",
         "realisateurs": "Dario Argento",
-        "annee": 1977
+        "annee": 1977,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f57189"
@@ -6973,7 +6967,9 @@
         "idFilm": 51338,
         "titre": "Passe montagne",
         "realisateurs": "Jean-François Stévenin",
-        "annee": 1978
+        "annee": 1978,
+        "duree": 113,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f51338"
@@ -6995,7 +6991,10 @@
         "titre": "Moissons du ciel",
         "art": "Les",
         "realisateurs": "Terrence Malick",
-        "annee": 1978
+        "annee": 1978,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f33685"
@@ -7482,7 +7481,9 @@
         "idFilm": 46282,
         "titre": "Variety",
         "realisateurs": "Bette Gordon",
-        "annee": 1983
+        "annee": 1983,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f46282"
