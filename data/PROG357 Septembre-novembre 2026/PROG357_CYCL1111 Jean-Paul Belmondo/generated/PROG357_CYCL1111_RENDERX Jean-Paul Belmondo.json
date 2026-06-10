@@ -36,6 +36,7 @@
           "seances": [
             {
               "idSeance": 217475,
+              "typeAssoc": 118,
               "dateHeure": "2026-10-15T19:00:00",
               "idSalle": "HL"
             }
@@ -348,7 +349,7 @@
           ],
           "seances": [
             {
-              "idSeance": 217858,
+              "idSeance": 217958,
               "dateHeure": "2026-11-15T14:30:00",
               "idSalle": "HL"
             }
@@ -506,31 +507,47 @@
           ]
         },
         {
-          "idFilm": 49740,
-          "content": [
+          "groupe": [
             {
               "idFilm": 49740,
-              "ordre": 1,
-              "titre": "Un homme qui me plaît",
-              "realisateurs": "Claude Lelouch",
-              "pays": "France",
-              "annee": 1969,
-              "duree": 115,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Jean-Paul Belmondo",
-                "Annie Girardot",
-                "Kaz Garas"
-              ],
-              "miniTexte": "La passion adultère d'une actrice et d'un compositeur de musiques de films. Sous l'influence de _Brève Rencontre_, Lelouch livre un _road movie_ en forme d'aventure exaltée, écrit à la gloire d'Annie Girardot, bouleversante de justesse face à Jean-Paul Belmondo."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 49740,
+                  "ordre": 1,
+                  "titre": "Un homme qui me plaît",
+                  "realisateurs": "Claude Lelouch",
+                  "pays": "France",
+                  "annee": 1969,
+                  "duree": 115,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Jean-Paul Belmondo",
+                    "Annie Girardot",
+                    "Kaz Garas"
+                  ],
+                  "miniTexte": "La passion adultère d'une actrice et d'un compositeur de musiques de films. Sous l'influence de _Brève Rencontre_, Lelouch livre un _road movie_ en forme d'aventure exaltée, écrit à la gloire d'Annie Girardot, bouleversante de justesse face à Jean-Paul Belmondo."
+                }
+              ]
+            },
             {
-              "idSeance": 217656,
-              "dateHeure": "2026-10-18T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 36992,
+              "content": [
+                {
+                  "idConf": 36992,
+                  "ordre": 2,
+                  "titre": "Table ronde Jean-Paul Belmondo",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217656,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-10-18T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -558,7 +575,7 @@
           ],
           "seances": [
             {
-              "idSeance": 211865,
+              "idSeance": 217957,
               "dateHeure": "2026-10-24T14:30:00",
               "idSalle": "HL"
             }
@@ -663,23 +680,6 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
-          "idConf": 36992,
-          "content": [
-            {
-              "idConf": 36992,
-              "titre": "Table ronde Jean-Paul Belmondo",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217431,
-              "dateHeure": "2026-10-18T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idConf": 36993,
           "content": [
             {
@@ -722,8 +722,9 @@
   "syntheseAction": {
     "Séances avec dialogue": [
       {
+        "titreFilms": "Un homme qui me plaît",
         "mention": "Table ronde Jean-Paul Belmondo",
-        "dateHeure": "2026-10-18T16:30:00"
+        "dateHeure": "2026-10-18T14:30:00"
       },
       {
         "mention": "Belmondo en musique, sans demi-mesure",

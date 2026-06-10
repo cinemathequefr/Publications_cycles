@@ -2748,7 +2748,7 @@
     "hashEvenement": "f42788"
   },
   {
-    "idSeance": 217810,
+    "idSeance": 217956,
     "idEvenement": 36793,
     "dateHeure": "2026-10-10T14:00:00",
     "salle": "GF",
@@ -2763,7 +2763,9 @@
         "idFilm": 44290,
         "titre": "Assoiffé",
         "realisateurs": "Guru Dutt",
-        "annee": 1957
+        "annee": 1957,
+        "duree": 146,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f44290"
@@ -2836,7 +2838,7 @@
   {
     "idSeance": 217811,
     "idEvenement": 36702,
-    "dateHeure": "2026-10-10T16:30:00",
+    "dateHeure": "2026-10-10T17:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3026,31 +3028,6 @@
     "hashEvenement": "f52831"
   },
   {
-    "idSeance": 211563,
-    "idEvenement": 36504,
-    "dateHeure": "2026-10-11T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Le Space opera, les indispensables",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Olivier La Marle",
-    "items": [
-      {
-        "idFilm": 101569,
-        "titre": "Sunshine",
-        "realisateurs": "Danny Boyle",
-        "annee": 2007,
-        "duree": 107,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f101569"
-  },
-  {
     "idSeance": 211558,
     "idEvenement": 36625,
     "dateHeure": "2026-10-11T19:30:00",
@@ -3072,6 +3049,31 @@
       }
     ],
     "hashEvenement": "f51546"
+  },
+  {
+    "idSeance": 211563,
+    "idEvenement": 36504,
+    "dateHeure": "2026-10-11T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le Space opera, les indispensables",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Olivier La Marle",
+    "items": [
+      {
+        "idFilm": 101569,
+        "titre": "Sunshine",
+        "realisateurs": "Danny Boyle",
+        "annee": 2007,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f101569"
   },
   {
     "idSeance": 217386,
@@ -3099,10 +3101,14 @@
   },
   {
     "idSeance": 217470,
-    "idEvenement": 36991,
+    "idEvenement": 36461,
     "dateHeure": "2026-10-12T19:00:00",
     "salle": "HL",
     "cycle": [
+      [
+        "Séances spéciales",
+        "François Mitterrand et le cinéma"
+      ],
       [
         "Séances spéciales",
         "Rencontres et conférences"
@@ -3113,22 +3119,7 @@
         "idConf": 36991,
         "titre": "Table Ronde François Mitterrand",
         "typeConference": "Dialogue"
-      }
-    ],
-    "hashEvenement": "c36991"
-  },
-  {
-    "idSeance": 211569,
-    "idEvenement": 36461,
-    "dateHeure": "2026-10-12T20:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "François Mitterrand et le cinéma"
-      ]
-    ],
-    "items": [
+      },
       {
         "idFilm": 94512,
         "titre": "Promeneur du Champ-de-Mars",
@@ -3139,7 +3130,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f94512"
+    "hashEvenement": "c36991f94512"
   },
   {
     "idSeance": 217394,
@@ -3259,7 +3250,7 @@
         "realisateurs": "Howard Hawks",
         "annee": 1959,
         "duree": 140,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -3324,6 +3315,10 @@
         "Les films"
       ],
       [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
+      ],
+      [
         "Jean-Paul Belmondo",
         "Les films"
       ]
@@ -3337,29 +3332,14 @@
         "duree": 90,
         "format": "DCP",
         "restauration": true
-      }
-    ],
-    "hashEvenement": "f48837"
-  },
-  {
-    "idSeance": 217430,
-    "idEvenement": 37001,
-    "dateHeure": "2026-10-15T20:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Ciné-club de Murielle Joudet",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 37001,
         "titre": "Dialogue avec Murielle Joudet",
         "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "c37001"
+    "hashEvenement": "f48837c37001"
   },
   {
     "idSeance": 211631,
@@ -3688,6 +3668,10 @@
       [
         "Jean-Paul Belmondo",
         "Les films"
+      ],
+      [
+        "Jean-Paul Belmondo",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3698,9 +3682,14 @@
         "annee": 1969,
         "duree": 115,
         "format": "DCP"
+      },
+      {
+        "idConf": 36992,
+        "titre": "Table ronde Jean-Paul Belmondo",
+        "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "f49740"
+    "hashEvenement": "f49740c36992"
   },
   {
     "idSeance": 217608,
@@ -3729,26 +3718,6 @@
       }
     ],
     "hashEvenement": "f30069"
-  },
-  {
-    "idSeance": 217431,
-    "idEvenement": 36992,
-    "dateHeure": "2026-10-18T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Jean-Paul Belmondo",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 36992,
-        "titre": "Table ronde Jean-Paul Belmondo",
-        "typeConference": "Dialogue"
-      }
-    ],
-    "hashEvenement": "c36992"
   },
   {
     "idSeance": 217455,
@@ -4110,31 +4079,6 @@
     "hashEvenement": "c37007"
   },
   {
-    "idSeance": 217821,
-    "idEvenement": 36707,
-    "dateHeure": "2026-10-22T19:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 43727,
-        "titre": "Guépard",
-        "art": "Le",
-        "realisateurs": "Luchino Visconti",
-        "annee": 1963,
-        "duree": 205,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f43727"
-  },
-  {
     "idSeance": 217830,
     "idEvenement": 37041,
     "dateHeure": "2026-10-22T19:30:00",
@@ -4157,6 +4101,31 @@
       }
     ],
     "hashEvenement": "f31424"
+  },
+  {
+    "idSeance": 217821,
+    "idEvenement": 36707,
+    "dateHeure": "2026-10-22T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43727,
+        "titre": "Guépard",
+        "art": "Le",
+        "realisateurs": "Luchino Visconti",
+        "annee": 1963,
+        "duree": 205,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f43727"
   },
   {
     "idSeance": 211791,
@@ -4231,7 +4200,7 @@
   {
     "idSeance": 217661,
     "idEvenement": 35937,
-    "dateHeure": "2026-10-23T18:30:00",
+    "dateHeure": "2026-10-23T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4331,7 +4300,7 @@
     "hashEvenement": "f132148"
   },
   {
-    "idSeance": 211865,
+    "idSeance": 217957,
     "idEvenement": 37078,
     "dateHeure": "2026-10-24T14:30:00",
     "salle": "HL",
@@ -4362,6 +4331,10 @@
       [
         "Damien Odoul",
         "Les films"
+      ],
+      [
+        "Damien Odoul",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -4374,9 +4347,14 @@
         "duree": 77,
         "version": "VO",
         "format": "35 mm"
+      },
+      {
+        "idConf": 36995,
+        "titre": "Damien Odoul par Damien Odoul, une leçon de cinéma",
+        "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "f76245"
+    "hashEvenement": "f76245c36995"
   },
   {
     "idSeance": 217906,
@@ -4402,26 +4380,6 @@
       }
     ],
     "hashEvenement": "f36468"
-  },
-  {
-    "idSeance": 217434,
-    "idEvenement": 36995,
-    "dateHeure": "2026-10-24T16:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Damien Odoul",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 36995,
-        "titre": "Damien Odoul par Damien Odoul, une leçon de cinéma",
-        "typeConference": "Dialogue"
-      }
-    ],
-    "hashEvenement": "c36995"
   },
   {
     "idSeance": 217822,
@@ -4999,28 +4957,6 @@
     "hashEvenement": "f155886f155887f155888f155889f155890"
   },
   {
-    "idSeance": 217940,
-    "idEvenement": 36479,
-    "dateHeure": "2026-10-29T18:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Damien Odoul",
-        "Les films"
-      ]
-    ],
-    "mention": "Avant-première",
-    "items": [
-      {
-        "idFilm": 155810,
-        "titre": "À la grâce de Dieu",
-        "realisateurs": "Damien Odoul",
-        "annee": 2026
-      }
-    ],
-    "hashEvenement": "f155810"
-  },
-  {
     "idSeance": 217825,
     "idEvenement": 36971,
     "dateHeure": "2026-10-29T18:30:00",
@@ -5043,6 +4979,28 @@
       }
     ],
     "hashEvenement": "f36804"
+  },
+  {
+    "idSeance": 217940,
+    "idEvenement": 36479,
+    "dateHeure": "2026-10-29T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Damien Odoul",
+        "Les films"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 155810,
+        "titre": "À la grâce de Dieu",
+        "realisateurs": "Damien Odoul",
+        "annee": 2026
+      }
+    ],
+    "hashEvenement": "f155810"
   },
   {
     "idSeance": 217826,
@@ -5242,7 +5200,7 @@
   {
     "idSeance": 217827,
     "idEvenement": 35983,
-    "dateHeure": "2026-11-01T17:30:00",
+    "dateHeure": "2026-11-01T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5267,7 +5225,7 @@
   {
     "idSeance": 212047,
     "idEvenement": 36108,
-    "dateHeure": "2026-11-01T20:00:00",
+    "dateHeure": "2026-11-01T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6616,7 +6574,7 @@
     "hashEvenement": "f49954"
   },
   {
-    "idSeance": 217858,
+    "idSeance": 217958,
     "idEvenement": 36642,
     "dateHeure": "2026-11-15T14:30:00",
     "salle": "HL",
@@ -6692,7 +6650,7 @@
     "hashEvenement": "f155714"
   },
   {
-    "idSeance": 217856,
+    "idSeance": 217959,
     "idEvenement": 36880,
     "dateHeure": "2026-11-15T17:00:00",
     "salle": "HL",
@@ -6707,7 +6665,9 @@
         "idFilm": 53305,
         "titre": "Son nom de Venise dans Calcutta désert",
         "realisateurs": "Marguerite Duras",
-        "annee": 1976
+        "annee": 1976,
+        "duree": 120,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f53305"
@@ -6738,9 +6698,9 @@
     "hashEvenement": "f63781"
   },
   {
-    "idSeance": 217857,
+    "idSeance": 217960,
     "idEvenement": 36721,
-    "dateHeure": "2026-11-15T19:00:00",
+    "dateHeure": "2026-11-15T19:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6759,30 +6719,6 @@
       }
     ],
     "hashEvenement": "f47184"
-  },
-  {
-    "idSeance": 217890,
-    "idEvenement": 36011,
-    "dateHeure": "2026-11-15T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Tai Katō",
-        "Tai Katō, assistant réalisateur"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 46022,
-        "titre": "Rashōmon",
-        "realisateurs": "Akira Kurosawa",
-        "annee": 1950,
-        "duree": 88,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f46022"
   },
   {
     "idSeance": 212386,
@@ -6858,7 +6794,7 @@
     "hashEvenement": "f99842"
   },
   {
-    "idSeance": 217860,
+    "idSeance": 217961,
     "idEvenement": 36813,
     "dateHeure": "2026-11-18T18:00:00",
     "salle": "HL",
@@ -6907,7 +6843,7 @@
     "hashEvenement": "f63782"
   },
   {
-    "idSeance": 217861,
+    "idSeance": 217962,
     "idEvenement": 36722,
     "dateHeure": "2026-11-18T20:15:00",
     "salle": "HL",
@@ -6922,7 +6858,10 @@
         "idFilm": 29605,
         "titre": "Voyage au bout de l'enfer",
         "realisateurs": "Michael Cimino",
-        "annee": 1978
+        "annee": 1978,
+        "duree": 183,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f29605"
@@ -6975,7 +6914,7 @@
     "hashEvenement": "f51338"
   },
   {
-    "idSeance": 212446,
+    "idSeance": 217963,
     "idEvenement": 36881,
     "dateHeure": "2026-11-19T18:00:00",
     "salle": "HL",
@@ -7045,7 +6984,7 @@
     "hashEvenement": "f77270f73447f77269f155909c37000"
   },
   {
-    "idSeance": 212447,
+    "idSeance": 217964,
     "idEvenement": 36815,
     "dateHeure": "2026-11-19T20:00:00",
     "salle": "HL",
@@ -7061,13 +7000,16 @@
         "titre": "Vengeance est à moi",
         "art": "La",
         "realisateurs": "Shōhei Imamura",
-        "annee": 1979
+        "annee": 1979,
+        "duree": 129,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f54853"
   },
   {
-    "idSeance": 217701,
+    "idSeance": 217965,
     "idEvenement": 36883,
     "dateHeure": "2026-11-20T15:30:00",
     "salle": "HL",
@@ -7083,7 +7025,9 @@
         "titre": "Empire contre-attaque",
         "art": "L'",
         "realisateurs": "Irvin Kershner",
-        "annee": 1980
+        "annee": 1980,
+        "duree": 124,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f33381"
@@ -7113,7 +7057,7 @@
     "hashEvenement": "f155722"
   },
   {
-    "idSeance": 217862,
+    "idSeance": 217966,
     "idEvenement": 36816,
     "dateHeure": "2026-11-20T18:00:00",
     "salle": "HL",
@@ -7128,7 +7072,9 @@
         "idFilm": 51532,
         "titre": "Simone Barbès ou la vertu",
         "realisateurs": "Marie-Claude Treilhou",
-        "annee": 1980
+        "annee": 1980,
+        "duree": 77,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f51532"
@@ -7159,7 +7105,7 @@
     "hashEvenement": "f53561"
   },
   {
-    "idSeance": 212482,
+    "idSeance": 217967,
     "idEvenement": 36726,
     "dateHeure": "2026-11-20T20:00:00",
     "salle": "HL",
@@ -7175,7 +7121,9 @@
         "titre": "Femme d'à côté",
         "art": "La",
         "realisateurs": "François Truffaut",
-        "annee": 1981
+        "annee": 1981,
+        "duree": 106,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f51567"
@@ -7299,7 +7247,7 @@
     "hashEvenement": "f155729"
   },
   {
-    "idSeance": 212519,
+    "idSeance": 217968,
     "idEvenement": 36884,
     "dateHeure": "2026-11-21T19:00:00",
     "salle": "HL",
@@ -7315,7 +7263,9 @@
         "titre": "Pont du Nord",
         "art": "Le",
         "realisateurs": "Jacques Rivette",
-        "annee": 1981
+        "annee": 1981,
+        "duree": 127,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f50955"
@@ -7399,7 +7349,7 @@
     "hashEvenement": "f63785"
   },
   {
-    "idSeance": 212535,
+    "idSeance": 217969,
     "idEvenement": 36727,
     "dateHeure": "2026-11-22T17:30:00",
     "salle": "HL",
@@ -7414,31 +7364,12 @@
         "idFilm": 48850,
         "titre": "Passion",
         "realisateurs": "Jean-Luc Godard",
-        "annee": 1982
+        "annee": 1982,
+        "duree": 87,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f48850"
-  },
-  {
-    "idSeance": 212536,
-    "idEvenement": 36818,
-    "dateHeure": "2026-11-22T19:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 41099,
-        "titre": "Travail au noir",
-        "realisateurs": "Jerzy Skolimowski",
-        "annee": 1982
-      }
-    ],
-    "hashEvenement": "f41099"
   },
   {
     "idSeance": 212541,
@@ -7466,7 +7397,31 @@
     "hashEvenement": "f155731"
   },
   {
-    "idSeance": 217702,
+    "idSeance": 217970,
+    "idEvenement": 36818,
+    "dateHeure": "2026-11-22T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41099,
+        "titre": "Travail au noir",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1982,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41099"
+  },
+  {
+    "idSeance": 217971,
     "idEvenement": 36819,
     "dateHeure": "2026-11-23T15:00:00",
     "salle": "GF",
@@ -7646,7 +7601,7 @@
     "hashEvenement": "f155910f31416c37006"
   },
   {
-    "idSeance": 212577,
+    "idSeance": 217972,
     "idEvenement": 36728,
     "dateHeure": "2026-11-25T19:00:00",
     "salle": "HL",
@@ -7661,7 +7616,10 @@
         "idFilm": 35368,
         "titre": "Furyo",
         "realisateurs": "Nagisa Ōshima",
-        "annee": 1983
+        "annee": 1983,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f35368"
@@ -7691,7 +7649,7 @@
     "hashEvenement": "f155689"
   },
   {
-    "idSeance": 217868,
+    "idSeance": 217976,
     "idEvenement": 36822,
     "dateHeure": "2026-11-26T15:00:00",
     "salle": "GF",
@@ -7706,13 +7664,15 @@
         "idFilm": 55934,
         "titre": "Maine Océan",
         "realisateurs": "Jacques Rozier",
-        "annee": 1986
+        "annee": 1986,
+        "duree": 130,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f55934"
   },
   {
-    "idSeance": 217863,
+    "idSeance": 217973,
     "idEvenement": 36886,
     "dateHeure": "2026-11-26T18:00:00",
     "salle": "HL",
@@ -7727,7 +7687,9 @@
         "idFilm": 51614,
         "titre": "Sans toit ni loi",
         "realisateurs": "Agnès Varda",
-        "annee": 1985
+        "annee": 1985,
+        "duree": 105,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f51614"
@@ -7791,9 +7753,9 @@
     "hashEvenement": "f155728"
   },
   {
-    "idSeance": 212610,
+    "idSeance": 217974,
     "idEvenement": 36820,
-    "dateHeure": "2026-11-26T20:00:00",
+    "dateHeure": "2026-11-26T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7806,7 +7768,10 @@
         "idFilm": 39503,
         "titre": "Amerika, rapports de classe",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1984
+        "annee": 1984,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f39503"
@@ -7882,7 +7847,7 @@
     "hashEvenement": "f41167"
   },
   {
-    "idSeance": 212644,
+    "idSeance": 217975,
     "idEvenement": 36729,
     "dateHeure": "2026-11-27T19:00:00",
     "salle": "HL",
@@ -8033,7 +7998,7 @@
     "hashEvenement": "f155907f104707"
   },
   {
-    "idSeance": 217953,
+    "idSeance": 217977,
     "idEvenement": 36732,
     "dateHeure": "2026-11-28T20:00:00",
     "salle": "HL",
@@ -8049,7 +8014,10 @@
         "titre": "Sacrifice",
         "art": "Le",
         "realisateurs": "Andreï Tarkovski",
-        "annee": 1986
+        "annee": 1986,
+        "duree": 148,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f45008"
@@ -8161,7 +8129,7 @@
   {
     "idSeance": 212704,
     "idEvenement": 37081,
-    "dateHeure": "2026-11-29T20:00:00",
+    "dateHeure": "2026-11-29T20:30:00",
     "salle": "GF",
     "cycle": [
       [

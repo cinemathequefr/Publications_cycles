@@ -52,56 +52,49 @@
           ]
         },
         {
-          "idFilm": 48837,
-          "content": [
+          "groupe": [
             {
               "idFilm": 48837,
-              "ordre": 1,
-              "titre": "À bout de souffle",
-              "realisateurs": "Jean-Luc Godard",
-              "pays": "France",
-              "annee": 1960,
-              "duree": 90,
-              "version": "",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Jean-Paul Belmondo",
-                "Jean Seberg",
-                "Henri-Jacques Huet",
-                "Jean-Pierre Melville"
+              "content": [
+                {
+                  "idFilm": 48837,
+                  "ordre": 1,
+                  "titre": "À bout de souffle",
+                  "realisateurs": "Jean-Luc Godard",
+                  "pays": "France",
+                  "annee": 1960,
+                  "duree": 90,
+                  "version": "",
+                  "format": "DCP",
+                  "restauration": true,
+                  "generique": [
+                    "Jean-Paul Belmondo",
+                    "Jean Seberg",
+                    "Henri-Jacques Huet",
+                    "Jean-Pierre Melville"
+                  ],
+                  "miniTexte": "En 1960, Jean-Luc Godard rend un hommage effronté aux séries B américaines. Histoire policière débridée au style désinvolte, interprétée par de jeunes stars effervescentes, _À bout de souffle_ lance la Nouvelle Vague et redéfinit les codes du cinéma moderne."
+                }
+              ]
+            },
+            {
+              "idEvenement": 37001,
+              "content": [
+                {
+                  "idConf": 37001,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
               ],
-              "miniTexte": "En 1960, Jean-Luc Godard rend un hommage effronté aux séries B américaines. Histoire policière débridée au style désinvolte, interprétée par de jeunes stars effervescentes, _À bout de souffle_ lance la Nouvelle Vague et redéfinit les codes du cinéma moderne."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217475,
-              "dateHeure": "2026-10-15T19:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 37001,
-          "content": [
-            {
-              "idConf": 37001,
-              "titre": "Dialogue avec Murielle Joudet",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217430,
-              "dateHeure": "2026-10-15T20:15:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 217475,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-10-15T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -116,8 +109,9 @@
         "dateHeure": "2026-09-23T19:00:00"
       },
       {
+        "titreFilms": "À bout de souffle",
         "mention": "avec Murielle Joudet",
-        "dateHeure": "2026-10-15T20:15:00"
+        "dateHeure": "2026-10-15T19:00:00"
       }
     ]
   }

@@ -353,7 +353,7 @@
   * Portobello  
   * Promeneur du Champ-de-Mars (Le)
 
-## Tai Katō (43)
+## Tai Katō (42)
 
   * Aventures de Genji Kurō, partie 1 (Les)  
   * Aventures de Genji Kurō, partie 2 (Les)  
@@ -386,7 +386,6 @@
   * Port de Shimizu, plus effrayant que l'enfer (Le)  
   * Problèmes d'épées et problèmes de femmes, partie 1  
   * Problèmes d'épées et problèmes de femmes, partie 2  
-  * Rashōmon  
   * Requiem pour un massacre  
   * Rōnin transi d'amour (Le)  
   * Sang de la vengeance (Le)  

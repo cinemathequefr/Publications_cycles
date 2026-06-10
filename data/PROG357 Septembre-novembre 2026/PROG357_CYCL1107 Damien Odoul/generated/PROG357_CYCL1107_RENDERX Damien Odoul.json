@@ -1,9 +1,9 @@
 {
   "datesCycle": [
     "2026-10-21T20:00:00",
-    "2026-10-29T18:15:00"
+    "2026-10-29T20:00:00"
   ],
-  "textePresentation": "",
+  "textePresentation": "> « 1993. Je passe mon temps à la Cinémathèque et dans les salles du Quartier latin : Tarkovski, Bresson, Dreyer, les premiers Herzog, Rossellini, Pasolini, Buñuel, Wells, Keaton, l'intégrale Bergman, Kurosawa... Un choc. » (_Libération_, 2005). 35 ans après _Morasseix_, son premier film, Damien Odoul boucle la boucle et clôt sa carrière d'une rétrospective intégrale à la Cinémathèque. Dix longs fiévreux et poétiques, une poignée de courts abrasifs, et une trajectoire unique dans le grand livre du cinéma hexagonal, fêtée en apothéose dans un grand feu de joie.",
   "sousCycles": [
     {
       "tri": 2,
@@ -30,7 +30,7 @@
           "seances": [
             {
               "idSeance": 217940,
-              "dateHeure": "2026-10-29T18:15:00",
+              "dateHeure": "2026-10-29T20:00:00",
               "idSalle": "HL",
               "mention": "Avant-première"
             }
@@ -280,33 +280,49 @@
           ]
         },
         {
-          "idFilm": 76245,
-          "content": [
+          "groupe": [
             {
               "idFilm": 76245,
-              "ordre": 1,
-              "titre": "Souffle",
-              "art": "Le",
-              "realisateurs": "Damien Odoul",
-              "pays": "France",
-              "annee": 2000,
-              "duree": 77,
-              "version": "VO",
-              "format": "35 mm",
-              "generique": [
-                "Pierre-Louis Bonnetblanc",
-                "Stéphane Terpereau",
-                "Dominique Chevallier"
-              ],
-              "isFocus": true,
-              "miniTexte": "Grand Prix du jury et prix FIPRESCI à la Mostra de Venise en 2001, _Le Souffle_ accompagne un jeune homme du Limousin au seuil d'un passage à l'âge adulte rude et sauvage. Entre exaltation, cruauté et visions obsédantes, Damien Odoul compose un récit d'initiation en noir et blanc fait d'onirisme rural et de sensualité primitive. Derrière le réalisme paysan, corps, bêtes et autres paysages vibrent d'une même intensité tellurique pour mieux faire surgir une forme de légende. Une œuvre âpre et poétique, qui métamorphose l'adolescence en expérience mythologique."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 76245,
+                  "ordre": 1,
+                  "titre": "Souffle",
+                  "art": "Le",
+                  "realisateurs": "Damien Odoul",
+                  "pays": "France",
+                  "annee": 2000,
+                  "duree": 77,
+                  "version": "VO",
+                  "format": "35 mm",
+                  "generique": [
+                    "Pierre-Louis Bonnetblanc",
+                    "Stéphane Terpereau",
+                    "Dominique Chevallier"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Grand Prix du jury et prix FIPRESCI à la Mostra de Venise en 2001, _Le Souffle_ accompagne un jeune homme du Limousin au seuil d'un passage à l'âge adulte rude et sauvage. Entre exaltation, cruauté et visions obsédantes, Damien Odoul compose un récit d'initiation en noir et blanc fait d'onirisme rural et de sensualité primitive. Derrière le réalisme paysan, corps, bêtes et autres paysages vibrent d'une même intensité tellurique pour mieux faire surgir une forme de légende. Une œuvre âpre et poétique, qui métamorphose l'adolescence en expérience mythologique."
+                }
+              ]
+            },
             {
-              "idSeance": 211869,
-              "dateHeure": "2026-10-24T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 36995,
+              "content": [
+                {
+                  "idConf": 36995,
+                  "ordre": 2,
+                  "titre": "Damien Odoul par Damien Odoul, une leçon de cinéma",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 211869,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-10-24T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -615,42 +631,20 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 36995,
-          "content": [
-            {
-              "idConf": 36995,
-              "titre": "Damien Odoul par Damien Odoul, une leçon de cinéma",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217434,
-              "dateHeure": "2026-10-24T16:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Avant-première": [
       {
-        "dateHeure": "2026-10-29T18:15:00",
+        "dateHeure": "2026-10-29T20:00:00",
         "titreFilms": "À la grâce de Dieu"
       }
     ],
     "Séance avec dialogue": [
       {
+        "titreFilms": "Le Souffle",
         "mention": "Damien Odoul par Damien Odoul, une leçon de cinéma",
-        "dateHeure": "2026-10-24T16:30:00"
+        "dateHeure": "2026-10-24T15:00:00"
       }
     ],
     "Discussion": [

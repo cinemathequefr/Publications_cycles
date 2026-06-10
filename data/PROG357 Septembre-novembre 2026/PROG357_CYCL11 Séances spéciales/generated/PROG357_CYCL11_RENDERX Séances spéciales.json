@@ -67,58 +67,51 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 36991,
-          "content": [
-            {
-              "idConf": 36991,
-              "titre": "Table Ronde François Mitterrand",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217470,
-              "dateHeure": "2026-10-12T19:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
       "titreSousCycle": "François Mitterrand et le cinéma",
       "items": [
         {
-          "idFilm": 94512,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 36991,
+              "content": [
+                {
+                  "idConf": 36991,
+                  "ordre": 1,
+                  "titre": "Table Ronde François Mitterrand",
+                  "typeConference": "Dialogue"
+                }
+              ]
+            },
             {
               "idFilm": 94512,
-              "ordre": 1,
-              "titre": "Promeneur du Champ-de-Mars",
-              "art": "Le",
-              "realisateurs": "Robert Guédiguian",
-              "pays": "France",
-              "annee": 2005,
-              "duree": 117,
-              "version": "",
-              "format": "35 mm",
-              "adaptation": "D'après le récit _Le Dernier Mitterrand_ de Georges-Marc Benamou.",
-              "generique": [
-                "Michel Bouquet",
-                "Jalil Lespert",
-                "Philippe Fretun"
+              "content": [
+                {
+                  "idFilm": 94512,
+                  "ordre": 2,
+                  "titre": "Promeneur du Champ-de-Mars",
+                  "art": "Le",
+                  "realisateurs": "Robert Guédiguian",
+                  "pays": "France",
+                  "annee": 2005,
+                  "duree": 117,
+                  "version": "",
+                  "format": "35 mm",
+                  "adaptation": "D'après le récit _Le Dernier Mitterrand_ de Georges-Marc Benamou.",
+                  "generique": [
+                    "Michel Bouquet",
+                    "Jalil Lespert",
+                    "Philippe Fretun"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217470,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-10-12T19:00:00",
+                  "idSalle": "HL"
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 211569,
-              "dateHeure": "2026-10-12T20:15:00",
-              "idSalle": "HL"
             }
           ]
         }
@@ -171,6 +164,7 @@
     ],
     "Séance avec dialogue": [
       {
+        "titreFilms": "Le Promeneur du Champ-de-Mars",
         "mention": "Table Ronde François Mitterrand",
         "dateHeure": "2026-10-12T19:00:00"
       }
