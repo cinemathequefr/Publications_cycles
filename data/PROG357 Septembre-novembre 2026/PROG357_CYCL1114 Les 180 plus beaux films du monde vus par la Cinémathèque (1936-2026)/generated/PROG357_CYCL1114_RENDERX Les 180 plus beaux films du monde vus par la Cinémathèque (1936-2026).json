@@ -962,6 +962,33 @@
           ]
         },
         {
+          "idFilm": 50009,
+          "content": [
+            {
+              "idFilm": 50009,
+              "ordre": 1,
+              "titre": "Espoir",
+              "titreVo": "Sierra de Teruel",
+              "realisateurs": "André Malraux",
+              "pays": "France-Espagne",
+              "annee": 1939,
+              "duree": 90,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après le roman _L'Espoir_ d'André Malraux.",
+              "miniTexte": "1937. La sierra de Teruel est le théâtre de combats sanglants entre les républicains espagnols et les troupes fascistes de Franco. Tourné dans des conditions difficiles, pendant la chute de Barcelone, _Espoir_ saisit sur le vif la lutte d'un peuple, soldats et paysans réunis dans un même élan de vie. Visages expressifs, narration dépouillée, musique de Darius Milhaud : l'œuvre de Malraux, traversée par un souffle lyrique, porte en elle une vérité saisissante. Un témoignage incontournable."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212384,
+              "dateHeure": "2026-11-16T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        },
+        {
           "idFilm": 49094,
           "content": [
             {
@@ -3140,5 +3167,12 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2026-11-16T20:00:00",
+        "titreFilms": "Espoir"
+      }
+    ]
+  }
 }

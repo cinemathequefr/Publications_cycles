@@ -577,38 +577,64 @@
           ]
         },
         {
-          "idFilm": 155731,
-          "content": [
+          "groupe": [
             {
-              "idFilm": 155731,
-              "ordre": 1,
-              "titre": "Joueuse de l'ère Shōwa",
-              "art": "La",
-              "titreVo": "Shōwa onna bakuto",
-              "realisateurs": "Tai Katō",
-              "pays": "Japon",
-              "annee": 1972,
-              "duree": 91,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Kyōko Enami",
-                "Hiroki Matsukata",
-                "Shigeru Amachi"
+              "idEvenement": 37007,
+              "content": [
+                {
+                  "idConf": 37007,
+                  "titre": "Conférence Tai Katō",
+                  "typeConference": "Conférence"
+                }
               ],
-              "miniTexte": "Figure emblématique de la femme _bakuto_, Kyōko Enami prend la suite de Junko Fuji dans le rôle de la justicière solitaire. Calme et sereine dans son kimono, l'héroïne vengeresse, formée au jeu de cartes professionnel, erre dans les tripots pour traquer ceux qui ont tué l'homme qu'elle aimait – un yakuza intègre. La mise en scène de Katō fait merveille, notamment dans l'usage des portes coulissantes qui accentue la profondeur de champ."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 211791,
-              "dateHeure": "2026-10-22T21:30:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 217432,
+                  "idSeanceAssoc": 211791,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-10-22T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             },
             {
-              "idSeance": 212541,
-              "dateHeure": "2026-11-22T19:30:00",
-              "idSalle": "GF"
+              "idFilm": 155731,
+              "content": [
+                {
+                  "idFilm": 155731,
+                  "ordre": 1,
+                  "titre": "Joueuse de l'ère Shōwa",
+                  "art": "La",
+                  "titreVo": "Shōwa onna bakuto",
+                  "realisateurs": "Tai Katō",
+                  "pays": "Japon",
+                  "annee": 1972,
+                  "duree": 91,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Kyōko Enami",
+                    "Hiroki Matsukata",
+                    "Shigeru Amachi"
+                  ],
+                  "miniTexte": "Figure emblématique de la femme _bakuto_, Kyōko Enami prend la suite de Junko Fuji dans le rôle de la justicière solitaire. Calme et sereine dans son kimono, l'héroïne vengeresse, formée au jeu de cartes professionnel, erre dans les tripots pour traquer ceux qui ont tué l'homme qu'elle aimait – un yakuza intègre. La mise en scène de Katō fait merveille, notamment dans l'usage des portes coulissantes qui accentue la profondeur de champ."
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 211791,
+                  "idSeanceAssoc": 217432,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-10-22T21:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                },
+                {
+                  "idSeance": 212541,
+                  "dateHeure": "2026-11-22T19:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -1410,29 +1436,6 @@
               "idSeance": 217688,
               "dateHeure": "2026-11-08T20:45:00",
               "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 37007,
-          "content": [
-            {
-              "idConf": 37007,
-              "titre": "Conférence Tai Katō",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217432,
-              "dateHeure": "2026-10-22T19:00:00",
-              "idSalle": "GF"
             }
           ]
         }

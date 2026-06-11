@@ -4191,7 +4191,7 @@
       {
         "idConf": 36996,
         "titre": "Les Champs-Élysées, une histoire de cinémas",
-        "sousTitre": "Conférence d'Axel Huyges",
+        "sousTitre": "Conférence d'Axel Huyghe",
         "typeConference": "Conférence"
       }
     ],
@@ -4628,7 +4628,7 @@
     "idSeance": 217932,
     "idEvenement": 36464,
     "dateHeure": "2026-10-26T18:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Damien Odoul",
@@ -4728,10 +4728,70 @@
     "hashEvenement": "f76264f76266f76267f76268f76271f76269f76270f155863f155864f155866f155865"
   },
   {
+    "idSeance": 211899,
+    "idEvenement": 37194,
+    "dateHeure": "2026-10-26T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Courts métrages Arte"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Hélène Vayssières, Fanny Galan, Mathilde Bedouet et Lola Degove",
+    "items": [
+      {
+        "idFilm": 155919,
+        "titre": "Please",
+        "realisateurs": "Anna Mantzaris",
+        "annee": 2026,
+        "duree": 9,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155920,
+        "titre": "Personne n'a rien dit",
+        "realisateurs": "Tamara Todorovic",
+        "annee": 2026,
+        "duree": 15,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155921,
+        "titre": "Dernier printemps",
+        "realisateurs": "Mathilde Bedouet",
+        "annee": 2026,
+        "duree": 15,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155922,
+        "titre": "Incasable",
+        "art": "L'",
+        "realisateurs": "Fanny Galan",
+        "annee": 2026,
+        "duree": 22,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155923,
+        "titre": "Bain des sirènes",
+        "art": "Le",
+        "realisateurs": "Lola Degove",
+        "annee": 2026,
+        "duree": 15,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155919f155920f155921f155922f155923"
+  },
+  {
     "idSeance": 217755,
     "idEvenement": 36474,
     "dateHeure": "2026-10-26T21:00:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Damien Odoul",
@@ -6032,6 +6092,32 @@
     "hashEvenement": "f42566"
   },
   {
+    "idSeance": 212225,
+    "idEvenement": 37184,
+    "dateHeure": "2026-11-09T20:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Roland Edzard"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Roland Edzard",
+    "items": [
+      {
+        "idFilm": 155912,
+        "titre": "Montagne d'or",
+        "art": "La",
+        "realisateurs": "Roland Edzard",
+        "annee": 2025,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155912"
+  },
+  {
     "idSeance": 217842,
     "idEvenement": 36974,
     "dateHeure": "2026-11-09T20:45:00",
@@ -6745,6 +6831,54 @@
     "hashEvenement": "f63780"
   },
   {
+    "idSeance": 212388,
+    "idEvenement": 37189,
+    "dateHeure": "2026-11-16T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Ryan Kevin Doyle"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Ryan Kevin Doyle",
+    "items": [
+      {
+        "idFilm": 155918,
+        "titre": "Rak",
+        "realisateurs": "Ryan Kevin Doyle",
+        "annee": 2026,
+        "duree": 19,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155918"
+  },
+  {
+    "idSeance": 212384,
+    "idEvenement": 36776,
+    "dateHeure": "2026-11-16T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026)",
+        "Les films"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 50009,
+        "titre": "Espoir",
+        "realisateurs": "André Malraux",
+        "annee": 1939,
+        "duree": 90,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f50009"
+  },
+  {
     "idSeance": 212387,
     "idEvenement": 35931,
     "dateHeure": "2026-11-16T20:45:00",
@@ -7162,6 +7296,10 @@
       [
         "Jean-Paul Belmondo",
         "Les films"
+      ],
+      [
+        "Jean-Paul Belmondo",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -7172,9 +7310,14 @@
         "annee": 1965,
         "duree": 111,
         "format": "35 mm"
+      },
+      {
+        "idConf": 36994,
+        "titre": "Dialogue avec Alain Bergala",
+        "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "f48860"
+    "hashEvenement": "f48860c36994"
   },
   {
     "idSeance": 217877,
@@ -7200,26 +7343,6 @@
       }
     ],
     "hashEvenement": "f155713"
-  },
-  {
-    "idSeance": 217477,
-    "idEvenement": 36994,
-    "dateHeure": "2026-11-21T16:45:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Jean-Paul Belmondo",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 36994,
-        "titre": "Dialogue avec Alain Bergala",
-        "typeConference": "Dialogue"
-      }
-    ],
-    "hashEvenement": "c36994"
   },
   {
     "idSeance": 217876,
@@ -7490,6 +7613,43 @@
       }
     ],
     "hashEvenement": "f155690"
+  },
+  {
+    "idSeance": 212551,
+    "idEvenement": 37187,
+    "dateHeure": "2026-11-23T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Yotam Ben David"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Yotam Ben-David",
+    "items": [
+      {
+        "idFilm": 155915,
+        "titre": "End Of The West",
+        "realisateurs": "Yotam Ben-David",
+        "annee": 2024
+      },
+      {
+        "idFilm": 155914,
+        "titre": "Loin de la lumière du jour",
+        "realisateurs": "Yotam Ben-David",
+        "annee": 2025
+      },
+      {
+        "idFilm": 155916,
+        "titre": "Tonnerre sur mer",
+        "realisateurs": "Yotam Ben-David",
+        "annee": 2018,
+        "duree": 45,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155915f155914f155916"
   },
   {
     "idSeance": 212547,

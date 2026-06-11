@@ -4,15 +4,25 @@
 
   * David Copperfield
 
-## Aujourd'hui le cinéma (7)
+## Aujourd'hui le cinéma (17)
 
   * A la recherche de l'oiseau gris aux rayures vertes  
   * Agwe  
+  * Bain des sirènes (Le)  
   * Cœur Bleu  
+  * Dernier printemps  
   * Des rêves en bateaux papiers  
+  * End Of The West  
+  * Incasable (L')  
   * Journal du futur  
+  * Loin de la lumière du jour  
   * Love Story  
-  * Shana
+  * Montagne d'or (La)  
+  * Personne n'a rien dit  
+  * Please  
+  * Rak  
+  * Shana  
+  * Tonnerre sur mer
 
 ## Ciné-club de Murielle Joudet (2)
 
@@ -186,7 +196,7 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (101)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (102)
 
   * Accattone  
   * Amerika, rapports de classe  
@@ -219,6 +229,7 @@
   * Elle et lui  
   * Empire contre-attaque (L')  
   * Enfants de la ruche (Les)  
+  * Espoir  
   * Faisons un rêve  
   * Falstaff  
   * Farrebique  

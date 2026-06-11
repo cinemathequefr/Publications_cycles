@@ -140,6 +140,100 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Courts métrages Arte",
+      "items": [
+        {
+          "idEvenement": 37194,
+          "content": [
+            {
+              "idFilm": 155919,
+              "ordre": 1,
+              "titre": "Please",
+              "realisateurs": "Anna Mantzaris",
+              "pays": "France-Suède",
+              "annee": 2026,
+              "duree": 9,
+              "version": "VOSTF",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155920,
+              "ordre": 2,
+              "titre": "Personne n'a rien dit",
+              "realisateurs": "Tamara Todorovic",
+              "pays": "Serbie-France-Slovénie-Croatie",
+              "annee": 2026,
+              "duree": 15,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Ivana Vukovic",
+                "Iva Kraljevic"
+              ]
+            },
+            {
+              "idFilm": 155921,
+              "ordre": 3,
+              "titre": "Dernier printemps",
+              "realisateurs": "Mathilde Bedouet",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 15,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Mathias Minne",
+                "Louis Mostacchi",
+                "Johan Del Mastro"
+              ]
+            },
+            {
+              "idFilm": 155922,
+              "ordre": 4,
+              "titre": "Incasable",
+              "art": "L'",
+              "realisateurs": "Fanny Galan",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 22,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Viggo Ferreira-Redier",
+                "Arthur de Crépy"
+              ]
+            },
+            {
+              "idFilm": 155923,
+              "ordre": 5,
+              "titre": "Bain des sirènes",
+              "art": "Le",
+              "realisateurs": "Lola Degove",
+              "pays": "France-Belgique",
+              "annee": 2026,
+              "duree": 15,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Mara Taquin",
+                "Eva Huault",
+                "Yolande Moreau"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211899,
+              "dateHeure": "2026-10-26T20:00:00",
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Hélène Vayssières, Fanny Galan, Mathilde Bedouet et Lola Degove"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Saïd Hamich Benlarbi",
       "items": [
         {
@@ -170,6 +264,117 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Roland Edzard",
+      "items": [
+        {
+          "idFilm": 155912,
+          "content": [
+            {
+              "idFilm": 155912,
+              "ordre": 1,
+              "titre": "Montagne d'or",
+              "art": "La",
+              "realisateurs": "Roland Edzard",
+              "pays": "Belgique-France",
+              "annee": 2025,
+              "duree": 85,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212225,
+              "dateHeure": "2026-11-09T20:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Roland Edzard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Ryan Kevin Doyle",
+      "items": [
+        {
+          "idFilm": 155918,
+          "content": [
+            {
+              "idFilm": 155918,
+              "ordre": 1,
+              "titre": "Rak",
+              "realisateurs": "Ryan Kevin Doyle",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 19,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212388,
+              "dateHeure": "2026-11-16T19:30:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Ryan Kevin Doyle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Yotam Ben David",
+      "items": [
+        {
+          "idEvenement": 37187,
+          "content": [
+            {
+              "idFilm": 155915,
+              "ordre": 1,
+              "titre": "End Of The West",
+              "realisateurs": "Yotam Ben-David",
+              "pays": "France",
+              "annee": 2024
+            },
+            {
+              "idFilm": 155914,
+              "ordre": 2,
+              "titre": "Loin de la lumière du jour",
+              "realisateurs": "Yotam Ben-David",
+              "pays": "France",
+              "annee": 2025
+            },
+            {
+              "idFilm": 155916,
+              "ordre": 3,
+              "titre": "Tonnerre sur mer",
+              "realisateurs": "Yotam Ben-David",
+              "pays": "France",
+              "annee": 2018,
+              "duree": 45,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Dekel Hanuni",
+                "Uri Brinder"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 212551,
+              "dateHeure": "2026-11-23T19:30:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Yotam Ben-David"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -190,9 +395,29 @@
         "dateHeure": "2026-10-19T19:00:00"
       },
       {
+        "titreFilms": "Please / Personne n'a rien dit / Dernier printemps / L'Incasable / Le Bain des sirènes",
+        "mention": "avec Hélène Vayssières, Fanny Galan, Mathilde Bedouet et Lola Degove",
+        "dateHeure": "2026-10-26T20:00:00"
+      },
+      {
         "titreFilms": "A la recherche de l'oiseau gris aux rayures vertes",
         "mention": "avec Saïd Hamich Benlarbi",
         "dateHeure": "2026-11-02T19:00:00"
+      },
+      {
+        "titreFilms": "La Montagne d'or",
+        "mention": "avec Roland Edzard",
+        "dateHeure": "2026-11-09T20:00:00"
+      },
+      {
+        "titreFilms": "Rak",
+        "mention": "avec Ryan Kevin Doyle",
+        "dateHeure": "2026-11-16T19:30:00"
+      },
+      {
+        "titreFilms": "End Of The West / Loin de la lumière du jour / Tonnerre sur mer",
+        "mention": "avec Yotam Ben-David",
+        "dateHeure": "2026-11-23T19:30:00"
       }
     ]
   }
