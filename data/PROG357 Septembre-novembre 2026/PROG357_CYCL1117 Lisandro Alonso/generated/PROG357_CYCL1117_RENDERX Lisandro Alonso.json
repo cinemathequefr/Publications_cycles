@@ -49,8 +49,8 @@
           ],
           "seances": [
             {
-              "idSeance": 217681,
-              "dateHeure": "2026-11-26T18:30:00",
+              "idSeance": 218047,
+              "dateHeure": "2026-11-28T15:00:00",
               "idSalle": "GF"
             }
           ]
@@ -80,8 +80,8 @@
           ],
           "seances": [
             {
-              "idSeance": 212704,
-              "dateHeure": "2026-11-29T20:30:00",
+              "idSeance": 218049,
+              "dateHeure": "2026-11-28T19:30:00",
               "idSalle": "GF"
             }
           ]
@@ -109,8 +109,8 @@
           ],
           "seances": [
             {
-              "idSeance": 212684,
-              "dateHeure": "2026-11-28T15:00:00",
+              "idSeance": 218048,
+              "dateHeure": "2026-11-26T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -149,8 +149,8 @@
           ],
           "seances": [
             {
-              "idSeance": 212685,
-              "dateHeure": "2026-11-28T19:30:00",
+              "idSeance": 218050,
+              "dateHeure": "2026-11-29T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -263,6 +263,29 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 37204,
+          "content": [
+            {
+              "idConf": 37204,
+              "titre": "Lisandro Alonso par Lisandro Alsonso, une leçon de cinéma.",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218030,
+              "dateHeure": "2026-11-28T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -270,6 +293,12 @@
       {
         "dateHeure": "2026-11-23T20:00:00",
         "titreFilms": "La Libertad doble"
+      }
+    ],
+    "Séance avec dialogue": [
+      {
+        "mention": "Lisandro Alonso par Lisandro Alsonso, une leçon de cinéma.",
+        "dateHeure": "2026-11-28T16:30:00"
       }
     ]
   }
