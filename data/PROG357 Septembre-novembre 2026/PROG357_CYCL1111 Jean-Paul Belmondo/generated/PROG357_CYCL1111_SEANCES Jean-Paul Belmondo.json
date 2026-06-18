@@ -89,10 +89,10 @@
         "idFilm": 48870,
         "ordre": 1,
         "idSeance": 211503,
-        "idCopie": 1045,
+        "idCopie": 1046,
         "duree": 88,
         "version": "",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ]
   },
@@ -117,7 +117,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Volker Schlöndorff"
   },
   {
     "idCategorie": 4206,
@@ -209,7 +210,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Volker Schlöndorff"
   },
   {
     "idCategorie": 4206,
@@ -304,32 +306,9 @@
   {
     "idCategorie": 4206,
     "typeEvenement": 13,
-    "idEvenement": 37078,
-    "idSeance": 217957,
-    "dateHeure": "2026-10-24T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 46169,
-        "ordre": 1,
-        "idSeance": 217957,
-        "idCopie": 32121,
-        "duree": 90,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4206,
-    "typeEvenement": 13,
     "idEvenement": 36634,
-    "idSeance": 217708,
-    "dateHeure": "2026-10-25T14:30:00",
+    "idSeance": 218060,
+    "dateHeure": "2026-10-24T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -339,7 +318,7 @@
       {
         "idFilm": 51580,
         "ordre": 1,
-        "idSeance": 217708,
+        "idSeance": 218060,
         "idCopie": 3973,
         "duree": 125,
         "version": "",
@@ -363,10 +342,11 @@
         "idFilm": 47142,
         "ordre": 1,
         "idSeance": 217611,
-        "idCopie": 6152,
+        "idCopie": 6140,
         "duree": 114,
         "version": "",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -381,6 +361,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 47148,
@@ -398,15 +379,18 @@
     "idCategorie": 4231,
     "typeEvenement": 14,
     "idEvenement": 36993,
-    "idSeance": 217440,
-    "dateHeure": "2026-11-07T16:30:00",
+    "idSeance": 212191,
+    "dateHeure": "2026-11-07T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -428,7 +412,8 @@
         "idCopie": 6142,
         "duree": 112,
         "version": "",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -453,7 +438,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par François Thomas"
   },
   {
     "idCategorie": 4206,
@@ -476,7 +462,8 @@
         "version": "",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Payen Bernard"
   },
   {
     "idCategorie": 4206,

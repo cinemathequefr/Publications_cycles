@@ -15,7 +15,7 @@
             {
               "idFilm": 155876,
               "ordre": 1,
-              "titre": "Échos du cinéma N°25",
+              "titre": "Échos du cinéma n° 25",
               "art": "Les",
               "realisateurs": "Inconnu Inconnu",
               "pays": "France",
@@ -40,7 +40,8 @@
             {
               "idSeance": 217609,
               "dateHeure": "2026-09-30T20:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Julia Eisner et Laurent Mannoni"
             }
           ]
         }
@@ -106,7 +107,8 @@
             {
               "idSeance": 217603,
               "dateHeure": "2026-09-26T17:15:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Emmanuelle Berthault"
             }
           ]
         }
@@ -196,7 +198,7 @@
               "adaptation": "D'après la nouvelle _L'Espagnole_ de Maria Star.",
               "generique": [
                 "Musidora",
-                "Antonio Canero",
+                "Antonio Cañero",
                 "Simone Cynthia"
               ]
             }
@@ -206,7 +208,7 @@
               "idSeance": 211177,
               "dateHeure": "2026-09-25T20:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Accompagnement musical par Les Inoubliables, Sandrine Rudaz et Orchestre Nexus"
             }
           ]
         }
@@ -217,67 +219,52 @@
       "titreSousCycle": "Germaine Dulac",
       "items": [
         {
-          "groupe": [
+          "idEvenement": 37161,
+          "content": [
             {
-              "idEvenement": 37161,
-              "content": [
-                {
-                  "idFilm": 48275,
-                  "ordre": 1,
-                  "titre": "Fête espagnole",
-                  "art": "La",
-                  "realisateurs": "Germaine Dulac",
-                  "pays": "France",
-                  "annee": 1920,
-                  "duree": 23,
-                  "version": "INT. FR.",
-                  "format": "35 mm",
-                  "generique": [
-                    "Ève Francis",
-                    "Jean Toulout",
-                    "Gaston Modot",
-                    "Robert Delsol",
-                    "Anna Gay"
-                  ]
-                },
-                {
-                  "idFilm": 57083,
-                  "ordre": 2,
-                  "titre": "Souriante Madame Beudet",
-                  "art": "La",
-                  "realisateurs": "Germaine Dulac",
-                  "pays": "France",
-                  "annee": 1923,
-                  "duree": 36,
-                  "version": "INT. FR.",
-                  "format": "35 mm",
-                  "adaptation": "D'après la pièce _La Souriante madame Beudet_ de Denys Amiel et André Obey.",
-                  "generique": [
-                    "Germaine Dermoz",
-                    "Alexandre Arquillière",
-                    "Jean d'Yd"
-                  ]
-                }
+              "idFilm": 48275,
+              "ordre": 1,
+              "titre": "Fête espagnole",
+              "art": "La",
+              "realisateurs": "Germaine Dulac",
+              "pays": "France",
+              "annee": 1920,
+              "duree": 25,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Ève Francis",
+                "Jean Toulout",
+                "Gaston Modot",
+                "Robert Delsol",
+                "Anna Gay"
               ]
             },
             {
-              "idEvenement": 37130,
-              "content": [
-                {
-                  "idConf": 37130,
-                  "ordre": 3,
-                  "titre": "Film + dialogue avec Clément Lafite",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 211307,
-                  "typeAssoc": 118,
-                  "dateHeure": "2026-10-01T18:30:00",
-                  "idSalle": "JE"
-                }
+              "idFilm": 57083,
+              "ordre": 2,
+              "titre": "Souriante Madame Beudet",
+              "art": "La",
+              "realisateurs": "Germaine Dulac",
+              "pays": "France",
+              "annee": 1923,
+              "duree": 36,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "adaptation": "D'après la pièce _La Souriante madame Beudet_ de Denys Amiel et André Obey.",
+              "generique": [
+                "Germaine Dermoz",
+                "Alexandre Arquillière",
+                "Jean d'Yd"
               ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 211307,
+              "dateHeure": "2026-10-01T18:30:00",
+              "idSalle": "JE",
+              "mention": "Accompagnement musical par Adrien Leconte. Séance présentée par Bruna Lo Biundo"
             }
           ]
         }
@@ -288,16 +275,17 @@
       "titreSousCycle": "Renée Lichtig",
       "items": [
         {
-          "idEvenement": 36660,
+          "idEvenement": 37209,
           "content": [
             {
-              "idFilm": 155900,
+              "idFilm": 155924,
               "ordre": 1,
-              "titre": "Émission Clair de nuit TV",
-              "realisateurs": "Inconnu Inconnu",
+              "titre": "Leçons de cinéma, Renée Lichtig vidéo",
+              "art": "Les",
+              "realisateurs": "Jackie Buet",
               "pays": "France",
               "annee": 2001,
-              "duree": 20,
+              "duree": 15,
               "version": "",
               "format": "DCP"
             },
@@ -325,7 +313,8 @@
             {
               "idSeance": 217604,
               "dateHeure": "2026-09-26T20:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Frédéric Bonnaud et Emmanuelle Berthault"
             }
           ]
         }
@@ -336,14 +325,14 @@
       "titreSousCycle": "Jehanne d'Alcy et Madeleine Malthête-Méliès",
       "items": [
         {
-          "idEvenement": 36672,
+          "idEvenement": 37202,
           "content": [
             {
-              "idFilm": 155877,
+              "idFilm": 155917,
               "ordre": 1,
-              "titre": "Fantômes de la Cinémathèque – rushes",
-              "art": "Les",
-              "realisateurs": "Inconnu Inconnu",
+              "titre": "Fantôme d'Henri Langlois – rushes",
+              "art": "Le",
+              "realisateurs": "Jacques Richard",
               "pays": "France",
               "annee": 2002,
               "duree": 38,
@@ -370,7 +359,7 @@
             {
               "idFilm": 88028,
               "ordre": 3,
-              "titre": "Les Bulles de savon vivantes",
+              "titre": "Bulles de savon vivantes",
               "art": "Les",
               "realisateurs": "Georges Méliès",
               "pays": "France",
@@ -387,9 +376,9 @@
               "realisateurs": "Georges Méliès",
               "pays": "France",
               "annee": 1904,
-              "duree": 4,
+              "duree": 5,
               "version": "INT. FR.",
-              "format": "35 mm",
+              "format": "Numérique",
               "generique": [
                 "Georges Méliès"
               ]
@@ -443,9 +432,28 @@
               "format": ""
             },
             {
-              "idFilm": 84599,
+              "idFilm": 52514,
               "ordre": 9,
+              "titre": "Royaume des fées",
+              "art": "Le",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1903,
+              "duree": 17,
+              "version": "INT. FR.",
+              "format": "Numérique",
+              "generique": [
+                "Georges Méliès",
+                "Bleuette Bernon",
+                "Marguerite Thévenard",
+                "Durafour"
+              ]
+            },
+            {
+              "idFilm": 84599,
+              "ordre": 10,
               "titre": "Tentation de Saint-Antoine",
+              "art": "La",
               "realisateurs": "Georges Méliès",
               "pays": "France",
               "annee": 1898,
@@ -455,7 +463,7 @@
             },
             {
               "idFilm": 52382,
-              "ordre": 10,
+              "ordre": 11,
               "titre": "Jeanne d'Arc",
               "realisateurs": "Georges Méliès",
               "pays": "France",
@@ -472,7 +480,7 @@
             },
             {
               "idFilm": 84852,
-              "ordre": 11,
+              "ordre": 12,
               "titre": "Illusionniste fin de siècle",
               "art": "L'",
               "realisateurs": "Georges Méliès",
@@ -484,8 +492,23 @@
               "ageMinimal": 9
             },
             {
+              "idFilm": 52380,
+              "ordre": 13,
+              "titre": "Après le bal",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1897,
+              "duree": 1,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Jeanne Brady",
+                "Jehanne d'Alcy"
+              ]
+            },
+            {
               "idFilm": 65733,
-              "ordre": 12,
+              "ordre": 14,
               "titre": "Chrysalide et le papillon d'or",
               "art": "La",
               "realisateurs": "Georges Méliès",
@@ -497,38 +520,21 @@
               "ageMinimal": 3
             },
             {
-              "idFilm": 52380,
-              "ordre": 13,
-              "titre": "Après le bal",
-              "realisateurs": "Georges Méliès",
+              "idFilm": 155877,
+              "ordre": 15,
+              "titre": "Fantômes de la Cinémathèque – rushes",
+              "art": "Les",
+              "realisateurs": "Inconnu Inconnu",
               "pays": "France",
-              "annee": 1897,
-              "duree": 1,
-              "version": "INT. FR.",
+              "annee": 2002,
+              "duree": 38,
+              "version": "",
               "format": "DCP"
-            },
-            {
-              "idFilm": 52514,
-              "ordre": 14,
-              "titre": "Royaume des fées",
-              "art": "Le",
-              "realisateurs": "Georges Méliès",
-              "pays": "France",
-              "annee": 1903,
-              "duree": 17,
-              "version": "INT. FR.",
-              "format": "Numérique",
-              "generique": [
-                "Georges Méliès",
-                "Bleuette Bernon",
-                "Marguerite Thévenard",
-                "Durafour"
-              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 217870,
+              "idSeance": 220366,
               "dateHeure": "2026-09-26T15:00:00",
               "idSalle": "GF"
             }
@@ -575,7 +581,8 @@
               "annee": 1948,
               "duree": 8,
               "version": "",
-              "format": "35 mm"
+              "format": "35 mm",
+              "restauration": true
             },
             {
               "idFilm": 155898,
@@ -586,7 +593,8 @@
               "annee": 1948,
               "duree": 6,
               "version": "",
-              "format": "35 mm"
+              "format": "35 mm",
+              "restauration": true
             },
             {
               "idFilm": 51292,
@@ -681,7 +689,7 @@
           "seances": [
             {
               "idSeance": 217606,
-              "dateHeure": "2026-09-27T20:00:00",
+              "dateHeure": "2026-09-27T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -753,7 +761,8 @@
                   "idSeance": 217573,
                   "typeAssoc": 118,
                   "dateHeure": "2026-09-27T15:00:00",
-                  "idSalle": "GF"
+                  "idSalle": "GF",
+                  "mention": "Séance présentée par Christophe Dupin"
                 }
               ]
             }
@@ -763,15 +772,37 @@
     }
   ],
   "syntheseAction": {
-    "Séances avec dialogue": [
+    "Séance avec dialogue": [
       {
         "titreFilms": "Congrès de Vence de la Fédération Internationale des Archives du Film / Montage du Musée du cinéma – Mme Kawakita et Henri Langlois / Fanchon le criquet",
         "mention": "Film + Dialogue ",
         "dateHeure": "2026-09-27T15:00:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Jean Epstein, la mer lyrosophe / La Cinémathèque française / Cœur fidèle",
+        "mention": "par Emmanuelle Berthault",
+        "dateHeure": "2026-09-26T17:15:00"
+      },
+      {
+        "titreFilms": "Les Leçons de cinéma, Renée Lichtig vidéo / La Symphonie nuptiale",
+        "mention": "par Frédéric Bonnaud et Emmanuelle Berthault",
+        "dateHeure": "2026-09-26T20:30:00"
+      },
+      {
+        "titreFilms": "Congrès de Vence de la Fédération Internationale des Archives du Film / Montage du Musée du cinéma – Mme Kawakita et Henri Langlois / Fanchon le criquet",
+        "mention": "par Christophe Dupin",
+        "dateHeure": "2026-09-27T15:00:00"
+      },
+      {
+        "titreFilms": "Les Échos du cinéma n° 25 / Fata Morgana",
+        "mention": "par Julia Eisner et Laurent Mannoni",
+        "dateHeure": "2026-09-30T20:30:00"
       },
       {
         "titreFilms": "La Fête espagnole / La Souriante Madame Beudet",
-        "mention": "Film + dialogue avec Clément Lafite",
+        "mention": "par Bruna Lo Biundo",
         "dateHeure": "2026-10-01T18:30:00"
       }
     ]

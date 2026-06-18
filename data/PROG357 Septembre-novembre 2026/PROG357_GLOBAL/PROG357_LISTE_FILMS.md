@@ -1,5 +1,14 @@
 # Liste des films par cycle
 
+## 80 ans du Syndicat français de la critique de cinéma (6)
+
+  * Cléo de 5 à 7  
+  * De battre mon cœur s'est arrêté  
+  * De Humani Corporis Fabrica  
+  * Onoda, dix mille nuits dans la jungle  
+  * Ressources humaines  
+  * Séjour dans les monts Fuchun
+
 ## Archi Vives (1)
 
   * David Copperfield
@@ -96,7 +105,7 @@
   * Vie d'une bouteille de champagne depuis la grappe jusqu'à la coupe (La)  
   * West Beyrouth (bande-annonce)
 
-## Jean-Paul Belmondo (20)
+## Jean-Paul Belmondo (19)
 
   * Belmondo l'influenceur  
   * Cartouche  
@@ -114,15 +123,15 @@
   * Toujours pas... à bout de souffle  
   * Tribulations d'un Chinois en Chine (Les)  
   * Un homme qui me plaît  
-  * Un nommé La Rocca  
   * Un singe en hiver  
   * Une femme est une femme  
   * Voleur (Le)
 
-## La Cinémathèque française, une histoire au féminin pluriel (40)
+## La Cinémathèque française, une histoire au féminin pluriel (41)
 
   * Après le bal  
   * Baquet de Mesmer (Le)  
+  * Bulles de savon vivantes (Les)  
   * Chrysalide et le papillon d'or (La)  
   * Ciel des hommes (Le)  
   * Cinéma : émission du 26 janvier 1967 TV  
@@ -132,12 +141,12 @@
   * Congrès de Vence de la Fédération Internationale des Archives du Film  
   * Danseuse microscopique (La)  
   * Démons et merveilles du cinéma  
-  * Échos du cinéma N°25 (Les)  
+  * Échos du cinéma n° 25 (Les)  
   * Elle est chez elle  
-  * Émission Clair de nuit TV  
   * Enchanteur Alcofribas (L')  
   * Escamotage d'une dame chez Robert-Houdin  
   * Fanchon le criquet  
+  * Fantôme d'Henri Langlois – rushes (Le)  
   * Fantômes de la Cinémathèque – rushes (Les)  
   * Fata Morgana  
   * Femmes de Langlois (TV) (Les)  
@@ -148,7 +157,7 @@
   * Illusionniste fin de siècle (L')  
   * Jean Epstein, la mer lyrosophe  
   * Jeanne d'Arc  
-  * Les Bulles de savon vivantes (Les)  
+  * Leçons de cinéma, Renée Lichtig vidéo (Les)  
   * Magique Image (La)  
   * Merveilleux Éventail vivant (Le)  
   * Montage du Musée du cinéma – Mme Kawakita et Henri Langlois  
@@ -157,7 +166,7 @@
   * Soleil et ombre  
   * Souriante Madame Beudet (La)  
   * Symphonie nuptiale (La)  
-  * Tentation de Saint-Antoine  
+  * Tentation de Saint-Antoine (La)  
   * Tonneau des Danaïdes (Le)  
   * Vache donne deux choses, le lait et... (La)  
   * Zanzabelle à Paris
@@ -196,7 +205,7 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (102)
+## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (106)
 
   * Accattone  
   * Amerika, rapports de classe  
@@ -219,6 +228,7 @@
   * Chantons sous la pluie  
   * Chasse au lion à l'arc (La)  
   * Chien enragé  
+  * De bruit et de fureur  
   * Démon des armes (Le)  
   * Dents de la mer (Les)  
   * Détour  
@@ -239,6 +249,7 @@
   * Fièvre dans le sang (La)  
   * Furyo  
   * Gare centrale  
+  * Gens de Dublin  
   * Gertrud  
   * Guépard (Le)  
   * Il était une fois en Amérique  
@@ -289,6 +300,7 @@
   * Tempête à Washington  
   * Terre en transe  
   * To Be Or Not to Be  
+  * Tombeau des lucioles (Le)  
   * Travail au noir  
   * Un condamné à mort s'est échappé  
   * Une femme sous influence  
@@ -298,6 +310,7 @@
   * Voleur de bicyclette (Le)  
   * Voyage au bout de l'enfer  
   * Wanda  
+  * Yeelen (La Lumière)  
   * Yeux sans visage (Les)  
   * Z
 
@@ -357,6 +370,17 @@
   * Italianamerican  
   * Taking Off
 
+## Robert Guédiguian (8)
+
+  * Au fil d'Ariane  
+  * Et la fête continue !  
+  * Gloria Mundi  
+  * Pie voleuse (La)  
+  * Twist à Bamako  
+  * Une femme aujourd'hui  
+  * Une histoire de fou  
+  * Villa (La)
+
 ## Séances spéciales (4)
 
   * Faust  
@@ -381,7 +405,7 @@
   * Fleurs et Dragons  
   * Huit vues du rōnin  
   * Indomptable d'Edō (L')  
-  * Jeunes chevaliers d'Edō (Les)  
+  * Jeunes Chevaliers d'Edō (Les)  
   * Jiraya le ninja  
   * Joueuse de l'ère Shōwa (La)  
   * Journal d'une hirondelle (Le)  

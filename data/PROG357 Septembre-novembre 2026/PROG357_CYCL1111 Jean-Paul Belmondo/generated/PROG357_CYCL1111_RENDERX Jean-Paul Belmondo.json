@@ -60,7 +60,8 @@
                 "Richard Anconina",
                 "Albert Dupontel",
                 "Michel Hazanavicius"
-              ]
+              ],
+              "miniTexte": "De Guillaume Canet à Albert Dupontel, acteurs et réalisateurs racontent comment Jean-Paul Belmondo leur a donné envie de faire ce métier. Jeff Domenech célèbre la vitalité, la liberté et le goût du risque d'une figure devenue un modèle pour plusieurs générations de cinéphiles."
             }
           ],
           "seances": [
@@ -83,7 +84,8 @@
               "annee": 1962,
               "duree": 114,
               "version": "",
-              "format": "35 mm",
+              "format": "DCP",
+              "restauration": true,
               "ageMinimal": 8,
               "generique": [
                 "Jean-Paul Belmondo",
@@ -193,7 +195,8 @@
             {
               "idSeance": 211557,
               "dateHeure": "2026-10-11T17:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Volker Schlöndorff"
             }
           ]
         },
@@ -211,6 +214,7 @@
               "duree": 112,
               "version": "",
               "format": "DCP",
+              "restauration": true,
               "ageMinimal": 10,
               "generique": [
                 "Jean-Paul Belmondo",
@@ -284,45 +288,66 @@
             {
               "idSeance": 211504,
               "dateHeure": "2026-10-09T20:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Volker Schlöndorff"
             }
           ]
         },
         {
-          "idFilm": 47148,
-          "content": [
+          "groupe": [
             {
               "idFilm": 47148,
-              "ordre": 1,
-              "titre": "Magnifique",
-              "art": "Le",
-              "realisateurs": "Philippe de Broca",
-              "pays": "France-Italie",
-              "annee": 1973,
-              "duree": 93,
-              "version": "",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Jean-Paul Belmondo",
-                "Jacqueline Bisset",
-                "Vittorio Caprioli"
-              ],
-              "isFocus": true,
-              "miniTexte": "Écrivain fauché enfermé dans sa routine parisienne, François Merlin s'invente une double vie à travers les aventures extravagantes de l'agent secret Bob Saint-Clare. À mesure que l'imaginaire déborde sur le réel, le film d'espionnage vire à la fantaisie pop et burlesque, où poursuites, gadgets et explosions rencontrent la mélancolie du quotidien. Jean-Paul Belmondo s'amuse brillamment de son image de héros invincible dans un jeu de miroirs drôle et désenchanté, devenu l'un des sommets du cinéma populaire français des années 70."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217529,
-              "dateHeure": "2026-10-07T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "content": [
+                {
+                  "idFilm": 47148,
+                  "ordre": 1,
+                  "titre": "Magnifique",
+                  "art": "Le",
+                  "realisateurs": "Philippe de Broca",
+                  "pays": "France-Italie",
+                  "annee": 1973,
+                  "duree": 93,
+                  "version": "",
+                  "format": "DCP",
+                  "restauration": true,
+                  "generique": [
+                    "Jean-Paul Belmondo",
+                    "Jacqueline Bisset",
+                    "Vittorio Caprioli"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Écrivain fauché enfermé dans sa routine parisienne, François Merlin s'invente une double vie à travers les aventures extravagantes de l'agent secret Bob Saint-Clare. À mesure que l'imaginaire déborde sur le réel, le film d'espionnage vire à la fantaisie pop et burlesque, où poursuites, gadgets et explosions rencontrent la mélancolie du quotidien. Jean-Paul Belmondo s'amuse brillamment de son image de héros invincible dans un jeu de miroirs drôle et désenchanté, devenu l'un des sommets du cinéma populaire français des années 70."
+                }
+              ]
             },
             {
-              "idSeance": 212191,
-              "dateHeure": "2026-11-07T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 36993,
+              "content": [
+                {
+                  "idConf": 36993,
+                  "ordre": 2,
+                  "titre": "Belmondo en musique, sans demi-mesure",
+                  "sousTitre": "Conférence de Stéphane Lerouge",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "Belmondo et la musique, c'est une énigme, sinon un paradoxe. Comment un comédien réfractaire à toute musicalité a-t-il pu incarner à l'écran un compositeur de musique pour l'image (_Un homme qui me plaît_) ? Une fois devenu producteur, quels rapports, simples ou complexes, a-t-il entretenus avec ses musiciens ? Comment sa personnalité magnétique a-t-elle emmené si loin, si haut l'inspiration d'Ennio Morricone, Georges Delerue, Philippe Sarde ou Claude Bolling ? Comment la carrière au cinéma du génial Martial Solal s'ouvre-t-elle sur la mort de Belmondo (_À bout de souffle_) et se referme sur sa mise en abyme (_Les Acteurs_) ? Au-delà de ces questions, il reste un constat objectif : le parcours de Belmondo sur quatre décennies prodigieuses, c'est une vision historique en raccourci de la musique de films française, avec ses forces vives, ses renouvellements générationnels, ses évolutions esthétiques. — Stéphane Lerouge"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217529,
+                  "dateHeure": "2026-10-07T20:00:00",
+                  "idSalle": "HL",
+                  "mention": "Ouverture de la rétrospective",
+                  "mentionAssoc": "Film seul"
+                },
+                {
+                  "idSeance": 212191,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-11-07T14:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                }
+              ]
             }
           ]
         },
@@ -351,7 +376,8 @@
             {
               "idSeance": 217958,
               "dateHeure": "2026-11-15T14:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Payen Bernard"
             }
           ]
         },
@@ -427,8 +453,8 @@
           ],
           "seances": [
             {
-              "idSeance": 217708,
-              "dateHeure": "2026-10-25T14:30:00",
+              "idSeance": 218060,
+              "dateHeure": "2026-10-24T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -459,7 +485,8 @@
             {
               "idSeance": 217697,
               "dateHeure": "2026-11-14T14:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par François Thomas"
             }
           ]
         },
@@ -480,7 +507,8 @@
                 "Jean-Paul Belmondo",
                 "Christophe Lambert",
                 "Cédric Klapisch"
-              ]
+              ],
+              "miniTexte": "Film manifeste de la Nouvelle Vague, _À bout de souffle_ demeure une source d'inspiration inépuisable. À travers archives et témoignages, Jeff Domenech explore la postérité d'un classique dont l'audace formelle et le duo Belmondo/Seberg continuent d'irriguer le cinéma contemporain."
             }
           ],
           "seances": [
@@ -569,36 +597,6 @@
           ]
         },
         {
-          "idFilm": 46169,
-          "content": [
-            {
-              "idFilm": 46169,
-              "ordre": 1,
-              "titre": "Un nommé La Rocca",
-              "realisateurs": "Jean Becker",
-              "pays": "France-Italie",
-              "annee": 1961,
-              "duree": 90,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après le roman _L'Excommunié_ de José Giovanni.",
-              "generique": [
-                "Jean-Paul Belmondo",
-                "Christine Kaufmann",
-                "Béatrice Altariba"
-              ],
-              "miniTexte": "Lorsqu'un de ses amis est envoyé en prison pour un crime qu'il n'a pas commis, La Rocca replonge dans un passé qu'il croyait avoir laissé derrière lui. Adapté de José Giovanni, ce polar tendu révèle un Belmondo grave et taciturne, au cœur d'un univers de dettes d'honneur et de destins brisés."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217957,
-              "dateHeure": "2026-10-24T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idFilm": 51546,
           "content": [
             {
@@ -640,7 +638,7 @@
               "annee": 1961,
               "duree": 88,
               "version": "",
-              "format": "35 mm",
+              "format": "DCP",
               "generique": [
                 "Anna Karina",
                 "Jean-Paul Belmondo",
@@ -691,31 +689,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 36993,
-          "content": [
-            {
-              "idConf": 36993,
-              "titre": "Belmondo en musique, sans demi-mesure",
-              "sousTitre": "Conférence de Stéphane Lerouge",
-              "typeConference": "Dialogue",
-              "miniTexte": "Belmondo et la musique, c'est une énigme, sinon un paradoxe. Comment un comédien réfractaire à toute musicalité a-t-il pu incarner à l'écran un compositeur de musique pour l'image (_Un homme qui me plaît_) ? Une fois devenu producteur, quels rapports, simples ou complexes, a-t-il entretenus avec ses musiciens ? Comment sa personnalité magnétique a-t-elle emmené si loin, si haut l'inspiration d'Ennio Morricone, Georges Delerue, Philippe Sarde ou Claude Bolling ? Comment la carrière au cinéma du génial Martial Solal s'ouvre-t-elle sur la mort de Belmondo (_À bout de souffle_) et se referme sur sa mise en abyme (_Les Acteurs_) ? Au-delà de ces questions, il reste un constat objectif : le parcours de Belmondo sur quatre décennies prodigieuses, c'est une vision historique en raccourci de la musique de films française, avec ses forces vives, ses renouvellements générationnels, ses évolutions esthétiques. — Stéphane Lerouge"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217440,
-              "dateHeure": "2026-11-07T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -726,13 +699,36 @@
         "dateHeure": "2026-10-18T14:30:00"
       },
       {
+        "titreFilms": "Le Magnifique",
         "mention": "Belmondo en musique, sans demi-mesure",
-        "dateHeure": "2026-11-07T16:30:00"
+        "dateHeure": "2026-11-07T14:30:00"
       },
       {
         "titreFilms": "Pierrot le fou",
         "mention": "avec Alain Bergala",
         "dateHeure": "2026-11-21T14:30:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Léon Morin, prêtre",
+        "mention": "par Volker Schlöndorff",
+        "dateHeure": "2026-10-09T20:30:00"
+      },
+      {
+        "titreFilms": "Le Doulos",
+        "mention": "par Volker Schlöndorff",
+        "dateHeure": "2026-10-11T17:00:00"
+      },
+      {
+        "titreFilms": "Stavisky",
+        "mention": "par François Thomas",
+        "dateHeure": "2026-11-14T14:30:00"
+      },
+      {
+        "titreFilms": "Peur sur la ville",
+        "mention": "par Payen Bernard",
+        "dateHeure": "2026-11-15T14:30:00"
       }
     ]
   }

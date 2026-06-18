@@ -131,7 +131,8 @@
             {
               "idSeance": 217578,
               "dateHeure": "2026-10-02T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Accompagnement musical par Joce Mienniel. Séance présentée par Béatrice de Pastre et Hervé Pichard"
             }
           ]
         },
@@ -173,7 +174,8 @@
               "restauration": true,
               "generique": [
                 "Sidiki Bakaba",
-                "Cheik Doukouré"
+                "Cheik Doukouré",
+                "Jean Bouise"
               ]
             }
           ],
@@ -181,7 +183,8 @@
             {
               "idSeance": 217579,
               "dateHeure": "2026-10-02T20:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Béatrice de Pastre et Hervé Pichard"
             }
           ]
         }
@@ -291,5 +294,18 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "La Vie d'une bouteille de champagne depuis la grappe jusqu'à la coupe / Les Ananas / Les Halles / Charcuterie mécanique / Le Ventre du magasin / Le Repas de bébé / Repas en famille / Détresse et charité / Je ne veux plus de cuisinière",
+        "mention": "par Béatrice de Pastre et Hervé Pichard",
+        "dateHeure": "2026-10-02T18:30:00"
+      },
+      {
+        "titreFilms": "Pathé Revue ca. 1929 n° indeterminé / Sujet « Sucreries » / Pastilles Vichy-Lardy : cinéma / Un dessert pour Constance",
+        "mention": "par Béatrice de Pastre et Hervé Pichard",
+        "dateHeure": "2026-10-02T20:30:00"
+      }
+    ]
+  }
 }
