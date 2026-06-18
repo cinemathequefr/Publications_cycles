@@ -53,6 +53,40 @@
   * Soldat qui déclara la paix (Le)  
   * SS était là (Le)
 
+## Cinéma et espace, 30 films indispensables (31)
+
+  * 2001 : l'Odyssée de l'espace  
+  * 2010 : l'année du premier contact  
+  * Ad Astra  
+  * Alien  
+  * Apollo 13  
+  * Apollo 18  
+  * Croisières sidérales  
+  * Dark Star  
+  * De la Terre à la Lune  
+  * Étoffe des héros (L')  
+  * Femme sur la Lune (La)  
+  * First Man : Le Premier Homme sur la Lune  
+  * Gardiens de la galaxie (Les)  
+  * Gravity  
+  * Interstellar  
+  * Jason X  
+  * Mission to Mars  
+  * Moon  
+  * Naufragés de l'espace (Les)  
+  * Notre siècle  
+  * Out of the Present  
+  * Planète des vampires (La)  
+  * Premiers Hommes dans la Lune (Les)  
+  * Proxima  
+  * Seul sur Mars  
+  * Silent Running  
+  * Solaris  
+  * Space Cowboys  
+  * Sunshine  
+  * Voyage dans la Lune (Le)  
+  * Wall-E
+
 ## Damien Odoul (28)
 
   * À la grâce de Dieu  
@@ -105,7 +139,7 @@
   * Vie d'une bouteille de champagne depuis la grappe jusqu'à la coupe (La)  
   * West Beyrouth (bande-annonce)
 
-## Jean-Paul Belmondo (19)
+## Jean-Paul Belmondo (20)
 
   * Belmondo l'influenceur  
   * Cartouche  
@@ -116,6 +150,7 @@
   * Itinéraire d'un enfant gâté  
   * Léon Morin, prêtre  
   * Magnifique (Le)  
+  * Moderato cantabile  
   * Peur sur la ville  
   * Pierrot le fou  
   * Sirène du Mississipi (La)  
@@ -170,40 +205,6 @@
   * Tonneau des Danaïdes (Le)  
   * Vache donne deux choses, le lait et... (La)  
   * Zanzabelle à Paris
-
-## Le Space opera, les indispensables (31)
-
-  * 2001 : l'Odyssée de l'espace  
-  * 2010 : l'année du premier contact  
-  * Ad Astra  
-  * Alien  
-  * Apollo 13  
-  * Apollo 18  
-  * Croisières sidérales  
-  * Dark Star  
-  * De la Terre à la Lune  
-  * Étoffe des héros (L')  
-  * Femme sur la Lune (La)  
-  * First Man : Le Premier Homme sur la Lune  
-  * Gardiens de la galaxie (Les)  
-  * Gravity  
-  * Interstellar  
-  * Jason X  
-  * Mission to Mars  
-  * Moon  
-  * Naufragés de l'espace (Les)  
-  * Notre siècle  
-  * Out of the Present  
-  * Planète des vampires (La)  
-  * Premiers Hommes dans la Lune (Les)  
-  * Proxima  
-  * Seul sur Mars  
-  * Silent Running  
-  * Solaris  
-  * Space Cowboys  
-  * Sunshine  
-  * Voyage dans la Lune (Le)  
-  * Wall-E
 
 ## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (106)
 
