@@ -10,48 +10,65 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idEvenement": 37085,
-          "content": [
+          "groupe": [
             {
-              "idFilm": 155882,
-              "ordre": 1,
-              "titre": "Dos en la vereda",
-              "realisateurs": "Lisandro Alonso",
-              "pays": "Argentine",
-              "annee": 1995,
-              "duree": 4,
-              "version": "VOSTF",
-              "format": "16 mm",
-              "generique": [
-                "Facundo Arias",
-                "Jose Morales"
-              ],
-              "miniTexte": "Par un lourd après-midi d'été, deux garçons, assis sur un trottoir, trompent l'ennui en buvant de la bière et en écoutant de la musique. Film inaugural d'Alonso, _Dos en la vereda_ pose les fondements formels de son cinéma : dilatation du temps, poétique de l'attente et oisiveté urbaine, avant que le cinéaste abandonne la ville pour les espaces naturels isolés qui feront sa signature."
+              "idEvenement": 37085,
+              "content": [
+                {
+                  "idFilm": 155882,
+                  "ordre": 1,
+                  "titre": "Dos en la vereda",
+                  "realisateurs": "Lisandro Alonso",
+                  "pays": "Argentine",
+                  "annee": 1995,
+                  "duree": 4,
+                  "version": "VOSTF",
+                  "format": "16 mm",
+                  "generique": [
+                    "Facundo Arias",
+                    "Jose Morales"
+                  ],
+                  "miniTexte": "Par un lourd après-midi d'été, deux garçons, assis sur un trottoir, trompent l'ennui en buvant de la bière et en écoutant de la musique. Film inaugural d'Alonso, _Dos en la vereda_ pose les fondements formels de son cinéma : dilatation du temps, poétique de l'attente et oisiveté urbaine, avant que le cinéaste abandonne la ville pour les espaces naturels isolés qui feront sa signature."
+                },
+                {
+                  "idFilm": 76160,
+                  "ordre": 2,
+                  "titre": "Libertad",
+                  "art": "La",
+                  "realisateurs": "Lisandro Alonso",
+                  "pays": "Argentine",
+                  "annee": 2001,
+                  "duree": 73,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Misael Saavedra",
+                    "Humberto Estrada",
+                    "Rafael Estrada"
+                  ],
+                  "miniTexte": "Bûcheron dans la province de La Pampa, Misael passe ses journées à scier, couper, stocker le bois pour le vendre à un acheteur local. Avec une rigueur quasi ethnographique, Alonso observe son quotidien solitaire, au rythme d'une existence retirée du monde moderne. Plans-séquences étirés, représentation d'une nature brute, le premier long métrage d'Alonso inaugure toute son œuvre à venir, dans un récit épuré qui confronte quête de liberté et survie en marge du système capitaliste."
+                }
+              ]
             },
             {
-              "idFilm": 76160,
-              "ordre": 2,
-              "titre": "Libertad",
-              "art": "La",
-              "realisateurs": "Lisandro Alonso",
-              "pays": "Argentine",
-              "annee": 2001,
-              "duree": 73,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Misael Saavedra",
-                "Humberto Estrada",
-                "Rafael Estrada"
+              "idEvenement": 37204,
+              "content": [
+                {
+                  "idConf": 37204,
+                  "ordre": 3,
+                  "titre": "Lisandro Alonso par Lisandro Alonso, une leçon de cinéma",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "« J'aimerais tout dire en un seul plan. Je n'aime pas couper au milieu d'un plan. J'essaie d'observer et, pour moi, la meilleure façon d'observer c'est avec un plan à distance, un peu respectueux et qui laisse le spectateur regarder ce qu'il veut, qui lui laisse cette liberté de penser. Il ne faut pas téléguider sa perception du film. Je suis plus exigeant avec le spectateur, je lui demande un peu plus de travail, de réflexion. » (Lisandro Alonso)"
+                }
               ],
-              "miniTexte": "Bûcheron dans la province de La Pampa, Misael passe ses journées à scier, couper, stocker le bois pour le vendre à un acheteur local. Avec une rigueur quasi ethnographique, Alonso observe son quotidien solitaire, au rythme d'une existence retirée du monde moderne. Plans-séquences étirés, représentation d'une nature brute, le premier long métrage d'Alonso inaugure toute son œuvre à venir, dans un récit épuré qui confronte quête de liberté et survie en marge du système capitaliste."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 218047,
-              "dateHeure": "2026-11-28T15:00:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 218047,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-11-28T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -127,7 +144,8 @@
               "annee": 2009,
               "duree": 1,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "miniTexte": "Une minute d'observation sensorielle, le temps d'un face à face énigmatique avec la nature sauvage."
             },
             {
               "idFilm": 104707,
@@ -173,7 +191,7 @@
                 "Misael Saavedra",
                 "Catalina Saavedra"
               ],
-              "miniTexte": "Présenté à la Quinzaine des cinéastes 2026, le dernier film de Lisandro Alonso marque les retrouvailles avec Misael Saavedra, 25 ans après _La libertad_. Toujours installé au cœur d'une forêt isolée, le bûcheron voit son quotidien bousculé par l'arrivée de sa sœur aînée dont il doit désormais s'occuper. Un retour aux sources formel, qui permet au cinéaste d'observer en filigrane la crise politique et sociale que traverse l'Argentine."
+              "miniTexte": "Présenté à la Quinzaine des cinéastes 2026, le dernier film de Lisandro Alonso marque les retrouvailles avec Misael Saavedra, 25 ans après _La Libertad_. Toujours installé au cœur d'une forêt isolée, le bûcheron voit son quotidien bousculé par l'arrivée de sa sœur aînée dont il doit désormais s'occuper. Un retour aux sources formel, qui permet au cinéaste d'observer en filigrane la crise politique et sociale que traverse l'Argentine."
             }
           ],
           "seances": [
@@ -263,30 +281,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 37204,
-          "content": [
-            {
-              "idConf": 37204,
-              "titre": "Lisandro Alonso par Lisandro Alonso, une leçon de cinéma",
-              "typeConference": "Dialogue",
-              "miniTexte": "J'aimerais tout dire en un seul plan. Je n'aime pas couper au milieu d'un plan. J'essaie d'observer et, pour moi, la meilleure façon d'observer c'est avec un plan à distance, un peu respectueux et qui laisse le spectateur regarder ce qu'il veut, qui lui laisse cette liberté de penser. Il ne faut pas téléguider sa perception du film. Je suis plus exigeant avec le spectateur, je lui demande un peu plus de travail, de réflexion."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 218030,
-              "dateHeure": "2026-11-28T16:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -298,8 +292,9 @@
     ],
     "Séance avec dialogue": [
       {
+        "titreFilms": "Dos en la vereda / La Libertad",
         "mention": "Lisandro Alonso par Lisandro Alonso, une leçon de cinéma",
-        "dateHeure": "2026-11-28T16:30:00"
+        "dateHeure": "2026-11-28T15:00:00"
       }
     ]
   }

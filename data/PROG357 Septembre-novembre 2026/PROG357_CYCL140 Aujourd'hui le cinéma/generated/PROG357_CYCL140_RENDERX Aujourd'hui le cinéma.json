@@ -105,7 +105,7 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Fondation Gan pour le cinéma : Lina Pinell",
+      "titreSousCycle": "Fondation Gan pour le cinéma : Lila Pinell",
       "items": [
         {
           "idFilm": 155885,
@@ -375,6 +375,41 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Émilie Brisavoine",
+      "items": [
+        {
+          "idFilm": 155928,
+          "content": [
+            {
+              "idFilm": 155928,
+              "ordre": 1,
+              "titre": "Miracle",
+              "realisateurs": "Émilie Brisavoine",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 39,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Vincent Macaigne",
+                "Camille Rutherford",
+                "Valentin Campagne"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 220373,
+              "dateHeure": "2026-11-30T19:30:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Émilie Brisavoine"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -425,6 +460,11 @@
         "titreFilms": "End Of The West / Loin de la lumière du jour / Tonnerre sur mer",
         "mention": "avec Yotam Ben-David",
         "dateHeure": "2026-11-23T19:30:00"
+      },
+      {
+        "titreFilms": "Miracle",
+        "mention": "avec Émilie Brisavoine",
+        "dateHeure": "2026-11-30T19:30:00"
       }
     ]
   }

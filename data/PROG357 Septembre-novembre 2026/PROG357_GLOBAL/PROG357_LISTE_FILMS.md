@@ -13,7 +13,7 @@
 
   * David Copperfield
 
-## Aujourd'hui le cinéma (17)
+## Aujourd'hui le cinéma (18)
 
   * A la recherche de l'oiseau gris aux rayures vertes  
   * Agwe  
@@ -26,6 +26,7 @@
   * Journal du futur  
   * Loin de la lumière du jour  
   * Love Story  
+  * Miracle  
   * Montagne d'or (La)  
   * Personne n'a rien dit  
   * Please  

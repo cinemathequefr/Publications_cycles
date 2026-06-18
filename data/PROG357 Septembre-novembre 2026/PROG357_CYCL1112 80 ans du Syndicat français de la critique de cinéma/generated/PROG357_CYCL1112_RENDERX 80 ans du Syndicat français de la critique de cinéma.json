@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-10-30T20:00:00",
-    "2026-11-01T19:30:00"
+    "2026-11-01T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -33,7 +33,7 @@
           "seances": [
             {
               "idSeance": 220369,
-              "dateHeure": "2026-11-01T19:30:00",
+              "dateHeure": "2026-11-01T20:30:00",
               "idSalle": "JE"
             }
           ]
@@ -65,7 +65,7 @@
               "idSeance": 218061,
               "dateHeure": "2026-10-30T20:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance suivie d'une discussion avec Jacques Audiard. Séance présentée par Jacques Audiard"
             }
           ]
         },
@@ -89,7 +89,8 @@
             {
               "idSeance": 218062,
               "dateHeure": "2026-10-31T14:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Véréna Paravel. Séance présentée par Véréna Paravel"
             }
           ]
         },
@@ -117,8 +118,9 @@
           "seances": [
             {
               "idSeance": 218066,
-              "dateHeure": "2026-10-31T20:00:00",
-              "idSalle": "HL"
+              "dateHeure": "2026-10-31T19:30:00",
+              "idSalle": "HL",
+              "mention": "Séance suivie d'une discussion avec Arthur Harari. Séance présentée par Arthur Harari"
             }
           ]
         },
@@ -147,7 +149,7 @@
           "seances": [
             {
               "idSeance": 218065,
-              "dateHeure": "2026-11-01T17:00:00",
+              "dateHeure": "2026-11-01T18:00:00",
               "idSalle": "JE"
             }
           ]
@@ -184,5 +186,40 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Discussions": [
+      {
+        "titreFilms": "De battre mon cœur s'est arrêté",
+        "mention": "avec Jacques Audiard. Séance présentée par Jacques Audiard",
+        "dateHeure": "2026-10-30T20:00:00"
+      },
+      {
+        "titreFilms": "De Humani Corporis Fabrica",
+        "mention": "avec Véréna Paravel. Séance présentée par Véréna Paravel",
+        "dateHeure": "2026-10-31T14:30:00"
+      },
+      {
+        "titreFilms": "Onoda, dix mille nuits dans la jungle",
+        "mention": "avec Arthur Harari. Séance présentée par Arthur Harari",
+        "dateHeure": "2026-10-31T19:30:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "De battre mon cœur s'est arrêté",
+        "mention": "par Jacques Audiard",
+        "dateHeure": "2026-10-30T20:00:00"
+      },
+      {
+        "titreFilms": "De Humani Corporis Fabrica",
+        "mention": "par Véréna Paravel",
+        "dateHeure": "2026-10-31T14:30:00"
+      },
+      {
+        "titreFilms": "Onoda, dix mille nuits dans la jungle",
+        "mention": "par Arthur Harari",
+        "dateHeure": "2026-10-31T19:30:00"
+      }
+    ]
+  }
 }
