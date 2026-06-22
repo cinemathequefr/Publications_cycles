@@ -13,7 +13,7 @@
 
   * David Copperfield
 
-## Aujourd'hui le cinéma (18)
+## Aujourd'hui le cinéma (19)
 
   * A la recherche de l'oiseau gris aux rayures vertes  
   * Agwe  
@@ -22,6 +22,7 @@
   * Dernier printemps  
   * Des rêves en bateaux papiers  
   * End Of The West  
+  * Heureusement qu'il y a l'appartement de mémé  
   * Incasable (L')  
   * Journal du futur  
   * Loin de la lumière du jour  
@@ -43,7 +44,7 @@
 
   * Billy le cave  
   * Daleks envahissent la Terre (Les)  
-  * Deux Visages du Docteur Jekyll (Les)  
+  * Deux Visages du docteur Jekyll (Les)  
   * Docteur et les Assassins (Le)  
   * Impasse aux violences (L')  
   * Johnny le bâtard  
@@ -93,12 +94,12 @@
   * À la grâce de Dieu  
   * À l'ouest de l'Orient  
   * Anima  
+  * Arpès nous le déluge  
   * Barbots (Les)  
   * Cet enfant-là  
   * Doby(e)do  
   * Douce (La)  
   * Elegeia  
-  * En attendant le déluge  
   * Errance  
   * Folle Parade (La)  
   * Histoire de Richard O. (L')  
@@ -140,7 +141,7 @@
   * Vie d'une bouteille de champagne depuis la grappe jusqu'à la coupe (La)  
   * West Beyrouth (bande-annonce)
 
-## Jean-Paul Belmondo (20)
+## Jean-Paul Belmondo (19)
 
   * Belmondo l'influenceur  
   * Cartouche  
@@ -151,7 +152,6 @@
   * Itinéraire d'un enfant gâté  
   * Léon Morin, prêtre  
   * Magnifique (Le)  
-  * Moderato cantabile  
   * Peur sur la ville  
   * Pierrot le fou  
   * Sirène du Mississipi (La)  
@@ -167,10 +167,10 @@
 
   * Après le bal  
   * Baquet de Mesmer (Le)  
-  * Bulles de savon vivantes (Les)  
+  * Bulles de savon animées (Les)  
   * Chrysalide et le papillon d'or (La)  
   * Ciel des hommes (Le)  
-  * Cinéma : émission du 26 janvier 1967 TV  
+  * Cinéma : émission du 26 janvier 1967  
   * Cinéma sans étoiles  
   * Cinémathèque française (La)  
   * Cœur fidèle  
@@ -182,10 +182,10 @@
   * Enchanteur Alcofribas (L')  
   * Escamotage d'une dame chez Robert-Houdin  
   * Fanchon le criquet  
-  * Fantôme d'Henri Langlois – rushes (Le)  
-  * Fantômes de la Cinémathèque – rushes (Les)  
+  * Fantôme d'Henri Langlois (rushes) (Le)  
+  * Fantômes de la Cinémathèque (rushes) (Les)  
   * Fata Morgana  
-  * Femmes de Langlois (TV) (Les)  
+  * Femmes de Langlois (Les)  
   * Fête espagnole (La)  
   * Fleuve (Le)  
   * Gazouilly petit oiseau  
@@ -193,13 +193,13 @@
   * Illusionniste fin de siècle (L')  
   * Jean Epstein, la mer lyrosophe  
   * Jeanne d'Arc  
-  * Leçons de cinéma, Renée Lichtig vidéo (Les)  
+  * Leçons de cinéma, Renée Lichtig (Les)  
   * Magique Image (La)  
   * Merveilleux Éventail vivant (Le)  
   * Montage du Musée du cinéma – Mme Kawakita et Henri Langlois  
   * Paris 1900  
   * Royaume des fées (Le)  
-  * Soleil et ombre  
+  * Soleil et Ombre  
   * Souriante Madame Beudet (La)  
   * Symphonie nuptiale (La)  
   * Tentation de Saint-Antoine (La)  
@@ -372,12 +372,15 @@
   * Italianamerican  
   * Taking Off
 
-## Robert Guédiguian (8)
+## Robert Guédiguian (11)
 
   * Au fil d'Ariane  
+  * Dernier été  
   * Et la fête continue !  
   * Gloria Mundi  
+  * Ki lo sa ?  
   * Pie voleuse (La)  
+  * Rouge Midi  
   * Twist à Bamako  
   * Une femme aujourd'hui  
   * Une histoire de fou  

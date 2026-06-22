@@ -121,7 +121,7 @@
     "typeEvenement": 13,
     "idEvenement": 35933,
     "idSeance": 211704,
-    "dateHeure": "2026-10-17T18:00:00",
+    "dateHeure": "2026-10-17T17:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -347,7 +347,7 @@
     "typeEvenement": 13,
     "idEvenement": 35932,
     "idSeance": 211867,
-    "dateHeure": "2026-10-24T21:15:00",
+    "dateHeure": "2026-10-24T19:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -371,7 +371,7 @@
     "typeEvenement": 13,
     "idEvenement": 36100,
     "idSeance": 211885,
-    "dateHeure": "2026-10-25T20:45:00",
+    "dateHeure": "2026-10-25T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -384,6 +384,52 @@
         "idSeance": 211885,
         "idCopie": 31616,
         "duree": 84,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4129,
+    "typeEvenement": 13,
+    "idEvenement": 35940,
+    "idSeance": 220399,
+    "dateHeure": "2026-10-25T18:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 63786,
+        "ordre": 1,
+        "idSeance": 220399,
+        "idCopie": 31632,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4129,
+    "typeEvenement": 13,
+    "idEvenement": 36117,
+    "idSeance": 220402,
+    "dateHeure": "2026-10-25T20:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 155732,
+        "ordre": 1,
+        "idSeance": 220402,
+        "idCopie": 31639,
+        "duree": 150,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -532,7 +578,7 @@
     "typeEvenement": 13,
     "idEvenement": 36109,
     "idSeance": 212034,
-    "dateHeure": "2026-10-31T19:00:00",
+    "dateHeure": "2026-10-31T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -547,6 +593,29 @@
         "duree": 99,
         "version": "VOSTF",
         "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 4129,
+    "typeEvenement": 13,
+    "idEvenement": 35982,
+    "idSeance": 220404,
+    "dateHeure": "2026-11-01T16:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 195,
+    "items": [
+      {
+        "idFilm": 155690,
+        "ordre": 1,
+        "idSeance": 220404,
+        "idCopie": 31506,
+        "duree": 168,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -628,8 +697,8 @@
     "idSeance": 212089,
     "dateHeure": "2026-11-04T18:30:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "JE",
+      "Jean Epstein"
     ],
     "dureeSeance": 120,
     "items": [
@@ -652,8 +721,8 @@
     "idSeance": 217687,
     "dateHeure": "2026-11-04T20:30:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "JE",
+      "Jean Epstein"
     ],
     "dureeSeance": 195,
     "items": [
@@ -717,58 +786,12 @@
   {
     "idCategorie": 4129,
     "typeEvenement": 13,
-    "idEvenement": 35940,
-    "idSeance": 212155,
-    "dateHeure": "2026-11-06T18:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 63786,
-        "ordre": 1,
-        "idSeance": 212155,
-        "idCopie": 31632,
-        "duree": 100,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4129,
-    "typeEvenement": 13,
-    "idEvenement": 36117,
-    "idSeance": 212156,
-    "dateHeure": "2026-11-06T20:45:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 180,
-    "items": [
-      {
-        "idFilm": 155732,
-        "ordre": 1,
-        "idSeance": 212156,
-        "idCopie": 31639,
-        "duree": 150,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4129,
-    "typeEvenement": 13,
     "idEvenement": 35983,
     "idSeance": 217829,
     "dateHeure": "2026-11-07T15:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "dureeSeance": 150,
     "items": [
@@ -786,12 +809,35 @@
   {
     "idCategorie": 4129,
     "typeEvenement": 13,
+    "idEvenement": 36113,
+    "idSeance": 220401,
+    "dateHeure": "2026-11-07T17:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155730,
+        "ordre": 1,
+        "idSeance": 220401,
+        "idCopie": 31637,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4129,
+    "typeEvenement": 13,
     "idEvenement": 36105,
     "idSeance": 218052,
     "dateHeure": "2026-11-07T20:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "dureeSeance": 120,
     "items": [
@@ -811,7 +857,7 @@
     "typeEvenement": 13,
     "idEvenement": 35980,
     "idSeance": 217686,
-    "dateHeure": "2026-11-08T17:30:00",
+    "dateHeure": "2026-11-08T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -834,7 +880,7 @@
     "typeEvenement": 13,
     "idEvenement": 36104,
     "idSeance": 217688,
-    "dateHeure": "2026-11-08T20:45:00",
+    "dateHeure": "2026-11-08T21:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -859,8 +905,8 @@
     "idSeance": 220368,
     "dateHeure": "2026-11-11T18:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "dureeSeance": 105,
     "items": [
@@ -882,8 +928,8 @@
     "idSeance": 212255,
     "dateHeure": "2026-11-11T20:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "dureeSeance": 135,
     "items": [
@@ -926,7 +972,7 @@
     "typeEvenement": 13,
     "idEvenement": 36103,
     "idSeance": 212285,
-    "dateHeure": "2026-11-12T20:30:00",
+    "dateHeure": "2026-11-12T21:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -993,23 +1039,23 @@
   {
     "idCategorie": 4129,
     "typeEvenement": 13,
-    "idEvenement": 36111,
-    "idSeance": 212358,
-    "dateHeure": "2026-11-14T15:00:00",
+    "idEvenement": 35936,
+    "idSeance": 212361,
+    "dateHeure": "2026-11-14T14:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 155728,
+        "idFilm": 139741,
         "ordre": 1,
-        "idSeance": 212358,
-        "idCopie": 31629,
-        "duree": 90,
+        "idSeance": 212361,
+        "idCopie": 16519,
+        "duree": 105,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ]
   },
