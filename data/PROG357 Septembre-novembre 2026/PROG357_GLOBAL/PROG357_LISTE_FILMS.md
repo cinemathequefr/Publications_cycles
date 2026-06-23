@@ -15,11 +15,11 @@
 
 ## Aujourd'hui le cinéma (19)
 
-  * A la recherche de l'oiseau gris aux rayures vertes  
+  * À la recherche de l'oiseau gris aux rayures vertes  
   * Agwe  
   * Bain des sirènes (Le)  
   * Cœur Bleu  
-  * Dernier printemps  
+  * Dernier Printemps  
   * Des rêves en bateaux papiers  
   * End Of The West  
   * Heureusement qu'il y a l'appartement de mémé  
