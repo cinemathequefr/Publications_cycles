@@ -13,7 +13,7 @@
 
   * David Copperfield
 
-## Aujourd'hui le cinéma (19)
+## Aujourd'hui le cinéma (20)
 
   * À la recherche de l'oiseau gris aux rayures vertes  
   * Agwe  
@@ -25,6 +25,7 @@
   * Heureusement qu'il y a l'appartement de mémé  
   * Incasable (L')  
   * Journal du futur  
+  * Locataires  
   * Loin de la lumière du jour  
   * Love Story  
   * Miracle  
@@ -375,7 +376,7 @@
 ## Robert Guédiguian (11)
 
   * Au fil d'Ariane  
-  * Dernier été  
+  * Dernier Été  
   * Et la fête continue !  
   * Gloria Mundi  
   * Ki lo sa ?  
