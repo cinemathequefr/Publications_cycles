@@ -159,6 +159,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Courts métrages Arte",
+      "texteSousCycle": "Rendez-vous régulier avec les courts métrages coproduits par Arte, en dialogue avec Hélène Vayssières, directrice adjointe de l'unité cinéma responsable des courts métrages. Au programme, cinq films, dont deux en animation, tous réalisés par des femmes, la majeure partie issue des festivals de Cannes et d'Annecy, pour évoquer la sororité, le désir d'aimer ou d'être aimé, la fin de l'insouciance, ou le poids immense de la parentalité. En présence des réalisatrices.",
       "items": [
         {
           "idEvenement": 37194,
@@ -293,6 +294,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Roland Edzard",
+      "texteSousCycle": "Avec « La Montagne d'or » présenté en avant-première, Roland Edzard confirme son intérêt pour le cinéma vécu comme une aventure intime et épique, filmant avec un sens aigu de la tension et du romanesque, la trajectoire mythologique de chercheurs d'or contemporains dans le nord du Niger.",
       "items": [
         {
           "idFilm": 155912,
@@ -324,9 +326,10 @@
     {
       "tri": 4,
       "titreSousCycle": "Ryan Kevin Doyle",
+      "texteSousCycle": "Jeune cinéaste irlando-américain, Ryan Kevin Doyle aime mêler poésie, littérature et cinéma pour attirer l'attention sur ses personnages en marge de la société. Dans son nouveau film, « Rak », photographié par Caroline Champetier, avec Laurent Borel et Béatrice Dalle, il dresse le portrait d'un revenant aveugle qui soit se réacclimater à la société, réapprendre les gestes d'une affection oubliée. Le cinéaste a choisi en carte blanche « 35 rhums » de Claire Denis.",
       "items": [
         {
-          "idFilm": 155918,
+          "idEvenement": 37238,
           "content": [
             {
               "idFilm": 155918,
@@ -338,6 +341,23 @@
               "duree": 19,
               "version": "",
               "format": "DCP"
+            },
+            {
+              "idFilm": 107101,
+              "ordre": 2,
+              "titre": "35 rhums",
+              "realisateurs": "Claire Denis",
+              "pays": "France-Allemagne",
+              "annee": 2007,
+              "duree": 101,
+              "version": "VO",
+              "format": "35 mm",
+              "generique": [
+                "Alex Descas",
+                "Nicole Dogue",
+                "Grégoire Colin",
+                "Mati Diop"
+              ]
             }
           ],
           "seances": [
@@ -345,7 +365,7 @@
               "idSeance": 212388,
               "dateHeure": "2026-11-16T19:30:00",
               "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Ryan Kevin Doyle"
+              "mention": "Séance suivie d'une discussion avec Ryan Kevin Doyle et Caroline Champetier"
             }
           ]
         }
@@ -354,6 +374,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Yotam Ben David",
+      "texteSousCycle": "Yotam Ben David fait un cinéma queer d'ombre et de lumière, de transe et de mélancolie. Un cinéma où la parole et les corps sont au centre, ivres de leur passé et de leur futur, submergés par une intimité électrique. Trois films choisis du cinéaste, suivis d'un dialogue avec Paul B. Preciado, dont le cinéaste avait monté le film « Orlando, ma biographie politique ».",
       "items": [
         {
           "idEvenement": 37187,
@@ -396,7 +417,7 @@
               "idSeance": 212551,
               "dateHeure": "2026-11-23T19:30:00",
               "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Yotam Ben-David"
+              "mention": "Séance suivie d'une discussion avec Yotam Ben-David et Paul B. Preciado"
             }
           ]
         }
@@ -405,6 +426,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Émilie Brisavoine",
+      "texteSousCycle": "Pour son anniversaire, la cinéaste Emilie Brisavoine (« Pauline s'arrache ») a demandé à ses amis de l'aider à faire le film de fiction qu'elle n'arrivait pas à monter. Cela a engendré une « dramédie » chorale réjouissante, en liberté totale, portée par deux comédiens en accord total, Vincent Macaigne et Camille Rutherford. En complément de programme, et choisi par Emilie, le court métrage de Camille Rutherford, « Heureusement qu'il y a l'appartement de Mémé » qu'elle interprète avec sa sœur, romancière, Constance Rutherford.",
       "items": [
         {
           "idEvenement": 37231,
@@ -493,13 +515,13 @@
         "dateHeure": "2026-11-09T20:00:00"
       },
       {
-        "titreFilms": "Rak",
-        "mention": "avec Ryan Kevin Doyle",
+        "titreFilms": "Rak / 35 rhums",
+        "mention": "avec Ryan Kevin Doyle et Caroline Champetier",
         "dateHeure": "2026-11-16T19:30:00"
       },
       {
         "titreFilms": "End Of The West / Loin de la lumière du jour / Tonnerre sur mer",
-        "mention": "avec Yotam Ben-David",
+        "mention": "avec Yotam Ben-David et Paul B. Preciado",
         "dateHeure": "2026-11-23T19:30:00"
       },
       {
