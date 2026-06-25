@@ -362,11 +362,11 @@
 
 ## Parlons cinéma... avec Luc Lagier (11)
 
-  * American Boy : A Profile of Steven Prince  
+  * American Boy: A Profile of Steven Prince  
   * Big Shave (The)  
   * Blow up : Carrie en 8 minutes  
-  * Blow up : hommage à Martin Scorsese  
-  * Blow up : hommage à Resnais  
+  * Blow up : Hommage à Martin Scorsese  
+  * Blow up : Hommage à Resnais  
   * Concours  
   * Guernica  
   * Hiroshima, mon amour  

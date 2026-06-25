@@ -27,7 +27,7 @@
   {
     "idCategorie": 4235,
     "typeEvenement": 13,
-    "idEvenement": 37028,
+    "idEvenement": 37242,
     "idSeance": 218048,
     "dateHeure": "2026-11-26T18:30:00",
     "idSalle": [
@@ -37,8 +37,17 @@
     "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 99875,
+        "idFilm": 155882,
         "ordre": 1,
+        "idSeance": 218048,
+        "idCopie": 32122,
+        "duree": 4,
+        "version": "VOSTF",
+        "format": "16 mm"
+      },
+      {
+        "idFilm": 99875,
+        "ordre": 2,
         "idSeance": 218048,
         "idCopie": 32078,
         "duree": 63,
@@ -73,7 +82,7 @@
   {
     "idCategorie": 4235,
     "typeEvenement": 13,
-    "idEvenement": 37085,
+    "idEvenement": 37241,
     "idSeance": 218047,
     "dateHeure": "2026-11-28T15:00:00",
     "idSalle": [
@@ -84,17 +93,8 @@
     "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 155882,
-        "ordre": 1,
-        "idSeance": 218047,
-        "idCopie": 32122,
-        "duree": 4,
-        "version": "VOSTF",
-        "format": "16 mm"
-      },
-      {
         "idFilm": 76160,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 218047,
         "idCopie": 32124,
         "duree": 73,
@@ -117,7 +117,7 @@
     "typeAssoc": 118,
     "items": [
       {
-        "ordre": 3
+        "ordre": 2
       }
     ]
   },
