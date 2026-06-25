@@ -167,21 +167,22 @@
   {
     "idCategorie": 4253,
     "typeEvenement": 13,
-    "idEvenement": 37152,
-    "idSeance": 220382,
+    "idEvenement": 37153,
+    "idSeance": 220455,
     "dateHeure": "2026-11-08T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 137773,
+        "idFilm": 155903,
         "ordre": 1,
-        "idSeance": 220382,
-        "idCopie": 32109,
-        "duree": 107,
+        "idSeance": 220455,
+        "idCopie": 32119,
+        "duree": 106,
         "version": "",
         "format": "DCP"
       }
@@ -191,15 +192,18 @@
     "idCategorie": 4265,
     "typeEvenement": 14,
     "idEvenement": 37230,
-    "idSeance": 220400,
-    "dateHeure": "2026-11-08T16:45:00",
+    "idSeance": 220455,
+    "dateHeure": "2026-11-08T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -228,8 +232,8 @@
   {
     "idCategorie": 4253,
     "typeEvenement": 13,
-    "idEvenement": 37153,
-    "idSeance": 220397,
+    "idEvenement": 37152,
+    "idSeance": 220456,
     "dateHeure": "2026-11-09T18:00:00",
     "idSalle": [
       "GF",
@@ -238,11 +242,11 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 155903,
+        "idFilm": 137773,
         "ordre": 1,
-        "idSeance": 220397,
-        "idCopie": 32119,
-        "duree": 106,
+        "idSeance": 220456,
+        "idCopie": 32109,
+        "duree": 107,
         "version": "",
         "format": "DCP"
       }
