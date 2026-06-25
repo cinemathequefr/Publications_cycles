@@ -3205,7 +3205,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
+    "mention": "Ouverture de la rétrospective. Séance présentée par Jo Osawa",
     "items": [
       {
         "idFilm": 63785,
@@ -4523,6 +4523,25 @@
       }
     ],
     "hashEvenement": "f48044"
+  },
+  {
+    "idSeance": 220457,
+    "idEvenement": 37243,
+    "dateHeure": "2026-10-25T16:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Damien Odoul",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37243,
+        "titre": "[Action culturelle sans titre]"
+      }
+    ],
+    "hashEvenement": "c37243"
   },
   {
     "idSeance": 211885,
@@ -5905,13 +5924,17 @@
         "idFilm": 50867,
         "titre": "Guernica",
         "realisateurs": "Alain Resnais, Robert Hessens",
-        "annee": 1950
+        "annee": 1950,
+        "duree": 12,
+        "format": "DCP"
       },
       {
         "idFilm": 50869,
         "titre": "Hiroshima, mon amour",
         "realisateurs": "Alain Resnais",
-        "annee": 1959
+        "annee": 1959,
+        "duree": 91,
+        "format": "DCP"
       },
       {
         "idConf": 36998,
@@ -6795,13 +6818,19 @@
         "idFilm": 39301,
         "titre": "Concours",
         "realisateurs": "Miloš Forman",
-        "annee": 1964
+        "annee": 1964,
+        "duree": 47,
+        "version": "VOSTF",
+        "format": "DCP"
       },
       {
         "idFilm": 29756,
         "titre": "Taking Off",
         "realisateurs": "Miloš Forman",
-        "annee": 1971
+        "annee": 1971,
+        "duree": 90,
+        "version": "VO",
+        "format": "DCP"
       },
       {
         "idConf": 36999,
@@ -7603,20 +7632,26 @@
         "idFilm": 77270,
         "titre": "American Boy: A Profile of Steven Prince",
         "realisateurs": "Martin Scorsese",
-        "annee": 1978
+        "annee": 1978,
+        "duree": 55,
+        "version": "VOSTF"
       },
       {
         "idFilm": 73447,
         "titre": "Big Shave",
         "art": "The",
         "realisateurs": "Martin Scorsese",
-        "annee": 1967
+        "annee": 1967,
+        "duree": 6
       },
       {
         "idFilm": 77269,
         "titre": "Italianamerican",
         "realisateurs": "Martin Scorsese",
-        "annee": 1974
+        "annee": 1974,
+        "duree": 48,
+        "version": "VOSTF",
+        "format": "DCP"
       },
       {
         "idFilm": 155909,
@@ -8226,7 +8261,10 @@
         "titre": "Incorruptibles",
         "art": "Les",
         "realisateurs": "Brian De Palma",
-        "annee": 1987
+        "annee": 1987,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "35 mm"
       },
       {
         "idConf": 37006,
