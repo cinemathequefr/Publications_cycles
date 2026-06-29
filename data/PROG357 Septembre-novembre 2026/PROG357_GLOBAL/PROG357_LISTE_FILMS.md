@@ -209,7 +209,49 @@
   * Vache donne deux choses, le lait et... (La)  
   * Zanzabelle à Paris
 
-## Les 180 plus beaux films du monde vus par la Cinémathèque (1936-2026) (106)
+## Lisandro Alonso (10)
+
+  * Dos en la vereda  
+  * Eureka  
+  * Fantasma  
+  * Jauja  
+  * Lechuza  
+  * Libertad doble (La)  
+  * Libertad (La)  
+  * Liverpool  
+  * Muertos (Los)  
+  * Sin título (Carta para Serra)
+
+## Louise Brooks (13)
+
+  * École des mendiants (L')  
+  * Journal d'une fille perdue (Le)  
+  * Just Another Blonde  
+  * Loulou  
+  * Mendiants de la vie (Les)  
+  * Meurtre du canari (Le)  
+  * Moi  
+  * Now We're in the Air  
+  * Prix de beauté  
+  * Un conte d'apothicaire  
+  * Une fille dans chaque port  
+  * Vénus moderne  
+  * Windy Riley Goes to Hollywood
+
+## Ma petite Cinémathèque (10)
+
+  * Aventures de Robin des Bois (Les)  
+  * Azur et Asmar  
+  * Cinq Mille Doigts du docteur T. (Les)  
+  * Cirque (Le)  
+  * Extraordinaire Voyage de Marona (L')  
+  * James et la pêche géante  
+  * Katia et le crocodile  
+  * Main au collet (La)  
+  * Monde de Nemo (Le)  
+  * Voyage de Chihiro (Le)
+
+## Nos 90 ans en 180 films (106)
 
   * Accattone  
   * Amerika, rapports de classe  
@@ -317,48 +359,6 @@
   * Yeelen (La Lumière)  
   * Yeux sans visage (Les)  
   * Z
-
-## Lisandro Alonso (10)
-
-  * Dos en la vereda  
-  * Eureka  
-  * Fantasma  
-  * Jauja  
-  * Lechuza  
-  * Libertad doble (La)  
-  * Libertad (La)  
-  * Liverpool  
-  * Muertos (Los)  
-  * Sin título (Carta para Serra)
-
-## Louise Brooks (13)
-
-  * École des mendiants (L')  
-  * Journal d'une fille perdue (Le)  
-  * Just Another Blonde  
-  * Loulou  
-  * Mendiants de la vie (Les)  
-  * Meurtre du canari (Le)  
-  * Moi  
-  * Now We're in the Air  
-  * Prix de beauté  
-  * Un conte d'apothicaire  
-  * Une fille dans chaque port  
-  * Vénus moderne  
-  * Windy Riley Goes to Hollywood
-
-## Ma petite Cinémathèque (10)
-
-  * Aventures de Robin des Bois (Les)  
-  * Azur et Asmar  
-  * Cinq Mille Doigts du docteur T. (Les)  
-  * Cirque (Le)  
-  * Extraordinaire Voyage de Marona (L')  
-  * James et la pêche géante  
-  * Katia et le crocodile  
-  * Main au collet (La)  
-  * Monde de Nemo (Le)  
-  * Voyage de Chihiro (Le)
 
 ## Parlons cinéma... avec Luc Lagier (11)
 
