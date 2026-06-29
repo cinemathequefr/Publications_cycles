@@ -91,7 +91,7 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Damien Odoul (28)
+## Damien Odoul (31)
 
   * À la grâce de Dieu  
   * À l'ouest de l'Orient  
@@ -109,6 +109,8 @@
   * Magik  
   * Maison des morts (La)  
   * Morasseix  
+  * Nouvelles filmiques  
+  * Où es-tu, lumière ?  
   * Petites Épiphanies  
   * Peur (La)  
   * Réminiscences  
@@ -120,6 +122,7 @@
   * Temps des transhumances (Le)  
   * Théo et les métamorphoses  
   * TOB (Tête d'œuf bouilli)  
+  * Traversée de la rivière & Deux feux dans la nuit (La)  
   * Tzotzil
 
 ## Fenêtre sur les collections (18)

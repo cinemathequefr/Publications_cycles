@@ -164,6 +164,52 @@
           ]
         },
         {
+          "idSeance": 217753,
+          "ordre": 1,
+          "dateHeure": "2026-10-25T15:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 120,
+          "typeAssoc": 118,
+          "idCategorie": 4187,
+          "idEvenement": 37099,
+          "typeEvenement": 13,
+          "idFilm": 155936,
+          "titre": "Nouvelles filmiques",
+          "realisateurs": "Damien Odoul",
+          "annee": 2026,
+          "pays": "France",
+          "duree": 90,
+          "version": "",
+          "format": "Numérique",
+          "textes": []
+        },
+        {
+          "idSeance": 217940,
+          "ordre": 1,
+          "dateHeure": "2026-10-29T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 30,
+          "mention": "Avant-première. Séance présentée par Damien Odoul",
+          "idCategorie": 4187,
+          "idEvenement": 36479,
+          "typeEvenement": 13,
+          "idFilm": 155935,
+          "titre": "Où es-tu, lumière ?",
+          "realisateurs": "Damien Odoul",
+          "annee": 2026,
+          "pays": "France-Congo",
+          "duree": 5,
+          "version": "",
+          "format": "Numérique",
+          "textes": []
+        },
+        {
           "idSeance": 217929,
           "ordre": 2,
           "dateHeure": "2026-10-23T18:30:00",
@@ -356,8 +402,32 @@
           ]
         },
         {
+          "idSeance": 211762,
+          "ordre": 2,
+          "dateHeure": "2026-10-21T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 135,
+          "mention": "Ouverture de la rétrospective. Séance présentée par Damien Odoul",
+          "idCategorie": 4187,
+          "idEvenement": 36477,
+          "typeEvenement": 13,
+          "idFilm": 155937,
+          "art": "La",
+          "titre": "Traversée de la rivière & Deux feux dans la nuit",
+          "realisateurs": "Damien Odoul",
+          "annee": 2015,
+          "pays": "France",
+          "duree": 6,
+          "version": "",
+          "format": "Numérique",
+          "textes": []
+        },
+        {
           "idSeance": 217940,
-          "ordre": 1,
+          "ordre": 2,
           "dateHeure": "2026-10-29T20:00:00",
           "idSalle": [
             "HL",
@@ -907,9 +977,9 @@
           "mentionAnimation": "Animée par Bernard Payen"
         },
         {
-          "idSeance": 220457,
-          "ordre": 1,
-          "dateHeure": "2026-10-25T16:00:00",
+          "idSeance": 217753,
+          "ordre": 2,
+          "dateHeure": "2026-10-25T15:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -929,6 +999,11 @@
       "textes": []
     }
   ],
-  "textes": [],
+  "textes": [
+    {
+      "typeTexte": 263,
+      "texte": "Damien Odoul et Valentine Verhague"
+    }
+  ],
   "info": {}
 }

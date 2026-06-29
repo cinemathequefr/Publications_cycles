@@ -10,33 +10,6 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 155810,
-          "content": [
-            {
-              "idFilm": 155810,
-              "ordre": 1,
-              "titre": "À la grâce de Dieu",
-              "realisateurs": "Damien Odoul",
-              "pays": "France",
-              "annee": 2026,
-              "generique": [
-                "Simon Njami",
-                "Henri Kalama",
-                "Bebson"
-              ],
-              "miniTexte": "Damien Odoul, accompagné du commissaire d'exposition Simon Njami, parcourt Kinshasa à la recherche d'un artiste affranchi de toutes les conventions. Tel un carnet de voyage documentaire, _À la grâce de Dieu_ interroge ce que signifie être artiste aujourd'hui et célèbre les formes les plus libres, inattendues et vitales de la création."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217940,
-              "dateHeure": "2026-10-29T20:00:00",
-              "idSalle": "HL",
-              "mention": "Avant-première. Séance présentée par Damien Odoul"
-            }
-          ]
-        },
-        {
           "idFilm": 91549,
           "content": [
             {
@@ -191,6 +164,84 @@
           ]
         },
         {
+          "groupe": [
+            {
+              "idFilm": 155936,
+              "content": [
+                {
+                  "idFilm": 155936,
+                  "ordre": 1,
+                  "titre": "Nouvelles filmiques",
+                  "realisateurs": "Damien Odoul",
+                  "pays": "France",
+                  "annee": 2026,
+                  "duree": 90,
+                  "version": "",
+                  "format": "Numérique"
+                }
+              ]
+            },
+            {
+              "idEvenement": 37243,
+              "content": [
+                {
+                  "idConf": 37243,
+                  "ordre": 2,
+                  "titre": "Damien Odoul par Damien Odoul, une leçon de cinéma (suite et fin)",
+                  "typeConference": "Leçon de cinéma",
+                  "mentionAnimation": "Animée par Bernard Payen"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 217753,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-10-25T15:00:00",
+                  "idSalle": "JE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "idEvenement": 36479,
+          "content": [
+            {
+              "idFilm": 155935,
+              "ordre": 1,
+              "titre": "Où es-tu, lumière ?",
+              "realisateurs": "Damien Odoul",
+              "pays": "France-Congo",
+              "annee": 2026,
+              "duree": 5,
+              "version": "",
+              "format": "Numérique"
+            },
+            {
+              "idFilm": 155810,
+              "ordre": 2,
+              "titre": "À la grâce de Dieu",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 2026,
+              "generique": [
+                "Simon Njami",
+                "Henri Kalama",
+                "Bebson"
+              ],
+              "miniTexte": "Damien Odoul, accompagné du commissaire d'exposition Simon Njami, parcourt Kinshasa à la recherche d'un artiste affranchi de toutes les conventions. Tel un carnet de voyage documentaire, _À la grâce de Dieu_ interroge ce que signifie être artiste aujourd'hui et célèbre les formes les plus libres, inattendues et vitales de la création."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217940,
+              "dateHeure": "2026-10-29T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première. Séance présentée par Damien Odoul"
+            }
+          ]
+        },
+        {
           "idFilm": 127657,
           "content": [
             {
@@ -332,7 +383,7 @@
           ]
         },
         {
-          "idFilm": 152365,
+          "idEvenement": 36477,
           "content": [
             {
               "idFilm": 152365,
@@ -350,6 +401,18 @@
                 "Ayumi Roux"
               ],
               "miniTexte": "Atteint de trisomie 21, un jeune homme en communion avec le vivant chemine parmi des dieux païens, des animaux et des apparitions. Bouleversant de sincérité, Théo Kermel illumine une fable hédoniste et libertaire, qui mêle chamanisme et dadaïsme. Une proposition de cinéma mutant, vibrant d'inventions, affranchi de toute concession. Le film somme de Damien Odoul."
+            },
+            {
+              "idFilm": 155937,
+              "ordre": 2,
+              "titre": "Traversée de la rivière & Deux feux dans la nuit",
+              "art": "La",
+              "realisateurs": "Damien Odoul",
+              "pays": "France",
+              "annee": 2015,
+              "duree": 6,
+              "version": "",
+              "format": "Numérique"
             }
           ],
           "seances": [
@@ -638,7 +701,12 @@
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
+      {
+        "dateHeure": "2026-10-29T20:00:00",
+        "titreFilms": "Où es-tu, lumière ?",
+        "mention": "séance présentée par Damien Odoul"
+      },
       {
         "dateHeure": "2026-10-29T20:00:00",
         "titreFilms": "À la grâce de Dieu",
@@ -648,7 +716,7 @@
     "Leçon de cinéma": [
       {
         "titre": "Damien Odoul par Damien Odoul, une leçon de cinéma (suite et fin)",
-        "dateHeure": "2026-10-25T16:00:00"
+        "dateHeure": "2026-10-25T15:00:00"
       }
     ],
     "Séance avec dialogue": [
@@ -667,7 +735,7 @@
     ],
     "Séances présentées": [
       {
-        "titreFilms": "Théo et les métamorphoses",
+        "titreFilms": "Théo et les métamorphoses / La Traversée de la rivière & Deux feux dans la nuit",
         "mention": "par Damien Odoul",
         "dateHeure": "2026-10-21T20:00:00"
       },
@@ -682,7 +750,7 @@
         "dateHeure": "2026-10-24T19:00:00"
       },
       {
-        "titreFilms": "À la grâce de Dieu",
+        "titreFilms": "Où es-tu, lumière ? / À la grâce de Dieu",
         "mention": "par Damien Odoul",
         "dateHeure": "2026-10-29T20:00:00"
       }
