@@ -194,7 +194,7 @@
           "seances": [
             {
               "idSeance": 211557,
-              "dateHeure": "2026-10-11T17:00:00",
+              "dateHeure": "2026-10-11T18:00:00",
               "idSalle": "HL",
               "mention": "Séance présentée par Volker Schlöndorff"
             }
@@ -373,10 +373,9 @@
           ],
           "seances": [
             {
-              "idSeance": 217958,
-              "dateHeure": "2026-11-15T14:30:00",
-              "idSalle": "HL",
-              "mention": "Séance présentée par Payen Bernard"
+              "idSeance": 220473,
+              "dateHeure": "2026-11-14T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -482,10 +481,9 @@
           ],
           "seances": [
             {
-              "idSeance": 217697,
-              "dateHeure": "2026-11-14T14:30:00",
-              "idSalle": "HL",
-              "mention": "Séance présentée par François Thomas"
+              "idSeance": 220475,
+              "dateHeure": "2026-10-18T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -587,9 +585,9 @@
               ],
               "seances": [
                 {
-                  "idSeance": 217656,
+                  "idSeance": 220474,
                   "typeAssoc": 118,
-                  "dateHeure": "2026-10-18T14:30:00",
+                  "dateHeure": "2026-11-15T14:30:00",
                   "idSalle": "HL"
                 }
               ]
@@ -621,7 +619,7 @@
           "seances": [
             {
               "idSeance": 211558,
-              "dateHeure": "2026-10-11T19:30:00",
+              "dateHeure": "2026-10-11T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -654,39 +652,6 @@
               "idSalle": "HL"
             }
           ]
-        },
-        {
-          "idFilm": 49848,
-          "content": [
-            {
-              "idFilm": 49848,
-              "ordre": 1,
-              "titre": "Voleur",
-              "art": "Le",
-              "realisateurs": "Louis Malle",
-              "pays": "France-Italie",
-              "annee": 1967,
-              "duree": 122,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Le Voleur_ de Georges Darien.",
-              "generique": [
-                "Jean-Paul Belmondo",
-                "Geneviève Bujold",
-                "Marie Dubois",
-                "Françoise Fabian"
-              ],
-              "isFocus": true,
-              "miniTexte": "Spolié par un oncle sans scrupules, un jeune bourgeois choisit le vol comme revanche contre l'ordre social. D'après le roman anarchiste de Georges Darien, Louis Malle signe un film en costumes d'une ironie mordante, où la révolte intime se teinte peu à peu de noirceur et de désillusion. Loin du panache triomphant qui a fait sa légende, Belmondo compose un personnage insaisissable, d'une élégante inquiétude, animé par un profond refus des conventions du milieu. Une œuvre amère et raffinée, qui fait du larcin une forme de résistance au conformisme social."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 217610,
-              "dateHeure": "2026-10-11T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
         }
       ]
     }
@@ -694,14 +659,14 @@
   "syntheseAction": {
     "Séances avec dialogue": [
       {
-        "titreFilms": "Un homme qui me plaît",
-        "mention": "Table ronde Jean-Paul Belmondo",
-        "dateHeure": "2026-10-18T14:30:00"
-      },
-      {
         "titreFilms": "Le Magnifique",
         "mention": "Belmondo en musique, sans demi-mesure",
         "dateHeure": "2026-11-07T14:30:00"
+      },
+      {
+        "titreFilms": "Un homme qui me plaît",
+        "mention": "Table ronde Jean-Paul Belmondo",
+        "dateHeure": "2026-11-15T14:30:00"
       },
       {
         "titreFilms": "Pierrot le fou",
@@ -709,21 +674,11 @@
         "dateHeure": "2026-11-21T14:30:00"
       }
     ],
-    "Séances présentées": [
+    "Séance présentée": [
       {
         "titreFilms": "Le Doulos",
         "mention": "par Volker Schlöndorff",
-        "dateHeure": "2026-10-11T17:00:00"
-      },
-      {
-        "titreFilms": "Stavisky",
-        "mention": "par François Thomas",
-        "dateHeure": "2026-11-14T14:30:00"
-      },
-      {
-        "titreFilms": "Peur sur la ville",
-        "mention": "par Payen Bernard",
-        "dateHeure": "2026-11-15T14:30:00"
+        "dateHeure": "2026-10-11T18:00:00"
       }
     ]
   }

@@ -146,7 +146,7 @@
   * Vie d'une bouteille de champagne depuis la grappe jusqu'à la coupe (La)  
   * West Beyrouth (bande-annonce)
 
-## Jean-Paul Belmondo (19)
+## Jean-Paul Belmondo (18)
 
   * Belmondo l'influenceur  
   * Cartouche  
@@ -165,8 +165,7 @@
   * Tribulations d'un Chinois en Chine (Les)  
   * Un homme qui me plaît  
   * Un singe en hiver  
-  * Une femme est une femme  
-  * Voleur (Le)
+  * Une femme est une femme
 
 ## La Cinémathèque française, une histoire au féminin pluriel (41)
 
