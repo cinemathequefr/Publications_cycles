@@ -533,7 +533,8 @@
             {
               "idSeance": 217772,
               "dateHeure": "2026-09-24T18:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -666,7 +667,8 @@
             {
               "idSeance": 217775,
               "dateHeure": "2026-09-25T18:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Isaac Gaido-Daniel"
             }
           ]
         },
@@ -951,7 +953,8 @@
             {
               "idSeance": 217797,
               "dateHeure": "2026-09-28T20:45:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Isaac Gaido-Daniel"
             }
           ]
         },
@@ -1047,7 +1050,8 @@
             {
               "idSeance": 217800,
               "dateHeure": "2026-10-03T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Bernard Benoliel"
             }
           ]
         },
@@ -1208,7 +1212,8 @@
             {
               "idSeance": 217804,
               "dateHeure": "2026-10-04T17:15:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Bernard Benoliel"
             }
           ]
         },
@@ -1468,7 +1473,8 @@
             {
               "idSeance": 220476,
               "dateHeure": "2026-10-11T14:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance suivie d'une discussion avec Amandine D'Azevedo et Eva Markovits"
             }
           ]
         },
@@ -1562,7 +1568,8 @@
             {
               "idSeance": 217814,
               "dateHeure": "2026-10-16T19:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -1758,7 +1765,8 @@
             {
               "idSeance": 217821,
               "dateHeure": "2026-10-22T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -1791,7 +1799,8 @@
             {
               "idSeance": 217822,
               "dateHeure": "2026-10-24T17:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Bernard Benoliel"
             }
           ]
         },
@@ -1882,7 +1891,8 @@
             {
               "idSeance": 211896,
               "dateHeure": "2026-10-26T17:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Bernard Benoliel"
             }
           ]
         },
@@ -2252,7 +2262,8 @@
             {
               "idSeance": 217997,
               "dateHeure": "2026-11-06T16:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -2693,7 +2704,8 @@
             {
               "idSeance": 218038,
               "dateHeure": "2026-11-14T17:45:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Isaac Gaido-Daniel"
             }
           ]
         },
@@ -2786,7 +2798,8 @@
             {
               "idSeance": 218043,
               "dateHeure": "2026-11-18T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Frédéric Bonnaud"
             }
           ]
         },
@@ -3364,6 +3377,13 @@
         "titreFilms": "Espoir"
       }
     ],
+    "Discussion": [
+      {
+        "titreFilms": "Le Salon de musique",
+        "mention": "avec Amandine D'Azevedo et Eva Markovits",
+        "dateHeure": "2026-10-11T14:30:00"
+      }
+    ],
     "Séances présentées": [
       {
         "titreFilms": "Faisons un rêve",
@@ -3386,9 +3406,19 @@
         "dateHeure": "2026-09-20T17:00:00"
       },
       {
+        "titreFilms": "Assurance sur la mort",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2026-09-24T18:00:00"
+      },
+      {
         "titreFilms": "Rome, ville ouverte",
         "mention": "par Marién Gómez",
         "dateHeure": "2026-09-24T20:15:00"
+      },
+      {
+        "titreFilms": "La Belle et la Bête",
+        "mention": "par Isaac Gaido-Daniel",
+        "dateHeure": "2026-09-25T18:30:00"
       },
       {
         "titreFilms": "Farrebique",
@@ -3416,6 +3446,11 @@
         "dateHeure": "2026-09-28T18:30:00"
       },
       {
+        "titreFilms": "Outrage",
+        "mention": "par Isaac Gaido-Daniel",
+        "dateHeure": "2026-09-28T20:45:00"
+      },
+      {
         "titreFilms": "On murmure dans la ville",
         "mention": "par Pauline de Raymond",
         "dateHeure": "2026-10-02T18:00:00"
@@ -3424,6 +3459,11 @@
         "titreFilms": "J'ai vécu l'enfer de Corée",
         "mention": "par Jean Narboni",
         "dateHeure": "2026-10-02T20:30:00"
+      },
+      {
+        "titreFilms": "Casque d'or",
+        "mention": "par Bernard Benoliel",
+        "dateHeure": "2026-10-03T15:00:00"
       },
       {
         "titreFilms": "Madame de...",
@@ -3439,6 +3479,11 @@
         "titreFilms": "L'Intendant Sanshō",
         "mention": "par Adrien Malossanne",
         "dateHeure": "2026-10-04T14:30:00"
+      },
+      {
+        "titreFilms": "Johnny Guitar",
+        "mention": "par Bernard Benoliel",
+        "dateHeure": "2026-10-04T17:15:00"
       },
       {
         "titreFilms": "Nuages flottants",
@@ -3459,6 +3504,11 @@
         "titreFilms": "Assoiffé",
         "mention": "par Laurence Lécuyer",
         "dateHeure": "2026-10-10T14:00:00"
+      },
+      {
+        "titreFilms": "La Dolce vita",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2026-10-16T19:30:00"
       },
       {
         "titreFilms": "Les Yeux sans visage",
@@ -3484,6 +3534,21 @@
         "titreFilms": "La Jetée",
         "mention": "par Delphine Voiry-Humbert",
         "dateHeure": "2026-10-22T18:00:00"
+      },
+      {
+        "titreFilms": "Le Guépard",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2026-10-22T20:00:00"
+      },
+      {
+        "titreFilms": "Les Oiseaux",
+        "mention": "par Bernard Benoliel",
+        "dateHeure": "2026-10-24T17:00:00"
+      },
+      {
+        "titreFilms": "Les Amours d'une blonde",
+        "mention": "par Bernard Benoliel",
+        "dateHeure": "2026-10-26T17:30:00"
       },
       {
         "titreFilms": "Falstaff",
@@ -3516,6 +3581,11 @@
         "dateHeure": "2026-11-05T16:00:00"
       },
       {
+        "titreFilms": "Au nom du père",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2026-11-06T16:00:00"
+      },
+      {
         "titreFilms": "L'Amour l'après-midi",
         "mention": "par Frédéric Bonnaud",
         "dateHeure": "2026-11-11T17:15:00"
@@ -3536,6 +3606,11 @@
         "dateHeure": "2026-11-14T14:00:00"
       },
       {
+        "titreFilms": "Les Moissons du ciel",
+        "mention": "par Isaac Gaido-Daniel",
+        "dateHeure": "2026-11-14T17:45:00"
+      },
+      {
         "titreFilms": "Voyage au bout de l'enfer",
         "mention": "par Xavier Jamet",
         "dateHeure": "2026-11-14T20:00:00"
@@ -3544,6 +3619,11 @@
         "titreFilms": "Suspiria",
         "mention": "par Marie Garambois",
         "dateHeure": "2026-11-15T18:30:00"
+      },
+      {
+        "titreFilms": "La Vengeance est à moi",
+        "mention": "par Frédéric Bonnaud",
+        "dateHeure": "2026-11-18T20:00:00"
       },
       {
         "titreFilms": "Simone Barbès ou la vertu",
