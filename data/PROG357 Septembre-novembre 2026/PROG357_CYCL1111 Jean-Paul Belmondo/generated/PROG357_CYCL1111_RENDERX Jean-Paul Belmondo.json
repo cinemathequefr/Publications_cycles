@@ -67,7 +67,7 @@
           "seances": [
             {
               "idSeance": 211546,
-              "dateHeure": "2026-10-10T15:00:00",
+              "dateHeure": "2026-10-10T17:00:00",
               "idSalle": "JE"
             }
           ]
@@ -483,7 +483,34 @@
             {
               "idSeance": 220475,
               "dateHeure": "2026-10-18T14:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par François Thomas"
+            }
+          ]
+        },
+        {
+          "idFilm": 51878,
+          "content": [
+            {
+              "idFilm": 51878,
+              "ordre": 1,
+              "titre": "Tendre Voyou",
+              "realisateurs": "Jean Becker",
+              "pays": "France-Italie",
+              "annee": 1966,
+              "generique": [
+                "Jean-Paul Belmondo",
+                "Jean-Pierre Marielle",
+                "Philippe Noiret"
+              ],
+              "miniTexte": "Licencié de son garage, un séducteur invétéré tente de préserver les apparences alors que les mensonges s'accumulent autour de lui. Jean Becker signe une comédie sentimentale pleine de quiproquos, portée par un Belmondo charmeur mais perpétuellement débordé. À ses côtés, Philippe Noiret et Jean-Pierre Marielle ajoutent leur grain de fantaisie à ce marivaudage moderne."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 220482,
+              "dateHeure": "2026-10-10T14:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -511,7 +538,7 @@
           "seances": [
             {
               "idSeance": 217709,
-              "dateHeure": "2026-10-10T17:30:00",
+              "dateHeure": "2026-10-10T18:00:00",
               "idSalle": "JE"
             }
           ]
@@ -652,6 +679,69 @@
               "idSalle": "HL"
             }
           ]
+        },
+        {
+          "idFilm": 49848,
+          "content": [
+            {
+              "idFilm": 49848,
+              "ordre": 1,
+              "titre": "Voleur",
+              "art": "Le",
+              "realisateurs": "Louis Malle",
+              "pays": "France-Italie",
+              "annee": 1967,
+              "duree": 122,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Le Voleur_ de Georges Darien.",
+              "generique": [
+                "Jean-Paul Belmondo",
+                "Geneviève Bujold",
+                "Marie Dubois",
+                "Françoise Fabian"
+              ],
+              "isFocus": true,
+              "miniTexte": "Spolié par un oncle sans scrupules, un jeune bourgeois choisit le vol comme revanche contre l'ordre social. D'après le roman anarchiste de Georges Darien, Louis Malle signe un film en costumes d'une ironie mordante, où la révolte intime se teinte peu à peu de noirceur et de désillusion. Loin du panache triomphant qui a fait sa légende, Belmondo compose un personnage insaisissable, d'une élégante inquiétude, animé par un profond refus des conventions du milieu. Une œuvre amère et raffinée, qui fait du larcin une forme de résistance au conformisme social."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 220480,
+              "dateHeure": "2026-10-18T17:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 51663,
+          "content": [
+            {
+              "idFilm": 51663,
+              "ordre": 1,
+              "titre": "Week-end à Zuydcoote",
+              "realisateurs": "Henri Verneuil",
+              "pays": "France-Italie",
+              "annee": 1964,
+              "duree": 119,
+              "version": "",
+              "format": "",
+              "adaptation": "D'après le roman _Week-end à Zuydcoote_ de Robert Merle.",
+              "generique": [
+                "Jean-Paul Belmondo",
+                "Jean-Pierre Marielle",
+                "François Périer"
+              ],
+              "miniTexte": "Coincé sur les plages de Dunkerque au cœur de la débâcle de 1940, un sergent français tente d'échapper au chaos et à l'attente absurde du conflit. Adapté du roman de Robert Merle, _Week-end à Zuydcoote_ mêle ampleur spectaculaire et désespoir intime dans un film de guerre traversé par la fatigue et la peur. Dépouillé de son assurance coutumière, Belmondo laisse affleurer une fragilité rarement visible derrière sa flamboyance habituelle."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 220481,
+              "dateHeure": "2026-10-31T15:00:00",
+              "idSalle": "HL"
+            }
+          ]
         }
       ]
     }
@@ -674,11 +764,16 @@
         "dateHeure": "2026-11-21T14:30:00"
       }
     ],
-    "Séance présentée": [
+    "Séances présentées": [
       {
         "titreFilms": "Le Doulos",
         "mention": "par Volker Schlöndorff",
         "dateHeure": "2026-10-11T18:00:00"
+      },
+      {
+        "titreFilms": "Stavisky",
+        "mention": "par François Thomas",
+        "dateHeure": "2026-10-18T14:30:00"
       }
     ]
   }
