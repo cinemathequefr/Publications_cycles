@@ -133,14 +133,19 @@
     "items": [
       {
         "idFilm": 51878,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220482,
+        "idCopie": 32199,
+        "duree": 0,
+        "version": "",
+        "format": "35 mm"
       }
     ]
   },
   {
     "idCategorie": 4206,
     "typeEvenement": 13,
-    "idEvenement": 37080,
+    "idEvenement": 37082,
     "idSeance": 211546,
     "dateHeure": "2026-10-10T17:00:00",
     "idSalle": [
@@ -150,35 +155,20 @@
     "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 155871,
+        "idFilm": 155873,
         "ordre": 1,
+        "idSeance": 211546,
+        "idCopie": 32073,
+        "duree": 34,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155871,
+        "ordre": 2,
         "idSeance": 211546,
         "idCopie": 32071,
         "duree": 60,
-        "version": "",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance présentée par Jeff Domenech"
-  },
-  {
-    "idCategorie": 4206,
-    "typeEvenement": 13,
-    "idEvenement": 37082,
-    "idSeance": 217709,
-    "dateHeure": "2026-10-10T18:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 60,
-    "items": [
-      {
-        "idFilm": 155873,
-        "ordre": 1,
-        "idSeance": 217709,
-        "idCopie": 32073,
-        "duree": 34,
         "version": "",
         "format": "DCP"
       }

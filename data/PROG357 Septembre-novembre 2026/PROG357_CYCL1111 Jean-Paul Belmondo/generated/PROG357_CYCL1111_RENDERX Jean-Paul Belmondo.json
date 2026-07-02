@@ -43,37 +43,6 @@
           ]
         },
         {
-          "idFilm": 155871,
-          "content": [
-            {
-              "idFilm": 155871,
-              "ordre": 1,
-              "titre": "Belmondo l'influenceur",
-              "realisateurs": "Jeff Domenech",
-              "pays": "France",
-              "annee": 2020,
-              "duree": 60,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Jean-Paul Belmondo",
-                "Richard Anconina",
-                "Albert Dupontel",
-                "Michel Hazanavicius"
-              ],
-              "miniTexte": "De Guillaume Canet à Albert Dupontel, acteurs et cinéastes racontent comment Jean-Paul Belmondo leur a donné envie de faire ce métier. Jeff Domenech célèbre la vitalité, la liberté et le goût du risque d'une figure devenue un modèle pour plusieurs générations de cinéphiles."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 211546,
-              "dateHeure": "2026-10-10T17:00:00",
-              "idSalle": "JE",
-              "mention": "Séance présentée par Jeff Domenech"
-            }
-          ]
-        },
-        {
           "idFilm": 47142,
           "content": [
             {
@@ -500,6 +469,9 @@
               "realisateurs": "Jean Becker",
               "pays": "France-Italie",
               "annee": 1966,
+              "duree": 0,
+              "version": "",
+              "format": "35 mm",
               "generique": [
                 "Jean-Paul Belmondo",
                 "Jean-Pierre Marielle",
@@ -517,7 +489,7 @@
           ]
         },
         {
-          "idFilm": 155873,
+          "idEvenement": 37082,
           "content": [
             {
               "idFilm": 155873,
@@ -535,12 +507,30 @@
                 "Cédric Klapisch"
               ],
               "miniTexte": "Film manifeste de la Nouvelle Vague, _À bout de souffle_ demeure une source d'inspiration inépuisable. À travers archives et témoignages, Jeff Domenech explore la postérité d'un classique dont l'audace formelle et le duo Belmondo/Seberg continuent d'irriguer le cinéma contemporain."
+            },
+            {
+              "idFilm": 155871,
+              "ordre": 2,
+              "titre": "Belmondo l'influenceur",
+              "realisateurs": "Jeff Domenech",
+              "pays": "France",
+              "annee": 2020,
+              "duree": 60,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Jean-Paul Belmondo",
+                "Richard Anconina",
+                "Albert Dupontel",
+                "Michel Hazanavicius"
+              ],
+              "miniTexte": "De Guillaume Canet à Albert Dupontel, acteurs et cinéastes racontent comment Jean-Paul Belmondo leur a donné envie de faire ce métier. Jeff Domenech célèbre la vitalité, la liberté et le goût du risque d'une figure devenue un modèle pour plusieurs générations de cinéphiles."
             }
           ],
           "seances": [
             {
-              "idSeance": 217709,
-              "dateHeure": "2026-10-10T18:00:00",
+              "idSeance": 211546,
+              "dateHeure": "2026-10-10T17:00:00",
               "idSalle": "JE",
               "mention": "Séance présentée par Jeff Domenech"
             }
@@ -769,14 +759,9 @@
     ],
     "Séances présentées": [
       {
-        "titreFilms": "Belmondo l'influenceur",
+        "titreFilms": "Toujours pas... à bout de souffle / Belmondo l'influenceur",
         "mention": "par Jeff Domenech",
         "dateHeure": "2026-10-10T17:00:00"
-      },
-      {
-        "titreFilms": "Toujours pas... à bout de souffle",
-        "mention": "par Jeff Domenech",
-        "dateHeure": "2026-10-10T18:00:00"
       },
       {
         "titreFilms": "Le Doulos",

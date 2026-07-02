@@ -804,6 +804,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Tom Aubry",
     "items": [
       {
         "idFilm": 37094,
@@ -2339,6 +2340,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Delphine Simon-Marsaud",
     "items": [
       {
         "idFilm": 41858,
@@ -2788,7 +2790,8 @@
         "idFilm": 51878,
         "titre": "Tendre Voyou",
         "realisateurs": "Jean Becker",
-        "annee": 1966
+        "annee": 1966,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f51878"
@@ -2862,32 +2865,8 @@
   },
   {
     "idSeance": 211546,
-    "idEvenement": 37080,
-    "dateHeure": "2026-10-10T17:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Jean-Paul Belmondo",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Jeff Domenech",
-    "items": [
-      {
-        "idFilm": 155871,
-        "titre": "Belmondo l'influenceur",
-        "realisateurs": "Jeff Domenech",
-        "annee": 2020,
-        "duree": 60,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155871"
-  },
-  {
-    "idSeance": 217709,
     "idEvenement": 37082,
-    "dateHeure": "2026-10-10T18:00:00",
+    "dateHeure": "2026-10-10T17:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -2904,9 +2883,17 @@
         "annee": 2020,
         "duree": 34,
         "format": "DCP"
+      },
+      {
+        "idFilm": 155871,
+        "titre": "Belmondo l'influenceur",
+        "realisateurs": "Jeff Domenech",
+        "annee": 2020,
+        "duree": 60,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f155873"
+    "hashEvenement": "f155873f155871"
   },
   {
     "idSeance": 211541,
