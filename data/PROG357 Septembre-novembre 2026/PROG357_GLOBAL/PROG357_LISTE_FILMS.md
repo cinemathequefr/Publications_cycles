@@ -400,7 +400,7 @@
   * Portobello  
   * Promeneur du Champ-de-Mars (Le)
 
-## Tai Katō (41)
+## Tai Katō (42)
 
   * Aventures de Genji Kurō, partie 1 (Les)  
   * Aventures de Genji Kurō, partie 2 (Les)  
@@ -417,6 +417,7 @@
   * Fleurs et Dragons  
   * Huit vues du rōnin  
   * Indomptable d'Edō (L')  
+  * Jeunes Chevaliers d'Edō (Les)  
   * Jiraya le ninja  
   * Joueuse de l'ère Shōwa (La)  
   * Journal d'une hirondelle (Le)  
