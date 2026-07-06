@@ -5,15 +5,45 @@
     "titre": "Table Ronde Belmondo",
     "duree": 60,
     "idTypeConference": 16,
-    "typeConference": "Dialogue"
+    "typeConference": "Dialogue",
+    "intervenants": [
+      {
+        "nomComplet": "Clémentine Deroudille",
+        "idFonction": 39,
+        "fonction": "Intervenant",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Claude Lelouch",
+        "idFonction": 39,
+        "fonction": "Intervenant",
+        "ordre": 2
+      },
+      {
+        "nomComplet": "Frédéric Bonnaud",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 3
+      }
+    ],
+    "mentionAnimation": "Animé par Frédéric Bonnaud"
   },
   {
     "idCategorie": 4231,
     "idEvenement": 36993,
     "titre": "Dialogue avec Stéphane Lerouge",
     "duree": 60,
-    "idTypeConference": 16,
-    "typeConference": "Dialogue"
+    "idTypeConference": 55,
+    "typeConference": "Conférence",
+    "intervenants": [
+      {
+        "nomComplet": "Stéphane Lerouge",
+        "idFonction": 39,
+        "fonction": "Intervenant",
+        "ordre": 1
+      }
+    ],
+    "sousTitre": "Conférence "
   },
   {
     "idCategorie": 4231,
@@ -28,7 +58,14 @@
         "idFonction": 39,
         "fonction": "Intervenant",
         "ordre": 1
+      },
+      {
+        "nomComplet": "Bernard Benoliel",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 2
       }
-    ]
+    ],
+    "mentionAnimation": "Animé par Bernard Benoliel"
   }
 ]
