@@ -1,0 +1,80 @@
+{
+  "datesCycle": [
+    "2026-12-02T20:00:00",
+    "2026-12-03T21:00:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 36830,
+          "content": [
+            {
+              "idFilm": 36830,
+              "ordre": 1,
+              "titre": "Criminel",
+              "art": "Le",
+              "titreVo": "Stranger",
+              "artVo": "The",
+              "realisateurs": "Orson Welles",
+              "pays": "États-Unis",
+              "annee": 1946,
+              "duree": 95,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Edward G. Robinson",
+                "Loretta Young",
+                "Orson Welles"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218141,
+              "dateHeure": "2026-12-03T21:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 40195,
+          "content": [
+            {
+              "idFilm": 40195,
+              "ordre": 1,
+              "titre": "Mort aux trousses",
+              "art": "La",
+              "titreVo": "North by Northwest",
+              "realisateurs": "Alfred Hitchcock",
+              "pays": "États-Unis",
+              "annee": 1959,
+              "duree": 136,
+              "version": "VOSTF",
+              "format": "70 mm",
+              "restauration": true,
+              "generique": [
+                "Cary Grant",
+                "Eva Marie Saint",
+                "James Mason"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218105,
+              "dateHeure": "2026-12-02T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {}
+}
