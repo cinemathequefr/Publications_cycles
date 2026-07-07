@@ -288,7 +288,6 @@
   * Dolce vita (La)  
   * Dumbo, l'éléphant volant  
   * Elle et lui  
-  * Empire contre-attaque (L')  
   * Enfants de la ruche (Les)  
   * Espoir  
   * Faisons un rêve  
@@ -332,6 +331,7 @@
   * Passion  
   * Playtime  
   * Pont du Nord (Le)  
+  * Poto et Cabengo  
   * Prisonnière du désert (La)  
   * Rebelle (Le)  
   * Règle du jeu (La)  
