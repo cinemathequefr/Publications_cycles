@@ -167,7 +167,7 @@
         "realisateurs": "A. Edward Sutherland",
         "annee": 1926,
         "duree": 70,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "35 mm"
       }
     ],
@@ -377,7 +377,8 @@
         "annee": 1928,
         "duree": 82,
         "version": "INT. FR.",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f36843"
@@ -477,8 +478,9 @@
         "realisateurs": "Georg Wilhelm Pabst",
         "annee": 1929,
         "duree": 95,
-        "version": "VO",
-        "format": "DCP"
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f40728"
@@ -503,7 +505,7 @@
         "realisateurs": "Jacques Tourneur",
         "annee": 1942,
         "duree": 73,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -527,7 +529,7 @@
         "realisateurs": "Roscoe Arbuckle",
         "annee": 1930,
         "duree": 18,
-        "version": "VO"
+        "version": "VOSTF"
       },
       {
         "idFilm": 63583,
@@ -689,7 +691,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Jean-François Rauger",
+    "mention": "Séance présentée par Matthieu Orléan",
     "items": [
       {
         "idFilm": 36846,
@@ -722,7 +724,7 @@
         "realisateurs": "Malcolm St. Clair",
         "annee": 1926,
         "duree": 75,
-        "version": "STF",
+        "version": "INT. FR.",
         "format": "35 mm"
       }
     ],
@@ -772,7 +774,8 @@
         "annee": 1925,
         "duree": 8,
         "version": "INT. FR.",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       },
       {
         "idFilm": 65204,
@@ -780,7 +783,9 @@
         "realisateurs": "Frank R. Strayer",
         "annee": 1927,
         "duree": 23,
-        "format": "DCP"
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       },
       {
         "idFilm": 73728,
@@ -789,7 +794,8 @@
         "annee": 1926,
         "duree": 32,
         "version": "INT. FR.",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f69034f65204f73728"
@@ -839,7 +845,6 @@
         "realisateurs": "Jean Cocteau",
         "annee": 1946,
         "duree": 95,
-        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -981,7 +986,7 @@
   },
   {
     "idSeance": 220366,
-    "idEvenement": 37268,
+    "idEvenement": 37294,
     "dateHeure": "2026-09-26T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -993,6 +998,13 @@
     "mention": "Séance présentée par Marie Frappat",
     "items": [
       {
+        "idFilm": 155917,
+        "titre": "Fantôme d'Henri Langlois (rushes)",
+        "art": "Le",
+        "realisateurs": "Jacques Richard",
+        "annee": 2002
+      },
+      {
         "idFilm": 52460,
         "titre": "Escamotage d'une dame chez Robert-Houdin",
         "realisateurs": "Georges Méliès",
@@ -1000,9 +1012,124 @@
         "duree": 2,
         "format": "DCP",
         "restauration": true
+      },
+      {
+        "idFilm": 88028,
+        "titre": "Bulles de savon animées",
+        "art": "Les",
+        "realisateurs": "Georges Méliès",
+        "annee": 1906,
+        "duree": 4,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 52488,
+        "titre": "Merveilleux Éventail vivant",
+        "art": "Le",
+        "realisateurs": "Georges Méliès",
+        "annee": 1904,
+        "duree": 5,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 91186,
+        "titre": "Baquet de Mesmer",
+        "art": "Le",
+        "realisateurs": "Georges Méliès",
+        "annee": 1905,
+        "duree": 4,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 91607,
+        "titre": "Enchanteur Alcofribas",
+        "art": "L'",
+        "realisateurs": "Georges Méliès",
+        "annee": 1903,
+        "duree": 4,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 102255,
+        "titre": "Tonneau des Danaïdes",
+        "art": "Le",
+        "realisateurs": "Georges Méliès",
+        "annee": 1900,
+        "duree": 1,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 102282,
+        "titre": "Danseuse microscopique",
+        "art": "La",
+        "realisateurs": "Georges Méliès",
+        "annee": 1902,
+        "duree": 2,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 52514,
+        "titre": "Royaume des fées",
+        "art": "Le",
+        "realisateurs": "Georges Méliès",
+        "annee": 1903,
+        "duree": 17,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 84599,
+        "titre": "Tentation de Saint-Antoine",
+        "art": "La",
+        "realisateurs": "Georges Méliès",
+        "annee": 1898,
+        "duree": 1,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 52382,
+        "titre": "Jeanne d'Arc",
+        "realisateurs": "Georges Méliès",
+        "annee": 1900,
+        "duree": 11,
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 84852,
+        "titre": "Illusionniste fin de siècle",
+        "art": "L'",
+        "realisateurs": "Georges Méliès",
+        "annee": 1899,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 52380,
+        "titre": "Après le bal",
+        "realisateurs": "Georges Méliès",
+        "annee": 1897,
+        "duree": 1,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 65733,
+        "titre": "Chrysalide et le papillon d'or",
+        "art": "La",
+        "realisateurs": "Georges Méliès",
+        "annee": 1901,
+        "duree": 2,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f52460"
+    "hashEvenement": "f155917f52460f88028f52488f91186f91607f102255f102282f52514f84599f52382f84852f52380f65733"
   },
   {
     "idSeance": 217603,
@@ -1092,7 +1219,7 @@
         "realisateurs": "Delmer Daves",
         "annee": 1947,
         "duree": 106,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -1303,9 +1430,10 @@
         "titre": "Harmonies de Paris",
         "realisateurs": "Lucie Derain",
         "annee": 1927,
-        "duree": 25,
+        "duree": 28,
         "version": "INT. FR.",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       },
       {
         "idFilm": 51631,
@@ -1863,7 +1991,6 @@
         "realisateurs": "Sarah Maldoror",
         "annee": 1981,
         "duree": 70,
-        "version": "VF",
         "format": "DCP",
         "restauration": true
       }
@@ -4576,7 +4703,7 @@
   {
     "idSeance": 217939,
     "idEvenement": 36472,
-    "dateHeure": "2026-10-25T20:00:00",
+    "dateHeure": "2026-10-25T20:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -5138,7 +5265,6 @@
         "realisateurs": "Jean-Pierre Melville",
         "annee": 1966,
         "duree": 143,
-        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -5450,6 +5576,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Théo Leroyer",
     "items": [
       {
         "idFilm": 51378,
@@ -6020,6 +6147,7 @@
         "Fenêtre sur le Liban"
       ]
     ],
+    "mention": "Séance présentée par Mehdi Taïbi et Sirine Pons",
     "items": [
       {
         "idFilm": 155601,
@@ -6109,6 +6237,7 @@
         "Fenêtre sur le Liban"
       ]
     ],
+    "mention": "Séance présentée par Mehdi Taïbi et Sirine Pons",
     "items": [
       {
         "idFilm": 155603,
@@ -6116,7 +6245,6 @@
         "realisateurs": "André Gillet",
         "annee": 1963,
         "duree": 21,
-        "version": "VO",
         "format": "35 mm"
       },
       {
@@ -8556,7 +8684,7 @@
         "titre": "Johnny le bâtard",
         "realisateurs": "Armando Crispino",
         "annee": 1967,
-        "duree": 92,
+        "duree": 105,
         "version": "VF",
         "format": "35 mm"
       }

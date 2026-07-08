@@ -170,33 +170,46 @@
   * Voleur (Le)  
   * Week-end à Zuydcoote
 
-## La Cinémathèque française, une histoire au féminin pluriel (27)
+## La Cinémathèque française, une histoire au féminin pluriel (40)
 
+  * Après le bal  
+  * Baquet de Mesmer (Le)  
+  * Bulles de savon animées (Les)  
+  * Chrysalide et le papillon d'or (La)  
   * Ciel des hommes (Le)  
   * Cinéma : émission du 26 janvier 1967  
   * Cinéma sans étoiles  
   * Cinémathèque française (La)  
   * Cœur fidèle  
   * Congrès de Vence de la Fédération Internationale des Archives du Film  
+  * Danseuse microscopique (La)  
   * Démons et merveilles du cinéma  
   * Échos du cinéma n° 25 (Les)  
   * Elle est chez elle  
+  * Enchanteur Alcofribas (L')  
   * Escamotage d'une dame chez Robert-Houdin  
   * Fanchon le criquet  
+  * Fantôme d'Henri Langlois (rushes) (Le)  
   * Fata Morgana  
   * Femmes de Langlois (Les)  
   * Fête espagnole (La)  
   * Fleuve (Le)  
   * Gazouilly petit oiseau  
   * Harmonies de Paris  
+  * Illusionniste fin de siècle (L')  
   * Jean Epstein, la mer lyrosophe  
+  * Jeanne d'Arc  
   * Leçons de cinéma, Renée Lichtig (Les)  
   * Magique Image (La)  
+  * Merveilleux Éventail vivant (Le)  
   * Montage du Musée du cinéma – Mme Kawakita et Henri Langlois  
   * Paris 1900  
+  * Royaume des fées (Le)  
   * Soleil et Ombre  
   * Souriante Madame Beudet (La)  
   * Symphonie nuptiale (La)  
+  * Tentation de Saint-Antoine (La)  
+  * Tonneau des Danaïdes (Le)  
   * Vache donne deux choses, le lait et... (La)  
   * Zanzabelle à Paris
 
