@@ -226,7 +226,7 @@
   * Muertos (Los)  
   * Sin título (Carta para Serra)
 
-## Louise Brooks (13)
+## Louise Brooks (12)
 
   * École des mendiants (L')  
   * Journal d'une fille perdue (Le)  
@@ -239,8 +239,7 @@
   * Prix de beauté  
   * Un conte d'apothicaire  
   * Une fille dans chaque port  
-  * Vénus moderne  
-  * Windy Riley Goes to Hollywood
+  * Vénus moderne
 
 ## Ma petite Cinémathèque (10)
 

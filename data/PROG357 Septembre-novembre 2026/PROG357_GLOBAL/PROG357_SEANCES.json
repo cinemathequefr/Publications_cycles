@@ -191,7 +191,7 @@
         "art": "Le",
         "realisateurs": "Michael Carreras",
         "annee": 1968,
-        "duree": 89,
+        "duree": 98,
         "version": "VF",
         "format": "35 mm"
       }
@@ -512,8 +512,8 @@
     "hashEvenement": "f59489"
   },
   {
-    "idSeance": 217525,
-    "idEvenement": 36550,
+    "idSeance": 220522,
+    "idEvenement": 37303,
     "dateHeure": "2026-09-20T19:00:00",
     "salle": "GF",
     "cycle": [
@@ -523,14 +523,6 @@
       ]
     ],
     "items": [
-      {
-        "idFilm": 73746,
-        "titre": "Windy Riley Goes to Hollywood",
-        "realisateurs": "Roscoe Arbuckle",
-        "annee": 1930,
-        "duree": 18,
-        "version": "VOSTF"
-      },
       {
         "idFilm": 63583,
         "titre": "Meurtre du canari",
@@ -542,7 +534,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f73746f63583"
+    "hashEvenement": "f63583"
   },
   {
     "idSeance": 217770,
@@ -758,7 +750,7 @@
   {
     "idSeance": 217527,
     "idEvenement": 36549,
-    "dateHeure": "2026-09-24T20:45:00",
+    "dateHeure": "2026-09-24T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1621,6 +1613,7 @@
         "Sonika Bo"
       ]
     ],
+    "mention": "Séance présentée par Béatrice de Pastre",
     "items": [
       {
         "idFilm": 155878,
@@ -3491,7 +3484,7 @@
   {
     "idSeance": 211667,
     "idEvenement": 35930,
-    "dateHeure": "2026-10-16T20:00:00",
+    "dateHeure": "2026-10-16T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4490,7 +4483,8 @@
         "annee": 1963,
         "duree": 119,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f42084"
@@ -4556,6 +4550,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Hélène Ficat",
     "items": [
       {
         "idFilm": 48044,
@@ -4679,7 +4674,7 @@
   {
     "idSeance": 217931,
     "idEvenement": 36800,
-    "dateHeure": "2026-10-25T20:00:00",
+    "dateHeure": "2026-10-25T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4727,7 +4722,7 @@
   {
     "idSeance": 220402,
     "idEvenement": 36117,
-    "dateHeure": "2026-10-25T20:45:00",
+    "dateHeure": "2026-10-25T21:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5136,9 +5131,34 @@
     "hashEvenement": "f155724"
   },
   {
+    "idSeance": 217825,
+    "idEvenement": 36971,
+    "dateHeure": "2026-10-29T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Nos 90 ans en 180 films",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Frédéric Bonnaud",
+    "items": [
+      {
+        "idFilm": 36804,
+        "titre": "Falstaff",
+        "realisateurs": "Orson Welles",
+        "annee": 1966,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f36804"
+  },
+  {
     "idSeance": 211959,
     "idEvenement": 37098,
-    "dateHeure": "2026-10-29T18:00:00",
+    "dateHeure": "2026-10-29T18:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -5193,31 +5213,6 @@
     "hashEvenement": "f155886f155887f155888f155889f155890"
   },
   {
-    "idSeance": 217825,
-    "idEvenement": 36971,
-    "dateHeure": "2026-10-29T18:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Nos 90 ans en 180 films",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Frédéric Bonnaud",
-    "items": [
-      {
-        "idFilm": 36804,
-        "titre": "Falstaff",
-        "realisateurs": "Orson Welles",
-        "annee": 1966,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f36804"
-  },
-  {
     "idSeance": 217940,
     "idEvenement": 36479,
     "dateHeure": "2026-10-29T20:30:00",
@@ -5250,7 +5245,7 @@
   {
     "idSeance": 217826,
     "idEvenement": 36972,
-    "dateHeure": "2026-10-29T21:00:00",
+    "dateHeure": "2026-10-29T21:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5258,6 +5253,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Hannah Froidevaux",
     "items": [
       {
         "idFilm": 50140,
@@ -5385,7 +5381,9 @@
         "titre": "Tendre Voyou",
         "realisateurs": "Jean Becker",
         "annee": 1966,
-        "format": "35 mm"
+        "duree": 85,
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f51878"
@@ -5509,7 +5507,8 @@
         "annee": 1968,
         "duree": 99,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f32369"
@@ -5617,7 +5616,7 @@
   {
     "idSeance": 217827,
     "idEvenement": 35983,
-    "dateHeure": "2026-11-01T20:00:00",
+    "dateHeure": "2026-11-01T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5638,30 +5637,6 @@
       }
     ],
     "hashEvenement": "f155691"
-  },
-  {
-    "idSeance": 217988,
-    "idEvenement": 36803,
-    "dateHeure": "2026-11-01T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Nos 90 ans en 180 films",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 66751,
-        "titre": "Break-up, érotisme et ballons rouges",
-        "realisateurs": "Marco Ferreri",
-        "annee": 1968,
-        "duree": 97,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f66751"
   },
   {
     "idSeance": 220369,
@@ -5685,6 +5660,30 @@
       }
     ],
     "hashEvenement": "f51603"
+  },
+  {
+    "idSeance": 217988,
+    "idEvenement": 36803,
+    "dateHeure": "2026-11-01T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Nos 90 ans en 180 films",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 66751,
+        "titre": "Break-up, érotisme et ballons rouges",
+        "realisateurs": "Marco Ferreri",
+        "annee": 1968,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f66751"
   },
   {
     "idSeance": 217992,
@@ -6207,7 +6206,7 @@
   {
     "idSeance": 220392,
     "idEvenement": 37228,
-    "dateHeure": "2026-11-06T20:45:00",
+    "dateHeure": "2026-11-06T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7010,7 +7009,8 @@
         "realisateurs": "Jean-François Stévenin",
         "annee": 1978,
         "duree": 113,
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f51338"
@@ -7333,7 +7333,8 @@
         "annee": 1978,
         "duree": 183,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f29605"
@@ -7360,7 +7361,8 @@
         "realisateurs": "Claude Lelouch",
         "annee": 1969,
         "duree": 115,
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       },
       {
         "idConf": 36992,
@@ -7492,7 +7494,8 @@
         "realisateurs": "Joseph Losey",
         "annee": 1976,
         "duree": 122,
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f49954"
@@ -7743,15 +7746,6 @@
     ],
     "items": [
       {
-        "idFilm": 77270,
-        "titre": "American Boy: A Profile of Steven Prince",
-        "realisateurs": "Martin Scorsese",
-        "annee": 1978,
-        "duree": 55,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
         "idFilm": 73447,
         "titre": "Big Shave",
         "art": "The",
@@ -7771,6 +7765,15 @@
         "format": "DCP"
       },
       {
+        "idFilm": 77270,
+        "titre": "American Boy: A Profile of Steven Prince",
+        "realisateurs": "Martin Scorsese",
+        "annee": 1978,
+        "duree": 55,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
         "idFilm": 155909,
         "titre": "Blow up : Hommage à Martin Scorsese",
         "realisateurs": "Luc Lagier",
@@ -7784,7 +7787,7 @@
         "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "f77270f73447f77269f155909c37000"
+    "hashEvenement": "f73447f77269f77270f155909c37000"
   },
   {
     "idSeance": 220495,
@@ -7803,7 +7806,8 @@
         "titre": "Poto et Cabengo",
         "realisateurs": "Jean-Pierre Gorin",
         "annee": 1980,
-        "duree": 73
+        "duree": 73,
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f79178"
@@ -8054,6 +8058,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Jérémie Imbert",
     "items": [
       {
         "idFilm": 47154,
@@ -8161,9 +8166,10 @@
         "titre": "Furyo",
         "realisateurs": "Nagisa Ōshima",
         "annee": 1983,
-        "duree": 123,
+        "duree": 122,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f35368"
@@ -8370,12 +8376,6 @@
     ],
     "items": [
       {
-        "idFilm": 155910,
-        "titre": "Blow up : Carrie en 8 minutes",
-        "realisateurs": "Luc Lagier",
-        "annee": 2019
-      },
-      {
         "idFilm": 31416,
         "titre": "Incorruptibles",
         "art": "Les",
@@ -8386,12 +8386,18 @@
         "format": "35 mm"
       },
       {
+        "idFilm": 155910,
+        "titre": "Blow up : Carrie en 8 minutes",
+        "realisateurs": "Luc Lagier",
+        "annee": 2019
+      },
+      {
         "idConf": 37006,
         "titre": "Dialogue avec Luc Lagier",
         "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "f155910f31416c37006"
+    "hashEvenement": "f31416f155910c37006"
   },
   {
     "idSeance": 218019,
@@ -8636,7 +8642,7 @@
     "items": [
       {
         "idConf": 36997,
-        "titre": "Hommage à Noëlle Vincesini",
+        "titre": "Hommage à Noëlle Vincensini",
         "typeConference": "Conférence"
       }
     ],

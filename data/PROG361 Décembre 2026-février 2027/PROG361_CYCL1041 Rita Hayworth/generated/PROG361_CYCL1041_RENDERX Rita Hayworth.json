@@ -129,40 +129,60 @@
           ]
         },
         {
-          "idFilm": 30782,
-          "content": [
+          "groupe": [
             {
               "idFilm": 30782,
-              "ordre": 1,
-              "titre": "Belle du Pacifique",
-              "art": "La",
-              "titreVo": "Miss Sadie Thompson",
-              "realisateurs": "Curtis Bernhardt",
-              "pays": "États-Unis",
-              "annee": 1953,
-              "duree": 91,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true,
-              "adaptation": "D'après le roman _Miss Thompson_ de William Somerset Maugham.",
-              "generique": [
-                "Rita Hayworth",
-                "José Ferrer",
-                "Aldo Ray"
-              ],
-              "miniTexte": "Après la Seconde Guerre mondiale, une vagabonde au passé trouble débarque sur une île du Pacifique occupée par les Marines. Sexe, péchés et rédemption sous les tropiques, dans la troisième adaptation de _Miss Thompson_, déroutant mélange d'humour et de noirceur rattrapé par le drame."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 218394,
-              "dateHeure": "2026-12-12T14:30:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 30782,
+                  "ordre": 1,
+                  "titre": "Belle du Pacifique",
+                  "art": "La",
+                  "titreVo": "Miss Sadie Thompson",
+                  "realisateurs": "Curtis Bernhardt",
+                  "pays": "États-Unis",
+                  "annee": 1953,
+                  "duree": 91,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "restauration": true,
+                  "adaptation": "D'après le roman _Miss Thompson_ de William Somerset Maugham.",
+                  "generique": [
+                    "Rita Hayworth",
+                    "José Ferrer",
+                    "Aldo Ray"
+                  ],
+                  "miniTexte": "Après la Seconde Guerre mondiale, une vagabonde au passé trouble débarque sur une île du Pacifique occupée par les Marines. Sexe, péchés et rédemption sous les tropiques, dans la troisième adaptation de _Miss Thompson_, déroutant mélange d'humour et de noirceur rattrapé par le drame."
+                }
+              ]
             },
             {
-              "idSeance": 218812,
-              "dateHeure": "2026-12-30T20:45:00",
-              "idSalle": "GF"
+              "idEvenement": 34725,
+              "content": [
+                {
+                  "idConf": 34725,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Gaël Lépingle",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel",
+                  "miniTexte": "_La Belle du Pacifique_ (1953) offre à Rita Hayworth, alors au sommet de sa gloire, l'occasion unique d'un rôle de composition, à travers un personnage plus mûr et libre, échappant au carcan des séductrices habituelles. La vigueur avec lequel elle le défendit lui coûta sa carrière : on ne lui pardonna pas de changer les règles. Le film permet de saisir la singularité d'une star dont la présence authentique fissure les conventions du jeu, entre élans inspirés et doute de soi. — Gaël Lépingle"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 218394,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-12-12T14:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 218812,
+                  "dateHeure": "2026-12-30T20:45:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -231,7 +251,7 @@
           "seances": [
             {
               "idSeance": 218396,
-              "dateHeure": "2026-12-12T20:45:00",
+              "dateHeure": "2026-12-12T21:15:00",
               "idSalle": "HL"
             },
             {
@@ -506,7 +526,7 @@
           "seances": [
             {
               "idSeance": 218395,
-              "dateHeure": "2026-12-12T18:30:00",
+              "dateHeure": "2026-12-12T19:00:00",
               "idSalle": "HL"
             },
             {
@@ -749,5 +769,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séance avec dialogue": [
+      {
+        "titreFilms": "La Belle du Pacifique",
+        "mention": "avec Gaël Lépingle",
+        "dateHeure": "2026-12-12T14:30:00"
+      }
+    ]
+  }
 }
