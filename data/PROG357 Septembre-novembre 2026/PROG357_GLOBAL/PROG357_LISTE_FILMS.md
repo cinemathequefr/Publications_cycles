@@ -341,8 +341,8 @@
   * Sans toit ni loi  
   * Scènes de la vie conjugale  
   * Shanghai Gesture (The)  
-  * Shoah (deuxième époque)  
-  * Shoah (première époque)  
+  * Shoah (1re époque)  
+  * Shoah (2e époque)  
   * Simone Barbès ou la vertu  
   * Son nom de Venise dans Calcutta désert  
   * Suspiria  
