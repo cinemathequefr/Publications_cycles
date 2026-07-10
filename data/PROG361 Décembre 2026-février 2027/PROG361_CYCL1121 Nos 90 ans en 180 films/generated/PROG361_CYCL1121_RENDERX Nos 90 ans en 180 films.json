@@ -31,7 +31,8 @@
             {
               "idSeance": 218284,
               "dateHeure": "2026-12-09T20:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Isaac Gaido-Daniel"
             }
           ]
         },
@@ -61,7 +62,8 @@
             {
               "idSeance": 218399,
               "dateHeure": "2026-12-12T20:15:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Alexandre Monneau"
             }
           ]
         },
@@ -167,7 +169,8 @@
             {
               "idSeance": 218457,
               "dateHeure": "2026-12-16T19:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Isabelle Ehrhart"
             }
           ]
         },
@@ -337,7 +340,8 @@
             {
               "idSeance": 218587,
               "dateHeure": "2026-12-20T17:15:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Geoffrey Pons"
             }
           ]
         },
@@ -367,7 +371,8 @@
             {
               "idSeance": 220500,
               "dateHeure": "2026-12-18T18:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Marién Gómez"
             }
           ]
         },
@@ -416,7 +421,8 @@
             {
               "idSeance": 218398,
               "dateHeure": "2026-12-12T17:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Gilles Veyrat"
             }
           ]
         },
@@ -650,7 +656,8 @@
             {
               "idSeance": 218588,
               "dateHeure": "2026-12-20T19:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Peggy Hannon"
             }
           ]
         },
@@ -729,7 +736,8 @@
             {
               "idSeance": 218357,
               "dateHeure": "2026-12-11T19:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Élodie Imbeau"
             }
           ]
         },
@@ -808,7 +816,8 @@
             {
               "idSeance": 220478,
               "dateHeure": "2026-12-10T18:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Tania Tavares-Diaz"
             }
           ]
         },
@@ -857,7 +866,8 @@
             {
               "idSeance": 220498,
               "dateHeure": "2026-12-17T20:45:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Théo Leroyer"
             }
           ]
         },
@@ -1015,7 +1025,8 @@
             {
               "idSeance": 218397,
               "dateHeure": "2026-12-12T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Adrien Malossanne"
             }
           ]
         },
@@ -1149,5 +1160,63 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Attache-moi !",
+        "mention": "par Isaac Gaido-Daniel",
+        "dateHeure": "2026-12-09T20:30:00"
+      },
+      {
+        "titreFilms": "Non ou la vaine gloire de commander",
+        "mention": "par Tania Tavares-Diaz",
+        "dateHeure": "2026-12-10T18:30:00"
+      },
+      {
+        "titreFilms": "My Own Private Idaho",
+        "mention": "par Élodie Imbeau",
+        "dateHeure": "2026-12-11T19:00:00"
+      },
+      {
+        "titreFilms": "Sonatine, mélodie mortelle",
+        "mention": "par Adrien Malossanne",
+        "dateHeure": "2026-12-12T15:00:00"
+      },
+      {
+        "titreFilms": "L'Impasse",
+        "mention": "par Gilles Veyrat",
+        "dateHeure": "2026-12-12T17:30:00"
+      },
+      {
+        "titreFilms": "Bad Lieutenant",
+        "mention": "par Alexandre Monneau",
+        "dateHeure": "2026-12-12T20:15:00"
+      },
+      {
+        "titreFilms": "Casino",
+        "mention": "par Isabelle Ehrhart",
+        "dateHeure": "2026-12-16T19:00:00"
+      },
+      {
+        "titreFilms": "On connaît la chanson",
+        "mention": "par Théo Leroyer",
+        "dateHeure": "2026-12-17T20:45:00"
+      },
+      {
+        "titreFilms": "Le Goût de la cerise",
+        "mention": "par Marién Gómez",
+        "dateHeure": "2026-12-18T18:30:00"
+      },
+      {
+        "titreFilms": "Ghost Dog : La Voie du samouraï",
+        "mention": "par Geoffrey Pons",
+        "dateHeure": "2026-12-20T17:15:00"
+      },
+      {
+        "titreFilms": "The Mission",
+        "mention": "par Peggy Hannon",
+        "dateHeure": "2026-12-20T19:30:00"
+      }
+    ]
+  }
 }
