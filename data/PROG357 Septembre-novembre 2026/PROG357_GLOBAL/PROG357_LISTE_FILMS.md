@@ -91,7 +91,7 @@
   * Voyage dans la Lune (Le)  
   * Wall-E
 
-## Damien Odoul (31)
+## Damien Odoul (30)
 
   * À la grâce de Dieu  
   * À l'ouest de l'Orient  
@@ -104,7 +104,6 @@
   * Elegeia  
   * Errance  
   * Folle Parade (La)  
-  * Histoire de Richard O. (L')  
   * Joug (Le)  
   * Magik  
   * Maison des morts (La)  
