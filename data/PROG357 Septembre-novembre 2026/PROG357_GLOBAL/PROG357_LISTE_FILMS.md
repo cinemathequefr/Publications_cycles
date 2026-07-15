@@ -4,7 +4,7 @@
 
   * Cléo de 5 à 7  
   * De battre mon cœur s'est arrêté  
-  * De Humani Corporis Fabrica  
+  * De humani corporis fabrica  
   * Onoda, dix mille nuits dans la jungle  
   * Ressources humaines  
   * Séjour dans les monts Fuchun
