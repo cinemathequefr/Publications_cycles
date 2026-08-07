@@ -34,7 +34,7 @@
       "isReg": true,
       "triSousCycles": true,
       "sousCycles": [
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [1856], "tri": 4 }
       ],
       "excludeSeances": [],
       "restaurations": [],
@@ -78,7 +78,7 @@
       "_charge_prog": "",
       "sousCycles": [
         { "titre": "Les films", "cats": [], "tri": 4 },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [3111], "tri": 4 }
       ],
       "excludeSeances": [],
       "restaurations": [],
@@ -180,12 +180,24 @@
       "triSousCycles": false,
       "type": null,
       "sousCycles": [
-        { "titre": "Les films", "cats": [4227], "tri": 2, "printNoMT": true },
+        { "titre": "Les films", "cats": [4227], "tri": 2, "printNoMT": false },
         {
           "titre": "The Pelechian Project",
           "cats": [4226],
           "tri": 2,
-          "printNoMT": true
+          "printNoMT": false
+        },
+        {
+          "titre": "Laurel et Hardy",
+          "cats": [4287],
+          "tri": 4,
+          "printNoMT": false
+        },
+        {
+          "titre": "Sarah Maldoror",
+          "cats": [4288],
+          "tri": 2,
+          "printNoMT": false
         },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
       ],
@@ -201,7 +213,12 @@
       "triSousCycles": false,
       "type": null,
       "sousCycles": [
-        { "titre": "Les films", "cats": [4261], "tri": 2, "printNoMT": true },
+        {
+          "titre": "Les films",
+          "cats": [4261, 4280],
+          "tri": 2,
+          "printNoMT": true
+        },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
       ],
       "excludeSeances": [],
@@ -247,7 +264,7 @@
       "type": null,
       "sousCycles": [
         { "titre": "Les films", "cats": [4273], "tri": 2, "printNoMT": true },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [4282], "tri": 4 }
       ],
       "excludeSeances": [],
       "restaurations": [],
@@ -262,7 +279,7 @@
       "type": null,
       "sousCycles": [
         { "titre": "Les films", "cats": [4274], "tri": 2, "printNoMT": true },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [4281], "tri": 4 }
       ],
       "excludeSeances": [],
       "restaurations": [],
@@ -275,9 +292,46 @@
       "isReg": true,
       "triSousCycles": false,
       "type": "jp",
-      "sousCycles": [{ "titre": "Les films", "cats": [4277], "tri": 2 }],
+      "sousCycles": [
+        { "titre": "Les films", "cats": [4277, 4291, 4292, 4293], "tri": 2 }
+      ],
       "excludeSeances": [],
       "cancelledSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 1133,
+      "titreCycle": "Audrey Hepburn",
+      "_charge_prog": "Bernard",
+      "isReg": false,
+      "triSousCycles": false,
+      "type": null,
+      "sousCycles": [
+        { "titre": "Les films", "cats": [4290], "tri": 2, "printNoMT": false },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 1134,
+      "titreCycle": "Vigo, père et fils",
+      "_charge_prog": "",
+      "isReg": false,
+      "triSousCycles": false,
+      "type": null,
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [4294, 4295],
+          "tri": 2,
+          "printNoMT": false
+        },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
       "restaurations": [],
       "titreEvenements": {}
     }
