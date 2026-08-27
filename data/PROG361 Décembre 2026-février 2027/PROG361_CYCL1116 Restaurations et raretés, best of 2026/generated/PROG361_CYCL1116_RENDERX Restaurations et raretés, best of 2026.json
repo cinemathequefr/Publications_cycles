@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2026-12-02T20:00:00",
-    "2026-12-03T21:00:00"
+    "2026-12-02T15:00:00",
+    "2026-12-06T15:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -30,7 +30,8 @@
                 "Edward G. Robinson",
                 "Loretta Young",
                 "Orson Welles"
-              ]
+              ],
+              "miniTexte": "Un criminel de guerre nazi (Welles) coule des jours heureux dans une bourgade paisible du Connecticut, lorsqu'un agent du FBI (Robinson) retrouve sa trace. Si le film est longtemps passé pour une commande de Hollywood, impersonnelle, il porte bien la marque fiévreuse du cinéaste. Réalisé entre _La Splendeur des Amberson_ et _La Dame de Shanghaï_, le thriller se mue en mélodrame freudien. Une exploration du mal fascinante du début jusqu'à la fin."
             }
           ],
           "seances": [
@@ -38,6 +39,36 @@
               "idSeance": 218141,
               "dateHeure": "2026-12-03T21:00:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 33394,
+          "content": [
+            {
+              "idFilm": 33394,
+              "ordre": 1,
+              "titre": "Labyrinthe",
+              "titreVo": "Labyrinth",
+              "realisateurs": "Jim Henson",
+              "pays": "États-Unis",
+              "annee": 1986,
+              "duree": 101,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "ageMinimal": 8,
+              "generique": [
+                "David Bowie",
+                "Jennifer Connelly"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218239,
+              "dateHeure": "2026-12-06T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -61,7 +92,8 @@
                 "Cary Grant",
                 "Eva Marie Saint",
                 "James Mason"
-              ]
+              ],
+              "miniTexte": "Faux espion et faux coupable piégé dans une course-poursuite délirante, Cary Grant, tout en élégance ironique, traverse gratte-ciel, champs de maïs et mont Rushmore sous l'œil virtuose d'Hitchcock, qui livre une nouvelle leçon de rythme et de tension. Un ballet prodigieux, un classique hollywoodien intemporel, réjouissant de bout en bout."
             }
           ],
           "seances": [
@@ -70,6 +102,96 @@
               "dateHeure": "2026-12-02T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Laurel et Hardy",
+      "items": [
+        {
+          "idEvenement": 37428,
+          "content": [
+            {
+              "idFilm": 34772,
+              "ordre": 1,
+              "titre": "Y'a erreur !",
+              "titreVo": "Wrong Again",
+              "realisateurs": "Leo McCarey",
+              "pays": "États-Unis",
+              "annee": 1929,
+              "duree": 20,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy",
+                "Dell Henderson"
+              ]
+            },
+            {
+              "idFilm": 67809,
+              "ordre": 2,
+              "titre": "Son altesse royale",
+              "titreVo": "Double Whoopee",
+              "realisateurs": "Lewis R. Foster",
+              "pays": "États-Unis",
+              "annee": 1929,
+              "duree": 19,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy",
+                "Jean Harlow"
+              ]
+            },
+            {
+              "idFilm": 32868,
+              "ordre": 3,
+              "titre": "C'est ma femme !",
+              "titreVo": "That's My Wife",
+              "realisateurs": "Lloyd French",
+              "pays": "États-Unis",
+              "annee": 1929,
+              "duree": 19,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy",
+                "William Courtwright"
+              ]
+            },
+            {
+              "idFilm": 66149,
+              "ordre": 4,
+              "titre": "Œil pour œil",
+              "titreVo": "Big Business",
+              "realisateurs": "J. Wesley Horne",
+              "pays": "États-Unis",
+              "annee": 1929,
+              "duree": 23,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy",
+                "James Finlayson"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218102,
+              "dateHeure": "2026-12-02T15:00:00",
+              "idSalle": "GF"
             }
           ]
         }

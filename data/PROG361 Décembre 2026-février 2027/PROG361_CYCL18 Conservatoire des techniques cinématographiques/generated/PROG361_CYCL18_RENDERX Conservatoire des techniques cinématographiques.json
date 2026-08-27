@@ -1,0 +1,78 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 37411,
+          "content": [
+            {
+              "idConf": 37411,
+              "titre": "Conservatoire de décembre",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 223511,
+              "dateHeure": "2026-12-11T14:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 37412,
+          "content": [
+            {
+              "idConf": 37412,
+              "titre": "Conservatoire de janvier ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 223512,
+              "dateHeure": "2027-01-22T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 37413,
+          "content": [
+            {
+              "idConf": 37413,
+              "titre": "Conservatoire de février ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 223513,
+              "dateHeure": "2027-02-12T14:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Conférences": [
+      {
+        "titre": "Conservatoire de décembre",
+        "dateHeure": "2026-12-11T14:30:00"
+      },
+      {
+        "titre": "Conservatoire de janvier ",
+        "dateHeure": "2027-01-22T17:00:00"
+      },
+      {
+        "titre": "Conservatoire de février ",
+        "dateHeure": "2027-02-12T14:30:00"
+      }
+    ]
+  }
+}

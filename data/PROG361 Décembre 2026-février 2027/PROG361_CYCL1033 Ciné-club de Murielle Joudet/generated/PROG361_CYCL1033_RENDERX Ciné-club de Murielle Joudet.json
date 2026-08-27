@@ -76,7 +76,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 37421,
+          "content": [
+            {
+              "idConf": 37421,
+              "titre": "Ciné-club de Murielle Joudet",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 223521,
+              "dateHeure": "2027-02-11T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séance avec dialogue": [
+      {
+        "mention": "Ciné-club de Murielle Joudet",
+        "dateHeure": "2027-02-11T19:00:00"
+      }
+    ]
+  }
 }

@@ -1,5 +1,64 @@
 [
   {
+    "idSeance": 218102,
+    "idEvenement": 37428,
+    "dateHeure": "2026-12-02T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Restaurations et raretés, best of 2026",
+        "Laurel et Hardy"
+      ],
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34772,
+        "titre": "Y'a erreur !",
+        "realisateurs": "Leo McCarey",
+        "annee": 1929,
+        "duree": 20,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 67809,
+        "titre": "Son altesse royale",
+        "realisateurs": "Lewis R. Foster",
+        "annee": 1929,
+        "duree": 19,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 32868,
+        "titre": "C'est ma femme !",
+        "realisateurs": "Lloyd French",
+        "annee": 1929,
+        "duree": 19,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 66149,
+        "titre": "Œil pour œil",
+        "realisateurs": "J. Wesley Horne",
+        "annee": 1929,
+        "duree": 23,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f34772f67809f32868f66149"
+  },
+  {
     "idSeance": 218105,
     "idEvenement": 36984,
     "dateHeure": "2026-12-02T20:00:00",
@@ -53,6 +112,56 @@
     "hashEvenement": "f36830"
   },
   {
+    "idSeance": 218239,
+    "idEvenement": 37059,
+    "dateHeure": "2026-12-06T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Restaurations et raretés, best of 2026",
+        "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 33394,
+        "titre": "Labyrinthe",
+        "realisateurs": "Jim Henson",
+        "annee": 1986,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f33394"
+  },
+  {
+    "idSeance": 227866,
+    "idEvenement": 37486,
+    "dateHeure": "2026-12-09T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 151601,
+        "titre": "En attendant la neige",
+        "realisateurs": "Raùl Robin Morales Reyes, Chaïtane Conversat, Svetlana Andrianova, [etc.]",
+        "annee": 2020
+      }
+    ],
+    "hashEvenement": "f151601"
+  },
+  {
     "idSeance": 218283,
     "idEvenement": 36735,
     "dateHeure": "2026-12-09T18:30:00",
@@ -68,7 +177,10 @@
         "idFilm": 43902,
         "titre": "Palombella rossa",
         "realisateurs": "Nanni Moretti",
-        "annee": 1989
+        "annee": 1989,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f43902"
@@ -110,13 +222,15 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Isaac Gaido-Daniel",
     "items": [
       {
         "idFilm": 43262,
         "titre": "Attache-moi !",
         "realisateurs": "Pedro Almodóvar",
-        "annee": 1989
+        "annee": 1989,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f43262"
@@ -162,10 +276,37 @@
         "idFilm": 43921,
         "titre": "Non ou la vaine gloire de commander",
         "realisateurs": "Manoel de Oliveira",
-        "annee": 1990
+        "annee": 1990,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f43921"
+  },
+  {
+    "idSeance": 228042,
+    "idEvenement": 37379,
+    "dateHeure": "2026-12-10T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79045,
+        "titre": "Kedma",
+        "realisateurs": "Amos Gitai",
+        "annee": 2001,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f79045"
   },
   {
     "idSeance": 218317,
@@ -218,6 +359,26 @@
     "hashEvenement": "f38489"
   },
   {
+    "idSeance": 223511,
+    "idEvenement": 37411,
+    "dateHeure": "2026-12-11T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37411,
+        "titre": "Conservatoire de décembre",
+        "typeConference": "Conférence"
+      }
+    ],
+    "hashEvenement": "c37411"
+  },
+  {
     "idSeance": 218356,
     "idEvenement": 36737,
     "dateHeure": "2026-12-11T15:30:00",
@@ -235,7 +396,8 @@
         "realisateurs": "Maurice Pialat",
         "annee": 1991,
         "duree": 158,
-        "format": "Numérique"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f50631"
@@ -276,14 +438,13 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Élodie Imbeau",
     "items": [
       {
         "idFilm": 37815,
         "titre": "My Own Private Idaho",
         "realisateurs": "Gus Van Sant",
         "annee": 1991,
-        "duree": 102,
+        "duree": 104,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -327,12 +488,16 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Bernard Benoliel",
     "items": [
       {
         "idFilm": 31142,
         "titre": "Impitoyable",
         "realisateurs": "Clint Eastwood",
-        "annee": 1992
+        "annee": 1992,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31142"
@@ -383,13 +548,15 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Adrien Malossanne",
     "items": [
       {
         "idFilm": 57559,
         "titre": "Sonatine, mélodie mortelle",
         "realisateurs": "Takeshi Kitano",
-        "annee": 1993
+        "annee": 1993,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f57559"
@@ -412,7 +579,10 @@
         "titre": "Impasse",
         "art": "L'",
         "realisateurs": "Brian De Palma",
-        "annee": 1993
+        "annee": 1993,
+        "duree": 144,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31636"
@@ -453,16 +623,15 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Alexandre Monneau",
+    "mention": "Séance présentée par Axel Monneau",
     "items": [
       {
         "idFilm": 45181,
         "titre": "Bad Lieutenant",
         "realisateurs": "Abel Ferrara",
         "annee": 1992,
-        "duree": 96,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "duree": 98,
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f45181"
@@ -517,6 +686,28 @@
     "hashEvenement": "f50746"
   },
   {
+    "idSeance": 218415,
+    "idEvenement": 37472,
+    "dateHeure": "2026-12-13T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79444,
+        "titre": "Âge de glace",
+        "art": "L'",
+        "realisateurs": "Chris Wedge",
+        "annee": 2002
+      }
+    ],
+    "hashEvenement": "f79444"
+  },
+  {
     "idSeance": 218411,
     "idEvenement": 34400,
     "dateHeure": "2026-12-13T17:00:00",
@@ -558,8 +749,9 @@
         "titre": "Reprise",
         "realisateurs": "Hervé Le Roux",
         "annee": 1996,
-        "duree": 180,
-        "format": "DCP"
+        "duree": 192,
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f60776"
@@ -630,7 +822,9 @@
         "titre": "Chungking Express",
         "realisateurs": "Wong Kar-wai",
         "annee": 1994,
-        "version": "VOSTF"
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f59512"
@@ -652,10 +846,34 @@
         "titre": "Cérémonie",
         "art": "La",
         "realisateurs": "Claude Chabrol",
-        "annee": 1995
+        "annee": 1995,
+        "duree": 112,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f57272"
+  },
+  {
+    "idSeance": 218454,
+    "idEvenement": 37470,
+    "dateHeure": "2026-12-16T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155522,
+        "titre": "Grand Noël des animaux",
+        "art": "Le",
+        "realisateurs": "Camille Almeras, Caroline Attia, Ceylan Beyoğlu, Haruna Kishi, Natalia Chernysheva, Olesya Shchukina",
+        "annee": 2024
+      }
+    ],
+    "hashEvenement": "f155522"
   },
   {
     "idSeance": 218459,
@@ -700,7 +918,10 @@
         "idFilm": 60044,
         "titre": "Casino",
         "realisateurs": "Martin Scorsese",
-        "annee": 1995
+        "annee": 1995,
+        "duree": 178,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f60044"
@@ -779,6 +1000,26 @@
     "hashEvenement": "f60449"
   },
   {
+    "idSeance": 223514,
+    "idEvenement": 37414,
+    "dateHeure": "2026-12-17T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Nos 90 ans en 180 films",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37414,
+        "titre": "Dialogue avec Jean-Pierre et Luc Dardenne ??",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "c37414"
+  },
+  {
     "idSeance": 220492,
     "idEvenement": 34397,
     "dateHeure": "2026-12-17T20:15:00",
@@ -815,7 +1056,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Théo Leroyer",
     "items": [
       {
         "idFilm": 29021,
@@ -924,7 +1164,10 @@
         "idFilm": 64097,
         "titre": "Xiao Wu, artisan pickpocket",
         "realisateurs": "Jia Zhangke",
-        "annee": 1998
+        "annee": 1998,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f64097"
@@ -967,15 +1210,18 @@
         "idFilm": 29430,
         "titre": "Khroustaliov, ma voiture !",
         "realisateurs": "Alexeï Guerman",
-        "annee": 1998
+        "annee": 1998,
+        "duree": 137,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f29430"
   },
   {
-    "idSeance": 220501,
-    "idEvenement": 34382,
-    "dateHeure": "2026-12-19T17:30:00",
+    "idSeance": 227872,
+    "idEvenement": 34379,
+    "dateHeure": "2026-12-19T17:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -985,17 +1231,17 @@
     ],
     "items": [
       {
-        "idFilm": 45551,
-        "titre": "Plus grand cirque du monde",
-        "art": "Le",
-        "realisateurs": "Henry Hathaway",
-        "annee": 1964,
-        "duree": 135,
+        "idFilm": 59102,
+        "titre": "Colère de Dieu",
+        "art": "La",
+        "realisateurs": "Ralph Nelson",
+        "annee": 1972,
+        "duree": 111,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f45551"
+    "hashEvenement": "f59102"
   },
   {
     "idSeance": 218575,
@@ -1008,13 +1254,16 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Stanislas Merhar",
     "items": [
       {
         "idFilm": 69094,
         "titre": "Captive",
         "art": "La",
         "realisateurs": "Chantal Akerman",
-        "annee": 2000
+        "annee": 2000,
+        "duree": 118,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f69094"
@@ -1022,7 +1271,7 @@
   {
     "idSeance": 218571,
     "idEvenement": 34384,
-    "dateHeure": "2026-12-19T20:15:00",
+    "dateHeure": "2026-12-19T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1059,7 +1308,11 @@
         "idFilm": 68653,
         "titre": "Yi Yi",
         "realisateurs": "Edward Yang",
-        "annee": 2000
+        "annee": 2000,
+        "duree": 173,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f68653"
@@ -1068,7 +1321,7 @@
     "idSeance": 218586,
     "idEvenement": 36635,
     "dateHeure": "2026-12-20T14:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Jean-Paul Belmondo",
@@ -1088,9 +1341,38 @@
     "hashEvenement": "f57334"
   },
   {
+    "idSeance": 220501,
+    "idEvenement": 34382,
+    "dateHeure": "2026-12-20T15:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Rita Hayworth",
+        "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45551,
+        "titre": "Plus grand cirque du monde",
+        "art": "Le",
+        "realisateurs": "Henry Hathaway",
+        "annee": 1964,
+        "duree": 135,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f45551"
+  },
+  {
     "idSeance": 218587,
     "idEvenement": 36887,
-    "dateHeure": "2026-12-20T17:15:00",
+    "dateHeure": "2026-12-20T17:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1098,13 +1380,16 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Geoffrey Pons",
     "items": [
       {
         "idFilm": 64306,
         "titre": "Ghost Dog : La Voie du samouraï",
         "realisateurs": "Jim Jarmusch",
-        "annee": 1999
+        "annee": 1999,
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f64306"
@@ -1112,7 +1397,7 @@
   {
     "idSeance": 218592,
     "idEvenement": 34635,
-    "dateHeure": "2026-12-20T17:45:00",
+    "dateHeure": "2026-12-20T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1137,7 +1422,7 @@
   {
     "idSeance": 218588,
     "idEvenement": 36835,
-    "dateHeure": "2026-12-20T19:30:00",
+    "dateHeure": "2026-12-20T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1145,7 +1430,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Peggy Hannon",
     "items": [
       {
         "idFilm": 75199,
@@ -1160,7 +1444,7 @@
   {
     "idSeance": 218593,
     "idEvenement": 35647,
-    "dateHeure": "2026-12-20T20:00:00",
+    "dateHeure": "2026-12-20T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1195,7 +1479,9 @@
         "idFilm": 75943,
         "titre": "Millennium Mambo",
         "realisateurs": "Hou Hsiao-hsien",
-        "annee": 2001
+        "annee": 2001,
+        "duree": 119,
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f75943"
@@ -1211,15 +1497,40 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Elia Suleiman",
     "items": [
       {
         "idFilm": 79086,
         "titre": "Intervention divine",
         "realisateurs": "Elia Suleiman",
-        "annee": 2002
+        "annee": 2002,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f79086"
+  },
+  {
+    "idSeance": 218630,
+    "idEvenement": 37487,
+    "dateHeure": "2026-12-23T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155983,
+        "titre": "opération Père Noêl",
+        "realisateurs": "Marc Robinet",
+        "annee": 2022
+      }
+    ],
+    "hashEvenement": "f155983"
   },
   {
     "idSeance": 220505,
@@ -1256,13 +1567,15 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Aline Tanriverdi",
     "items": [
       {
         "idFilm": 76240,
         "titre": "Mulholland Drive",
         "realisateurs": "David Lynch",
-        "annee": 2001
+        "annee": 2001,
+        "duree": 146,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f76240"
@@ -1328,7 +1641,10 @@
         "idFilm": 87794,
         "titre": "Lost in Translation",
         "realisateurs": "Sofia Coppola",
-        "annee": 2003
+        "annee": 2003,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f87794"
@@ -1349,7 +1665,10 @@
         "idFilm": 91505,
         "titre": "Moolaadé",
         "realisateurs": "Ousmane Sembène",
-        "annee": 2004
+        "annee": 2004,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f91505"
@@ -1371,7 +1690,10 @@
         "titre": "Pianiste",
         "art": "Le",
         "realisateurs": "Roman Polanski",
-        "annee": 2002
+        "annee": 2002,
+        "duree": 150,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f79087"
@@ -1441,19 +1763,50 @@
         "idFilm": 100519,
         "titre": "Black Book",
         "realisateurs": "Paul Verhoeven",
-        "annee": 2006
+        "annee": 2006,
+        "duree": 145,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f100519"
   },
   {
+    "idSeance": 227873,
+    "idEvenement": 34389,
+    "dateHeure": "2026-12-27T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Rita Hayworth",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31189,
+        "titre": "Salomé",
+        "realisateurs": "William Dieterle",
+        "annee": 1953,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f31189"
+  },
+  {
     "idSeance": 218762,
     "idEvenement": 36644,
-    "dateHeure": "2026-12-27T14:30:00",
+    "dateHeure": "2026-12-27T15:00:00",
     "salle": "HL",
     "cycle": [
       [
         "Jean-Paul Belmondo",
+        "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
         "Les films"
       ]
     ],
@@ -1473,7 +1826,7 @@
   {
     "idSeance": 218763,
     "idEvenement": 34392,
-    "dateHeure": "2026-12-27T17:00:00",
+    "dateHeure": "2026-12-27T17:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1512,7 +1865,10 @@
         "idFilm": 85579,
         "titre": "Va et vient",
         "realisateurs": "João César Monteiro",
-        "annee": 2003
+        "annee": 2003,
+        "duree": 170,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f85579"
@@ -1520,7 +1876,7 @@
   {
     "idSeance": 218764,
     "idEvenement": 34393,
-    "dateHeure": "2026-12-27T19:00:00",
+    "dateHeure": "2026-12-27T19:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1553,12 +1909,16 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Axel Monneau",
     "items": [
       {
         "idFilm": 98178,
         "titre": "Grizzly Man",
         "realisateurs": "Werner Herzog",
-        "annee": 2005
+        "annee": 2005,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f98178"
@@ -1618,6 +1978,27 @@
     "hashEvenement": "f36254"
   },
   {
+    "idSeance": 218806,
+    "idEvenement": 37474,
+    "dateHeure": "2026-12-30T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 56155,
+        "titre": "Blanche-Neige et les sept nains",
+        "realisateurs": "David Hand",
+        "annee": 1937
+      }
+    ],
+    "hashEvenement": "f56155"
+  },
+  {
     "idSeance": 218808,
     "idEvenement": 36843,
     "dateHeure": "2026-12-30T18:00:00",
@@ -1634,7 +2015,9 @@
         "titre": "Promesses de l'ombre",
         "art": "Les",
         "realisateurs": "David Cronenberg",
-        "annee": 2007
+        "annee": 2007,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f103263"
@@ -1680,7 +2063,10 @@
         "idFilm": 102035,
         "titre": "No Country for Old Men",
         "realisateurs": "Joel Coen, Ethan Coen",
-        "annee": 2007
+        "annee": 2007,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f102035"
@@ -1727,7 +2113,9 @@
         "idFilm": 100359,
         "titre": "Lady Chatterley",
         "realisateurs": "Pascale Ferran",
-        "annee": 2006
+        "annee": 2006,
+        "duree": 158,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f100359"
@@ -1821,7 +2209,10 @@
         "idFilm": 104554,
         "titre": "Valse avec Bachir",
         "realisateurs": "Ari Folman",
-        "annee": 2008
+        "annee": 2008,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f104554"
@@ -1914,7 +2305,10 @@
         "idFilm": 113297,
         "titre": "Melancholia",
         "realisateurs": "Lars von Trier",
-        "annee": 2011
+        "annee": 2011,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f113297"
@@ -1941,6 +2335,27 @@
     "hashEvenement": "f47450"
   },
   {
+    "idSeance": 218943,
+    "idEvenement": 37473,
+    "dateHeure": "2027-01-03T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36381,
+        "titre": "Gremlins",
+        "realisateurs": "Joe Dante",
+        "annee": 1983
+      }
+    ],
+    "hashEvenement": "f36381"
+  },
+  {
     "idSeance": 218944,
     "idEvenement": 36844,
     "dateHeure": "2027-01-03T17:15:00",
@@ -1957,7 +2372,9 @@
         "titre": "Frontière de l'aube",
         "art": "La",
         "realisateurs": "Philippe Garrel",
-        "annee": 2008
+        "annee": 2008,
+        "duree": 105,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f104536"
@@ -2027,7 +2444,9 @@
         "idFilm": 108146,
         "titre": "Bright Star",
         "realisateurs": "Jane Campion",
-        "annee": 2009
+        "annee": 2009,
+        "duree": 131,
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f108146"
@@ -2048,10 +2467,34 @@
         "idFilm": 112044,
         "titre": "Mystères de Lisbonne",
         "realisateurs": "Raoul Ruiz",
-        "annee": 2010
+        "annee": 2010,
+        "duree": 272,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f112044"
+  },
+  {
+    "idSeance": 218982,
+    "idEvenement": 37491,
+    "dateHeure": "2027-01-06T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155984,
+        "titre": "Nina et le hérisson",
+        "realisateurs": "Alain Gagnol, Jean-Loup Felicioli",
+        "annee": 2023
+      }
+    ],
+    "hashEvenement": "f155984"
   },
   {
     "idSeance": 218985,
@@ -2097,7 +2540,7 @@
         "realisateurs": "Robert Aldrich",
         "annee": 1953,
         "duree": 82,
-        "version": "VF",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -2121,7 +2564,7 @@
         "realisateurs": "Robert Aldrich",
         "annee": 1953,
         "duree": 71,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -2176,6 +2619,30 @@
     "hashEvenement": "f30234"
   },
   {
+    "idSeance": 219101,
+    "idEvenement": 37136,
+    "dateHeure": "2027-01-09T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Nos 90 ans en 180 films",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 120018,
+        "titre": "Shokuzai, partie 2 : Celles qui voulaient oublier",
+        "realisateurs": "Kiyoshi Kurosawa",
+        "annee": 2012,
+        "duree": 152,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f120018"
+  },
+  {
     "idSeance": 219098,
     "idEvenement": 35184,
     "dateHeure": "2027-01-09T17:00:00",
@@ -2222,6 +2689,30 @@
       }
     ],
     "hashEvenement": "f30123"
+  },
+  {
+    "idSeance": 219102,
+    "idEvenement": 37137,
+    "dateHeure": "2027-01-09T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Nos 90 ans en 180 films",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 117664,
+        "titre": "Shokuzai, partie 1 : Celles qui voulaient se souvenir",
+        "realisateurs": "Kiyoshi Kurosawa",
+        "annee": 2012,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f117664"
   },
   {
     "idSeance": 219114,
@@ -2315,7 +2806,8 @@
         "annee": 1958,
         "duree": 93,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f41044"
@@ -2336,7 +2828,10 @@
         "idFilm": 60898,
         "titre": "Trahison à Athènes",
         "realisateurs": "Robert Aldrich",
-        "annee": 1958
+        "annee": 1958,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f60898"
@@ -2368,5 +2863,371 @@
       }
     ],
     "hashEvenement": "f48837"
+  },
+  {
+    "idSeance": 219337,
+    "idEvenement": 37362,
+    "dateHeure": "2027-01-20T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ira Sachs",
+        "Les films"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 155940,
+        "titre": "The Man I Love",
+        "realisateurs": "Ira Sachs",
+        "annee": 2026,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155940"
+  },
+  {
+    "idSeance": 223517,
+    "idEvenement": 37417,
+    "dateHeure": "2027-01-21T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37417,
+        "titre": "Parlons cinéma 1",
+        "typeConference": "Conférence"
+      }
+    ],
+    "hashEvenement": "c37417"
+  },
+  {
+    "idSeance": 223512,
+    "idEvenement": 37412,
+    "dateHeure": "2027-01-22T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37412,
+        "titre": "Conservatoire de janvier ",
+        "typeConference": "Conférence"
+      }
+    ],
+    "hashEvenement": "c37412"
+  },
+  {
+    "idSeance": 223515,
+    "idEvenement": 37415,
+    "dateHeure": "2027-01-23T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ira Sachs",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37415,
+        "titre": "Leçon de cinéma Ira Sachs",
+        "typeConference": "Leçon de cinéma"
+      }
+    ],
+    "hashEvenement": "c37415"
+  },
+  {
+    "idSeance": 223518,
+    "idEvenement": 37418,
+    "dateHeure": "2027-01-28T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37418,
+        "titre": "Parlons cinéma 2",
+        "typeConference": "Conférence"
+      }
+    ],
+    "hashEvenement": "c37418"
+  },
+  {
+    "idSeance": 219686,
+    "idEvenement": 37485,
+    "dateHeure": "2027-02-03T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 112042,
+        "titre": "Allez raconte !",
+        "realisateurs": "Jean-Christophe Roger",
+        "annee": 2009
+      }
+    ],
+    "hashEvenement": "f112042"
+  },
+  {
+    "idSeance": 223519,
+    "idEvenement": 37419,
+    "dateHeure": "2027-02-05T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37419,
+        "titre": "Parlons cinéma 3",
+        "typeConference": "Conférence"
+      }
+    ],
+    "hashEvenement": "c37419"
+  },
+  {
+    "idSeance": 223516,
+    "idEvenement": 37416,
+    "dateHeure": "2027-02-06T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le Rouge et le Noir : la gauche hollywoodienne et la liste noire",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37416,
+        "titre": "Dialogue avec Ehsan Khoshbakht (Red & Black)",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "c37416"
+  },
+  {
+    "idSeance": 227869,
+    "idEvenement": 37488,
+    "dateHeure": "2027-02-07T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155981,
+        "titre": "New York, Miriam et moi",
+        "realisateurs": "Rémy Schaepman,  Vivier-Chapas Léahn",
+        "annee": 2026
+      }
+    ],
+    "hashEvenement": "f155981"
+  },
+  {
+    "idSeance": 219862,
+    "idEvenement": 37478,
+    "dateHeure": "2027-02-10T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 63893,
+        "titre": "Kirikou et la sorcière",
+        "realisateurs": "Michel Ocelot",
+        "annee": 1997
+      }
+    ],
+    "hashEvenement": "f63893"
+  },
+  {
+    "idSeance": 223521,
+    "idEvenement": 37421,
+    "dateHeure": "2027-02-11T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37421,
+        "titre": "Ciné-club de Murielle Joudet",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "c37421"
+  },
+  {
+    "idSeance": 223513,
+    "idEvenement": 37413,
+    "dateHeure": "2027-02-12T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37413,
+        "titre": "Conservatoire de février ",
+        "typeConference": "Conférence"
+      }
+    ],
+    "hashEvenement": "c37413"
+  },
+  {
+    "idSeance": 219999,
+    "idEvenement": 37476,
+    "dateHeure": "2027-02-14T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 116478,
+        "titre": "Ernest et Célestine",
+        "realisateurs": "Benjamin Renner, Vincent Patar, Stéphane Aubier",
+        "annee": 2011
+      }
+    ],
+    "hashEvenement": "f116478"
+  },
+  {
+    "idSeance": 227870,
+    "idEvenement": 37450,
+    "dateHeure": "2027-02-17T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ],
+      [
+        "Audrey Hepburn",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31344,
+        "titre": "Drôle de frimousse",
+        "realisateurs": "Stanley Donen",
+        "annee": 1956,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f31344"
+  },
+  {
+    "idSeance": 223520,
+    "idEvenement": 37420,
+    "dateHeure": "2027-02-18T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37420,
+        "titre": "Parlons cinéma 4",
+        "typeConference": "Conférence"
+      }
+    ],
+    "hashEvenement": "c37420"
+  },
+  {
+    "idSeance": 227871,
+    "idEvenement": 37458,
+    "dateHeure": "2027-02-21T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ],
+      [
+        "Audrey Hepburn",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31497,
+        "titre": "My Fair Lady",
+        "realisateurs": "George Cukor",
+        "annee": 1964,
+        "duree": 170,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f31497"
+  },
+  {
+    "idSeance": 220214,
+    "idEvenement": 37482,
+    "dateHeure": "2027-02-24T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107041,
+        "titre": "Brendan et le secret de Kells",
+        "realisateurs": "Tomm Moore, Nora Twomey",
+        "annee": 2008
+      }
+    ],
+    "hashEvenement": "f107041"
   }
 ]

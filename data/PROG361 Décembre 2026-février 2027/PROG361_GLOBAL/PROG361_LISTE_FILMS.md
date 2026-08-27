@@ -1,9 +1,17 @@
 # Liste des films par cycle
 
+## Archi Vives (1)
+
+  * Kedma
+
 ## Ciné-club de Murielle Joudet (2)
 
   * À bout de souffle  
   * Reine de Broadway (La)
+
+## Ira Sachs (1)
+
+  * The Man I Love
 
 ## Jean-Paul Belmondo (7)
 
@@ -15,7 +23,24 @@
   * Mariés de l'an II (Les)  
   * Une femme est une femme
 
-## Nos 90 ans en 180 films (43)
+## Ma petite Cinémathèque (14)
+
+  * Âge de glace (L')  
+  * Allez raconte !  
+  * Blanche-Neige et les sept nains  
+  * Brendan et le secret de Kells  
+  * Drôle de frimousse  
+  * En attendant la neige  
+  * Ernest et Célestine  
+  * Grand Noël des animaux (Le)  
+  * Gremlins  
+  * Kirikou et la sorcière  
+  * My Fair Lady  
+  * New York, Miriam et moi  
+  * Nina et le hérisson  
+  * opération Père Noêl
+
+## Nos 90 ans en 180 films (45)
 
   * Attache-moi !  
   * Bad Lieutenant  
@@ -54,6 +79,8 @@
   * Promesse (La)  
   * Promesses de l'ombre (Les)  
   * Reprise  
+  * Shokuzai, partie 1 : Celles qui voulaient se souvenir  
+  * Shokuzai, partie 2 : Celles qui voulaient oublier  
   * Sonatine, mélodie mortelle  
   * Va et vient  
   * Valse avec Bachir  
@@ -61,12 +88,17 @@
   * Xiao Wu, artisan pickpocket  
   * Yi Yi
 
-## Restaurations et raretés, best of 2026 (2)
+## Restaurations et raretés, best of 2026 (7)
 
+  * C'est ma femme !  
   * Criminel (Le)  
-  * Mort aux trousses (La)
+  * Labyrinthe  
+  * Mort aux trousses (La)  
+  * Œil pour œil  
+  * Son altesse royale  
+  * Y'a erreur !
 
-## Rita Hayworth (20)
+## Rita Hayworth (21)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
@@ -76,6 +108,7 @@
   * Blonde ou la Rousse (La)  
   * Cette nuit et toujours  
   * Ceux de Cordura  
+  * Colère de Dieu (La)  
   * Convicted  
   * Dame de Shanghaï (La)  
   * Enfer des tropiques (L')  

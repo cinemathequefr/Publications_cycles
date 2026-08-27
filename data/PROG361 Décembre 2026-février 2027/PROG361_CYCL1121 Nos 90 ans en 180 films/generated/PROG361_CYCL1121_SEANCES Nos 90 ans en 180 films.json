@@ -13,7 +13,12 @@
     "items": [
       {
         "idFilm": 43902,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218283,
+        "idCopie": 6351,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -31,10 +36,14 @@
     "items": [
       {
         "idFilm": 43262,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218284,
+        "idCopie": 32343,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "DCP"
       }
-    ],
-    "mention": "Séance présentée par Isaac Gaido-Daniel"
+    ]
   },
   {
     "idCategorie": 4261,
@@ -50,7 +59,12 @@
     "items": [
       {
         "idFilm": 43921,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220478,
+        "idCopie": 32191,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "mention": "Séance présentée par Tania Tavares-Diaz"
@@ -94,10 +108,11 @@
         "idFilm": 50631,
         "ordre": 1,
         "idSeance": 218356,
-        "idCopie": 513,
+        "idCopie": 221,
         "duree": 158,
         "version": "",
-        "format": "Numérique"
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -118,12 +133,11 @@
         "ordre": 1,
         "idSeance": 218357,
         "idCopie": 8157,
-        "duree": 102,
+        "duree": 104,
         "version": "VOSTF",
         "format": "35 mm"
       }
-    ],
-    "mention": "Séance présentée par Élodie Imbeau"
+    ]
   },
   {
     "idCategorie": 4261,
@@ -139,9 +153,15 @@
     "items": [
       {
         "idFilm": 31142,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220486,
+        "idCopie": 14594,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Bernard Benoliel"
   },
   {
     "idCategorie": 4261,
@@ -157,10 +177,14 @@
     "items": [
       {
         "idFilm": 57559,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218397,
+        "idCopie": 32352,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
-    ],
-    "mention": "Séance présentée par Adrien Malossanne"
+    ]
   },
   {
     "idCategorie": 4261,
@@ -176,7 +200,12 @@
     "items": [
       {
         "idFilm": 31636,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218398,
+        "idCopie": 4959,
+        "duree": 144,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "mention": "Séance présentée par Gilles Veyrat"
@@ -198,12 +227,12 @@
         "ordre": 1,
         "idSeance": 218399,
         "idCopie": 1134,
-        "duree": 96,
+        "duree": 98,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": ""
       }
     ],
-    "mention": "Séance présentée par Alexandre Monneau"
+    "mention": "Séance présentée par Axel Monneau"
   },
   {
     "idCategorie": 4261,
@@ -221,10 +250,11 @@
         "idFilm": 60776,
         "ordre": 1,
         "idSeance": 220487,
-        "idCopie": 13158,
-        "duree": 180,
+        "idCopie": 32357,
+        "duree": 192,
         "version": "",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -267,10 +297,10 @@
         "idFilm": 59512,
         "ordre": 1,
         "idSeance": 220489,
-        "idCopie": 24510,
-        "duree": 0,
+        "idCopie": 32351,
+        "duree": 97,
         "version": "VOSTF",
-        "format": ""
+        "format": "DCP"
       }
     ]
   },
@@ -288,7 +318,12 @@
     "items": [
       {
         "idFilm": 57272,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220490,
+        "idCopie": 27647,
+        "duree": 112,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
@@ -306,7 +341,12 @@
     "items": [
       {
         "idFilm": 60044,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218457,
+        "idCopie": 7366,
+        "duree": 178,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "mention": "Séance présentée par Isabelle Ehrhart"
@@ -335,6 +375,21 @@
     ]
   },
   {
+    "idCategorie": 4280,
+    "typeEvenement": 14,
+    "idEvenement": 37414,
+    "idSeance": 223514,
+    "dateHeure": "2026-12-17T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {}
+    ]
+  },
+  {
     "idCategorie": 4261,
     "typeEvenement": 13,
     "idEvenement": 36833,
@@ -355,8 +410,7 @@
         "version": "",
         "format": "35 mm"
       }
-    ],
-    "mention": "Séance présentée par Théo Leroyer"
+    ]
   },
   {
     "idCategorie": 4261,
@@ -396,7 +450,12 @@
     "items": [
       {
         "idFilm": 64097,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218533,
+        "idCopie": 19531,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -414,7 +473,12 @@
     "items": [
       {
         "idFilm": 29430,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218573,
+        "idCopie": 5540,
+        "duree": 137,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -432,9 +496,15 @@
     "items": [
       {
         "idFilm": 69094,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218575,
+        "idCopie": 3786,
+        "duree": 118,
+        "version": "",
+        "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Stanislas Merhar"
   },
   {
     "idCategorie": 4261,
@@ -450,7 +520,13 @@
     "items": [
       {
         "idFilm": 68653,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220502,
+        "idCopie": 30191,
+        "duree": 173,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -459,7 +535,7 @@
     "typeEvenement": 13,
     "idEvenement": 36887,
     "idSeance": 218587,
-    "dateHeure": "2026-12-20T17:15:00",
+    "dateHeure": "2026-12-20T17:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -468,17 +544,22 @@
     "items": [
       {
         "idFilm": 64306,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218587,
+        "idCopie": 28011,
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
       }
-    ],
-    "mention": "Séance présentée par Geoffrey Pons"
+    ]
   },
   {
     "idCategorie": 4261,
     "typeEvenement": 13,
     "idEvenement": 36835,
     "idSeance": 218588,
-    "dateHeure": "2026-12-20T19:30:00",
+    "dateHeure": "2026-12-20T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -489,8 +570,7 @@
         "idFilm": 75199,
         "ordre": 1
       }
-    ],
-    "mention": "Séance présentée par Peggy Hannon"
+    ]
   },
   {
     "idCategorie": 4261,
@@ -506,7 +586,12 @@
     "items": [
       {
         "idFilm": 75943,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220503,
+        "idCopie": 32358,
+        "duree": 119,
+        "version": "VOSTF",
+        "format": ""
       }
     ],
     "mention": "Séance présentée par Sébastien Roussel"
@@ -525,9 +610,15 @@
     "items": [
       {
         "idFilm": 79086,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220504,
+        "idCopie": 19643,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Elia Suleiman"
   },
   {
     "idCategorie": 4261,
@@ -543,10 +634,14 @@
     "items": [
       {
         "idFilm": 76240,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218632,
+        "idCopie": 1265,
+        "duree": 146,
+        "version": "VOSTF",
+        "format": "DCP"
       }
-    ],
-    "mention": "Séance présentée par Aline Tanriverdi"
+    ]
   },
   {
     "idCategorie": 4261,
@@ -580,7 +675,12 @@
     "items": [
       {
         "idFilm": 87794,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218668,
+        "idCopie": 26800,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -598,7 +698,12 @@
     "items": [
       {
         "idFilm": 91505,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220508,
+        "idCopie": 24592,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -616,7 +721,12 @@
     "items": [
       {
         "idFilm": 79087,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220511,
+        "idCopie": 7577,
+        "duree": 150,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -634,7 +744,12 @@
     "items": [
       {
         "idFilm": 100519,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220512,
+        "idCopie": 8361,
+        "duree": 145,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -652,7 +767,12 @@
     "items": [
       {
         "idFilm": 85579,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218768,
+        "idCopie": 2521,
+        "duree": 170,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -670,9 +790,15 @@
     "items": [
       {
         "idFilm": 98178,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218776,
+        "idCopie": 32361,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Axel Monneau"
   },
   {
     "idCategorie": 4261,
@@ -688,7 +814,12 @@
     "items": [
       {
         "idFilm": 103263,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218808,
+        "idCopie": 23914,
+        "duree": 0,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -706,7 +837,12 @@
     "items": [
       {
         "idFilm": 102035,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218809,
+        "idCopie": 1756,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -724,7 +860,12 @@
     "items": [
       {
         "idFilm": 100359,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220510,
+        "idCopie": 5301,
+        "duree": 158,
+        "version": "",
+        "format": "35 mm"
       }
     ]
   },
@@ -742,7 +883,12 @@
     "items": [
       {
         "idFilm": 104554,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218925,
+        "idCopie": 32362,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -778,7 +924,12 @@
     "items": [
       {
         "idFilm": 113297,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218924,
+        "idCopie": 8134,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -796,7 +947,12 @@
     "items": [
       {
         "idFilm": 104536,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218944,
+        "idCopie": 18446,
+        "duree": 105,
+        "version": "",
+        "format": "35 mm"
       }
     ]
   },
@@ -814,7 +970,12 @@
     "items": [
       {
         "idFilm": 108146,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 220517,
+        "idCopie": 32363,
+        "duree": 131,
+        "version": "VOSTF",
+        "format": ""
       }
     ]
   },
@@ -832,7 +993,58 @@
     "items": [
       {
         "idFilm": 112044,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218953,
+        "idCopie": 7300,
+        "duree": 272,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4261,
+    "typeEvenement": 13,
+    "idEvenement": 37136,
+    "idSeance": 219101,
+    "dateHeure": "2027-01-09T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 120018,
+        "ordre": 1,
+        "idSeance": 219101,
+        "idCopie": 4375,
+        "duree": 152,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4261,
+    "typeEvenement": 13,
+    "idEvenement": 37137,
+    "idSeance": 219102,
+    "dateHeure": "2027-01-09T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 117664,
+        "ordre": 1,
+        "idSeance": 219102,
+        "idCopie": 689,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   }

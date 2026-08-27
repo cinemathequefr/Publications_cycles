@@ -1,0 +1,76 @@
+{
+  "datesCycle": [
+    "2027-01-20T20:00:00",
+    "2027-01-23T14:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 155940,
+          "content": [
+            {
+              "idFilm": 155940,
+              "ordre": 1,
+              "titre": "The Man I Love",
+              "realisateurs": "Ira Sachs",
+              "pays": "États-Unis",
+              "annee": 2026,
+              "duree": 96,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 219337,
+              "dateHeure": "2027-01-20T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 37415,
+          "content": [
+            {
+              "idConf": 37415,
+              "titre": "Film + Leçon de cinéma Ira Sachs",
+              "typeConference": "Leçon de cinéma"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 223515,
+              "dateHeure": "2027-01-23T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2027-01-20T20:00:00",
+        "titreFilms": "The Man I Love"
+      }
+    ],
+    "Leçon de cinéma": [
+      {
+        "titre": "Film + Leçon de cinéma Ira Sachs",
+        "dateHeure": "2027-01-23T14:30:00"
+      }
+    ]
+  }
+}

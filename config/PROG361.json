@@ -92,8 +92,26 @@
       "isReg": true,
       "sousCycles": [
         {
-          "titre": "",
-          "cats": [],
+          "titre": "Les films",
+          "cats": [4275],
+          "tri": 4
+        },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 558,
+      "titreCycle": "Dominique Cabrera",
+      "_charge_prog": "Caroline",
+      "triSousCycles": true,
+      "isReg": false,
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2458],
           "tri": 4
         },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
@@ -129,19 +147,6 @@
         { "titre": "Rencontres et conférences", "cats": [3998], "tri": 4 }
       ]
     },
-
-    {
-      "idCycleProg": null,
-      "isReg": true,
-      "type": "jp",
-      "titreCycle": "Ma petite Cinémathèque",
-      "_charge_prog": "Élodie Imbeau",
-      "sousCycles": [{ "titre": "Les films", "cats": [], "tri": 4 }],
-      "excludeSeances": [],
-      "restaurations": [],
-      "titreEvenements": {}
-    },
-
     {
       "idCycleProg": 1061,
       "titreCycle": "Robert Aldrich",
@@ -152,6 +157,22 @@
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
       ],
       "excludeSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 1110,
+      "titreCycle": "Hans-Jürgen Syberberg",
+      "_charge_prog": "Pauline",
+      "isReg": false,
+      "triSousCycles": false,
+      "type": null,
+      "sousCycles": [
+        { "titre": "Les films", "cats": [4194], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "cancelledSeances": [],
       "restaurations": [],
       "titreEvenements": {}
     },
