@@ -39,8 +39,8 @@
               "titre": "Allez raconte !",
               "realisateurs": "Jean-Christophe Roger",
               "pays": "France-Belgique-Luxembourg",
-              "annee": 2009,
-              "adaptation": "D'après la bande dessinée _Allez Raconte !_ de Lewis Trondheim et José Parrondo."
+              "annee": 2010,
+              "adaptation": "D'après la bande dessinée _Allez raconte_ de Lewis Trondheim et José Parrondo."
             }
           ],
           "seances": [
@@ -158,6 +158,12 @@
               "idSeance": 227870,
               "dateHeure": "2027-02-17T15:00:00",
               "idSalle": "GF",
+              "ageMinimal": 10
+            },
+            {
+              "idSeance": 220329,
+              "dateHeure": "2027-02-27T14:30:00",
+              "idSalle": "HL",
               "ageMinimal": 10
             }
           ]
@@ -343,7 +349,7 @@
             {
               "idSeance": 227871,
               "dateHeure": "2027-02-21T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "HL"
             }
           ]
         },
@@ -438,6 +444,37 @@
               "dateHeure": "2026-12-20T15:00:00",
               "idSalle": "HL",
               "ageMinimal": 10
+            }
+          ]
+        },
+        {
+          "idFilm": 140558,
+          "content": [
+            {
+              "idFilm": 140558,
+              "ordre": 1,
+              "titre": "Spider-Man : New Generation",
+              "titreVo": "Spider-Man: Into the Spider-Verse",
+              "realisateurs": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+              "pays": "États-Unis",
+              "annee": 2018,
+              "duree": 117,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Jake Johnson",
+                "Hailee Steinfeld",
+                "Mahershala Ali",
+                "Brian Tyree Henry"
+              ],
+              "miniTexte": "Miles Morales, adolescent afro-latino de Brooklyn, peine à trouver sa place entre sa famille et son lycée. Mordu par une araignée radioactive, il se retrouve doté de pouvoirs extraordinaires, au moment où le multivers se fracture, déversant dans sa dimension les Spider-Héros d'autres univers. Récit d'initiation porté par une BO hip-hop survoltée, ce joyau pop, inspiré des comics, repousse les limites du film d'animation avec un style graphique époustouflant et une énergie irrésistible."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 219467,
+              "dateHeure": "2027-01-24T17:00:00",
+              "idSalle": "HL"
             }
           ]
         },

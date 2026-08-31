@@ -71,6 +71,24 @@
   {
     "idCategorie": 4206,
     "typeEvenement": 13,
+    "idEvenement": 36638,
+    "idSeance": 220509,
+    "dateHeure": "2026-12-26T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 49540,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4206,
+    "typeEvenement": 13,
     "idEvenement": 36644,
     "idSeance": 218762,
     "dateHeure": "2026-12-27T15:00:00",
@@ -159,7 +177,7 @@
     "idCategorie": 4206,
     "typeEvenement": 13,
     "idEvenement": 36618,
-    "idSeance": 219273,
+    "idSeance": 228102,
     "dateHeure": "2027-01-16T14:30:00",
     "idSalle": [
       "HL",
@@ -170,12 +188,81 @@
       {
         "idFilm": 48837,
         "ordre": 1,
-        "idSeance": 219273,
+        "idSeance": 228102,
         "idCopie": 22016,
         "duree": 90,
         "version": "",
         "format": "DCP",
         "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4206,
+    "typeEvenement": 13,
+    "idEvenement": 36621,
+    "idSeance": 219290,
+    "dateHeure": "2027-01-17T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 45323,
+        "ordre": 1,
+        "idSeance": 219290,
+        "idCopie": 27913,
+        "duree": 92,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4206,
+    "typeEvenement": 13,
+    "idEvenement": 36627,
+    "idSeance": 219453,
+    "dateHeure": "2027-01-23T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 51678,
+        "ordre": 1,
+        "idSeance": 219453,
+        "idCopie": 9815,
+        "duree": 130,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4206,
+    "typeEvenement": 13,
+    "idEvenement": 36634,
+    "idSeance": 219466,
+    "dateHeure": "2027-01-24T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 51580,
+        "ordre": 1,
+        "idSeance": 219466,
+        "idCopie": 3973,
+        "duree": 125,
+        "version": "",
+        "format": "DCP"
       }
     ]
   }
