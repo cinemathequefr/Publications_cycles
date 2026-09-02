@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-12-02T15:00:00",
-    "2026-12-06T15:00:00"
+    "2026-12-06T19:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,35 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 48151,
+          "content": [
+            {
+              "idFilm": 48151,
+              "ordre": 1,
+              "titre": "Catherine ou une vie sans joie",
+              "realisateurs": "Albert Dieudonné, Jean Renoir",
+              "pays": "France",
+              "annee": 1924,
+              "duree": 82,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Catherine Hessling",
+                "Albert Dieudonné",
+                "Eugénie Nau"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228181,
+              "dateHeure": "2026-12-05T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idFilm": 42597,
           "content": [
@@ -33,7 +62,7 @@
           "seances": [
             {
               "idSeance": 228123,
-              "dateHeure": "2026-12-03T18:30:00",
+              "dateHeure": "2026-12-03T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -65,8 +94,159 @@
           ],
           "seances": [
             {
-              "idSeance": 218141,
-              "dateHeure": "2026-12-03T20:00:00",
+              "idSeance": 228174,
+              "dateHeure": "2026-12-02T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 155977,
+          "content": [
+            {
+              "idFilm": 155977,
+              "ordre": 1,
+              "titre": "Dracula à Istanbul",
+              "titreVo": "Drakula Istanbul'da",
+              "realisateurs": "Mehmet Muhtar",
+              "pays": "Turquie",
+              "annee": 1953,
+              "duree": 102,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218223,
+              "dateHeure": "2026-12-05T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 38068,
+          "content": [
+            {
+              "idFilm": 38068,
+              "ordre": 1,
+              "titre": "Femme insecte",
+              "art": "La",
+              "titreVo": "Nippon konchuki",
+              "realisateurs": "Shohei Imamura",
+              "pays": "Japon",
+              "annee": 1963,
+              "duree": 123,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Sachiko Hidari",
+                "Jitsuko Yoshimura",
+                "Kazuo Kitamura"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218139,
+              "dateHeure": "2026-12-03T15:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 57665,
+          "content": [
+            {
+              "idFilm": 57665,
+              "ordre": 1,
+              "titre": "Frankenstein s'est échappé",
+              "titreVo": "Curse of Frankenstein",
+              "artVo": "The",
+              "realisateurs": "Terence Fisher",
+              "pays": "Grande-Bretagne",
+              "annee": 1957,
+              "duree": 85,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après le roman _Frankenstein ou le Prométhée moderne_ de Mary Shelley.",
+              "generique": [
+                "Peter Cushing",
+                "Christopher Lee",
+                "Hazel Court"
+              ],
+              "miniTexte": "Les débuts de la veine gothique de la Hammer avec le premier Frankenstein en couleurs. Fisher embrasse la folie du héros dans un film d'horreur baroque, qui se permet des audaces gore. Dans la peau du créateur, Peter Cushing est impeccable de cynisme face à Christopher Lee, révélé au grand public."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218178,
+              "dateHeure": "2026-12-04T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 60917,
+          "content": [
+            {
+              "idFilm": 60917,
+              "ordre": 1,
+              "titre": "Goodbye South, Goodbye",
+              "titreVo": "Nan guo zai jian, nan guo",
+              "realisateurs": "Hsiao-Hsien Hou",
+              "pays": "Taïwan",
+              "annee": 1996,
+              "duree": 112,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Jack Kao",
+                "Kuei-Ying Hsu",
+                "Annie Shizuka Inoh",
+                "Hsiang Hsi"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218217,
+              "dateHeure": "2026-12-05T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 117244,
+          "content": [
+            {
+              "idFilm": 117244,
+              "ordre": 1,
+              "titre": "Gyoei no mure",
+              "realisateurs": "Shinji Somai",
+              "pays": "Japon",
+              "annee": 1983,
+              "duree": 140,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Ken Ogata",
+                "Masako Natsume",
+                "Kôichi Satô",
+                "Yukiyo Toake"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218218,
+              "dateHeure": "2026-12-05T17:15:00",
               "idSalle": "HL"
             }
           ]
@@ -99,9 +279,101 @@
           ],
           "seances": [
             {
-              "idSeance": 218220,
-              "dateHeure": "2026-12-05T20:00:00",
+              "idSeance": 228175,
+              "dateHeure": "2026-12-03T20:00:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 36673,
+          "content": [
+            {
+              "idFilm": 36673,
+              "ordre": 1,
+              "titre": "Intrus magnifique",
+              "art": "L'",
+              "titreVo": "What's So Bad About Feeling Good?",
+              "realisateurs": "George Seaton",
+              "pays": "États-Unis",
+              "annee": 1968,
+              "duree": 94,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _I Am Thinking of My Darling_ de Vincent McHugh.",
+              "generique": [
+                "George Peppard",
+                "Mary Tyler Moore"
+              ],
+              "miniTexte": "À New York, un nouveau virus qui inocule la joie de vivre est traité comme une menace par les autorités. L'un des premiers infectés est un ancien publicitaire devenu artiste, sorte de beatnik désabusé. Une comédie loufoque, doublée de SF, qui lorgne aussi vers le musical, pour une satire gentiment féroce du milieu des affaires et des hippies."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218103,
+              "dateHeure": "2026-12-02T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 40372,
+          "content": [
+            {
+              "idFilm": 40372,
+              "ordre": 1,
+              "titre": "Joe Limonade",
+              "titreVo": "Limonádový Joe aneb Koňská opera",
+              "realisateurs": "Oldřich Lipský",
+              "pays": "Tchécoslovaquie",
+              "annee": 1964,
+              "duree": 100,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après le roman et la pièce de théâtre _Limonádový Joe aneb Koňská opera_ de Jiří Brdečka.",
+              "generique": [
+                "Karel Fiala",
+                "Rudolf Deyl",
+                "Miloš Kopecký",
+                "Květa Fialová"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218109,
+              "dateHeure": "2026-12-02T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 30986,
+          "content": [
+            {
+              "idFilm": 30986,
+              "ordre": 1,
+              "titre": "Killer of Sheep",
+              "realisateurs": "Charles Burnett",
+              "pays": "États-Unis",
+              "annee": 1982,
+              "duree": 80,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Henry Gayle Sanders",
+                "Kaycee Moore",
+                "Charles Bracy"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218107,
+              "dateHeure": "2026-12-02T19:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -136,6 +408,39 @@
           ]
         },
         {
+          "idFilm": 38139,
+          "content": [
+            {
+              "idFilm": 38139,
+              "ordre": 1,
+              "titre": "Légende du grand judo",
+              "art": "La",
+              "titreVo": "Sugata Sanshirō",
+              "realisateurs": "Akira Kurosawa",
+              "pays": "Japon",
+              "annee": 1943,
+              "duree": 91,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après le roman _Sugata Sanshirō_ de Tsuneo Tomita.",
+              "generique": [
+                "Susumu Fujita",
+                "Denjirō Ōkōchi",
+                "Akitake Kono",
+                "Kunio Mita"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218234,
+              "dateHeure": "2026-12-06T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 123943,
           "content": [
             {
@@ -162,6 +467,30 @@
               "idSeance": 218180,
               "dateHeure": "2026-12-04T18:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155993,
+          "content": [
+            {
+              "idFilm": 155993,
+              "ordre": 1,
+              "titre": "Ligaya, fille des îles",
+              "realisateurs": "Carlos Vander Tolosa",
+              "pays": "Philippines",
+              "annee": 1936,
+              "duree": 50,
+              "version": "VF",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218238,
+              "dateHeure": "2026-12-06T15:00:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -232,7 +561,7 @@
           "seances": [
             {
               "idSeance": 228125,
-              "dateHeure": "2026-12-03T20:45:00",
+              "dateHeure": "2026-12-03T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -263,10 +592,64 @@
           ],
           "seances": [
             {
-              "idSeance": 218105,
-              "dateHeure": "2026-12-02T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "idSeance": 228173,
+              "dateHeure": "2026-12-05T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 35435,
+          "content": [
+            {
+              "idFilm": 35435,
+              "ordre": 1,
+              "titre": "N'oublions jamais",
+              "titreVo": "Lest We Forget",
+              "realisateurs": "Léonce Perret",
+              "pays": "États-Unis",
+              "annee": 1918,
+              "duree": 70,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Rita Jolivet",
+                "L. Roger Lytton",
+                "Kate Blancke",
+                "Hamilton Revelle"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228180,
+              "dateHeure": "2026-12-03T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 43418,
+          "content": [
+            {
+              "idFilm": 43418,
+              "ordre": 1,
+              "titre": "Quo Vadis?",
+              "realisateurs": "Enrico Guazzoni",
+              "pays": "Italie",
+              "annee": 1912,
+              "duree": 94,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228178,
+              "dateHeure": "2026-12-04T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -297,6 +680,146 @@
             {
               "idSeance": 218181,
               "dateHeure": "2026-12-04T21:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 38063,
+          "content": [
+            {
+              "idFilm": 38063,
+              "ordre": 1,
+              "titre": "Tilaï",
+              "realisateurs": "Idrissa Ouedraogo",
+              "pays": "Burkina-Faso-Suisse-France",
+              "annee": 1990,
+              "duree": 81,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Rasmane Ouedraogo",
+                "Ina Cissé",
+                "Roukietou Barry"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228177,
+              "dateHeure": "2026-12-02T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 77367,
+          "content": [
+            {
+              "idFilm": 77367,
+              "ordre": 1,
+              "titre": "Tinimbang",
+              "titreVo": "Tinimbang ka ngunit kulang",
+              "realisateurs": "Lino Brocka",
+              "pays": "Philippines",
+              "annee": 1974,
+              "duree": 126,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218240,
+              "dateHeure": "2026-12-06T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "The Pelechian Project",
+      "items": [
+        {
+          "idEvenement": 37245,
+          "content": [
+            {
+              "idFilm": 127967,
+              "ordre": 1,
+              "titre": "Terre des hommes",
+              "art": "La",
+              "titreVo": "Zemlia lioudeï",
+              "realisateurs": "Artavazd Pelechian",
+              "pays": "URSS",
+              "annee": 1966,
+              "duree": 10,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            },
+            {
+              "idFilm": 74686,
+              "ordre": 2,
+              "titre": "Au début",
+              "titreVo": "Natchalo",
+              "realisateurs": "Artavazd Pelechian",
+              "pays": "URSS",
+              "annee": 1967,
+              "duree": 10,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            },
+            {
+              "idFilm": 74722,
+              "ordre": 3,
+              "titre": "Nous",
+              "titreVo": "Menk",
+              "realisateurs": "Artavazd Pelechian",
+              "pays": "URSS",
+              "annee": 1969,
+              "duree": 26,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            },
+            {
+              "idFilm": 117857,
+              "ordre": 4,
+              "titre": "Habitants",
+              "art": "Les",
+              "titreVo": "Obitateli",
+              "realisateurs": "Artavazd Pelechian",
+              "pays": "URSS",
+              "annee": 1970,
+              "duree": 10,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            },
+            {
+              "idFilm": 74730,
+              "ordre": 5,
+              "titre": "Saisons",
+              "art": "Les",
+              "titreVo": "Tarva yeghanaknery",
+              "realisateurs": "Artavazd Pelechian",
+              "pays": "URSS",
+              "annee": 1975,
+              "duree": 30,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218241,
+              "dateHeure": "2026-12-06T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -388,6 +911,53 @@
               "idSeance": 218102,
               "dateHeure": "2026-12-02T15:00:00",
               "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Sarah Maldoror",
+      "items": [
+        {
+          "idEvenement": 37434,
+          "content": [
+            {
+              "idFilm": 155979,
+              "ordre": 1,
+              "titre": "Et les chiens se taisaient",
+              "realisateurs": "Sarah Maldoror",
+              "pays": "France",
+              "annee": 1978,
+              "duree": 13,
+              "version": "",
+              "format": "DCP",
+              "restauration": true
+            },
+            {
+              "idFilm": 108635,
+              "ordre": 2,
+              "titre": "Un dessert pour Constance",
+              "realisateurs": "Sarah Maldoror",
+              "pays": "France",
+              "annee": 1981,
+              "duree": 63,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Sidiki Bakaba",
+                "Cheik Doukouré",
+                "Jean Bouise"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228179,
+              "dateHeure": "2026-12-03T20:30:00",
+              "idSalle": "JE"
             }
           ]
         }

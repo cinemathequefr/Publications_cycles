@@ -13,18 +13,18 @@
   * Deux têtes folles  
   * Diamants sur canapé  
   * Et tout le monde riait  
-  * Guerre et paix  
+  * Guerre et Paix  
   * Liés par le sang  
   * Monte Carlo Baby  
   * Nous irons à Monte-Carlo  
-  * Rose et la flèche (La)  
+  * Rose et la Flèche (La)  
   * Rumeur (La)  
   * Sabrina  
   * Secret People  
   * Seule dans la nuit  
   * Vacances romaines  
   * Vent de la plaine (Le)  
-  * Vertes demeures  
+  * Vertes Demeures  
   * Voyage à deux
 
 ## Ciné-club de Murielle Joudet (2)
@@ -36,7 +36,7 @@
 
   * Baraka à Beyrouth  
   * Baraka sur X 13  
-  * Bon plaisir (Le)  
+  * Bon Plaisir (Le)  
   * Et viva la révolution !  
   * Froid Baiser de la mort (Le)  
   * Goulag  
@@ -48,14 +48,14 @@
 ## Fenêtre sur les collections (15)
 
   * Angle du monde (L')  
-  * Angoissante aventure (L')  
+  * Angoissante Aventure (L')  
   * Brasier ardent (Le)  
   * Chambre d'échos pour Philippe Cote  
   * Des nuages aux fêlures de la terre  
   * Enfouissement-Fossile  
   * Ether  
   * Film peint, essai  
-  * Lion light  
+  * Lion Light  
   * Mississippi Masala  
   * Mor'Vran  
   * Mothlight  
@@ -72,26 +72,40 @@
   * Parsifal  
   * Romy, anatomie d'un visage
 
-## Ira Sachs (18)
+## Ira Sachs (17)
 
   * 10/26/00  
-  * 30/30 Vision (3 Decades of Strand Releasing) : Before I Forget  
-  * Boy-Girl, Boy-Girl  
+  * 30/30 Vision (3 Decades of Strand Releasing): Before I Forget  
   * Brooklyn Village  
-  * Delta (Le)  
+  * Delta (The)  
   * Forty Shades of Blue  
   * Frankie  
-  * Get It While You Can : My Father in Moscow  
-  * Keep the Lights on  
+  * Get It While You Can: My Father in Moscow  
+  * Keep the Lights On  
   * Lady  
   * Last Address  
   * Love Is Strange  
+  * Man I Love (The)  
   * Married Life  
   * Passages  
   * Peter Hujar's Day  
-  * The Man I Love  
-  * Underground Zero : Untitled  
+  * Underground Zero: Untitled  
   * Vaudeville
+
+## Jean Vigo (12)
+
+  * À propos de Nice  
+  * Atalante (L')  
+  * Atalante – Rushes et chutes (L')  
+  * Caprelles et pantopodes  
+  * Chant du prisonnier (Le)  
+  * Cinéastes de notre temps : Jean Vigo  
+  * Misère au Borinage  
+  * Natation par Jean Taris, champion de France (La)  
+  * Nice : À propos de Jean Vigo  
+  * Postface à L'Atalante  
+  * Vie d'un fleuve (La)  
+  * Zéro de conduite
 
 ## Jean-Paul Belmondo (11)
 
@@ -121,8 +135,8 @@
   * Kirikou et la sorcière  
   * My Fair Lady  
   * New York, Miriam et moi  
-  * Nina et le hérisson  
-  * opération Père Noêl
+  * Nina et le secret du hérisson  
+  * Opération Père Noël
 
 ## Nos 90 ans en 180 films (75)
 
@@ -202,27 +216,50 @@
   * Yi Yi  
   * Zero Dark Thirty
 
-## Restaurations et raretés, best of 2026 (14)
+## Restaurations et raretés, best of 2026 (36)
 
+  * Au début  
+  * Catherine ou une vie sans joie  
   * C'est ma femme !  
   * Cœur aux lèvres (Le)  
   * Criminel (Le)  
+  * Dracula à Istanbul  
+  * Et les chiens se taisaient  
+  * Femme insecte (La)  
+  * Frankenstein s'est échappé  
+  * Goodbye South, Goodbye  
+  * Gyoei no mure  
+  * Habitants (Les)  
   * Innocent (L')  
+  * Intrus magnifique (L')  
+  * Joe Limonade  
+  * Killer of Sheep  
   * Labyrinthe  
+  * Légende du grand judo (La)  
   * Let My Puppets Come  
+  * Ligaya, fille des îles  
   * Menaces dans la nuit  
   * Monsieur 027  
   * Morire gratis  
   * Mort aux trousses (La)  
+  * N'oublions jamais  
+  * Nous  
   * Œil pour œil  
+  * Quo Vadis?  
+  * Saisons (Les)  
   * Son altesse royale  
   * Story of Joanna (The)  
+  * Terre des hommes (La)  
+  * Tilaï  
+  * Tinimbang  
+  * Un dessert pour Constance  
   * Y'a erreur !
 
-## Rita Hayworth (20)
+## Rita Hayworth (21)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
+  * Amours de Carmen (Les)  
   * Arènes sanglantes  
   * Belle du Pacifique (La)  
   * Blonde framboise (La)  
@@ -249,7 +286,7 @@
   * Bande de flics  
   * Big Leaguer  
   * Bronco Apache  
-  * Chut, chut, chère Charlotte  
+  * Chut... chut, chère Charlotte  
   * Cité des dangers (La)  
   * Démon des femmes (Le)  
   * Deux filles au tapis  
@@ -259,11 +296,11 @@
   * En quatrième vitesse  
   * Faut-il tuer Sister George ?  
   * Feuilles d'automne  
-  * Four Star Playhouse : The Bad Streak TV  
-  * Four Star Playhouse : The Gift TV  
-  * Four Star Playhouse : The Hard Way TV  
-  * Four Star Playhouse : The Squeeze TV  
-  * Four Star Playhouse : The Witness TV  
+  * Four Star Playhouse: The Bad Streak  
+  * Four Star Playhouse: The Gift  
+  * Four Star Playhouse: The Hard Way  
+  * Four Star Playhouse: The Squeeze  
+  * Four Star Playhouse: The Witness  
   * Fureur apache  
   * Grand Couteau (Le)  
   * Pas d'orchidées pour Miss Blandish  
@@ -280,25 +317,14 @@
   * Vera Cruz  
   * Vol du Phénix (Le)
 
+## Séances spéciales (1)
+
+  * Guerre des étoiles (La)
+
 ## Ugo Tognazzi cinéaste (5)
 
   * Nez qui siffle (Le)  
   * Qui chauffe le lit de ma femme ?  
   * Sissignore  
   * Souteneur (Le)  
-  * Viaggiatori della sera (I)
-
-## Vigo, père et fils (12)
-
-  * À propos de Nice  
-  * Atalante (L')  
-  * Atalante – Rushes et chutes (L')  
-  * Caprelles et pantopodes  
-  * Chant du prisonnier (Le)  
-  * Cinéastes de notre temps : Jean Vigo  
-  * Misère au Borinage  
-  * Natation par Jean Taris, champion de France (La)  
-  * Nice : À propos de Jean Vigo  
-  * Postface à L'Atalante TV  
-  * Vie d'un fleuve (La)  
-  * Zéro de conduite  
+  * Voyageurs du soir (Les)  

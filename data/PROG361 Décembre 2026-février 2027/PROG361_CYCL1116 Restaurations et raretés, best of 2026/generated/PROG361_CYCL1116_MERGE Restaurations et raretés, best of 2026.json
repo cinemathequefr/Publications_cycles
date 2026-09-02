@@ -5,14 +5,43 @@
       "tri": 2,
       "items": [
         {
-          "idSeance": 218141,
+          "idSeance": 228181,
           "ordre": 1,
-          "dateHeure": "2026-12-03T20:00:00",
+          "dateHeure": "2026-12-05T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4227,
+          "idEvenement": 37009,
+          "typeEvenement": 13,
+          "idFilm": 48151,
+          "titre": "Catherine ou une vie sans joie",
+          "realisateurs": "Albert Dieudonné, Jean Renoir",
+          "annee": 1924,
+          "pays": "France",
+          "duree": 82,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Catherine Hessling",
+            "Albert Dieudonné",
+            "Eugénie Nau"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 228174,
+          "ordre": 1,
+          "dateHeure": "2026-12-02T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "mention": "Ouverture de la rétrospective",
           "idCategorie": 4227,
           "idEvenement": 37205,
           "typeEvenement": 13,
@@ -43,7 +72,7 @@
         {
           "idSeance": 228123,
           "ordre": 1,
-          "dateHeure": "2026-12-03T18:30:00",
+          "dateHeure": "2026-12-03T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -69,9 +98,159 @@
           "textes": []
         },
         {
-          "idSeance": 218220,
+          "idSeance": 218223,
           "ordre": 1,
-          "dateHeure": "2026-12-05T20:00:00",
+          "dateHeure": "2026-12-05T20:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 4227,
+          "idEvenement": 37410,
+          "typeEvenement": 13,
+          "idFilm": 155977,
+          "titre": "Dracula à Istanbul",
+          "titreVo": "Drakula Istanbul'da",
+          "realisateurs": "Mehmet Muhtar",
+          "annee": 1953,
+          "pays": "Turquie",
+          "duree": 102,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "textes": []
+        },
+        {
+          "idSeance": 218139,
+          "ordre": 1,
+          "dateHeure": "2026-12-03T15:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 4227,
+          "idEvenement": 37437,
+          "typeEvenement": 13,
+          "idFilm": 38068,
+          "art": "La",
+          "titre": "Femme insecte",
+          "titreVo": "Nippon konchuki",
+          "titreNx": "にっぽん昆虫記",
+          "realisateurs": "Shohei Imamura",
+          "annee": 1963,
+          "pays": "Japon",
+          "duree": 123,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Sachiko Hidari",
+            "Jitsuko Yoshimura",
+            "Kazuo Kitamura"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 218178,
+          "ordre": 1,
+          "dateHeure": "2026-12-04T18:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4227,
+          "idEvenement": 37471,
+          "typeEvenement": 13,
+          "idFilm": 57665,
+          "titre": "Frankenstein s'est échappé",
+          "artVo": "The",
+          "titreVo": "Curse of Frankenstein",
+          "realisateurs": "Terence Fisher",
+          "annee": 1957,
+          "pays": "Grande-Bretagne",
+          "duree": 85,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Peter Cushing",
+            "Christopher Lee",
+            "Hazel Court"
+          ],
+          "adaptation": "D'après le roman _Frankenstein ou le Prométhée moderne_ de Mary Shelley.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Les débuts de la veine gothique de la Hammer avec le premier Frankenstein en couleurs. Fisher embrasse la folie du héros dans un film d'horreur baroque, qui se permet des audaces gore. Dans la peau du créateur, Peter Cushing est impeccable de cynisme face à Christopher Lee, révélé au grand public."
+            }
+          ]
+        },
+        {
+          "idSeance": 218217,
+          "ordre": 1,
+          "dateHeure": "2026-12-05T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 4227,
+          "idEvenement": 37439,
+          "typeEvenement": 13,
+          "idFilm": 60917,
+          "titre": "Goodbye South, Goodbye",
+          "titreVo": "Nan guo zai jian, nan guo",
+          "realisateurs": "Hsiao-Hsien Hou",
+          "annee": 1996,
+          "pays": "Taïwan",
+          "duree": 112,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Jack Kao",
+            "Kuei-Ying Hsu",
+            "Annie Shizuka Inoh",
+            "Hsiang Hsi"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 218218,
+          "ordre": 1,
+          "dateHeure": "2026-12-05T17:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 165,
+          "idCategorie": 4227,
+          "idEvenement": 37537,
+          "typeEvenement": 13,
+          "idFilm": 117244,
+          "titre": "Gyoei no mure",
+          "realisateurs": "Shinji Somai",
+          "annee": 1983,
+          "pays": "Japon",
+          "duree": 140,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Ken Ogata",
+            "Masako Natsume",
+            "Kôichi Satô",
+            "Yukiyo Toake"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 228175,
+          "ordre": 1,
+          "dateHeure": "2026-12-03T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -104,6 +283,99 @@
               "texte": "Un triangle amoureux crépusculaire dans l'univers bourgeois de la société romaine. Adapté du roman de Gabriele D'Annunzio, _L'Innocent_ explore un microcosme décadent, haut lieu de trahison et de manipulation. Dialogues incisifs emplis de culpabilité et interprétations marquantes hantent les couloirs d'un chant du cygne désespéré, dernier film de Visconti."
             }
           ]
+        },
+        {
+          "idSeance": 218103,
+          "ordre": 1,
+          "dateHeure": "2026-12-02T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4227,
+          "idEvenement": 36985,
+          "typeEvenement": 13,
+          "idFilm": 36673,
+          "art": "L'",
+          "titre": "Intrus magnifique",
+          "titreVo": "What's So Bad About Feeling Good?",
+          "realisateurs": "George Seaton",
+          "annee": 1968,
+          "pays": "États-Unis",
+          "duree": 94,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "George Peppard",
+            "Mary Tyler Moore"
+          ],
+          "adaptation": "D'après le roman _I Am Thinking of My Darling_ de Vincent McHugh.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "À New York, un nouveau virus qui inocule la joie de vivre est traité comme une menace par les autorités. L'un des premiers infectés est un ancien publicitaire devenu artiste, sorte de beatnik désabusé. Une comédie loufoque, doublée de SF, qui lorgne aussi vers le musical, pour une satire gentiment féroce du milieu des affaires et des hippies."
+            }
+          ]
+        },
+        {
+          "idSeance": 218109,
+          "ordre": 1,
+          "dateHeure": "2026-12-02T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 4227,
+          "idEvenement": 37532,
+          "typeEvenement": 13,
+          "idFilm": 40372,
+          "titre": "Joe Limonade",
+          "titreVo": "Limonádový Joe aneb Koňská opera",
+          "realisateurs": "Oldřich Lipský",
+          "annee": 1964,
+          "pays": "Tchécoslovaquie",
+          "duree": 100,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Karel Fiala",
+            "Rudolf Deyl",
+            "Miloš Kopecký",
+            "Květa Fialová"
+          ],
+          "adaptation": "D'après le roman et la pièce de théâtre _Limonádový Joe aneb Koňská opera_ de Jiří Brdečka.",
+          "textes": []
+        },
+        {
+          "idSeance": 218107,
+          "ordre": 1,
+          "dateHeure": "2026-12-02T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 4227,
+          "idEvenement": 37425,
+          "typeEvenement": 13,
+          "idFilm": 30986,
+          "titre": "Killer of Sheep",
+          "realisateurs": "Charles Burnett",
+          "annee": 1982,
+          "pays": "États-Unis",
+          "duree": 80,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Henry Gayle Sanders",
+            "Kaycee Moore",
+            "Charles Bracy"
+          ],
+          "textes": []
         },
         {
           "idSeance": 218239,
@@ -168,6 +440,67 @@
           ]
         },
         {
+          "idSeance": 218238,
+          "ordre": 1,
+          "dateHeure": "2026-12-06T15:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 75,
+          "idCategorie": 4227,
+          "idEvenement": 37511,
+          "typeEvenement": 13,
+          "idFilm": 155993,
+          "titre": "Ligaya, fille des îles",
+          "realisateurs": "Carlos Vander Tolosa",
+          "annee": 1936,
+          "pays": "Philippines",
+          "duree": 50,
+          "version": "VF",
+          "format": "DCP",
+          "restauration": true,
+          "textes": []
+        },
+        {
+          "idSeance": 218234,
+          "ordre": 1,
+          "dateHeure": "2026-12-06T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4227,
+          "idEvenement": 37435,
+          "typeEvenement": 13,
+          "idFilm": 38139,
+          "art": "La",
+          "titre": "Légende du grand judo",
+          "titreVo": "Sugata Sanshirō",
+          "titreNx": "姿三四郎",
+          "realisateurs": "Akira Kurosawa",
+          "annee": 1943,
+          "pays": "Japon",
+          "duree": 91,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Susumu Fujita",
+            "Denjirō Ōkōchi",
+            "Akitake Kono",
+            "Kunio Mita"
+          ],
+          "adaptation": "D'après le roman _Sugata Sanshirō_ de Tsuneo Tomita.",
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "Premier long métrage d'Akira Kurosawa."
+            }
+          ]
+        },
+        {
           "idSeance": 228126,
           "ordre": 1,
           "dateHeure": "2026-12-04T20:00:00",
@@ -216,7 +549,7 @@
         {
           "idSeance": 228125,
           "ordre": 1,
-          "dateHeure": "2026-12-03T20:45:00",
+          "dateHeure": "2026-12-03T18:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -237,15 +570,14 @@
           "textes": []
         },
         {
-          "idSeance": 218105,
+          "idSeance": 228173,
           "ordre": 1,
-          "dateHeure": "2026-12-02T20:00:00",
+          "dateHeure": "2026-12-05T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 165,
-          "mention": "Ouverture de la rétrospective",
           "idCategorie": 4227,
           "idEvenement": 36984,
           "typeEvenement": 13,
@@ -271,6 +603,64 @@
               "texte": "Faux espion et faux coupable piégé dans une course-poursuite délirante, Cary Grant, tout en élégance ironique, traverse gratte-ciel, champs de maïs et mont Rushmore sous l'œil virtuose d'Hitchcock, qui livre une nouvelle leçon de rythme et de tension. Un ballet prodigieux, un classique hollywoodien intemporel, réjouissant de bout en bout."
             }
           ]
+        },
+        {
+          "idSeance": 228180,
+          "ordre": 1,
+          "dateHeure": "2026-12-03T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 4227,
+          "idEvenement": 37431,
+          "typeEvenement": 13,
+          "idFilm": 35435,
+          "titre": "N'oublions jamais",
+          "titreVo": "Lest We Forget",
+          "realisateurs": "Léonce Perret",
+          "annee": 1918,
+          "pays": "États-Unis",
+          "duree": 70,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Rita Jolivet",
+            "L. Roger Lytton",
+            "Kate Blancke",
+            "Hamilton Revelle"
+          ],
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "_Présenté avec son accompagnement original. Celui-ci comporte des airs lyriques et plusieurs chansons._ _Séance reconstituée par Laurent Véray._\n\n---\n\nNumérisation à partir d'un intermédiaire positif issu des collections de la Cinémathèque française. Les intertitres ont pu être retrouvés grâce au Swedish Film Institute de Stockholm."
+            }
+          ]
+        },
+        {
+          "idSeance": 228178,
+          "ordre": 1,
+          "dateHeure": "2026-12-04T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4227,
+          "idEvenement": 37423,
+          "typeEvenement": 13,
+          "idFilm": 43418,
+          "titre": "Quo Vadis?",
+          "realisateurs": "Enrico Guazzoni",
+          "annee": 1912,
+          "pays": "Italie",
+          "duree": 94,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "restauration": true,
+          "textes": []
         },
         {
           "idSeance": 218181,
@@ -305,6 +695,193 @@
               "texte": "Une jeune femme fragile développe une relation sadomasochiste avec un maître dominateur. Influencé par Sade, Damiano livre une tragédie érotique fascinante, qui oscille du drame gothique à la réflexion sur le pouvoir des corps. Plus qu'un film X d'époque, un envoûtant théâtre d'aliénation et de désir."
             }
           ]
+        },
+        {
+          "idSeance": 228177,
+          "ordre": 1,
+          "dateHeure": "2026-12-02T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4227,
+          "idEvenement": 37444,
+          "typeEvenement": 13,
+          "idFilm": 38063,
+          "titre": "Tilaï",
+          "realisateurs": "Idrissa Ouedraogo",
+          "annee": 1990,
+          "pays": "Burkina-Faso-Suisse-France",
+          "duree": 81,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Rasmane Ouedraogo",
+            "Ina Cissé",
+            "Roukietou Barry"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 218240,
+          "ordre": 1,
+          "dateHeure": "2026-12-06T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 165,
+          "idCategorie": 4227,
+          "idEvenement": 37438,
+          "typeEvenement": 13,
+          "idFilm": 77367,
+          "titre": "Tinimbang",
+          "titreVo": "Tinimbang ka ngunit kulang",
+          "realisateurs": "Lino Brocka",
+          "annee": 1974,
+          "pays": "Philippines",
+          "duree": 126,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "The Pelechian Project",
+      "tri": 2,
+      "items": [
+        {
+          "idSeance": 218241,
+          "ordre": 2,
+          "dateHeure": "2026-12-06T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4266,
+          "idEvenement": 37245,
+          "typeEvenement": 13,
+          "idFilm": 74686,
+          "titre": "Au début",
+          "titreVo": "Natchalo",
+          "titreNx": "Начало",
+          "realisateurs": "Artavazd Pelechian",
+          "annee": 1967,
+          "pays": "URSS",
+          "duree": 10,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "textes": []
+        },
+        {
+          "idSeance": 218241,
+          "ordre": 4,
+          "dateHeure": "2026-12-06T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4266,
+          "idEvenement": 37245,
+          "typeEvenement": 13,
+          "idFilm": 117857,
+          "art": "Les",
+          "titre": "Habitants",
+          "titreVo": "Obitateli",
+          "titreNx": "Обитатели",
+          "realisateurs": "Artavazd Pelechian",
+          "annee": 1970,
+          "pays": "URSS",
+          "duree": 10,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "textes": []
+        },
+        {
+          "idSeance": 218241,
+          "ordre": 3,
+          "dateHeure": "2026-12-06T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4266,
+          "idEvenement": 37245,
+          "typeEvenement": 13,
+          "idFilm": 74722,
+          "titre": "Nous",
+          "titreVo": "Menk",
+          "titreNx": "Մենք",
+          "realisateurs": "Artavazd Pelechian",
+          "annee": 1969,
+          "pays": "URSS",
+          "duree": 26,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "textes": []
+        },
+        {
+          "idSeance": 218241,
+          "ordre": 5,
+          "dateHeure": "2026-12-06T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4266,
+          "idEvenement": 37245,
+          "typeEvenement": 13,
+          "idFilm": 74730,
+          "art": "Les",
+          "titre": "Saisons",
+          "titreVo": "Tarva yeghanaknery",
+          "titreNx": "Տարվա եղանակները",
+          "realisateurs": "Artavazd Pelechian",
+          "annee": 1975,
+          "pays": "URSS",
+          "duree": 30,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "textes": []
+        },
+        {
+          "idSeance": 218241,
+          "ordre": 1,
+          "dateHeure": "2026-12-06T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4266,
+          "idEvenement": 37245,
+          "typeEvenement": 13,
+          "idFilm": 127967,
+          "art": "La",
+          "titre": "Terre des hommes",
+          "titreVo": "Zemlia lioudeï",
+          "titreNx": "Земля людей",
+          "realisateurs": "Artavazd Pelechian",
+          "annee": 1966,
+          "pays": "URSS",
+          "duree": 10,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "textes": []
         }
       ],
       "textes": []
@@ -431,6 +1008,64 @@
             "Stan Laurel",
             "Oliver Hardy",
             "James Finlayson"
+          ],
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Sarah Maldoror",
+      "tri": 2,
+      "items": [
+        {
+          "idSeance": 228179,
+          "ordre": 1,
+          "dateHeure": "2026-12-03T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 4288,
+          "idEvenement": 37434,
+          "typeEvenement": 13,
+          "idFilm": 155979,
+          "titre": "Et les chiens se taisaient",
+          "realisateurs": "Sarah Maldoror",
+          "annee": 1978,
+          "pays": "France",
+          "duree": 13,
+          "version": "",
+          "format": "DCP",
+          "restauration": true,
+          "textes": []
+        },
+        {
+          "idSeance": 228179,
+          "ordre": 2,
+          "dateHeure": "2026-12-03T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 4288,
+          "idEvenement": 37434,
+          "typeEvenement": 13,
+          "idFilm": 108635,
+          "titre": "Un dessert pour Constance",
+          "realisateurs": "Sarah Maldoror",
+          "annee": 1981,
+          "pays": "France",
+          "duree": 63,
+          "version": "",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Sidiki Bakaba",
+            "Cheik Doukouré",
+            "Jean Bouise"
           ],
           "textes": []
         }

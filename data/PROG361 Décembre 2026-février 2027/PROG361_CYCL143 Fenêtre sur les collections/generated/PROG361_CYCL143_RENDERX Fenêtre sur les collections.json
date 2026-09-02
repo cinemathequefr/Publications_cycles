@@ -48,7 +48,8 @@
             {
               "idSeance": 218358,
               "dateHeure": "2026-12-11T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Sébastien Ronceray et Emmanuelle Berthault"
             }
           ]
         },
@@ -80,7 +81,7 @@
             {
               "idFilm": 155990,
               "ordre": 3,
-              "titre": "Lion light",
+              "titre": "Lion Light",
               "realisateurs": "Cécile Fontaine",
               "pays": "France",
               "annee": 1996,
@@ -149,7 +150,8 @@
             {
               "idSeance": 220518,
               "dateHeure": "2026-12-11T20:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Sébastien Ronceray et Emmanuelle Berthault"
             }
           ]
         }
@@ -166,7 +168,7 @@
             {
               "idFilm": 50774,
               "ordre": 1,
-              "titre": "Angoissante aventure",
+              "titre": "Angoissante Aventure",
               "art": "L'",
               "realisateurs": "Iakov Protazanov",
               "pays": "France",
@@ -185,7 +187,8 @@
             {
               "idSeance": 220519,
               "dateHeure": "2027-01-08T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Myriam Tsikounas et Emmanuelle Berthault"
             }
           ]
         },
@@ -213,8 +216,9 @@
           "seances": [
             {
               "idSeance": 219062,
-              "dateHeure": "2027-01-08T21:15:00",
-              "idSalle": "JE"
+              "dateHeure": "2027-01-08T21:00:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Myriam Tsikounas et Emmanuelle Berthault"
             }
           ]
         }
@@ -223,7 +227,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Mira Nair",
-      "texteSousCycle": "Texte à saisir",
+      "texteSousCycle": "Le jeune maire de New York Zohran Mamdani est connu pour être l'un des plus féroces adversaires et critiques de Donald Trump. Fils spirituel de Bernie Sanders, on oublie qu'il est aussi le fils de la cinéaste indo-américaine Mira Nair qui, au regard des films qu'elle a réalisés, a dû lui inculquer de profondes valeurs humanistes. Née à Bhubaneshwar en 1957, Mira Nair vit et travaille entre l'Inde et les États-Unis, collaborant avec de nombreuses personnalités indiennes (la scénariste et photographe Sooni Taraporevala, le musicien Lakshminarayana Subramaniam, la comédienne Sarita Choudhury, sans compter les enfants des rues qui jouent dans Salaam Bombay !). Mira Nair débute sa carrière en réalisant des documentaires engagés qui exercent une influence sur l'ensemble de son œuvre, en particulier sur ses premiers films de fictions : _Salaam Bombay !_ (Caméra d'or au Festival de Cannes en 1988) et _Mississipi Masala_. Ces deux œuvres importantes qui sont projetées en 35 mm portent un regard sensible et critique sur la pauvreté, le racisme, les préjugés, l'immigration, la violence morale et physique envers les femmes et les enfants. La confrontation et le mélange des cultures caractérisent son cinéma et lui offrent une forme originale et inattendue qu'il est curieux de redécouvrir aujourd'hui.",
       "items": [
         {
           "idFilm": 44644,
@@ -246,8 +250,9 @@
           "seances": [
             {
               "idSeance": 219766,
-              "dateHeure": "2027-02-05T18:30:00",
-              "idSalle": "JE"
+              "dateHeure": "2027-02-05T18:00:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Hervé Pichard"
             }
           ]
         },
@@ -273,13 +278,47 @@
           "seances": [
             {
               "idSeance": 220520,
-              "dateHeure": "2027-02-05T21:00:00",
-              "idSalle": "JE"
+              "dateHeure": "2027-02-05T20:30:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Hervé Pichard"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Des nuages aux fêlures de la terre / Mor'Vran / L'Angle du monde",
+        "mention": "par Sébastien Ronceray et Emmanuelle Berthault",
+        "dateHeure": "2026-12-11T18:30:00"
+      },
+      {
+        "titreFilms": "Film peint, essai / Enfouissement-Fossile / Lion Light / Ether / Sédiments / Mothlight / Le Village de Namo : Panorama pris d'une chaise à porteurs / Chambre d'échos pour Philippe Cote",
+        "mention": "par Sébastien Ronceray et Emmanuelle Berthault",
+        "dateHeure": "2026-12-11T20:30:00"
+      },
+      {
+        "titreFilms": "L'Angoissante Aventure",
+        "mention": "par Myriam Tsikounas et Emmanuelle Berthault",
+        "dateHeure": "2027-01-08T18:30:00"
+      },
+      {
+        "titreFilms": "Le Brasier ardent",
+        "mention": "par Myriam Tsikounas et Emmanuelle Berthault",
+        "dateHeure": "2027-01-08T21:00:00"
+      },
+      {
+        "titreFilms": "Salaam Bombay !",
+        "mention": "par Hervé Pichard",
+        "dateHeure": "2027-02-05T18:00:00"
+      },
+      {
+        "titreFilms": "Mississippi Masala",
+        "mention": "par Hervé Pichard",
+        "dateHeure": "2027-02-05T20:30:00"
+      }
+    ]
+  }
 }
