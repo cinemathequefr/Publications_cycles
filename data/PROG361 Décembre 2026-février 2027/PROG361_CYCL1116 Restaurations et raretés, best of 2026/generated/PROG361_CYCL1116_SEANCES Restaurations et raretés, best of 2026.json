@@ -381,7 +381,7 @@
     "typeEvenement": 13,
     "idEvenement": 37008,
     "idSeance": 218180,
-    "dateHeure": "2026-12-04T18:30:00",
+    "dateHeure": "2026-12-04T18:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -429,7 +429,7 @@
     "typeEvenement": 13,
     "idEvenement": 37005,
     "idSeance": 218181,
-    "dateHeure": "2026-12-04T21:00:00",
+    "dateHeure": "2026-12-04T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -525,7 +525,7 @@
     "typeEvenement": 13,
     "idEvenement": 37422,
     "idSeance": 218222,
-    "dateHeure": "2026-12-05T17:30:00",
+    "dateHeure": "2026-12-05T17:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -540,6 +540,30 @@
         "duree": 60,
         "version": "",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4227,
+    "typeEvenement": 13,
+    "idEvenement": 37410,
+    "idSeance": 218223,
+    "dateHeure": "2026-12-05T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 155977,
+        "ordre": 1,
+        "idSeance": 218223,
+        "idCopie": 32327,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -563,30 +587,6 @@
         "duree": 136,
         "version": "VOSTF",
         "format": "70 mm",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 4227,
-    "typeEvenement": 13,
-    "idEvenement": 37410,
-    "idSeance": 218223,
-    "dateHeure": "2026-12-05T20:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 155977,
-        "ordre": 1,
-        "idSeance": 218223,
-        "idCopie": 32327,
-        "duree": 102,
-        "version": "VOSTF",
-        "format": "DCP",
         "restauration": true
       }
     ]
@@ -657,6 +657,30 @@
         "idSeance": 218239,
         "idCopie": 32050,
         "duree": 101,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4227,
+    "typeEvenement": 13,
+    "idEvenement": 37538,
+    "idSeance": 218235,
+    "dateHeure": "2026-12-06T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 36105,
+        "ordre": 1,
+        "idSeance": 218235,
+        "idCopie": 4938,
+        "duree": 114,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true

@@ -1,9 +1,9 @@
 {
   "datesCycle": [
     "2027-02-10T20:00:00",
-    "2027-02-28T19:30:00"
+    "2027-02-28T19:45:00"
   ],
-  "textePresentation": "",
+  "textePresentation": "> « Audrey Hepburn se levait sans hâte, et s'avançait sur la scène comme si elle eût glissé sur du satin. » Personne n'aura mieux cerné que Shirley MacLaine, sa partenaire dans _La Rumeur_, l'élégance d'Audrey Hepburn, et le lustre de son jeu. Loin des canons hollywoodiens de l'époque, son allégresse gracile, sa sophistication égayèrent le cinéma américain le temps d'une trentaine de films pour autant de comédies pétillantes (le bien nommé _Drôle de frimousse_, _Ariane_, _My Fair Lady_, _Charade_), derrière lesquelles se cachait souvent une discrète mais déchirante mélancolie (_Diamants sur canapé_, _Voyage à deux_, _La Rose et la Flèche_).",
   "sousCycles": [
     {
       "tri": 2,
@@ -36,6 +36,11 @@
               "idSeance": 228139,
               "dateHeure": "2027-02-22T18:00:00",
               "idSalle": "GF"
+            },
+            {
+              "idSeance": 220346,
+              "dateHeure": "2027-02-28T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -52,10 +57,13 @@
               "pays": "États-Unis",
               "annee": 1958,
               "duree": 149,
-              "version": "",
-              "format": "35 mm",
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Au risque de se perdre_ de Kathryn Hulme.",
               "generique": [
-                "Audrey Hepburn"
+                "Audrey Hepburn",
+                "Peter Finch",
+                "Edith Evans"
               ]
             }
           ],
@@ -82,6 +90,10 @@
               "realisateurs": "Stanley Donen",
               "pays": "États-Unis",
               "annee": 1963,
+              "duree": 113,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
               "ageMinimal": 10,
               "adaptation": "D'après la nouvelle _The Unsuspecting Wife_ de Peter Stone et Marc Behm.",
               "generique": [
@@ -95,12 +107,12 @@
           ],
           "seances": [
             {
-              "idSeance": 219981,
-              "dateHeure": "2027-02-13T15:00:00",
+              "idSeance": 228229,
+              "dateHeure": "2027-02-13T19:30:00",
               "idSalle": "GF"
             },
             {
-              "idSeance": 220076,
+              "idSeance": 228253,
               "dateHeure": "2027-02-18T18:00:00",
               "idSalle": "HL"
             }
@@ -120,6 +132,7 @@
               "duree": 123,
               "version": "VOSTF",
               "format": "35 mm",
+              "adaptation": "D'après la nouvelle _Venus Rising_ de George Bradshaw.",
               "generique": [
                 "Audrey Hepburn",
                 "Peter O'Toole",
@@ -152,8 +165,8 @@
               "realisateurs": "Richard Quine",
               "pays": "États-Unis",
               "annee": 1964,
-              "duree": 110,
-              "version": "VO",
+              "duree": 111,
+              "version": "VOSTF",
               "format": "35 mm",
               "adaptation": "D'après le scénario _La Fête à Henriette_ de Julien Duvivier et Henri Jeanson.",
               "generique": [
@@ -187,10 +200,11 @@
               "titreVo": "Breakfast at Tiffany's",
               "realisateurs": "Blake Edwards",
               "pays": "États-Unis",
-              "annee": 1960,
+              "annee": 1961,
               "duree": 114,
               "version": "VOSTF",
               "format": "35 mm",
+              "adaptation": "D'après le roman _Petit déjeuner chez Tiffany_ de Truman Capote.",
               "generique": [
                 "Audrey Hepburn",
                 "George Peppard",
@@ -206,7 +220,7 @@
             },
             {
               "idSeance": 220348,
-              "dateHeure": "2027-02-28T19:30:00",
+              "dateHeure": "2027-02-28T19:45:00",
               "idSalle": "HL"
             }
           ]
@@ -221,7 +235,7 @@
               "titreVo": "Funny Face",
               "realisateurs": "Stanley Donen",
               "pays": "États-Unis",
-              "annee": 1956,
+              "annee": 1957,
               "duree": 103,
               "version": "VOSTF",
               "format": "DCP",
@@ -277,7 +291,7 @@
             },
             {
               "idSeance": 220291,
-              "dateHeure": "2027-02-26T20:15:00",
+              "dateHeure": "2027-02-26T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -307,12 +321,12 @@
           "seances": [
             {
               "idSeance": 219994,
-              "dateHeure": "2027-02-14T14:30:00",
+              "dateHeure": "2027-02-13T14:30:00",
               "idSalle": "HL"
             },
             {
               "idSeance": 220331,
-              "dateHeure": "2027-02-27T19:30:00",
+              "dateHeure": "2027-02-27T20:00:00",
               "idSalle": "HL"
             }
           ]
@@ -344,12 +358,12 @@
           "seances": [
             {
               "idSeance": 219983,
-              "dateHeure": "2027-02-14T20:00:00",
+              "dateHeure": "2027-02-14T20:15:00",
               "idSalle": "GF"
             },
             {
               "idSeance": 228045,
-              "dateHeure": "2027-02-24T20:15:00",
+              "dateHeure": "2027-02-24T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -366,7 +380,12 @@
               "annee": 1951,
               "duree": 70,
               "version": "",
-              "format": ""
+              "format": "",
+              "generique": [
+                "Audrey Hepburn",
+                "Jules Munshin",
+                "Cara Williams"
+              ]
             }
           ],
           "seances": [
@@ -447,7 +466,7 @@
               "pays": "États-Unis",
               "annee": 1976,
               "duree": 107,
-              "version": "VO",
+              "version": "VOSTF",
               "format": "DCP",
               "generique": [
                 "Sean Connery",
@@ -457,11 +476,6 @@
             }
           ],
           "seances": [
-            {
-              "idSeance": 219982,
-              "dateHeure": "2027-02-13T17:30:00",
-              "idSalle": "GF"
-            },
             {
               "idSeance": 228044,
               "dateHeure": "2027-02-24T18:00:00",
@@ -485,7 +499,7 @@
               "duree": 108,
               "version": "VOSTF",
               "format": "35 mm",
-              "adaptation": "D'après la pièce _The Children's hour_ de Lillian Hellman.",
+              "adaptation": "D'après la pièce _The Children's Hour_ de Lillian Hellman.",
               "generique": [
                 "Audrey Hepburn",
                 "Shirley MacLaine",
@@ -502,7 +516,7 @@
             },
             {
               "idSeance": 220330,
-              "dateHeure": "2027-02-27T17:00:00",
+              "dateHeure": "2027-02-27T17:45:00",
               "idSalle": "HL"
             }
           ]
@@ -518,7 +532,7 @@
               "pays": "États-Unis",
               "annee": 1953,
               "duree": 113,
-              "version": "VO",
+              "version": "VOSTF",
               "format": "DCP",
               "adaptation": "D'après la pièce _Sabrina Fair_ de Samuel Taylor.",
               "generique": [
@@ -553,7 +567,7 @@
               "pays": "Grande-Bretagne",
               "annee": 1951,
               "duree": 96,
-              "version": "",
+              "version": "VOSTF",
               "format": "",
               "generique": [
                 "Valentina Cortese",
@@ -581,7 +595,12 @@
               "realisateurs": "Terence Young",
               "pays": "États-Unis",
               "annee": 1967,
-              "adaptation": "D'après la pièce _Wait Until Dark_ de Frederick Knott."
+              "adaptation": "D'après la pièce _Wait Until Dark_ de Frederick Knott.",
+              "generique": [
+                "Audrey Hepburn",
+                "Alan Arkin",
+                "Richard Crenna"
+              ]
             }
           ],
           "seances": [
@@ -605,7 +624,7 @@
               "annee": 1952,
               "duree": 119,
               "version": "VOSTF",
-              "format": "35 mm",
+              "format": "DCP",
               "generique": [
                 "Gregory Peck",
                 "Audrey Hepburn",
@@ -656,7 +675,7 @@
             },
             {
               "idSeance": 220347,
-              "dateHeure": "2027-02-28T17:00:00",
+              "dateHeure": "2027-02-28T17:15:00",
               "idSalle": "HL"
             }
           ]
@@ -675,6 +694,7 @@
               "duree": 104,
               "version": "",
               "format": "35 mm",
+              "adaptation": "D'après le roman _Vertes Demeures_ de William Henry.",
               "generique": [
                 "Sessue Hayakawa",
                 "Anthony Perkins",
@@ -713,7 +733,7 @@
           "seances": [
             {
               "idSeance": 220077,
-              "dateHeure": "2027-02-18T20:00:00",
+              "dateHeure": "2027-02-18T20:30:00",
               "idSalle": "HL"
             }
           ]

@@ -3,12 +3,45 @@
     "2026-12-02T15:00:00",
     "2026-12-06T19:30:00"
   ],
-  "textePresentation": "",
+  "textePresentation": "En cette fin d'année, troisième édition à la Cinémathèque d'un rendez-vous inauguré en 2024 : 5 jours pour profiter d'une anthologie de chefs-d'œuvre et raretés, présentés dans leurs toutes dernières restaurations. L'occasion de revoir sur grand écran des films du monde entier, tous genres et toutes époques confondus, signés Luchino Visconti, Idrissa Ouedraogo, Alfred Hitchcock, Jean Renoir, Sarah Maldoror, Charles Burnett ou Akira Kurosawa. Avec, en séance d'ouverture, la restauration éclatante, par la Cinémathèque française, du _Criminel_ d'Orson Welles.",
   "sousCycles": [
     {
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 117244,
+          "content": [
+            {
+              "idFilm": 117244,
+              "ordre": 1,
+              "titre": "Catch",
+              "art": "The",
+              "titreVo": "Gyoei no mure",
+              "realisateurs": "Shinji Sōmai",
+              "pays": "Japon",
+              "annee": 1983,
+              "duree": 140,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après le roman _Gyoei no mure_ d'Akira Yoshimura.",
+              "generique": [
+                "Ken Ogata",
+                "Masako Natsume",
+                "Kōichi Satō",
+                "Yukiyo Toake"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218218,
+              "dateHeure": "2026-12-05T17:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 48151,
           "content": [
@@ -54,8 +87,11 @@
               "version": "VOSTF",
               "format": "DCP",
               "restauration": true,
+              "adaptation": "D'après le roman _Coco à gogo_ de Sergio Donati.",
               "generique": [
-                "Jean-Louis Trintignant"
+                "Jean-Louis Trintignant",
+                "Ewa Aulin",
+                "Roberto Bisacco"
               ]
             }
           ],
@@ -115,13 +151,19 @@
               "duree": 102,
               "version": "VOSTF",
               "format": "DCP",
-              "restauration": true
+              "restauration": true,
+              "adaptation": "D'après le roman _Dracula_ de Bram Stoker.",
+              "generique": [
+                "Annie Ball",
+                "Cahit Irgat",
+                "Ayfer Feray"
+              ]
             }
           ],
           "seances": [
             {
               "idSeance": 218223,
-              "dateHeure": "2026-12-05T20:30:00",
+              "dateHeure": "2026-12-05T19:30:00",
               "idSalle": "GF"
             }
           ]
@@ -134,8 +176,8 @@
               "ordre": 1,
               "titre": "Femme insecte",
               "art": "La",
-              "titreVo": "Nippon konchuki",
-              "realisateurs": "Shohei Imamura",
+              "titreVo": "Nippon konchūki",
+              "realisateurs": "Shōhei Imamura",
               "pays": "Japon",
               "annee": 1963,
               "duree": 123,
@@ -177,7 +219,8 @@
               "generique": [
                 "Peter Cushing",
                 "Christopher Lee",
-                "Hazel Court"
+                "Hazel Court",
+                "Robert Urquhart"
               ],
               "miniTexte": "Les débuts de la veine gothique de la Hammer avec le premier Frankenstein en couleurs. Fisher embrasse la folie du héros dans un film d'horreur baroque, qui se permet des audaces gore. Dans la peau du créateur, Peter Cushing est impeccable de cynisme face à Christopher Lee, révélé au grand public."
             }
@@ -198,7 +241,7 @@
               "ordre": 1,
               "titre": "Goodbye South, Goodbye",
               "titreVo": "Nan guo zai jian, nan guo",
-              "realisateurs": "Hsiao-Hsien Hou",
+              "realisateurs": "Hou Hsiao-Hsien",
               "pays": "Taïwan",
               "annee": 1996,
               "duree": 112,
@@ -217,36 +260,6 @@
             {
               "idSeance": 218217,
               "dateHeure": "2026-12-05T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 117244,
-          "content": [
-            {
-              "idFilm": 117244,
-              "ordre": 1,
-              "titre": "Gyoei no mure",
-              "realisateurs": "Shinji Somai",
-              "pays": "Japon",
-              "annee": 1983,
-              "duree": 140,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Ken Ogata",
-                "Masako Natsume",
-                "Kôichi Satô",
-                "Yukiyo Toake"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 218218,
-              "dateHeure": "2026-12-05T17:15:00",
               "idSalle": "HL"
             }
           ]
@@ -272,7 +285,8 @@
               "generique": [
                 "Giancarlo Giannini",
                 "Laura Antonelli",
-                "Jennifer O'Neill"
+                "Jennifer O'Neill",
+                "Rina Morelli"
               ],
               "miniTexte": "Un triangle amoureux crépusculaire dans l'univers bourgeois de la société romaine. Adapté du roman de Gabriele D'Annunzio, _L'Innocent_ explore un microcosme décadent, haut lieu de trahison et de manipulation. Dialogues incisifs emplis de culpabilité et interprétations marquantes hantent les couloirs d'un chant du cygne désespéré, dernier film de Visconti."
             }
@@ -303,7 +317,8 @@
               "adaptation": "D'après le roman _I Am Thinking of My Darling_ de Vincent McHugh.",
               "generique": [
                 "George Peppard",
-                "Mary Tyler Moore"
+                "Mary Tyler Moore",
+                "Dom DeLuise"
               ],
               "miniTexte": "À New York, un nouveau virus qui inocule la joie de vivre est traité comme une menace par les autorités. L'un des premiers infectés est un ancien publicitaire devenu artiste, sorte de beatnik désabusé. Une comédie loufoque, doublée de SF, qui lorgne aussi vers le musical, pour une satire gentiment féroce du milieu des affaires et des hippies."
             }
@@ -357,7 +372,7 @@
               "titre": "Killer of Sheep",
               "realisateurs": "Charles Burnett",
               "pays": "États-Unis",
-              "annee": 1982,
+              "annee": 1978,
               "duree": 80,
               "version": "VOSTF",
               "format": "DCP",
@@ -395,7 +410,8 @@
               "ageMinimal": 8,
               "generique": [
                 "David Bowie",
-                "Jennifer Connelly"
+                "Jennifer Connelly",
+                "Toby Froud"
               ]
             }
           ],
@@ -465,7 +481,7 @@
           "seances": [
             {
               "idSeance": 218180,
-              "dateHeure": "2026-12-04T18:30:00",
+              "dateHeure": "2026-12-04T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -483,7 +499,12 @@
               "duree": 50,
               "version": "VF",
               "format": "DCP",
-              "restauration": true
+              "restauration": true,
+              "generique": [
+                "Rogelio de la Rosa",
+                "Manuel Laredo",
+                "Mari Velez"
+              ]
             }
           ],
           "seances": [
@@ -508,7 +529,13 @@
               "duree": 78,
               "version": "VOSTF",
               "format": "DCP",
-              "restauration": true
+              "restauration": true,
+              "adaptation": "D'après le roman _Menaces dans la nuit_ de Sam Ross.",
+              "generique": [
+                "John Garfield",
+                "Shelley Winters",
+                "Gladys George"
+              ]
             }
           ],
           "seances": [
@@ -537,7 +564,7 @@
           "seances": [
             {
               "idSeance": 218222,
-              "dateHeure": "2026-12-05T17:30:00",
+              "dateHeure": "2026-12-05T17:45:00",
               "idSalle": "GF"
             }
           ]
@@ -555,7 +582,12 @@
               "duree": 89,
               "version": "VOSTF",
               "format": "DCP",
-              "restauration": true
+              "restauration": true,
+              "generique": [
+                "Karen Blanguernon",
+                "Franco Angeli",
+                "Isabel D'Avila"
+              ]
             }
           ],
           "seances": [
@@ -615,7 +647,7 @@
               "restauration": true,
               "generique": [
                 "Rita Jolivet",
-                "L. Roger Lytton",
+                "L. Rogers Lytton",
                 "Kate Blancke",
                 "Hamilton Revelle"
               ]
@@ -642,7 +674,13 @@
               "duree": 94,
               "version": "INT. FR.",
               "format": "DCP",
-              "restauration": true
+              "restauration": true,
+              "adaptation": "D'après le roman _Quo Vadis?_ de Henryk Sienkiewicz.",
+              "generique": [
+                "Amleto Novelli",
+                "Gustavo Serena",
+                "Carlo Cattaneo"
+              ]
             }
           ],
           "seances": [
@@ -679,8 +717,38 @@
           "seances": [
             {
               "idSeance": 218181,
-              "dateHeure": "2026-12-04T21:00:00",
+              "dateHeure": "2026-12-04T20:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 36105,
+          "content": [
+            {
+              "idFilm": 36105,
+              "ordre": 1,
+              "titre": "Taxi Driver",
+              "realisateurs": "Martin Scorsese",
+              "pays": "États-Unis",
+              "annee": 1976,
+              "duree": 114,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Robert De Niro",
+                "Cybill Shepherd",
+                "Jodie Foster",
+                "Harvey Keitel"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 218235,
+              "dateHeure": "2026-12-06T17:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -727,7 +795,12 @@
               "duree": 126,
               "version": "VOSTF",
               "format": "DCP",
-              "restauration": true
+              "restauration": true,
+              "generique": [
+                "Lolita Rodriguez",
+                "Lilia Dizon",
+                "Eddie Garcia"
+              ]
             }
           ],
           "seances": [
@@ -884,7 +957,7 @@
               "generique": [
                 "Stan Laurel",
                 "Oliver Hardy",
-                "William Courtwright"
+                "William Courtright"
               ]
             },
             {
@@ -946,6 +1019,7 @@
               "version": "",
               "format": "DCP",
               "restauration": true,
+              "adaptation": "D'après la nouvelle _Un dessert pour Constance_ de Daniel Boulanger.",
               "generique": [
                 "Sidiki Bakaba",
                 "Cheik Doukouré",

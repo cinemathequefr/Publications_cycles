@@ -57,20 +57,31 @@
   * Film peint, essai  
   * Lion Light  
   * Mississippi Masala  
-  * Mor'Vran  
+  * Mor'vran, la mer des corbeaux  
   * Mothlight  
   * Salaam Bombay !  
   * Sédiments  
   * Village de Namo : Panorama pris d'une chaise à porteurs (Le)
 
-## Hans-Jürgen Syberberg (6)
+## Hans-Jürgen Syberberg (17)
 
+  * À la suite de mon dernier déménagement... Brecht  
+  * Acte V, Scène VII, Fritz Kortner répète cabale et amour  
+  * Comtes Pocci (Les)  
   * Hitler, un film d'Allemagne  
   * Karl May : À la recherche du paradis perdu  
   * Ludwig, requiem pour un roi vierge  
+  * Marquise d'O (La)  
   * Monologue de Fritz Kortner pour un disque  
+  * Nuit (La)  
   * Parsifal  
-  * Romy, anatomie d'un visage
+  * Romy, anatomie d'un visage  
+  * San Domingo  
+  * Scarabea : De combien de terre l'Homme a-t-il besoin ?  
+  * Sex Business: Made in Pasing  
+  * Theodor Hierneis ou le cuisinier du roi  
+  * Un rêve, quoi d'autre ?  
+  * Winifred Wagner et l'histoire de la maison Wahnfried de 1914 à 1975
 
 ## Ira Sachs (17)
 
@@ -121,22 +132,27 @@
   * Sirène du Mississipi (La)  
   * Une femme est une femme
 
-## Ma petite Cinémathèque (14)
+## Ma petite Cinémathèque (19)
 
   * Âge de glace (L')  
-  * Allez raconte !  
   * Blanche-Neige et les sept nains  
   * Brendan et le secret de Kells  
   * Drôle de frimousse  
+  * Edward aux mains d'argent  
   * En attendant la neige  
   * Ernest et Célestine  
+  * Grand Méchant Renard (Le)  
   * Grand Noël des animaux (Le)  
-  * Gremlins  
+  * Horus, prince du soleil  
   * Kirikou et la sorcière  
+  * Mécano de la General (Le)  
   * My Fair Lady  
   * New York, Miriam et moi  
   * Nina et le secret du hérisson  
-  * Opération Père Noël
+  * Opération Père Noël  
+  * Pachamama  
+  * Qui veut la peau de Roger Rabbit  
+  * Une incroyable histoire
 
 ## Nos 90 ans en 180 films (75)
 
@@ -216,9 +232,10 @@
   * Yi Yi  
   * Zero Dark Thirty
 
-## Restaurations et raretés, best of 2026 (36)
+## Restaurations et raretés, best of 2026 (37)
 
   * Au début  
+  * Catch (The)  
   * Catherine ou une vie sans joie  
   * C'est ma femme !  
   * Cœur aux lèvres (Le)  
@@ -228,7 +245,6 @@
   * Femme insecte (La)  
   * Frankenstein s'est échappé  
   * Goodbye South, Goodbye  
-  * Gyoei no mure  
   * Habitants (Les)  
   * Innocent (L')  
   * Intrus magnifique (L')  
@@ -249,6 +265,7 @@
   * Saisons (Les)  
   * Son altesse royale  
   * Story of Joanna (The)  
+  * Taxi Driver  
   * Terre des hommes (La)  
   * Tilaï  
   * Tinimbang  
@@ -279,7 +296,7 @@
   * Salomé  
   * Seuls les anges ont des ailes
 
-## Robert Aldrich (35)
+## Robert Aldrich (36)
 
   * Alerte à Singapour  
   * Attaque  
@@ -303,6 +320,7 @@
   * Four Star Playhouse: The Witness  
   * Fureur apache  
   * Grand Couteau (Le)  
+  * Greatest Mother of 'em All (The)  
   * Pas d'orchidées pour Miss Blandish  
   * Plein la gueule  
   * Quatre du Texas  
@@ -313,7 +331,7 @@
   * Trahison à Athènes  
   * Trop tard pour les héros  
   * Ultimatum des trois mercenaires (L')  
-  * Un rabbin au Far-West  
+  * Un rabbin au Far West  
   * Vera Cruz  
   * Vol du Phénix (Le)
 
