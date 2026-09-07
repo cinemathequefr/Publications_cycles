@@ -27,10 +27,9 @@
   * Vertes Demeures  
   * Voyage à deux
 
-## Ciné-club de Murielle Joudet (2)
+## Ciné-club de Murielle Joudet (1)
 
-  * À bout de souffle  
-  * Reine de Broadway (La)
+  * À bout de souffle
 
 ## Cinéma bis (12)
 
@@ -234,7 +233,7 @@
   * Yi Yi  
   * Zero Dark Thirty
 
-## Restaurations et raretés, best of 2026 (49)
+## Restaurations et raretés, best of 2026 (47)
 
   * A History of Violence  
   * Amour à mort (L')  
@@ -248,7 +247,6 @@
   * Cycle (Le)  
   * Cyrano et d'Artagnan  
   * Dracula à Istanbul  
-  * Et les chiens se taisaient  
   * Femme insecte (La)  
   * Frankenstein s'est échappé  
   * Goodbye South, Goodbye  
@@ -283,10 +281,9 @@
   * Terre des hommes (La)  
   * Tilaï  
   * Tinimbang  
-  * Un dessert pour Constance  
   * Y'a erreur !
 
-## Rita Hayworth (21)
+## Rita Hayworth (22)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
@@ -306,6 +303,7 @@
   * Ô toi ma charmante  
   * Piège au grisbi  
   * Plus grand cirque du monde (Le)  
+  * Reine de Broadway (La)  
   * Route de Salina (La)  
   * Salomé  
   * Seuls les anges ont des ailes
