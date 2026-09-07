@@ -27,10 +27,6 @@
   * Vertes Demeures  
   * Voyage à deux
 
-## Ciné-club de Murielle Joudet (1)
-
-  * À bout de souffle
-
 ## Cinéma bis (12)
 
   * Baiser (Le)  
@@ -119,8 +115,9 @@
   * Vie d'un fleuve (La)  
   * Zéro de conduite
 
-## Jean-Paul Belmondo (11)
+## Jean-Paul Belmondo (12)
 
+  * À bout de souffle  
   * À double tour  
   * As des as (L')  
   * Borsalino  
