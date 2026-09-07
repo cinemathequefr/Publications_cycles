@@ -32,8 +32,9 @@
   * À bout de souffle  
   * Reine de Broadway (La)
 
-## Cinéma bis (10)
+## Cinéma bis (12)
 
+  * Baiser (Le)  
   * Baraka à Beyrouth  
   * Baraka sur X 13  
   * Bon Plaisir (Le)  
@@ -42,6 +43,7 @@
   * Goulag  
   * Monstre de Venise (Le)  
   * Rive droite, rive gauche  
+  * Sexe nu (Le)  
   * Soleil de nuit  
   * Trinita, connais pas
 
@@ -232,29 +234,41 @@
   * Yi Yi  
   * Zero Dark Thirty
 
-## Restaurations et raretés, best of 2026 (37)
+## Restaurations et raretés, best of 2026 (49)
 
+  * A History of Violence  
+  * Amour à mort (L')  
+  * Antre de la folie (L')  
   * Au début  
   * Catch (The)  
   * Catherine ou une vie sans joie  
-  * C'est ma femme !  
+  * C'est ma femme  
   * Cœur aux lèvres (Le)  
   * Criminel (Le)  
+  * Cycle (Le)  
+  * Cyrano et d'Artagnan  
   * Dracula à Istanbul  
   * Et les chiens se taisaient  
   * Femme insecte (La)  
   * Frankenstein s'est échappé  
   * Goodbye South, Goodbye  
   * Habitants (Les)  
+  * Homme à la caméra (L')  
+  * Homme de fer (L')  
   * Innocent (L')  
   * Intrus magnifique (L')  
+  * Jesus Christ Superstar  
   * Joe Limonade  
   * Killer of Sheep  
   * Labyrinthe  
   * Légende du grand judo (La)  
   * Let My Puppets Come  
   * Ligaya, fille des îles  
+  * Love Massacre  
+  * Lunettes rouges  
+  * Maison de l'ange (La)  
   * Menaces dans la nuit  
+  * Misterio  
   * Monsieur 027  
   * Morire gratis  
   * Mort aux trousses (La)  
