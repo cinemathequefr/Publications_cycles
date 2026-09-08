@@ -4,7 +4,7 @@
 
   * Kedma
 
-## Audrey Hepburn (20)
+## Audrey Hepburn (19)
 
   * Ariane  
   * Au risque de se perdre  
@@ -15,7 +15,6 @@
   * Et tout le monde riait  
   * Guerre et Paix  
   * Liés par le sang  
-  * Monte Carlo Baby  
   * Nous irons à Monte-Carlo  
   * Rose et la Flèche (La)  
   * Rumeur (La)  
