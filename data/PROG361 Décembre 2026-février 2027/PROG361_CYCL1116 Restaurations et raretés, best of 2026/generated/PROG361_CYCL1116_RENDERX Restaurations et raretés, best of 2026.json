@@ -197,7 +197,8 @@
             {
               "idSeance": 228123,
               "dateHeure": "2026-12-03T20:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Steve Della Casa"
             }
           ]
         },
@@ -231,7 +232,7 @@
               "idSeance": 228174,
               "dateHeure": "2026-12-02T20:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Frédéric Bonnaud"
             }
           ]
         },
@@ -1015,7 +1016,8 @@
             {
               "idSeance": 228281,
               "dateHeure": "2026-12-05T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -1079,7 +1081,8 @@
             {
               "idSeance": 228178,
               "dateHeure": "2026-12-04T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Stefano Darchino"
             }
           ]
         },
@@ -1141,7 +1144,8 @@
             {
               "idSeance": 218235,
               "dateHeure": "2026-12-06T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Bernard Benoliel"
             }
           ]
         },
@@ -1390,5 +1394,33 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Le Criminel",
+        "mention": "par Frédéric Bonnaud",
+        "dateHeure": "2026-12-02T20:00:00"
+      },
+      {
+        "titreFilms": "Le Cœur aux lèvres",
+        "mention": "par Steve Della Casa",
+        "dateHeure": "2026-12-03T20:30:00"
+      },
+      {
+        "titreFilms": "Quo Vadis?",
+        "mention": "par Stefano Darchino",
+        "dateHeure": "2026-12-04T15:00:00"
+      },
+      {
+        "titreFilms": "La Mort aux trousses",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2026-12-05T20:00:00"
+      },
+      {
+        "titreFilms": "Taxi Driver",
+        "mention": "par Bernard Benoliel",
+        "dateHeure": "2026-12-06T20:00:00"
+      }
+    ]
+  }
 }

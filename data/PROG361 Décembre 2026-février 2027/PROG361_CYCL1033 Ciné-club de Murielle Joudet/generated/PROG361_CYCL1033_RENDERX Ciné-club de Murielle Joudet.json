@@ -3,22 +3,51 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
+      "titreSousCycle": "Les films",
       "items": [
         {
-          "idConf": 37421,
-          "content": [
+          "groupe": [
             {
-              "idConf": 37421,
-              "titre": "Ciné-club de Murielle Joudet",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
+              "idFilm": 45774,
+              "content": [
+                {
+                  "idFilm": 45774,
+                  "ordre": 1,
+                  "titre": "Diamants sur canapé",
+                  "titreVo": "Breakfast at Tiffany's",
+                  "realisateurs": "Blake Edwards",
+                  "pays": "États-Unis",
+                  "annee": 1961,
+                  "duree": 114,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Petit déjeuner chez Tiffany_ de Truman Capote.",
+                  "generique": [
+                    "Audrey Hepburn",
+                    "George Peppard",
+                    "Patricia Neal"
+                  ]
+                }
+              ]
+            },
             {
-              "idSeance": 228207,
-              "dateHeure": "2027-02-17T19:00:00",
-              "idSalle": "HL"
+              "idEvenement": 37421,
+              "content": [
+                {
+                  "idConf": 37421,
+                  "ordre": 2,
+                  "titre": "Ciné-club de Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 228133,
+                  "typeAssoc": 118,
+                  "dateHeure": "2027-02-17T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -28,6 +57,7 @@
   "syntheseAction": {
     "Séance avec dialogue": [
       {
+        "titreFilms": "Diamants sur canapé",
         "mention": "Ciné-club de Murielle Joudet",
         "dateHeure": "2027-02-17T19:00:00"
       }

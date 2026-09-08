@@ -1,17 +1,56 @@
 {
   "data": [
     {
+      "titreSousCycle": "Les films",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 228133,
+          "ordre": 1,
+          "dateHeure": "2027-02-17T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "typeAssoc": 118,
+          "idCategorie": 3897,
+          "idEvenement": 37454,
+          "typeEvenement": 13,
+          "idFilm": 45774,
+          "titre": "Diamants sur canapé",
+          "titreVo": "Breakfast at Tiffany's",
+          "realisateurs": "Blake Edwards",
+          "annee": 1961,
+          "pays": "États-Unis",
+          "duree": 114,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Audrey Hepburn",
+            "George Peppard",
+            "Patricia Neal"
+          ],
+          "adaptation": "D'après le roman _Petit déjeuner chez Tiffany_ de Truman Capote.",
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
       "titreSousCycle": "Rencontres et conférences",
       "tri": 4,
       "items": [
         {
-          "idSeance": 228207,
+          "idSeance": 228133,
+          "ordre": 2,
           "dateHeure": "2027-02-17T19:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 30,
+          "typeAssoc": 118,
           "idCategorie": 3898,
           "idEvenement": 37421,
           "typeEvenement": 14,

@@ -27,6 +27,10 @@
   * Vertes Demeures  
   * Voyage à deux
 
+## Ciné-club de Murielle Joudet (1)
+
+  * Diamants sur canapé
+
 ## Cinéma bis (12)
 
   * Baiser (Le)  
@@ -152,9 +156,8 @@
   * Qui veut la peau de Roger Rabbit  
   * Une incroyable histoire
 
-## Nos 90 ans en 180 films (75)
+## Nos 90 ans en 180 films (74)
 
-  * All We Imagine As Light  
   * Annette  
   * Arrête ou je continue  
   * Attache-moi !  

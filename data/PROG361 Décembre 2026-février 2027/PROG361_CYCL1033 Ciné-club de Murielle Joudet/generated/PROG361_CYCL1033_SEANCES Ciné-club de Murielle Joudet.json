@@ -1,17 +1,44 @@
 [
   {
+    "idCategorie": 3897,
+    "typeEvenement": 13,
+    "idEvenement": 37454,
+    "idSeance": 228133,
+    "dateHeure": "2027-02-17T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 45774,
+        "ordre": 1,
+        "idSeance": 228133,
+        "idCopie": 3778,
+        "duree": 114,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
     "idCategorie": 3898,
     "typeEvenement": 14,
     "idEvenement": 37421,
-    "idSeance": 228207,
+    "idSeance": 228133,
     "dateHeure": "2027-02-17T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 30,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   }
 ]

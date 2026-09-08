@@ -10,35 +10,6 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 154926,
-          "content": [
-            {
-              "idFilm": 154926,
-              "ordre": 1,
-              "titre": "All We Imagine As Light",
-              "realisateurs": "Payal Kapadia",
-              "pays": "Inde-France-Pays-Bas-Luxembourg",
-              "annee": 2024,
-              "duree": 115,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Kani Kurusti",
-                "Divya Prabha",
-                "Chhaya Kadam",
-                "Hridhu Haroon"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 228113,
-              "dateHeure": "2027-01-30T17:15:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 150352,
           "content": [
             {
@@ -147,7 +118,7 @@
           "seances": [
             {
               "idSeance": 219586,
-              "dateHeure": "2027-01-29T20:30:00",
+              "dateHeure": "2027-01-29T20:00:00",
               "idSalle": "HL"
             }
           ]
@@ -384,7 +355,8 @@
             {
               "idSeance": 228074,
               "dateHeure": "2026-12-19T18:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Stanislas Merhar"
             }
           ]
         },
@@ -413,7 +385,8 @@
             {
               "idSeance": 228070,
               "dateHeure": "2026-12-16T19:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Isabelle Ehrhart"
             }
           ]
         },
@@ -571,9 +544,9 @@
           ],
           "seances": [
             {
-              "idSeance": 228110,
-              "dateHeure": "2027-01-29T18:00:00",
-              "idSalle": "HL"
+              "idSeance": 228310,
+              "dateHeure": "2027-01-30T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -663,6 +636,11 @@
               "idSeance": 228114,
               "dateHeure": "2027-01-30T20:00:00",
               "idSalle": "GF"
+            },
+            {
+              "idSeance": 228311,
+              "dateHeure": "2027-02-01T20:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -693,7 +671,8 @@
             {
               "idSeance": 228060,
               "dateHeure": "2026-12-09T21:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Émilie Cauquy"
             }
           ]
         },
@@ -814,7 +793,8 @@
             {
               "idSeance": 219649,
               "dateHeure": "2027-01-31T19:45:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Tania Tavares-Diaz"
             }
           ]
         },
@@ -837,7 +817,8 @@
             {
               "idSeance": 228086,
               "dateHeure": "2026-12-28T16:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Alexandre Monneau"
             }
           ]
         },
@@ -869,7 +850,8 @@
             {
               "idSeance": 228064,
               "dateHeure": "2026-12-12T20:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Gilles Veyrat"
             }
           ]
         },
@@ -979,7 +961,8 @@
             {
               "idSeance": 228080,
               "dateHeure": "2026-12-21T21:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Elia Suleiman"
             }
           ]
         },
@@ -994,7 +977,7 @@
               "realisateurs": "Alexeï Guerman",
               "pays": "Russie-France",
               "annee": 1998,
-              "duree": 137,
+              "duree": 144,
               "version": "VOSTF",
               "format": "35 mm",
               "generique": [
@@ -1237,7 +1220,8 @@
             {
               "idSeance": 228079,
               "dateHeure": "2026-12-21T18:15:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Sébastien Roussel"
             }
           ]
         },
@@ -1437,7 +1421,8 @@
             {
               "idSeance": 228059,
               "dateHeure": "2026-12-09T18:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Tania Tavares-Diaz"
             }
           ]
         },
@@ -2181,11 +2166,56 @@
         "dateHeure": "2026-12-17T20:00:00"
       }
     ],
-    "Séance présentée": [
+    "Séances présentées": [
+      {
+        "titreFilms": "Non ou la vaine gloire de commander",
+        "mention": "par Tania Tavares-Diaz",
+        "dateHeure": "2026-12-09T18:30:00"
+      },
+      {
+        "titreFilms": "La Fille aux allumettes",
+        "mention": "par Émilie Cauquy",
+        "dateHeure": "2026-12-09T21:00:00"
+      },
+      {
+        "titreFilms": "L'Impasse",
+        "mention": "par Gilles Veyrat",
+        "dateHeure": "2026-12-12T20:30:00"
+      },
+      {
+        "titreFilms": "Casino",
+        "mention": "par Isabelle Ehrhart",
+        "dateHeure": "2026-12-16T19:30:00"
+      },
       {
         "titreFilms": "Le Goût de la cerise",
         "mention": "par Marién Gómez",
         "dateHeure": "2026-12-18T18:30:00"
+      },
+      {
+        "titreFilms": "La Captive",
+        "mention": "par Stanislas Merhar",
+        "dateHeure": "2026-12-19T18:00:00"
+      },
+      {
+        "titreFilms": "Millennium Mambo",
+        "mention": "par Sébastien Roussel",
+        "dateHeure": "2026-12-21T18:15:00"
+      },
+      {
+        "titreFilms": "Intervention divine",
+        "mention": "par Elia Suleiman",
+        "dateHeure": "2026-12-21T21:00:00"
+      },
+      {
+        "titreFilms": "Grizzly Man",
+        "mention": "par Alexandre Monneau",
+        "dateHeure": "2026-12-28T16:00:00"
+      },
+      {
+        "titreFilms": "Les Graines du figuier sauvage",
+        "mention": "par Tania Tavares-Diaz",
+        "dateHeure": "2027-01-31T19:45:00"
       }
     ]
   }
