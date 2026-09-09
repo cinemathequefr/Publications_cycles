@@ -1158,8 +1158,8 @@
       {
         "idFilm": 151601,
         "titre": "En attendant la neige",
-        "realisateurs": "Raùl Robin Morales Reyes, Chaïtane Conversat, Svetlana Andrianova, [etc.]",
-        "annee": 2020,
+        "realisateurs": "Raúl Robin Morales Reyes, Chaïtane Conversat, Svetlana Andrianova, Lenka Ivančíková, Nina Bisiarina",
+        "annee": 2021,
         "duree": 47
       }
     ],
@@ -1937,7 +1937,7 @@
   {
     "idSeance": 228069,
     "idEvenement": 36830,
-    "dateHeure": "2026-12-16T18:00:00",
+    "dateHeure": "2026-12-16T17:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1984,27 +1984,29 @@
     "hashEvenement": "f60044"
   },
   {
-    "idSeance": 228374,
-    "idEvenement": 36833,
-    "dateHeure": "2026-12-17T11:00:00",
+    "idSeance": 228375,
+    "idEvenement": 34391,
+    "dateHeure": "2026-12-16T20:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Nos 90 ans en 180 films",
+        "Rita Hayworth",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 29021,
-        "titre": "On connaît la chanson",
-        "realisateurs": "Alain Resnais",
-        "annee": 1997,
-        "duree": 122,
+        "idFilm": 37106,
+        "titre": "Amours de Carmen",
+        "art": "Les",
+        "realisateurs": "Charles Vidor",
+        "annee": 1948,
+        "duree": 99,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f29021"
+    "hashEvenement": "f37106"
   },
   {
     "idSeance": 220499,
@@ -2100,6 +2102,29 @@
       }
     ],
     "hashEvenement": "f34043"
+  },
+  {
+    "idSeance": 228374,
+    "idEvenement": 36833,
+    "dateHeure": "2026-12-17T21:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Nos 90 ans en 180 films",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 29021,
+        "titre": "On connaît la chanson",
+        "realisateurs": "Alain Resnais",
+        "annee": 1997,
+        "duree": 122,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f29021"
   },
   {
     "idSeance": 218530,
@@ -5476,6 +5501,26 @@
     "hashEvenement": "f57383"
   },
   {
+    "idSeance": 228377,
+    "idEvenement": 37569,
+    "dateHeure": "2027-01-23T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ira Sachs",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37569,
+        "titre": "Discussion Isabelle Huppert & Ira Sachs",
+        "typeConference": "Conférence"
+      }
+    ],
+    "hashEvenement": "c37569"
+  },
+  {
     "idSeance": 228369,
     "idEvenement": 35189,
     "dateHeure": "2027-01-24T14:30:00",
@@ -5484,6 +5529,10 @@
       [
         "Robert Aldrich",
         "Les films"
+      ],
+      [
+        "Robert Aldrich",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -5495,9 +5544,14 @@
         "duree": 120,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 37567,
+        "titre": "Dialogue avec Guillaume Orignac",
+        "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "f30127"
+    "hashEvenement": "f30127c37567"
   },
   {
     "idSeance": 219471,
@@ -6099,26 +6153,6 @@
       }
     ],
     "hashEvenement": "f145500c37560"
-  },
-  {
-    "idSeance": 228355,
-    "idEvenement": 37567,
-    "dateHeure": "2027-01-30T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Robert Aldrich",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 37567,
-        "titre": "Dialogue avec Guillaume Orignac",
-        "typeConference": "Dialogue"
-      }
-    ],
-    "hashEvenement": "c37567"
   },
   {
     "idSeance": 228308,
