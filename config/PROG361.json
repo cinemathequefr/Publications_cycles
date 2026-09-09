@@ -92,7 +92,12 @@
       "isReg": true,
       "triSousCycles": true,
       "sousCycles": [
-        { "titre": "Séance spéciale animation", "cats": [4267], "tri": 4 },
+        {
+          "titre": "Séance spéciale animation",
+          "cats": [4267],
+          "tri": 4,
+          "printNoMT": true
+        },
         {
           "titre": "Festival Entrevues Belfort 2026",
           "cats": [4296],
@@ -113,7 +118,7 @@
         { "titre": "Xavier Delagnes", "cats": [4321], "tri": 4 },
         { "titre": "", "cats": [], "tri": 4 }
       ],
-      "excludeSeances": [218075],
+      "excludeSeances": [],
       "restaurations": [],
       "titreEvenements": {}
     },
