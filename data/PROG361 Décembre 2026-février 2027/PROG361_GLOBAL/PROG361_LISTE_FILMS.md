@@ -26,6 +26,21 @@
   * Vertes Demeures  
   * Voyage à deux
 
+## Aujourd'hui le cinéma (12)
+
+  * Bleu au loin  
+  * Camarades  
+  * Chagrin des tournesols (Le)  
+  * Cocon  
+  * Faux Bijoux  
+  * Il n'est pas mort, il dort  
+  * Intersecting Memory  
+  * Je veux danser  
+  * Jeu du roi (Le)  
+  * Mystère joyeux et triste de ce qui arrive et part (Le)  
+  * Pelures d'estomac (Les)  
+  * Visite en terre irradiée
+
 ## Ciné-club de Murielle Joudet (1)
 
   * Diamants sur canapé
@@ -34,11 +49,11 @@
 
   * Baiser (Le)  
   * Baraka à Beyrouth  
-  * Baraka sur X 13  
   * Bon Plaisir (Le)  
   * Et viva la révolution !  
   * Froid Baiser de la mort (Le)  
   * Goulag  
+  * Homme d'Istambul (L')  
   * Monstre de Venise (Le)  
   * Rive droite, rive gauche  
   * Sexe nu (Le)  
