@@ -10,6 +10,35 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 154926,
+          "content": [
+            {
+              "idFilm": 154926,
+              "ordre": 1,
+              "titre": "All We Imagine As Light",
+              "realisateurs": "Payal Kapadia",
+              "pays": "Inde-France-Pays-Bas-Luxembourg",
+              "annee": 2024,
+              "duree": 115,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Kani Kurusti",
+                "Divya Prabha",
+                "Chhaya Kadam",
+                "Hridhu Haroon"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228363,
+              "dateHeure": "2027-02-01T16:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 150352,
           "content": [
             {
@@ -32,7 +61,7 @@
           "seances": [
             {
               "idSeance": 219643,
-              "dateHeure": "2027-01-31T18:30:00",
+              "dateHeure": "2027-01-31T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -265,7 +294,7 @@
           "seances": [
             {
               "idSeance": 228083,
-              "dateHeure": "2026-12-26T20:15:00",
+              "dateHeure": "2026-12-26T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -483,7 +512,7 @@
         {
           "content": [
             {
-              "titre": "Dialogue avec Jean-Pierre et Luc Dardenne ??"
+              "titre": "Dialogue avec Jean-Pierre et Luc Dardenne"
             }
           ],
           "seances": [
@@ -534,7 +563,7 @@
           "seances": [
             {
               "idSeance": 228069,
-              "dateHeure": "2026-12-16T17:00:00",
+              "dateHeure": "2026-12-16T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -649,11 +678,6 @@
             }
           ],
           "seances": [
-            {
-              "idSeance": 228114,
-              "dateHeure": "2027-01-30T20:00:00",
-              "idSalle": "GF"
-            },
             {
               "idSeance": 228311,
               "dateHeure": "2027-02-01T20:30:00",
@@ -1409,7 +1433,7 @@
           "seances": [
             {
               "idSeance": 228087,
-              "dateHeure": "2026-12-30T20:15:00",
+              "dateHeure": "2026-12-30T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -1486,8 +1510,8 @@
           ],
           "seances": [
             {
-              "idSeance": 220498,
-              "dateHeure": "2026-12-17T20:45:00",
+              "idSeance": 228374,
+              "dateHeure": "2026-12-17T11:00:00",
               "idSalle": "GF"
             }
           ]
@@ -1661,7 +1685,7 @@
           "seances": [
             {
               "idSeance": 220499,
-              "dateHeure": "2026-12-17T18:30:00",
+              "dateHeure": "2026-12-17T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -1894,7 +1918,7 @@
           "seances": [
             {
               "idSeance": 219625,
-              "dateHeure": "2027-01-30T14:00:00",
+              "dateHeure": "2027-01-30T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -2180,7 +2204,7 @@
   "syntheseAction": {
     "Séances avec dialogue": [
       {
-        "mention": "avec Jean-Pierre et Luc Dardenne ??",
+        "mention": "avec Jean-Pierre et Luc Dardenne",
         "dateHeure": "2026-12-17T20:00:00"
       },
       {

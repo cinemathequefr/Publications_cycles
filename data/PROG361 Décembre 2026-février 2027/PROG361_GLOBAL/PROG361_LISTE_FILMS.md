@@ -155,8 +155,9 @@
   * Qui veut la peau de Roger Rabbit  
   * Une incroyable histoire
 
-## Nos 90 ans en 180 films (74)
+## Nos 90 ans en 180 films (75)
 
+  * All We Imagine As Light  
   * Annette  
   * Arrête ou je continue  
   * Attache-moi !  
@@ -282,7 +283,7 @@
   * Tinimbang  
   * Y'a erreur !
 
-## Rita Hayworth (22)
+## Rita Hayworth (24)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
@@ -300,12 +301,14 @@
   * Étoile des étoiles (L')  
   * Gilda  
   * Ô toi ma charmante  
-  * Piège au grisbi  
   * Plus grand cirque du monde (Le)  
+  * Police montée  
   * Reine de Broadway (La)  
   * Route de Salina (La)  
   * Salomé  
-  * Seuls les anges ont des ailes
+  * Seuls les anges ont des ailes  
+  * Six destins  
+  * Tables séparées
 
 ## Robert Aldrich (36)
 
