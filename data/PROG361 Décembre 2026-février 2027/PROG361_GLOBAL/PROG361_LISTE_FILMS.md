@@ -26,12 +26,13 @@
   * Vertes Demeures  
   * Voyage à deux
 
-## Aujourd'hui le cinéma (12)
+## Aujourd'hui le cinéma (13)
 
   * Bleu au loin  
   * Camarades  
   * Chagrin des tournesols (Le)  
   * Cocon  
+  * Comme un château fort  
   * Faux Bijoux  
   * Il n'est pas mort, il dort  
   * Intersecting Memory  
@@ -325,44 +326,9 @@
   * Six destins  
   * Tables séparées
 
-## Robert Aldrich (36)
+## Robert Aldrich (1)
 
-  * Alerte à Singapour  
-  * Attaque  
-  * Bande de flics  
-  * Big Leaguer  
-  * Bronco Apache  
-  * Chut... chut, chère Charlotte  
-  * Cité des dangers (La)  
-  * Démon des femmes (Le)  
-  * Deux filles au tapis  
-  * Douze Salopards (Les)  
-  * El Perdido  
-  * Empereur du Nord (L')  
-  * En quatrième vitesse  
-  * Faut-il tuer Sister George ?  
-  * Feuilles d'automne  
-  * Four Star Playhouse: The Bad Streak  
-  * Four Star Playhouse: The Gift  
-  * Four Star Playhouse: The Hard Way  
-  * Four Star Playhouse: The Squeeze  
-  * Four Star Playhouse: The Witness  
-  * Fureur apache  
-  * Grand Couteau (Le)  
-  * Greatest Mother of 'em All (The)  
-  * Pas d'orchidées pour Miss Blandish  
-  * Plein la gueule  
-  * Quatre du Texas  
-  * Qu'est-il arrivé à Baby Jane ?  
-  * Racket dans la couture  
-  * Sodome et Gomorrhe  
-  * Tout près de Satan  
-  * Trahison à Athènes  
-  * Trop tard pour les héros  
-  * Ultimatum des trois mercenaires (L')  
-  * Un rabbin au Far West  
-  * Vera Cruz  
-  * Vol du Phénix (Le)
+  * undefined
 
 ## Séances spéciales (1)
 

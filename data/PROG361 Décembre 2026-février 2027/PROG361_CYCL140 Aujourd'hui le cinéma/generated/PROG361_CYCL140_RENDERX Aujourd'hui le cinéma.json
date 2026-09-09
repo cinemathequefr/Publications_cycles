@@ -148,6 +148,33 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "BRIFF 2026",
+      "items": [
+        {
+          "idFilm": 156007,
+          "content": [
+            {
+              "idFilm": 156007,
+              "ordre": 1,
+              "titre": "Comme un château fort",
+              "realisateurs": "Lou Colpé",
+              "pays": "Belgique",
+              "annee": 2026
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 219835,
+              "dateHeure": "2027-02-08T19:30:00",
+              "idSalle": "JE",
+              "mention": "Avant-première. Séance suivie d'une discussion avec Lou Colpé"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "GREC",
       "items": [
         {
@@ -236,6 +263,13 @@
     }
   ],
   "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2027-02-08T19:30:00",
+        "titreFilms": "Comme un château fort",
+        "mention": "séance suivie d'une discussion avec Lou Colpé"
+      }
+    ],
     "Séances avec discussion": [
       {
         "titreFilms": "Mystère joyeux et triste de ce qui arrive et part (Le)",
@@ -246,6 +280,11 @@
         "titreFilms": "Le Chagrin des tournesols / Les Pelures d'estomac / Visite en terre irradiée / Cocon / Bleu au loin",
         "mention": "avec Etienne Bonnet, Anne-Sophie Girault, Amir Houshang Moein, Léa Krawczyk et Inés Sedan",
         "dateHeure": "2027-01-18T19:00:00"
+      },
+      {
+        "titreFilms": "Comme un château fort",
+        "mention": "avec Lou Colpé",
+        "dateHeure": "2027-02-08T19:30:00"
       }
     ],
     "Séances présentées": [
