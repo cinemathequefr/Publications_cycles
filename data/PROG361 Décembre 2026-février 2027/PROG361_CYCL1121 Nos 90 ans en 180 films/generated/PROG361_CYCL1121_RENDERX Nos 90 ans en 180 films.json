@@ -495,6 +495,22 @@
           ]
         },
         {
+          "content": [
+            {
+              "ordre": 2,
+              "titre": "Dialogue avec Sophie Letourneur"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228310,
+              "typeAssoc": 118,
+              "dateHeure": "2027-01-30T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 56663,
           "content": [
             {
@@ -545,6 +561,7 @@
           "seances": [
             {
               "idSeance": 228310,
+              "typeAssoc": 118,
               "dateHeure": "2027-01-30T15:00:00",
               "idSalle": "GF"
             }
@@ -2161,10 +2178,15 @@
     }
   ],
   "syntheseAction": {
-    "Séance avec dialogue": [
+    "Séances avec dialogue": [
       {
         "mention": "avec Jean-Pierre et Luc Dardenne ??",
         "dateHeure": "2026-12-17T20:00:00"
+      },
+      {
+        "titreFilms": "Énorme",
+        "mention": "avec Sophie Letourneur",
+        "dateHeure": "2027-01-30T15:00:00"
       }
     ],
     "Séances présentées": [

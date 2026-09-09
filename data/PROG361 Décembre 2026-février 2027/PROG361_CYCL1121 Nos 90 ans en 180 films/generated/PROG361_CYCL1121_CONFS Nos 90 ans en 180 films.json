@@ -10,10 +10,24 @@
   {
     "idCategorie": 4280,
     "idEvenement": 37560,
-    "titre": "Nouvelle conférence",
-    "duree": 0,
-    "idTypeConference": 55,
-    "typeConference": "Conférence",
-    "sousTitre": "Conférence "
+    "titre": "Dialogue avec Sophie Letourneur",
+    "duree": 75,
+    "idTypeConference": 16,
+    "typeConference": "Dialogue",
+    "intervenants": [
+      {
+        "nomComplet": "Sophie Letourneur",
+        "idFonction": 39,
+        "fonction": "Intervenant",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Murielle Joudet",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 2
+      }
+    ],
+    "mentionAnimation": "Animé par Murielle Joudet"
   }
 ]
