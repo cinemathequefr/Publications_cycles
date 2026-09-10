@@ -41,13 +41,13 @@
   * Intersecting Memory  
   * Je veux danser  
   * Jeu du roi (Le)  
-  * Marave Challenge  
   * Mes amis  
   * Mystère joyeux et triste de ce qui arrive et part (Le)  
   * Notre-Dame de la ZAD  
   * Nouvelles folies françaises (Les)  
   * Pelures d'estomac (Les)  
   * Rano  
+  * Saint-Jean  
   * Super Nova  
   * Tarte au fromage (La)  
   * Un adieu  
@@ -110,7 +110,7 @@
   * Un rêve, quoi d'autre ?  
   * Winifred Wagner et l'histoire de la maison Wahnfried de 1914 à 1975
 
-## Ira Sachs (17)
+## Ira Sachs (16)
 
   * 10/26/00  
   * 30/30 Vision (3 Decades of Strand Releasing): Before I Forget  
@@ -120,7 +120,6 @@
   * Frankie  
   * Get It While You Can: My Father in Moscow  
   * Keep the Lights On  
-  * Lady  
   * Last Address  
   * Love Is Strange  
   * Man I Love (The)  

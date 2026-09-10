@@ -1908,14 +1908,6 @@
         "format": "DCP"
       },
       {
-        "idFilm": 156003,
-        "titre": "Marave Challenge",
-        "realisateurs": "Simon Rieth",
-        "annee": 2019,
-        "duree": 10,
-        "format": "DCP"
-      },
-      {
         "idFilm": 156005,
         "titre": "Super Nova",
         "realisateurs": "Juliette Saint-Sardos",
@@ -1931,9 +1923,15 @@
         "annee": 2016,
         "duree": 36,
         "format": "DCP"
+      },
+      {
+        "idFilm": 156015,
+        "titre": "Saint-Jean",
+        "realisateurs": "Simon Rieth",
+        "annee": 2017
       }
     ],
-    "hashEvenement": "f156004f156003f156005f156002"
+    "hashEvenement": "f156004f156005f156002f156015"
   },
   {
     "idSeance": 228072,
@@ -4928,8 +4926,8 @@
     "hashEvenement": "f45368"
   },
   {
-    "idSeance": 228351,
-    "idEvenement": 37563,
+    "idSeance": 230580,
+    "idEvenement": 37590,
     "dateHeure": "2027-01-17T14:30:00",
     "salle": "GF",
     "cycle": [
@@ -4940,12 +4938,12 @@
     ],
     "items": [
       {
-        "idConf": 37563,
-        "titre": "Intervention de Hala Habache",
-        "typeConference": "Dialogue"
+        "idConf": 37590,
+        "titre": "Après-midi d'études sur Jean Vigo",
+        "typeConference": "Conférence"
       }
     ],
-    "hashEvenement": "c37563"
+    "hashEvenement": "c37590"
   },
   {
     "idSeance": 219290,
@@ -4993,48 +4991,6 @@
       }
     ],
     "hashEvenement": "f36234"
-  },
-  {
-    "idSeance": 228352,
-    "idEvenement": 37564,
-    "dateHeure": "2027-01-17T15:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Jean Vigo",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 37564,
-        "titre": "Vigo-Langlois-Truffaut : L'Atalante, film martyr et « bon objet »",
-        "sousTitre": "Intervention de Bernard Benoliel",
-        "typeConference": "Dialogue"
-      }
-    ],
-    "hashEvenement": "c37564"
-  },
-  {
-    "idSeance": 228353,
-    "idEvenement": 37565,
-    "dateHeure": "2027-01-17T16:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Jean Vigo",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 37565,
-        "titre": "Maurice Jaubert, de Vigo à Truffaut",
-        "sousTitre": "Dialogue avec François Porcile",
-        "typeConference": "Conférence"
-      }
-    ],
-    "hashEvenement": "c37565"
   },
   {
     "idSeance": 219291,
@@ -5505,7 +5461,7 @@
   },
   {
     "idSeance": 228365,
-    "idEvenement": 37363,
+    "idEvenement": 37587,
     "dateHeure": "2027-01-22T20:00:00",
     "salle": "GF",
     "cycle": [
@@ -5523,10 +5479,19 @@
         "annee": 2025,
         "duree": 76,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155943,
+        "titre": "Last Address",
+        "realisateurs": "Ira Sachs",
+        "annee": 2010,
+        "duree": 9,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f155941"
+    "hashEvenement": "f155941f155943"
   },
   {
     "idSeance": 219411,
@@ -5596,18 +5561,9 @@
         "duree": 109,
         "version": "VOSTF",
         "format": "35 mm"
-      },
-      {
-        "idFilm": 101764,
-        "titre": "Get It While You Can: My Father in Moscow",
-        "realisateurs": "Ira Sachs",
-        "annee": 2002,
-        "duree": 27,
-        "version": "VOSTF",
-        "format": "DCP"
       }
     ],
-    "hashEvenement": "f98177f101764"
+    "hashEvenement": "f98177"
   },
   {
     "idSeance": 223515,
@@ -5897,20 +5853,20 @@
         "format": "DCP"
       },
       {
-        "idFilm": 155943,
-        "titre": "Last Address",
-        "realisateurs": "Ira Sachs",
-        "annee": 2010,
-        "duree": 9,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
         "idFilm": 155945,
         "titre": "10/26/00",
         "realisateurs": "Ira Sachs",
         "annee": 2000,
         "duree": 3,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 101764,
+        "titre": "Get It While You Can: My Father in Moscow",
+        "realisateurs": "Ira Sachs",
+        "annee": 2002,
+        "duree": 27,
         "version": "VOSTF",
         "format": "DCP"
       },
@@ -5931,18 +5887,9 @@
         "duree": 55,
         "version": "VOSTF",
         "format": "DCP"
-      },
-      {
-        "idFilm": 155947,
-        "titre": "Lady",
-        "realisateurs": "Ira Sachs",
-        "annee": 1993,
-        "duree": 28,
-        "version": "VOSTF",
-        "format": "DCP"
       }
     ],
-    "hashEvenement": "f155949f155943f155945f155944f155948f155947"
+    "hashEvenement": "f155949f155945f101764f155944f155948"
   },
   {
     "idSeance": 230573,
@@ -6913,6 +6860,10 @@
       [
         "Robert Aldrich",
         "Les films"
+      ],
+      [
+        "Robert Aldrich",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6925,29 +6876,14 @@
         "duree": 118,
         "version": "VOSTF",
         "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f30145"
-  },
-  {
-    "idSeance": 228356,
-    "idEvenement": 37568,
-    "dateHeure": "2027-02-06T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Robert Aldrich",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 37568,
         "titre": "Dialogue avec Jean-François Rauger",
         "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "c37568"
+    "hashEvenement": "f30145c37568"
   },
   {
     "idSeance": 219806,
@@ -7389,9 +7325,9 @@
     "hashEvenement": "c37412"
   },
   {
-    "idSeance": 219938,
-    "idEvenement": 37447,
-    "dateHeure": "2027-02-12T18:00:00",
+    "idSeance": 230576,
+    "idEvenement": 37449,
+    "dateHeure": "2027-02-12T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7401,16 +7337,16 @@
     ],
     "items": [
       {
-        "idFilm": 37415,
-        "titre": "Vacances romaines",
-        "realisateurs": "William Wyler",
-        "annee": 1953,
-        "duree": 119,
+        "idFilm": 45010,
+        "titre": "Guerre et Paix",
+        "realisateurs": "King Vidor",
+        "annee": 1956,
+        "duree": 208,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f37415"
+    "hashEvenement": "f45010"
   },
   {
     "idSeance": 219940,
@@ -7435,30 +7371,6 @@
     "hashEvenement": "f155857"
   },
   {
-    "idSeance": 219939,
-    "idEvenement": 37448,
-    "dateHeure": "2027-02-12T20:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Audrey Hepburn",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 36893,
-        "titre": "Sabrina",
-        "realisateurs": "Billy Wilder",
-        "annee": 1954,
-        "duree": 113,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f36893"
-  },
-  {
     "idSeance": 228226,
     "idEvenement": 36924,
     "dateHeure": "2027-02-12T21:30:00",
@@ -7481,9 +7393,9 @@
     "hashEvenement": "f155858"
   },
   {
-    "idSeance": 219994,
-    "idEvenement": 37449,
-    "dateHeure": "2027-02-13T14:00:00",
+    "idSeance": 230577,
+    "idEvenement": 37447,
+    "dateHeure": "2027-02-13T14:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7493,16 +7405,16 @@
     ],
     "items": [
       {
-        "idFilm": 45010,
-        "titre": "Guerre et Paix",
-        "realisateurs": "King Vidor",
-        "annee": 1956,
-        "duree": 208,
+        "idFilm": 37415,
+        "titre": "Vacances romaines",
+        "realisateurs": "William Wyler",
+        "annee": 1953,
+        "duree": 119,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f45010"
+    "hashEvenement": "f37415"
   },
   {
     "idSeance": 228227,
@@ -7604,7 +7516,7 @@
   {
     "idSeance": 228296,
     "idEvenement": 37443,
-    "dateHeure": "2027-02-13T21:00:00",
+    "dateHeure": "2027-02-13T21:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -8093,6 +8005,26 @@
       }
     ],
     "hashEvenement": "f38044"
+  },
+  {
+    "idSeance": 230579,
+    "idEvenement": 37588,
+    "dateHeure": "2027-02-19T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hans-Jürgen Syberberg",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37588,
+        "titre": "Conférence de Rochelle Fack",
+        "typeConference": "Conférence"
+      }
+    ],
+    "hashEvenement": "c37588"
   },
   {
     "idSeance": 220115,
@@ -8643,8 +8575,8 @@
     "hashEvenement": "f58037"
   },
   {
-    "idSeance": 220253,
-    "idEvenement": 37465,
+    "idSeance": 230578,
+    "idEvenement": 37448,
     "dateHeure": "2027-02-25T20:30:00",
     "salle": "HL",
     "cycle": [
@@ -8655,16 +8587,16 @@
     ],
     "items": [
       {
-        "idFilm": 38044,
-        "titre": "Au risque de se perdre",
-        "realisateurs": "Fred Zinnemann",
-        "annee": 1959,
-        "duree": 149,
+        "idFilm": 36893,
+        "titre": "Sabrina",
+        "realisateurs": "Billy Wilder",
+        "annee": 1954,
+        "duree": 113,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f38044"
+    "hashEvenement": "f36893"
   },
   {
     "idSeance": 228143,

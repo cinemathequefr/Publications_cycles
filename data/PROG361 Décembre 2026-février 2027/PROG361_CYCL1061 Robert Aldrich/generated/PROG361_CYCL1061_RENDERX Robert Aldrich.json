@@ -228,40 +228,59 @@
           ]
         },
         {
-          "idFilm": 30145,
-          "content": [
+          "groupe": [
             {
               "idFilm": 30145,
-              "ordre": 1,
-              "titre": "Cité des dangers",
-              "art": "La",
-              "titreVo": "Hustle",
-              "realisateurs": "Robert Aldrich",
-              "pays": "États-Unis",
-              "annee": 1975,
-              "duree": 118,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _City of Angels_ de Steve Shagan.",
-              "generique": [
-                "Burt Reynolds",
-                "Catherine Deneuve",
-                "Ben Johnson"
-              ],
-              "miniTexte": "Un policier enquête sur le suicide d'une jeune femme, affaire _a priori_ banale mais aux recoins bien sombres. L'homme est fatigué par son métier, s'interroge sur sa relation avec une call-girl française. Un polar noir et mélancolique, qui affirme que la violence est inéluctable et rassemble les obsessions d'Aldrich pour le vice et la morale."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 218985,
-              "dateHeure": "2027-01-06T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "content": [
+                {
+                  "idFilm": 30145,
+                  "ordre": 1,
+                  "titre": "Cité des dangers",
+                  "art": "La",
+                  "titreVo": "Hustle",
+                  "realisateurs": "Robert Aldrich",
+                  "pays": "États-Unis",
+                  "annee": 1975,
+                  "duree": 118,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _City of Angels_ de Steve Shagan.",
+                  "generique": [
+                    "Burt Reynolds",
+                    "Catherine Deneuve",
+                    "Ben Johnson"
+                  ],
+                  "miniTexte": "Un policier enquête sur le suicide d'une jeune femme, affaire _a priori_ banale mais aux recoins bien sombres. L'homme est fatigué par son métier, s'interroge sur sa relation avec une call-girl française. Un polar noir et mélancolique, qui affirme que la violence est inéluctable et rassemble les obsessions d'Aldrich pour le vice et la morale."
+                }
+              ]
             },
             {
-              "idSeance": 228257,
-              "dateHeure": "2027-02-06T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 37568,
+              "content": [
+                {
+                  "idConf": 37568,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-François Rauger",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "Après avoir vu _El Perdido_ de Robert Aldrich, mon grand-père m'avait dit, dans son alsacien irréprochable de la région de Haguenau : « Ce n'est pas un western, c'est un film sentimental. » On pourrait dire, de la même façon, de _La Cité des dangers_ : « Ce n'est pas un film noir, c'est un mélodrame masculin. » Paradoxes du cinéma de Robert Aldrich. — Jean-François Rauger"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 218985,
+                  "dateHeure": "2027-01-06T20:00:00",
+                  "idSalle": "HL",
+                  "mention": "Ouverture de la rétrospective",
+                  "mentionAssoc": "Film seul"
+                },
+                {
+                  "idSeance": 228257,
+                  "typeAssoc": 118,
+                  "dateHeure": "2027-02-06T15:00:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film + dialogue"
+                }
+              ]
             }
           ]
         },
@@ -1115,9 +1134,44 @@
       ]
     },
     {
-      "tri": 2,
+      "tri": 4,
       "titreSousCycle": "Films pour la télévision",
+      "texteSousCycle": "En 1953 et 1954, Robert Aldrich réalise cinq épisodes pour la série dramatique télévisée _Four Star Playhouse_.",
       "items": [
+        {
+          "idEvenement": 37312,
+          "content": [
+            {
+              "idFilm": 129253,
+              "ordre": 1,
+              "titre": "Four Star Playhouse: The Gift",
+              "realisateurs": "Robert Aldrich",
+              "pays": "États-Unis",
+              "annee": 1953,
+              "duree": 60,
+              "version": "VOSTF",
+              "format": "16 mm"
+            },
+            {
+              "idFilm": 129252,
+              "ordre": 2,
+              "titre": "Four Star Playhouse: The Witness",
+              "realisateurs": "Robert Aldrich",
+              "pays": "États-Unis",
+              "annee": 1953,
+              "duree": 22,
+              "version": "VOSTF",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228238,
+              "dateHeure": "2027-01-27T19:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
         {
           "idEvenement": 37315,
           "content": [
@@ -1162,63 +1216,6 @@
               "idSalle": "JE"
             }
           ]
-        },
-        {
-          "idEvenement": 37312,
-          "content": [
-            {
-              "idFilm": 129253,
-              "ordre": 1,
-              "titre": "Four Star Playhouse: The Gift",
-              "realisateurs": "Robert Aldrich",
-              "pays": "États-Unis",
-              "annee": 1953,
-              "duree": 60,
-              "version": "VOSTF",
-              "format": "16 mm"
-            },
-            {
-              "idFilm": 129252,
-              "ordre": 2,
-              "titre": "Four Star Playhouse: The Witness",
-              "realisateurs": "Robert Aldrich",
-              "pays": "États-Unis",
-              "annee": 1953,
-              "duree": 22,
-              "version": "VOSTF",
-              "format": ""
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 228238,
-              "dateHeure": "2027-01-27T19:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 37568,
-          "content": [
-            {
-              "idConf": 37568,
-              "titre": "Dialogue avec Jean-François Rauger",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 228356,
-              "dateHeure": "2027-02-06T17:00:00",
-              "idSalle": "GF"
-            }
-          ]
         }
       ]
     }
@@ -1236,8 +1233,9 @@
         "dateHeure": "2027-01-24T14:30:00"
       },
       {
+        "titreFilms": "La Cité des dangers",
         "mention": "avec Jean-François Rauger",
-        "dateHeure": "2027-02-06T17:00:00"
+        "dateHeure": "2027-02-06T15:00:00"
       }
     ]
   }

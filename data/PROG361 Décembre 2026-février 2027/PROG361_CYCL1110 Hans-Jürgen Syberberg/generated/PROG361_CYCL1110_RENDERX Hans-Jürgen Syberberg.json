@@ -424,30 +424,56 @@
           ]
         },
         {
-          "idFilm": 59110,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 37588,
+              "content": [
+                {
+                  "idConf": 37588,
+                  "titre": "Conférence de Rochelle Fack",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 230579,
+                  "idSeanceAssoc": 228254,
+                  "typeAssoc": 117,
+                  "dateHeure": "2027-02-19T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 59110,
-              "ordre": 1,
-              "titre": "Theodor Hierneis ou le cuisinier du roi",
-              "titreVo": "Theodor Hierneis oder: Wie man ehemaliger Hofkoch wird",
-              "realisateurs": "Hans-Jürgen Syberberg",
-              "pays": "RFA",
-              "annee": 1972,
-              "duree": 90,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Walter Sedlmayr"
+              "content": [
+                {
+                  "idFilm": 59110,
+                  "ordre": 1,
+                  "titre": "Theodor Hierneis ou le cuisinier du roi",
+                  "titreVo": "Theodor Hierneis oder: Wie man ehemaliger Hofkoch wird",
+                  "realisateurs": "Hans-Jürgen Syberberg",
+                  "pays": "RFA",
+                  "annee": 1972,
+                  "duree": 90,
+                  "version": "",
+                  "format": "",
+                  "generique": [
+                    "Walter Sedlmayr"
+                  ],
+                  "miniTexte": "Les mémoires d'un cuisinier à la cour de Louis II de Bavière. Après _Ludwig, requiem pour un roi vierge_, Syberberg dévoile la vie, les manières et les manies du monarque, racontées par l'un de ses serviteurs. Seul personnage à l'écran, incarné par un célèbre acteur bavarois, Theodor Hierneis livre au spectateur un monologue de 90 minutes qui se regarde comme un remarquable document historique et politique."
+                }
               ],
-              "miniTexte": "Les mémoires d'un cuisinier à la cour de Louis II de Bavière. Après _Ludwig, requiem pour un roi vierge_, Syberberg dévoile la vie, les manières et les manies du monarque, racontées par l'un de ses serviteurs. Seul personnage à l'écran, incarné par un célèbre acteur bavarois, Theodor Hierneis livre au spectateur un monologue de 90 minutes qui se regarde comme un remarquable document historique et politique."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 228254,
-              "dateHeure": "2027-02-19T21:30:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 228254,
+                  "idSeanceAssoc": 230579,
+                  "typeAssoc": 117,
+                  "dateHeure": "2027-02-19T21:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -511,5 +537,12 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Conférence de Rochelle Fack",
+        "dateHeure": "2027-02-19T19:00:00"
+      }
+    ]
+  }
 }

@@ -354,6 +354,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 150,
+          "typeAssoc": 118,
           "idCategorie": 4045,
           "idEvenement": 35175,
           "typeEvenement": 13,
@@ -1828,7 +1829,7 @@
     },
     {
       "titreSousCycle": "Films pour la télévision",
-      "tri": 2,
+      "tri": 4,
       "items": [
         {
           "idSeance": 228239,
@@ -1941,7 +1942,12 @@
           "textes": []
         }
       ],
-      "textes": []
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "En 1953 et 1954, Robert Aldrich réalise cinq épisodes pour la série dramatique télévisée _Four Star Playhouse_."
+        }
+      ]
     },
     {
       "titreSousCycle": "Rencontres et conférences",
@@ -1966,20 +1972,27 @@
           "textes": []
         },
         {
-          "idSeance": 228356,
-          "dateHeure": "2027-02-06T17:00:00",
+          "idSeance": 228257,
+          "ordre": 2,
+          "dateHeure": "2027-02-06T15:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "dureeSeance": 60,
+          "typeAssoc": 118,
           "idCategorie": 4316,
           "idEvenement": 37568,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
           "titre": "Dialogue avec Jean-François Rauger",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Après avoir vu _El Perdido_ de Robert Aldrich, mon grand-père m'avait dit, dans son alsacien irréprochable de la région de Haguenau : « Ce n'est pas un western, c'est un film sentimental. » On pourrait dire, de la même façon, de _La Cité des dangers_ : « Ce n'est pas un film noir, c'est un mélodrame masculin. » Paradoxes du cinéma de Robert Aldrich. — Jean-François Rauger"
+            }
+          ]
         },
         {
           "idSeance": 228305,
