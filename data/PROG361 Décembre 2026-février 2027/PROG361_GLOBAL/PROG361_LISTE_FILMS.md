@@ -29,7 +29,6 @@
 ## Aujourd'hui le cinéma (24)
 
   * Adieu rond-point  
-  * Adieu (Un)  
   * Blaise  
   * Bleu au loin  
   * Camarades  
@@ -51,6 +50,7 @@
   * Rano  
   * Super Nova  
   * Tarte au fromage (La)  
+  * Un adieu  
   * Visite en terre irradiée
 
 ## Ciné-club de Murielle Joudet (1)
