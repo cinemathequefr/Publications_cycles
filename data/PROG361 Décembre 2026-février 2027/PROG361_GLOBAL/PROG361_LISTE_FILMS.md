@@ -259,7 +259,7 @@
   * Yi Yi  
   * Zero Dark Thirty
 
-## Restaurations et raretés, best of 2026 (47)
+## Restaurations et raretés, best of 2026 (48)
 
   * A History of Violence  
   * Amour à mort (L')  
@@ -279,6 +279,7 @@
   * Habitants (Les)  
   * Homme à la caméra (L')  
   * Homme de fer (L')  
+  * Human Factor (The)  
   * Innocent (L')  
   * Intrus magnifique (L')  
   * Jesus Christ Superstar  

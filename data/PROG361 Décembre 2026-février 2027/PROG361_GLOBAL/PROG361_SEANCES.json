@@ -109,6 +109,32 @@
     "hashEvenement": "f36673"
   },
   {
+    "idSeance": 230581,
+    "idEvenement": 37592,
+    "dateHeure": "2026-12-02T17:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et raretés, best of 2026",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 71870,
+        "titre": "Human Factor",
+        "art": "The",
+        "realisateurs": "Otto Preminger",
+        "annee": 1979,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f71870"
+  },
+  {
     "idSeance": 228273,
     "idEvenement": 37534,
     "dateHeure": "2026-12-02T17:45:00",
@@ -1652,6 +1678,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Bernard Benoliel",
     "items": [
       {
         "idFilm": 31142,
@@ -4939,7 +4966,8 @@
     "items": [
       {
         "idConf": 37590,
-        "titre": "Après-midi d'études sur Jean Vigo",
+        "titre": "Après-midi d'étude sur Jean Vigo",
+        "sousTitre": "Interventions de Bernard Benoliel, Hala Habache et François Porcile",
         "typeConference": "Conférence"
       }
     ],
@@ -7179,7 +7207,8 @@
         "art": "Le",
         "realisateurs": "John Huston",
         "annee": 1960,
-        "duree": 125
+        "duree": 125,
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f33470"
@@ -7274,7 +7303,8 @@
         "titre": "Ludwig, requiem pour un roi vierge",
         "realisateurs": "Hans-Jürgen Syberberg",
         "annee": 1972,
-        "duree": 140
+        "duree": 140,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f58037"
@@ -7555,7 +7585,8 @@
         "titre": "Hitler, un film d'Allemagne",
         "realisateurs": "Hans-Jürgen Syberberg",
         "annee": 1977,
-        "duree": 430
+        "duree": 430,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f39540"
@@ -7621,7 +7652,7 @@
         "idFilm": 42051,
         "titre": "Liés par le sang",
         "realisateurs": "Terence Young",
-        "annee": 1978,
+        "annee": 1979,
         "duree": 117,
         "version": "VOSTF",
         "format": "35 mm"
@@ -8089,7 +8120,8 @@
         "titre": "Parsifal",
         "realisateurs": "Hans-Jürgen Syberberg",
         "annee": 1982,
-        "duree": 255
+        "duree": 255,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f39250"
@@ -8159,7 +8191,8 @@
         "titre": "Karl May : À la recherche du paradis perdu",
         "realisateurs": "Hans-Jürgen Syberberg",
         "annee": 1974,
-        "duree": 187
+        "duree": 187,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f39572"
@@ -8277,7 +8310,10 @@
         "idFilm": 42107,
         "titre": "Seule dans la nuit",
         "realisateurs": "Terence Young",
-        "annee": 1967
+        "annee": 1967,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f42107"
@@ -8298,7 +8334,7 @@
         "idFilm": 36857,
         "titre": "Ariane",
         "realisateurs": "Billy Wilder",
-        "annee": 1956,
+        "annee": 1957,
         "duree": 130,
         "version": "VOSTF",
         "format": "DCP"
@@ -8473,7 +8509,7 @@
         "idFilm": 42051,
         "titre": "Liés par le sang",
         "realisateurs": "Terence Young",
-        "annee": 1978,
+        "annee": 1979,
         "duree": 117,
         "version": "VOSTF",
         "format": "35 mm"
@@ -8569,7 +8605,8 @@
         "titre": "Ludwig, requiem pour un roi vierge",
         "realisateurs": "Hans-Jürgen Syberberg",
         "annee": 1972,
-        "duree": 140
+        "duree": 140,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f58037"
@@ -8911,7 +8948,7 @@
         "idFilm": 36857,
         "titre": "Ariane",
         "realisateurs": "Billy Wilder",
-        "annee": 1956,
+        "annee": 1957,
         "duree": 130,
         "version": "VOSTF",
         "format": "DCP"
@@ -8959,7 +8996,8 @@
         "art": "Le",
         "realisateurs": "John Huston",
         "annee": 1960,
-        "duree": 125
+        "duree": 125,
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f33470"
