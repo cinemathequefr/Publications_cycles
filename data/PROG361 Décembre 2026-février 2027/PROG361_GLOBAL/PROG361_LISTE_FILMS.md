@@ -1,8 +1,9 @@
 # Liste des films par cycle
 
-## Archi Vives (1)
+## Archi Vives (2)
 
-  * Kedma
+  * Kedma  
+  * Raoul Minot, de l'ombre à la lumière
 
 ## Audrey Hepburn (19)
 
