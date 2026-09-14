@@ -10,26 +10,6 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idConf": 37414,
-          "content": [
-            {
-              "idEvenement": 37414,
-              "titre": "Dialogue avec Jean-Pierre et Luc Dardenne",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Bernard Benoliel",
-              "miniTexte": "Déjouant magistralement toutes les embûches d'un sujet piège – bons sentiments, humanisme démonstratif, manichéisme –, Luc et Jean-Pierre Dardenne tirent leur matériau réaliste vers la fiction la plus haletante grâce à la stylisation d'une mise en scène à la fois brute et survoltée, ne jugeant jamais ce qu'elle montre et plaçant le spectateur en état d'alerte permanent. — Frédéric Bonnaud",
-              "idConf": 37414
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 223514,
-              "dateHeure": "2026-12-17T20:45:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 43262,
           "content": [
             {
@@ -468,33 +448,52 @@
           ]
         },
         {
-          "idFilm": 60449,
-          "content": [
+          "groupe": [
             {
               "idFilm": 60449,
-              "ordre": 1,
-              "titre": "Promesse",
-              "art": "La",
-              "realisateurs": "Luc Dardenne, Jean-Pierre Dardenne",
-              "pays": "Belgique-France-Tunisie-Luxembourg",
-              "annee": 1996,
-              "duree": 93,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Jérémie Renier",
-                "Olivier Gourmet",
-                "Rasmane Ouedraogo"
-              ],
-              "isFocus": true,
-              "miniTexte": "Dans la banlieue industrielle de Liège, Igor, 15 ans, vit au milieu des combines de son père, jusqu'à ce qu'un événement grave le contraigne à choisir entre conscience morale et loyauté filiale. Décors bruts, refus du sentimentalisme, scènes filmées au plus près des personnages, _La Promesse_ explore les tensions éthiques d'un monde de précarité et pose d'emblée les fondements d'une œuvre ancrée dans un réalisme social radical, qui impose les frères Dardenne comme force majeure du cinéma mondial."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 60449,
+                  "ordre": 1,
+                  "titre": "Promesse",
+                  "art": "La",
+                  "realisateurs": "Luc Dardenne, Jean-Pierre Dardenne",
+                  "pays": "Belgique-France-Tunisie-Luxembourg",
+                  "annee": 1996,
+                  "duree": 93,
+                  "version": "",
+                  "format": "35 mm",
+                  "generique": [
+                    "Jérémie Renier",
+                    "Olivier Gourmet",
+                    "Rasmane Ouedraogo"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Dans la banlieue industrielle de Liège, Igor, 15 ans, vit au milieu des combines de son père, jusqu'à ce qu'un événement grave le contraigne à choisir entre conscience morale et loyauté filiale. Décors bruts, refus du sentimentalisme, scènes filmées au plus près des personnages, _La Promesse_ explore les tensions éthiques d'un monde de précarité et pose d'emblée les fondements d'une œuvre ancrée dans un réalisme social radical, qui impose les frères Dardenne comme force majeure du cinéma mondial."
+                }
+              ]
+            },
             {
-              "idSeance": 220499,
-              "dateHeure": "2026-12-17T18:00:00",
-              "idSalle": "HL"
+              "idConf": 37414,
+              "content": [
+                {
+                  "idEvenement": 37414,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-Pierre et Luc Dardenne",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel",
+                  "miniTexte": "Déjouant magistralement toutes les embûches d'un sujet piège – bons sentiments, humanisme démonstratif, manichéisme –, Luc et Jean-Pierre Dardenne tirent leur matériau réaliste vers la fiction la plus haletante grâce à la stylisation d'une mise en scène à la fois brute et survoltée, ne jugeant jamais ce qu'elle montre et plaçant le spectateur en état d'alerte permanent. — Frédéric Bonnaud",
+                  "idConf": 37414
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 220499,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-12-17T18:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -1770,7 +1769,7 @@
           "seances": [
             {
               "idSeance": 219480,
-              "dateHeure": "2027-01-25T16:00:00",
+              "dateHeure": "2027-01-25T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -2311,8 +2310,9 @@
   "syntheseAction": {
     "Séances avec dialogue": [
       {
+        "titreFilms": "La Promesse",
         "mention": "avec Jean-Pierre et Luc Dardenne",
-        "dateHeure": "2026-12-17T20:45:00"
+        "dateHeure": "2026-12-17T18:00:00"
       },
       {
         "titreFilms": "Énorme",
