@@ -106,7 +106,7 @@
   * Romy, anatomie d'un visage  
   * San Domingo  
   * Scarabea : De combien de terre l'Homme a-t-il besoin ?  
-  * Sex Business: Made in Pasing  
+  * Sex Business – Made in Pasing  
   * Theodor Hierneis ou le cuisinier du roi  
   * Un rêve, quoi d'autre ?  
   * Winifred Wagner et l'histoire de la maison Wahnfried de 1914 à 1975
