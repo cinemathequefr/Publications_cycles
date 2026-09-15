@@ -313,7 +313,12 @@
               "annee": 2026,
               "duree": 21,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Samer El Sayyed",
+                "Maria Shmouri",
+                "Akram Nayef"
+              ]
             }
           ],
           "seances": [
@@ -349,6 +354,30 @@
               "dateHeure": "2027-02-08T19:30:00",
               "idSalle": "JE",
               "mention": "Avant-première. Séance suivie d'une discussion avec Lou Colpé"
+            }
+          ]
+        },
+        {
+          "idFilm": 156018,
+          "content": [
+            {
+              "idFilm": 156018,
+              "ordre": 1,
+              "titre": "Ceci n'est pas un film français",
+              "realisateurs": "Tom Adjibi",
+              "pays": "France-Belgique",
+              "annee": 2025,
+              "duree": 80,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230588,
+              "dateHeure": "2027-02-08T19:30:00",
+              "idSalle": "JE",
+              "mention": "Avant-première. Séance suivie d'une discussion avec Tom Adjibi"
             }
           ]
         }
@@ -487,7 +516,12 @@
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
+      {
+        "dateHeure": "2027-02-08T19:30:00",
+        "titreFilms": "Ceci n'est pas un film français",
+        "mention": "séance suivie d'une discussion avec Tom Adjibi"
+      },
       {
         "dateHeure": "2027-02-08T19:30:00",
         "titreFilms": "Comme un château fort",
@@ -508,6 +542,11 @@
       {
         "titreFilms": "Comme un château fort",
         "mention": "avec Lou Colpé",
+        "dateHeure": "2027-02-08T19:30:00"
+      },
+      {
+        "titreFilms": "Ceci n'est pas un film français",
+        "mention": "avec Tom Adjibi",
         "dateHeure": "2027-02-08T19:30:00"
       }
     ],
