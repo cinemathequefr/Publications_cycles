@@ -146,16 +146,14 @@
   * Vie d'un fleuve (La)  
   * Zéro de conduite
 
-## Jean-Paul Belmondo (12)
+## Jean-Paul Belmondo (10)
 
-  * À bout de souffle  
   * À double tour  
   * As des as (L')  
   * Borsalino  
   * Cent mille dollars au soleil  
   * Docteur Popaul  
   * Héritier (L')  
-  * Incorrigible (L')  
   * Mariés de l'an II (Les)  
   * Moderato cantabile  
   * Sirène du Mississipi (La)  
