@@ -471,59 +471,12 @@
   {
     "idCategorie": 4261,
     "typeEvenement": 13,
-    "idEvenement": 36740,
-    "idSeance": 228076,
+    "idEvenement": 36835,
+    "idSeance": 230599,
     "dateHeure": "2026-12-19T20:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 59512,
-        "ordre": 1,
-        "idSeance": 228076,
-        "idCopie": 32351,
-        "duree": 97,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4261,
-    "typeEvenement": 13,
-    "idEvenement": 36887,
-    "idSeance": 228078,
-    "dateHeure": "2026-12-20T17:45:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 64306,
-        "ordre": 1,
-        "idSeance": 228078,
-        "idCopie": 28011,
-        "duree": 116,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 4261,
-    "typeEvenement": 13,
-    "idEvenement": 36835,
-    "idSeance": 218588,
-    "dateHeure": "2026-12-20T20:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
     ],
     "dureeSeance": 30,
     "items": [
@@ -531,8 +484,53 @@
         "idFilm": 75199,
         "ordre": 1
       }
+    ]
+  },
+  {
+    "idCategorie": 4261,
+    "typeEvenement": 13,
+    "idEvenement": 36838,
+    "idSeance": 230597,
+    "dateHeure": "2026-12-20T17:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
     ],
-    "mention": "Séance présentée par Peggy Hannon"
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 79087,
+        "ordre": 1,
+        "idSeance": 230597,
+        "idCopie": 7577,
+        "duree": 150,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4261,
+    "typeEvenement": 13,
+    "idEvenement": 36740,
+    "idSeance": 230598,
+    "dateHeure": "2026-12-20T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 59512,
+        "ordre": 1,
+        "idSeance": 230598,
+        "idCopie": 32351,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCategorie": 4261,
@@ -702,23 +700,24 @@
   {
     "idCategorie": 4261,
     "typeEvenement": 13,
-    "idEvenement": 36838,
-    "idSeance": 228084,
+    "idEvenement": 36887,
+    "idSeance": 230596,
     "dateHeure": "2026-12-26T17:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 180,
+    "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 79087,
+        "idFilm": 64306,
         "ordre": 1,
-        "idSeance": 228084,
-        "idCopie": 7577,
-        "duree": 150,
+        "idSeance": 230596,
+        "idCopie": 28011,
+        "duree": 116,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -727,7 +726,7 @@
     "typeEvenement": 13,
     "idEvenement": 36842,
     "idSeance": 228083,
-    "dateHeure": "2026-12-26T20:30:00",
+    "dateHeure": "2026-12-26T19:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -809,7 +808,7 @@
         "format": "35 mm"
       }
     ],
-    "mention": "Séance présentée par Alexandre Monneau"
+    "mention": "Séance présentée par Axel Monneau"
   },
   {
     "idCategorie": 4261,
@@ -1775,6 +1774,7 @@
         "version": "VO",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Frédéric Bonnaud"
   }
 ]
