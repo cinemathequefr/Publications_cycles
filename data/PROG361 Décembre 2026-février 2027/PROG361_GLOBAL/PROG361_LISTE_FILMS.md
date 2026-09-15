@@ -67,7 +67,7 @@
   * Et viva la révolution !  
   * Froid Baiser de la mort (Le)  
   * Goulag  
-  * Homme d'Istambul (L')  
+  * Homme d'Istanbul (L')  
   * Monstre de Venise (Le)  
   * Rive droite, rive gauche  
   * Sexe nu (Le)  
@@ -260,6 +260,13 @@
   * Xiao Wu, artisan pickpocket  
   * Yi Yi  
   * Zero Dark Thirty
+
+## Parlons cinéma... avec Olivier Père (4)
+
+  * Assis à sa droite  
+  * Cutter's Way  
+  * Pacifiction : Tourment sur les îles  
+  * Phantom of the Paradise
 
 ## Restaurations et raretés, best of 2026 (48)
 

@@ -1219,9 +1219,40 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 37645,
+          "content": [
+            {
+              "idConf": 37645,
+              "titre": "Robert Aldrich, un brutaliste",
+              "sousTitre": "Conférence de Jean-Marie Samocki",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230591,
+              "dateHeure": "2027-01-07T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Robert Aldrich, un brutaliste",
+        "mention": "par Jean-Marie Samocki",
+        "dateHeure": "2027-01-07T19:00:00"
+      }
+    ],
     "Séances avec dialogue": [
       {
         "titreFilms": "Vera Cruz",

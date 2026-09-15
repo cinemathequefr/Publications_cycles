@@ -3,73 +3,173 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
+      "titreSousCycle": "Les films",
       "items": [
         {
-          "idConf": 37417,
-          "content": [
+          "groupe": [
             {
-              "idConf": 37417,
-              "titre": "Parlons cinéma 1",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
+              "idFilm": 43812,
+              "content": [
+                {
+                  "idFilm": 43812,
+                  "ordre": 1,
+                  "titre": "Assis à sa droite",
+                  "titreVo": "Seduto alla sua destra",
+                  "realisateurs": "Valerio Zurlini",
+                  "pays": "Italie",
+                  "annee": 1968,
+                  "generique": [
+                    "Woody Strode",
+                    "Jean Servais",
+                    "Franco Citti"
+                  ],
+                  "miniTexte": "Inspiré des derniers jours du leader congolais Patrice Lumumba, un pamphlet politique ambitieux, qui transpose la vie de Jésus dans une Afrique ravagée par la violence. Interprétée par Woody Strode (_Le Sergent noir_ de Ford), l'une des grandes œuvres oubliées de Zurlini, égarée lors de l'édition suspendue du Festival de Cannes 1968."
+                }
+              ]
+            },
             {
-              "idSeance": 223517,
-              "dateHeure": "2027-01-21T19:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idConf": 37418,
-          "content": [
-            {
-              "idConf": 37418,
-              "titre": "Parlons cinéma 2",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 223518,
-              "dateHeure": "2027-01-28T19:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idConf": 37419,
-          "content": [
-            {
-              "idConf": 37419,
-              "titre": "Parlons cinéma 3",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 223519,
-              "dateHeure": "2027-02-04T19:00:00",
-              "idSalle": "GF"
+              "idEvenement": 37417,
+              "content": [
+                {
+                  "idConf": 37417,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Olivier Père",
+                  "typeConference": "Conférence",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 230592,
+                  "typeAssoc": 118,
+                  "dateHeure": "2027-01-21T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
         {
-          "idConf": 37420,
-          "content": [
+          "groupe": [
             {
-              "idConf": 37420,
-              "titre": "Parlons cinéma 4",
-              "typeConference": "Conférence"
+              "idFilm": 31641,
+              "content": [
+                {
+                  "idFilm": 31641,
+                  "ordre": 1,
+                  "titre": "Phantom of the Paradise",
+                  "realisateurs": "Brian De Palma",
+                  "pays": "États-Unis",
+                  "annee": 1974,
+                  "generique": [
+                    "William Finley",
+                    "Paul Williams",
+                    "Jessica Harper",
+                    "Gerrit Graham"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 37418,
+              "content": [
+                {
+                  "idConf": 37418,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Olivier Père",
+                  "typeConference": "Conférence",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 230593,
+                  "typeAssoc": 118,
+                  "dateHeure": "2027-01-28T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
-          ],
-          "seances": [
+          ]
+        },
+        {
+          "groupe": [
             {
-              "idSeance": 223520,
-              "dateHeure": "2027-02-18T19:00:00",
-              "idSalle": "GF"
+              "idFilm": 35627,
+              "content": [
+                {
+                  "idFilm": 35627,
+                  "ordre": 1,
+                  "titre": "Cutter's Way",
+                  "realisateurs": "Ivan Passer",
+                  "pays": "États-Unis",
+                  "annee": 1981,
+                  "generique": [
+                    "Jeff Bridges"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 37419,
+              "content": [
+                {
+                  "idConf": 37419,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Olivier Père",
+                  "typeConference": "Conférence",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 230594,
+                  "typeAssoc": 118,
+                  "dateHeure": "2027-02-04T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 153615,
+              "content": [
+                {
+                  "idFilm": 153615,
+                  "ordre": 1,
+                  "titre": "Pacifiction : Tourment sur les îles",
+                  "realisateurs": "Albert Serra",
+                  "pays": "France-Espagne-Allemagne-Portugal",
+                  "annee": 2022,
+                  "generique": [
+                    "Benoît Magimel",
+                    "Pahoa Mahagafanau"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 37420,
+              "content": [
+                {
+                  "idConf": 37420,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Olivier Père",
+                  "typeConference": "Conférence",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 230595,
+                  "typeAssoc": 118,
+                  "dateHeure": "2027-02-18T18:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         }
@@ -79,20 +179,20 @@
   "syntheseAction": {
     "Conférences": [
       {
-        "titre": "Parlons cinéma 1",
+        "titre": "Dialogue avec Olivier Père",
         "dateHeure": "2027-01-21T19:00:00"
       },
       {
-        "titre": "Parlons cinéma 2",
+        "titre": "Dialogue avec Olivier Père",
         "dateHeure": "2027-01-28T19:00:00"
       },
       {
-        "titre": "Parlons cinéma 3",
+        "titre": "Dialogue avec Olivier Père",
         "dateHeure": "2027-02-04T19:00:00"
       },
       {
-        "titre": "Parlons cinéma 4",
-        "dateHeure": "2027-02-18T19:00:00"
+        "titre": "Dialogue avec Olivier Père",
+        "dateHeure": "2027-02-18T18:30:00"
       }
     ]
   }

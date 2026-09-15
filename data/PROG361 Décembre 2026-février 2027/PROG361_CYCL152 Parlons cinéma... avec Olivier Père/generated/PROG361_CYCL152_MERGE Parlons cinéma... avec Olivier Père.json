@@ -1,72 +1,195 @@
 {
   "data": [
     {
-      "titreSousCycle": "Rencontres et conférences",
+      "titreSousCycle": "Les films",
       "tri": 4,
       "items": [
         {
-          "idSeance": 223517,
+          "idSeance": 230592,
+          "ordre": 1,
           "dateHeure": "2027-01-21T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
-          "dureeSeance": 180,
-          "idCategorie": 3111,
-          "idEvenement": 37417,
-          "typeEvenement": 14,
-          "idTypeConference": 55,
-          "typeConference": "Conférence",
-          "titre": "Parlons cinéma 1",
-          "textes": []
-        },
-        {
-          "idSeance": 223518,
-          "dateHeure": "2027-01-28T19:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 4314,
+          "idEvenement": 37646,
+          "typeEvenement": 13,
+          "idFilm": 43812,
+          "titre": "Assis à sa droite",
+          "titreVo": "Seduto alla sua destra",
+          "realisateurs": "Valerio Zurlini",
+          "annee": 1968,
+          "pays": "Italie",
+          "generique": [
+            "Woody Strode",
+            "Jean Servais",
+            "Franco Citti"
           ],
-          "dureeSeance": 180,
-          "idCategorie": 3111,
-          "idEvenement": 37418,
-          "typeEvenement": 14,
-          "idTypeConference": 55,
-          "typeConference": "Conférence",
-          "titre": "Parlons cinéma 2",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Inspiré des derniers jours du leader congolais Patrice Lumumba, un pamphlet politique ambitieux, qui transpose la vie de Jésus dans une Afrique ravagée par la violence. Interprétée par Woody Strode (_Le Sergent noir_ de Ford), l'une des grandes œuvres oubliées de Zurlini, égarée lors de l'édition suspendue du Festival de Cannes 1968."
+            }
+          ]
         },
         {
-          "idSeance": 223519,
+          "idSeance": 230594,
+          "ordre": 1,
           "dateHeure": "2027-02-04T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
-          "dureeSeance": 180,
+          "dureeSeance": 120,
+          "typeAssoc": 118,
+          "idCategorie": 4314,
+          "idEvenement": 37648,
+          "typeEvenement": 13,
+          "idFilm": 35627,
+          "titre": "Cutter's Way",
+          "realisateurs": "Ivan Passer",
+          "annee": 1981,
+          "pays": "États-Unis",
+          "generique": [
+            "Jeff Bridges"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 230595,
+          "ordre": 1,
+          "dateHeure": "2027-02-18T18:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 165,
+          "typeAssoc": 118,
+          "idCategorie": 4314,
+          "idEvenement": 37649,
+          "typeEvenement": 13,
+          "idFilm": 153615,
+          "titre": "Pacifiction : Tourment sur les îles",
+          "realisateurs": "Albert Serra",
+          "annee": 2022,
+          "pays": "France-Espagne-Allemagne-Portugal",
+          "generique": [
+            "Benoît Magimel",
+            "Pahoa Mahagafanau"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 230593,
+          "ordre": 1,
+          "dateHeure": "2027-01-28T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 4314,
+          "idEvenement": 37647,
+          "typeEvenement": 13,
+          "idFilm": 31641,
+          "titre": "Phantom of the Paradise",
+          "realisateurs": "Brian De Palma",
+          "annee": 1974,
+          "pays": "États-Unis",
+          "generique": [
+            "William Finley",
+            "Paul Williams",
+            "Jessica Harper",
+            "Gerrit Graham"
+          ],
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 230592,
+          "ordre": 2,
+          "dateHeure": "2027-01-21T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3111,
+          "idEvenement": 37417,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Dialogue avec Olivier Père",
+          "textes": [],
+          "mentionAnimation": "Animé par Bernard Benoliel"
+        },
+        {
+          "idSeance": 230593,
+          "ordre": 2,
+          "dateHeure": "2027-01-28T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3111,
+          "idEvenement": 37418,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Dialogue avec Olivier Père",
+          "textes": [],
+          "mentionAnimation": "Animé par Bernard Benoliel"
+        },
+        {
+          "idSeance": 230594,
+          "ordre": 2,
+          "dateHeure": "2027-02-04T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 75,
+          "typeAssoc": 118,
           "idCategorie": 3111,
           "idEvenement": 37419,
           "typeEvenement": 14,
           "idTypeConference": 55,
           "typeConference": "Conférence",
-          "titre": "Parlons cinéma 3",
-          "textes": []
+          "titre": "Dialogue avec Olivier Père",
+          "textes": [],
+          "mentionAnimation": "Animé par Bernard Benoliel"
         },
         {
-          "idSeance": 223520,
-          "dateHeure": "2027-02-18T19:00:00",
+          "idSeance": 230595,
+          "ordre": 2,
+          "dateHeure": "2027-02-18T18:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
-          "dureeSeance": 180,
+          "dureeSeance": 75,
+          "typeAssoc": 118,
           "idCategorie": 3111,
           "idEvenement": 37420,
           "typeEvenement": 14,
           "idTypeConference": 55,
           "typeConference": "Conférence",
-          "titre": "Parlons cinéma 4",
-          "textes": []
+          "titre": "Dialogue avec Olivier Père",
+          "textes": [],
+          "mentionAnimation": "Animé par Bernard Benoliel"
         }
       ],
       "textes": []

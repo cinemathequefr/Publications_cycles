@@ -2252,10 +2252,10 @@
     "items": [
       {
         "idFilm": 53101,
-        "titre": "Homme d'Istambul",
+        "titre": "Homme d'Istanbul",
         "art": "L'",
         "realisateurs": "Antonio Isasi-Isasmendi",
-        "annee": 1964,
+        "annee": 1965,
         "duree": 115,
         "version": "VF",
         "format": "35 mm"
@@ -3913,6 +3913,27 @@
     "hashEvenement": "f113299"
   },
   {
+    "idSeance": 230591,
+    "idEvenement": 37645,
+    "dateHeure": "2027-01-07T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Robert Aldrich",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37645,
+        "titre": "Robert Aldrich, un brutaliste",
+        "sousTitre": "Conférence de Jean-Marie Samocki",
+        "typeConference": "Conférence"
+      }
+    ],
+    "hashEvenement": "c37645"
+  },
+  {
     "idSeance": 219021,
     "idEvenement": 35183,
     "dateHeure": "2027-01-07T20:00:00",
@@ -5373,11 +5394,15 @@
     "hashEvenement": "f141959"
   },
   {
-    "idSeance": 223517,
-    "idEvenement": 37417,
+    "idSeance": 230592,
+    "idEvenement": 37646,
     "dateHeure": "2027-01-21T19:00:00",
     "salle": "GF",
     "cycle": [
+      [
+        "Parlons cinéma... avec Olivier Père",
+        "Les films"
+      ],
       [
         "Parlons cinéma... avec Olivier Père",
         "Rencontres et conférences"
@@ -5385,12 +5410,18 @@
     ],
     "items": [
       {
+        "idFilm": 43812,
+        "titre": "Assis à sa droite",
+        "realisateurs": "Valerio Zurlini",
+        "annee": 1968
+      },
+      {
         "idConf": 37417,
-        "titre": "Parlons cinéma 1",
+        "titre": "Dialogue avec Olivier Père",
         "typeConference": "Conférence"
       }
     ],
-    "hashEvenement": "c37417"
+    "hashEvenement": "f43812c37417"
   },
   {
     "idSeance": 219546,
@@ -6143,11 +6174,15 @@
     "hashEvenement": "f29932"
   },
   {
-    "idSeance": 223518,
-    "idEvenement": 37418,
+    "idSeance": 230593,
+    "idEvenement": 37647,
     "dateHeure": "2027-01-28T19:00:00",
     "salle": "GF",
     "cycle": [
+      [
+        "Parlons cinéma... avec Olivier Père",
+        "Les films"
+      ],
       [
         "Parlons cinéma... avec Olivier Père",
         "Rencontres et conférences"
@@ -6155,12 +6190,18 @@
     ],
     "items": [
       {
+        "idFilm": 31641,
+        "titre": "Phantom of the Paradise",
+        "realisateurs": "Brian De Palma",
+        "annee": 1974
+      },
+      {
         "idConf": 37418,
-        "titre": "Parlons cinéma 2",
+        "titre": "Dialogue avec Olivier Père",
         "typeConference": "Conférence"
       }
     ],
-    "hashEvenement": "c37418"
+    "hashEvenement": "f31641c37418"
   },
   {
     "idSeance": 228239,
@@ -6740,11 +6781,15 @@
     "hashEvenement": "f58810"
   },
   {
-    "idSeance": 223519,
-    "idEvenement": 37419,
+    "idSeance": 230594,
+    "idEvenement": 37648,
     "dateHeure": "2027-02-04T19:00:00",
     "salle": "GF",
     "cycle": [
+      [
+        "Parlons cinéma... avec Olivier Père",
+        "Les films"
+      ],
       [
         "Parlons cinéma... avec Olivier Père",
         "Rencontres et conférences"
@@ -6752,12 +6797,18 @@
     ],
     "items": [
       {
+        "idFilm": 35627,
+        "titre": "Cutter's Way",
+        "realisateurs": "Ivan Passer",
+        "annee": 1981
+      },
+      {
         "idConf": 37419,
-        "titre": "Parlons cinéma 3",
+        "titre": "Dialogue avec Olivier Père",
         "typeConference": "Conférence"
       }
     ],
-    "hashEvenement": "c37419"
+    "hashEvenement": "f35627c37419"
   },
   {
     "idSeance": 228043,
@@ -7995,11 +8046,15 @@
     "hashEvenement": "f44803"
   },
   {
-    "idSeance": 223520,
-    "idEvenement": 37420,
-    "dateHeure": "2027-02-18T19:00:00",
+    "idSeance": 230595,
+    "idEvenement": 37649,
+    "dateHeure": "2027-02-18T18:30:00",
     "salle": "GF",
     "cycle": [
+      [
+        "Parlons cinéma... avec Olivier Père",
+        "Les films"
+      ],
       [
         "Parlons cinéma... avec Olivier Père",
         "Rencontres et conférences"
@@ -8007,12 +8062,18 @@
     ],
     "items": [
       {
+        "idFilm": 153615,
+        "titre": "Pacifiction : Tourment sur les îles",
+        "realisateurs": "Albert Serra",
+        "annee": 2022
+      },
+      {
         "idConf": 37420,
-        "titre": "Parlons cinéma 4",
+        "titre": "Dialogue avec Olivier Père",
         "typeConference": "Conférence"
       }
     ],
-    "hashEvenement": "c37420"
+    "hashEvenement": "f153615c37420"
   },
   {
     "idSeance": 220077,
@@ -8100,7 +8161,8 @@
     "items": [
       {
         "idConf": 37588,
-        "titre": "Conférence de Rochelle Fack",
+        "titre": "Hitler, un film d'Allemagne : nuit blanche sur piste noire",
+        "sousTitre": "Conférence de Rochelle Fack",
         "typeConference": "Conférence"
       }
     ],
@@ -8849,7 +8911,7 @@
         "titre": "Monstre de Venise",
         "art": "Le",
         "realisateurs": "Dino Tavella",
-        "annee": 1964,
+        "annee": 1965,
         "duree": 81,
         "version": "VF",
         "format": "35 mm"
