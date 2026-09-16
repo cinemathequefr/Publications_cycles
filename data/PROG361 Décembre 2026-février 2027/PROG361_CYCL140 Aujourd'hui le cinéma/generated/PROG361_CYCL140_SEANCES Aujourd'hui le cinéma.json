@@ -58,7 +58,12 @@
     "items": [
       {
         "idFilm": 156010,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 218603,
+        "idCopie": 32518,
+        "duree": 81,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
@@ -370,6 +375,30 @@
         "format": "DCP"
       }
     ]
+  },
+  {
+    "idCategorie": 4329,
+    "typeEvenement": 13,
+    "idEvenement": 37785,
+    "idSeance": 230612,
+    "dateHeure": "2027-03-01T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 156023,
+        "ordre": 1,
+        "idSeance": 230612,
+        "idCopie": 32512,
+        "duree": 84,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Alexandre Steiger"
   },
   {
     "mention": "Séance présentée par Cécile Cadoux"

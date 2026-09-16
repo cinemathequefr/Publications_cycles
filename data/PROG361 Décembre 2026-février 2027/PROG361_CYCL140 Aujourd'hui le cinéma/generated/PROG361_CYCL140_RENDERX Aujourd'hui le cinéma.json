@@ -74,7 +74,10 @@
               "titre": "Rano",
               "realisateurs": "Valéry Rosier, Farellia Tahina Venance",
               "pays": "Belgique",
-              "annee": 2025
+              "annee": 2025,
+              "duree": 81,
+              "version": "",
+              "format": "DCP"
             }
           ],
           "seances": [
@@ -513,6 +516,41 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Alexandre Steiger",
+      "items": [
+        {
+          "idFilm": 156023,
+          "content": [
+            {
+              "idFilm": 156023,
+              "ordre": 1,
+              "titre": "Écologie des sentiments",
+              "art": "L'",
+              "realisateurs": "Alexandre Steiger",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 84,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Andranic Manet",
+                "Salomé Rose Stein"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230612,
+              "dateHeure": "2027-03-01T19:30:00",
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Alexandre Steiger"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -548,6 +586,11 @@
         "titreFilms": "Ceci n'est pas un film français",
         "mention": "avec Tom Adjibi",
         "dateHeure": "2027-02-08T19:30:00"
+      },
+      {
+        "titreFilms": "L'Écologie des sentiments",
+        "mention": "avec Alexandre Steiger",
+        "dateHeure": "2027-03-01T19:30:00"
       }
     ],
     "Séances présentées": [

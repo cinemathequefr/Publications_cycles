@@ -324,6 +324,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Steve Della Casa et Alessandra Franchina",
     "items": [
       {
         "idFilm": 128801,
@@ -364,8 +365,8 @@
     "hashEvenement": "f155982"
   },
   {
-    "idSeance": 228126,
-    "idEvenement": 37430,
+    "idSeance": 228123,
+    "idEvenement": 37468,
     "dateHeure": "2026-12-03T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -374,32 +375,7 @@
         "Les films"
       ]
     ],
-    "items": [
-      {
-        "idFilm": 30827,
-        "titre": "Menaces dans la nuit",
-        "realisateurs": "John Berry",
-        "annee": 1950,
-        "duree": 78,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f30827"
-  },
-  {
-    "idSeance": 228123,
-    "idEvenement": 37468,
-    "dateHeure": "2026-12-03T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Restaurations et raretés, best of 2026",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Steve Della Casa",
+    "mention": "Séance présentée par Steve Della Casa et Ewa Aulin",
     "items": [
       {
         "idFilm": 42597,
@@ -414,6 +390,32 @@
       }
     ],
     "hashEvenement": "f42597"
+  },
+  {
+    "idSeance": 228126,
+    "idEvenement": 37430,
+    "dateHeure": "2026-12-03T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Restaurations et raretés, best of 2026",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Matthieu Orléan",
+    "items": [
+      {
+        "idFilm": 30827,
+        "titre": "Menaces dans la nuit",
+        "realisateurs": "John Berry",
+        "annee": 1950,
+        "duree": 78,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f30827"
   },
   {
     "idSeance": 228275,
@@ -573,7 +575,7 @@
   {
     "idSeance": 228175,
     "idEvenement": 37260,
-    "dateHeure": "2026-12-04T20:00:00",
+    "dateHeure": "2026-12-04T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -595,32 +597,6 @@
       }
     ],
     "hashEvenement": "f43886"
-  },
-  {
-    "idSeance": 218181,
-    "idEvenement": 37005,
-    "dateHeure": "2026-12-04T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Restaurations et raretés, best of 2026",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 123944,
-        "titre": "Story of Joanna",
-        "art": "The",
-        "realisateurs": "Gerard Damiano",
-        "annee": 1975,
-        "duree": 86,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f123944"
   },
   {
     "idSeance": 228277,
@@ -646,6 +622,32 @@
       }
     ],
     "hashEvenement": "f155862"
+  },
+  {
+    "idSeance": 218181,
+    "idEvenement": 37005,
+    "dateHeure": "2026-12-04T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Restaurations et raretés, best of 2026",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 123944,
+        "titre": "Story of Joanna",
+        "art": "The",
+        "realisateurs": "Gerard Damiano",
+        "annee": 1975,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f123944"
   },
   {
     "idSeance": 218217,
@@ -2696,7 +2698,9 @@
         "idFilm": 156010,
         "titre": "Rano",
         "realisateurs": "Valéry Rosier, Farellia Tahina Venance",
-        "annee": 2025
+        "annee": 2025,
+        "duree": 81,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f156010"
@@ -3468,6 +3472,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Ari Folman",
     "items": [
       {
         "idFilm": 104554,
@@ -6557,6 +6562,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Sébastien Roussel",
     "items": [
       {
         "idFilm": 154926,
@@ -9121,5 +9127,30 @@
       }
     ],
     "hashEvenement": "f45774"
+  },
+  {
+    "idSeance": 230612,
+    "idEvenement": 37785,
+    "dateHeure": "2027-03-01T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Alexandre Steiger"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Alexandre Steiger",
+    "items": [
+      {
+        "idFilm": 156023,
+        "titre": "Écologie des sentiments",
+        "art": "L'",
+        "realisateurs": "Alexandre Steiger",
+        "annee": 2026,
+        "duree": 84,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f156023"
   }
 ]
