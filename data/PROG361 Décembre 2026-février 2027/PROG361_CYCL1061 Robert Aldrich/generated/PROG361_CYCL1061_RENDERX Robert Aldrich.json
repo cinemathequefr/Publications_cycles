@@ -155,39 +155,66 @@
           ]
         },
         {
-          "idFilm": 30119,
-          "content": [
+          "groupe": [
             {
-              "idFilm": 30119,
-              "ordre": 1,
-              "titre": "Bronco Apache",
-              "titreVo": "Apache",
-              "realisateurs": "Robert Aldrich",
-              "pays": "États-Unis",
-              "annee": 1954,
-              "duree": 86,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Bronco Apache_ de Paul I. Wellman.",
-              "generique": [
-                "Burt Lancaster",
-                "Jean Peters",
-                "John McIntire"
+              "idEvenement": 37645,
+              "content": [
+                {
+                  "idConf": 37645,
+                  "titre": "Robert Aldrich, un brutaliste",
+                  "sousTitre": "Conférence de Jean-Marie Samocki",
+                  "typeConference": "Conférence"
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "Refusant la reddition de Geronimo, le puissant Massai se lance dans une guérilla contre les Blancs, bientôt rejoint par une Squaw amoureuse. Grimé en Apache, Lancaster prête sa silhouette à cet individualiste aussi rude dans ses convictions que dans ses relations. Code d'honneur, compromis, rapports de force : _Bronco Apache_ porte en gestation tout ce qui va innerver l'art d'Aldrich. Un western pur, à l'angle original, qui vient titiller la notion d'identité et exalte la figure de l'Indien révolté."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 228047,
-              "dateHeure": "2027-01-07T21:15:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 230591,
+                  "idSeanceAssoc": 228047,
+                  "typeAssoc": 117,
+                  "dateHeure": "2027-01-07T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             },
             {
-              "idSeance": 219806,
-              "dateHeure": "2027-02-06T18:30:00",
-              "idSalle": "GF"
+              "idFilm": 30119,
+              "content": [
+                {
+                  "idFilm": 30119,
+                  "ordre": 1,
+                  "titre": "Bronco Apache",
+                  "titreVo": "Apache",
+                  "realisateurs": "Robert Aldrich",
+                  "pays": "États-Unis",
+                  "annee": 1954,
+                  "duree": 86,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Bronco Apache_ de Paul I. Wellman.",
+                  "generique": [
+                    "Burt Lancaster",
+                    "Jean Peters",
+                    "John McIntire"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Refusant la reddition de Geronimo, le puissant Massai se lance dans une guérilla contre les Blancs, bientôt rejoint par une Squaw amoureuse. Grimé en Apache, Lancaster prête sa silhouette à cet individualiste aussi rude dans ses convictions que dans ses relations. Code d'honneur, compromis, rapports de force : _Bronco Apache_ porte en gestation tout ce qui va innerver l'art d'Aldrich. Un western pur, à l'angle original, qui vient titiller la notion d'identité et exalte la figure de l'Indien révolté."
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 228047,
+                  "idSeanceAssoc": 230591,
+                  "typeAssoc": 117,
+                  "dateHeure": "2027-01-07T21:15:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                },
+                {
+                  "idSeance": 219806,
+                  "dateHeure": "2027-02-06T18:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -1215,30 +1242,6 @@
               "idSeance": 228239,
               "dateHeure": "2027-01-28T19:00:00",
               "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 37645,
-          "content": [
-            {
-              "idConf": 37645,
-              "titre": "Robert Aldrich, un brutaliste",
-              "sousTitre": "Conférence de Jean-Marie Samocki",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 230591,
-              "dateHeure": "2027-01-07T19:00:00",
-              "idSalle": "HL"
             }
           ]
         }
