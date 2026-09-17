@@ -27,11 +27,12 @@
   * Vertes Demeures  
   * Voyage à deux
 
-## Aujourd'hui le cinéma (24)
+## Aujourd'hui le cinéma (27)
 
   * Adieu rond-point  
   * Blaise  
   * Bleu au loin  
+  * Brothers of the Night  
   * Camarades  
   * Chagrin des tournesols (Le)  
   * Cocon  
@@ -42,6 +43,8 @@
   * Intersecting Memory  
   * Je veux danser  
   * Jeu du roi (Le)  
+  * Journal du futur  
+  * Love Story  
   * Mes amis  
   * Mystère joyeux et triste de ce qui arrive et part (Le)  
   * Notre-Dame de la ZAD  

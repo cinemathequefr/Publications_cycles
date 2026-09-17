@@ -114,6 +114,57 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Agathe Bonitzer",
+      "items": [
+        {
+          "idEvenement": 37234,
+          "content": [
+            {
+              "idFilm": 155891,
+              "ordre": 1,
+              "titre": "Journal du futur",
+              "realisateurs": "Agathe Bonitzer",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 39,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Agathe Bonitzer",
+                "Marine Ventura",
+                "Fanny Giafferi"
+              ]
+            },
+            {
+              "idFilm": 155829,
+              "ordre": 2,
+              "titre": "Love Story",
+              "realisateurs": "Laïs Decaster",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 42,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Alyssa Saïdani",
+                "Sabrina Saïdani",
+                "Cassandra Baudry"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230622,
+              "dateHeure": "2027-01-04T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Agathe Bonitzer et Laïs Decaster"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Xavier Delagnes",
       "items": [
         {
@@ -342,7 +393,7 @@
       "titreSousCycle": "Iris Chassaigne",
       "items": [
         {
-          "idFilm": 155986,
+          "idEvenement": 37839,
           "content": [
             {
               "idFilm": 155986,
@@ -360,6 +411,18 @@
                 "Nans Laborde-Jourdàa",
                 "Mélo Lauret"
               ]
+            },
+            {
+              "idFilm": 134312,
+              "ordre": 2,
+              "titre": "Brothers of the Night",
+              "titreVo": "Brüder der Nacht",
+              "realisateurs": "Patric Chiha",
+              "pays": "Autriche",
+              "annee": 2016,
+              "duree": 88,
+              "version": "VOSTF",
+              "format": "DCP"
             }
           ],
           "seances": [
@@ -367,7 +430,7 @@
               "idSeance": 230620,
               "dateHeure": "2027-02-08T19:00:00",
               "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Iris Chassaigne"
+              "mention": "Séance suivie d'une discussion avec Iris Chassaigne et Patric Chiha"
             }
           ]
         }
@@ -550,13 +613,18 @@
   "syntheseAction": {
     "Séances avec discussion": [
       {
+        "titreFilms": "Journal du futur / Love Story",
+        "mention": "avec Agathe Bonitzer et Laïs Decaster",
+        "dateHeure": "2027-01-04T19:00:00"
+      },
+      {
         "titreFilms": "Le Chagrin des tournesols / Les Pelures d'estomac / Visite en terre irradiée / Cocon / Bleu au loin",
         "mention": "avec Étienne Bonnet, Anne-Sophie Girault, Amir Houshang Moein, Léa Krawczyk et Inés Sedan",
         "dateHeure": "2027-01-18T19:00:00"
       },
       {
-        "titreFilms": "Le Mystère joyeux et triste de ce qui arrive et part",
-        "mention": "avec Iris Chassaigne",
+        "titreFilms": "Le Mystère joyeux et triste de ce qui arrive et part / Brothers of the Night",
+        "mention": "avec Iris Chassaigne et Patric Chiha",
         "dateHeure": "2027-02-08T19:00:00"
       },
       {
