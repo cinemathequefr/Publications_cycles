@@ -27,13 +27,12 @@
   * Vertes Demeures  
   * Voyage à deux
 
-## Aujourd'hui le cinéma (26)
+## Aujourd'hui le cinéma (25)
 
   * Adieu rond-point  
   * Blaise  
   * Bleu au loin  
   * Camarades  
-  * Ceci n'est pas un film français  
   * Chagrin des tournesols (Le)  
   * Cocon  
   * Colline (La)  

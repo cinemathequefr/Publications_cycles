@@ -17,7 +17,11 @@
               "annee": 2019,
               "duree": 24,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Luna Carpiaux",
+                "Satya Dusaugey"
+              ]
             },
             {
               "idFilm": 156005,
@@ -28,7 +32,11 @@
               "annee": 2021,
               "duree": 16,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Lisa Bouteldja",
+                "Sébastien Weber"
+              ]
             },
             {
               "idFilm": 156002,
@@ -40,7 +48,12 @@
               "annee": 2016,
               "duree": 36,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Lisa Wisznia",
+                "Matthieu Charneau",
+                "Joseph Olivennes"
+              ]
             },
             {
               "idFilm": 156015,
@@ -48,7 +61,12 @@
               "titre": "Saint-Jean",
               "realisateurs": "Simon Rieth",
               "pays": "France",
-              "annee": 2017
+              "annee": 2017,
+              "generique": [
+                "Yannis Maaliou",
+                "Noé Charlot",
+                "Hugo Rieth"
+              ]
             }
           ],
           "seances": [
@@ -77,7 +95,11 @@
               "annee": 2025,
               "duree": 81,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Mara Taquin",
+                "Francodris Mananjara"
+              ]
             }
           ],
           "seances": [
@@ -85,42 +107,6 @@
               "idSeance": 218603,
               "dateHeure": "2026-12-21T19:30:00",
               "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Iris Chassaigne",
-      "items": [
-        {
-          "idFilm": 155986,
-          "content": [
-            {
-              "idFilm": 155986,
-              "ordre": 1,
-              "titre": "Mystère joyeux et triste de ce qui arrive et part",
-              "art": "Le",
-              "realisateurs": "Iris Chassaigne",
-              "pays": "France",
-              "annee": 2026,
-              "duree": 34,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Asja Nadjar",
-                "Nans Laborde-Jourdàa",
-                "Mélo Lauret"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 218955,
-              "dateHeure": "2027-01-04T19:00:00",
-              "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Iris Chassaigne"
             }
           ]
         }
@@ -142,7 +128,12 @@
               "annee": 2023,
               "duree": 20,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Grégoire Oestermann",
+                "Alicia Hava",
+                "Salimata Kamate"
+              ]
             },
             {
               "idFilm": 156011,
@@ -153,7 +144,12 @@
               "annee": 2025,
               "duree": 28,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Édouard Sulpice",
+                "Clarisse Lhoni-Botte",
+                "Pierre Ostoya Magnin"
+              ]
             },
             {
               "idFilm": 156014,
@@ -164,7 +160,12 @@
               "annee": 2018,
               "duree": 47,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Tiphaine Daviot",
+                "Antoine Gouy",
+                "Philippe Duclos"
+              ]
             }
           ],
           "seances": [
@@ -337,6 +338,41 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Iris Chassaigne",
+      "items": [
+        {
+          "idFilm": 155986,
+          "content": [
+            {
+              "idFilm": 155986,
+              "ordre": 1,
+              "titre": "Mystère joyeux et triste de ce qui arrive et part",
+              "art": "Le",
+              "realisateurs": "Iris Chassaigne",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 34,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Asja Nadjar",
+                "Nans Laborde-Jourdàa",
+                "Mélo Lauret"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230620,
+              "dateHeure": "2027-02-08T19:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "BRIFF 2026",
       "items": [
         {
@@ -357,30 +393,6 @@
               "dateHeure": "2027-02-08T19:30:00",
               "idSalle": "JE",
               "mention": "Avant-première. Séance suivie d'une discussion avec Lou Colpé"
-            }
-          ]
-        },
-        {
-          "idFilm": 156018,
-          "content": [
-            {
-              "idFilm": 156018,
-              "ordre": 1,
-              "titre": "Ceci n'est pas un film français",
-              "realisateurs": "Tom Adjibi",
-              "pays": "France-Belgique",
-              "annee": 2025,
-              "duree": 80,
-              "version": "",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 230588,
-              "dateHeure": "2027-02-08T19:30:00",
-              "idSalle": "JE",
-              "mention": "Avant-première. Séance suivie d'une discussion avec Tom Adjibi"
             }
           ]
         }
@@ -504,7 +516,13 @@
               "annee": 2026,
               "duree": 25,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Marguerite Boyer",
+                "Noémie Boyer di Bernardo",
+                "Estela Basso",
+                "Clément Mariage"
+              ]
             }
           ],
           "seances": [
@@ -555,12 +573,7 @@
     }
   ],
   "syntheseAction": {
-    "Avant-premières": [
-      {
-        "dateHeure": "2027-02-08T19:30:00",
-        "titreFilms": "Ceci n'est pas un film français",
-        "mention": "séance suivie d'une discussion avec Tom Adjibi"
-      },
+    "Avant-première": [
       {
         "dateHeure": "2027-02-08T19:30:00",
         "titreFilms": "Comme un château fort",
@@ -569,11 +582,6 @@
     ],
     "Séances avec discussion": [
       {
-        "titreFilms": "Le Mystère joyeux et triste de ce qui arrive et part",
-        "mention": "avec Iris Chassaigne",
-        "dateHeure": "2027-01-04T19:00:00"
-      },
-      {
         "titreFilms": "Le Chagrin des tournesols / Les Pelures d'estomac / Visite en terre irradiée / Cocon / Bleu au loin",
         "mention": "avec Étienne Bonnet, Anne-Sophie Girault, Amir Houshang Moein, Léa Krawczyk et Inés Sedan",
         "dateHeure": "2027-01-18T19:00:00"
@@ -581,11 +589,6 @@
       {
         "titreFilms": "Comme un château fort",
         "mention": "avec Lou Colpé",
-        "dateHeure": "2027-02-08T19:30:00"
-      },
-      {
-        "titreFilms": "Ceci n'est pas un film français",
-        "mention": "avec Tom Adjibi",
         "dateHeure": "2027-02-08T19:30:00"
       },
       {
