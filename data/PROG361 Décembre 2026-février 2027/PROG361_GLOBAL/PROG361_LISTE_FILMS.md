@@ -27,7 +27,7 @@
   * Vertes Demeures  
   * Voyage à deux
 
-## Aujourd'hui le cinéma (25)
+## Aujourd'hui le cinéma (24)
 
   * Adieu rond-point  
   * Blaise  
@@ -36,7 +36,6 @@
   * Chagrin des tournesols (Le)  
   * Cocon  
   * Colline (La)  
-  * Comme un château fort  
   * Écologie des sentiments (L')  
   * Faux Bijoux  
   * Il n'est pas mort, il dort  
@@ -135,7 +134,7 @@
 
   * À propos de Nice  
   * Atalante (L')  
-  * Atalante – Rushes et chutes (L')  
+  * Atalante (rushes et chutes) (L')  
   * Caprelles et pantopodes  
   * Chant du prisonnier (Le)  
   * Cinéastes de notre temps : Jean Vigo  
