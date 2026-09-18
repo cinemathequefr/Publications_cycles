@@ -48,13 +48,19 @@
           "printNoMT": true
         },
         {
+          "titre": "Projections privées étudiantes",
+          "cats": [3983],
+          "tri": 4,
+          "printNoMT": true
+        },
+        {
           "titre": "Rencontres et conférences",
           "cats": [2568],
           "tri": 4,
           "printNoMT": true
         }
       ],
-      "excludeSeances": [],
+      "excludeSeances": [230600, 230601],
       "cancelledSeances": [],
       "restaurations": [],
       "titreEvenements": {}
@@ -322,7 +328,7 @@
         { "titre": "Autour de Jean-Paul Belmondo", "cats": [4269], "tri": 2 },
         { "titre": "Rencontres et conférences", "cats": [4231], "tri": 4 }
       ],
-      "excludeSeances": [230582, 230583],
+      "excludeSeances": [],
       "cancelledSeances": [],
       "restaurations": [],
       "titreEvenements": {}
@@ -467,7 +473,7 @@
       "triSousCycles": false,
       "type": "jp",
       "sousCycles": [{ "titre": "Les films", "cats": [4237], "tri": 2 }],
-      "excludeSeances": [230582, 230583],
+      "excludeSeances": [],
       "cancelledSeances": [],
       "restaurations": [],
       "titreEvenements": {}

@@ -129,7 +129,8 @@
             {
               "idSeance": 228364,
               "dateHeure": "2027-01-23T18:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Ira Sachs et Isabelle Huppert (sous réserve)"
             }
           ]
         },
@@ -433,23 +434,6 @@
               "idSalle": "HL"
             }
           ]
-        },
-        {
-          "idConf": 37569,
-          "content": [
-            {
-              "idConf": 37569,
-              "titre": "Dialogue avec Isabelle Huppert et Ira Sachs",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 228377,
-              "dateHeure": "2027-01-23T20:00:00",
-              "idSalle": "GF"
-            }
-          ]
         }
       ]
     }
@@ -468,10 +452,11 @@
         "dateHeure": "2027-01-23T14:30:00"
       }
     ],
-    "Conférence": [
+    "Séance avec discussion": [
       {
-        "titre": "Dialogue avec Isabelle Huppert et Ira Sachs",
-        "dateHeure": "2027-01-23T20:00:00"
+        "titreFilms": "Frankie",
+        "mention": "avec Ira Sachs et Isabelle Huppert (sous réserve)",
+        "dateHeure": "2027-01-23T18:30:00"
       }
     ],
     "Séances présentées": [
