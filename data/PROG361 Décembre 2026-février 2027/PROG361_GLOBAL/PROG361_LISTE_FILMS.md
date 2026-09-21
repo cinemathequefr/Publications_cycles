@@ -27,8 +27,9 @@
   * Vertes Demeures  
   * Voyage à deux
 
-## Aujourd'hui le cinéma (27)
+## Aujourd'hui le cinéma (28)
 
+  * À la recherche de Mister Goodbar  
   * Adieu rond-point  
   * Blaise  
   * Bleu au loin  
@@ -48,7 +49,7 @@
   * Mes amis  
   * Mystère joyeux et triste de ce qui arrive et part (Le)  
   * Notre-Dame de la ZAD  
-  * Nouvelles folies françaises (Les)  
+  * Nouvelles Folies françaises (Les)  
   * Pelures d'estomac (Les)  
   * Rano  
   * Saint-Jean  
