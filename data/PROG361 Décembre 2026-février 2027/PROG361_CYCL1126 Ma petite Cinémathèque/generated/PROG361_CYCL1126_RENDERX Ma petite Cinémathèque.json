@@ -106,7 +106,7 @@
               "duree": 75,
               "version": "VF",
               "format": "DCP",
-              "ageMinimal": 8,
+              "ageMinimal": 6,
               "miniTexte": "Un voyage au cœur du Moyen-Âge et des légendes irlandaises, ou l'histoire de Brendan, jeune apprenti-moine qui se découvre des talents pour l'enluminure. Une magicienne, des Vikings menaçants, et les divinités celtes se croisent dans un univers merveilleux aux images colorées."
             }
           ],
@@ -115,7 +115,7 @@
               "idSeance": 228268,
               "dateHeure": "2027-01-20T15:00:00",
               "idSalle": "GF",
-              "ageMinimal": 8
+              "ageMinimal": 6
             }
           ]
         },
@@ -154,6 +154,7 @@
               "idSeance": 220329,
               "dateHeure": "2027-02-27T14:30:00",
               "idSalle": "HL",
+              "mention": "Séance présentée par Olivier Saillard",
               "ageMinimal": 10
             }
           ]
@@ -229,7 +230,7 @@
               "duree": 80,
               "version": "",
               "format": "DCP",
-              "ageMinimal": 4,
+              "ageMinimal": 6,
               "adaptation": "D'après les albums _Ernest et Célestine_ de Gabrielle Vincent.",
               "generique": [
                 "Lambert Wilson",
@@ -244,7 +245,7 @@
               "idSeance": 219158,
               "dateHeure": "2027-01-13T15:00:00",
               "idSalle": "GF",
-              "ageMinimal": 4
+              "ageMinimal": 6
             }
           ]
         },
@@ -262,7 +263,7 @@
               "duree": 79,
               "version": "",
               "format": "DCP",
-              "ageMinimal": 6,
+              "ageMinimal": 4,
               "miniTexte": "Trois courtes histoires pour un conte décalé, centré autour d'un renard froussard, et où les animaux changent de rôles et de caractères. Benjamin Renner adapte ses propres BD, la douceur de l'aquarelle sert le message sur l'identité et la tolérance, c'est malicieux et hilarant."
             }
           ],
@@ -271,7 +272,7 @@
               "idSeance": 228269,
               "dateHeure": "2027-02-07T15:00:00",
               "idSalle": "GF",
-              "ageMinimal": 6
+              "ageMinimal": 4
             }
           ]
         },
@@ -342,7 +343,7 @@
               "duree": 75,
               "version": "VF",
               "format": "35 mm",
-              "ageMinimal": 3,
+              "ageMinimal": 6,
               "miniTexte": "Adapté d'un conte populaire africain, l'histoire d'un garçonnet minuscule et malin opposé à une sorcière tyrannique, premier long métrage de Michel Ocelot. Sa poésie, ses effets visuels, et la chanson emblématique de Youssou N'Dour en ont fait un des fleurons de l'animation française."
             }
           ],
@@ -351,7 +352,7 @@
               "idSeance": 219119,
               "dateHeure": "2027-01-10T15:00:00",
               "idSalle": "GF",
-              "ageMinimal": 3
+              "ageMinimal": 6
             }
           ]
         },
@@ -404,7 +405,7 @@
               "duree": 84,
               "version": "INT. FR.",
               "format": "DCP",
-              "ageMinimal": 6,
+              "ageMinimal": 4,
               "adaptation": "D'après le récit _The Great Locomotive_ de William Pittenger.",
               "generique": [
                 "Buster Keaton",
@@ -419,7 +420,7 @@
               "idSeance": 228270,
               "dateHeure": "2027-02-10T15:00:00",
               "idSalle": "GF",
-              "ageMinimal": 6
+              "ageMinimal": 4
             }
           ]
         },
@@ -462,7 +463,7 @@
               "idFilm": 155981,
               "ordre": 1,
               "titre": "New York, Miriam et moi",
-              "realisateurs": "Rémy Schaepman,  Vivier-Chapas Léahn",
+              "realisateurs": "Rémy Schaepman, Léahn Vivier-Chapas",
               "pays": "France",
               "annee": 2026,
               "duree": 90,
@@ -787,5 +788,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séance présentée": [
+      {
+        "titreFilms": "Drôle de frimousse",
+        "mention": "par Olivier Saillard",
+        "dateHeure": "2027-02-27T14:30:00"
+      }
+    ]
+  }
 }

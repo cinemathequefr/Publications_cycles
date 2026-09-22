@@ -482,7 +482,12 @@
     "items": [
       {
         "idFilm": 75199,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 230599,
+        "idCopie": 30613,
+        "duree": 90,
+        "version": "VO",
+        "format": "DCP"
       }
     ],
     "mention": "Séance présentée par Peggy Hannon"
@@ -898,10 +903,11 @@
         "idFilm": 104554,
         "ordre": 1,
         "idSeance": 228090,
-        "idCopie": 32362,
-        "duree": 90,
+        "idCopie": 32542,
+        "duree": 87,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "mention": "Séance présentée par Ari Folman"
@@ -1158,7 +1164,8 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Clément Rauger"
   },
   {
     "idCategorie": 4261,
@@ -1623,7 +1630,8 @@
         "version": "VO",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Pierre Sénécal"
   },
   {
     "idCategorie": 4261,

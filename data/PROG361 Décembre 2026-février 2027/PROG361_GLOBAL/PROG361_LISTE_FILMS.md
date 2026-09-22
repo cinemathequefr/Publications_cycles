@@ -62,9 +62,9 @@
 
   * Diamants sur canapé
 
-## Cinéma bis (12)
+## Cinéma bis (13)
 
-  * Baiser (Le)  
+  * Affaire d'un tueur (L')  
   * Baraka à Beyrouth  
   * Bon Plaisir (Le)  
   * Et viva la révolution !  
@@ -75,7 +75,8 @@
   * Rive droite, rive gauche  
   * Sexe nu (Le)  
   * Soleil de nuit  
-  * Trinita, connais pas
+  * Trinita, connais pas  
+  * Yeux de l'étranger (Les)
 
 ## Fenêtre sur les collections (15)
 
@@ -289,7 +290,6 @@
   * Habitants (Les)  
   * Homme à la caméra (L')  
   * Homme de fer (L')  
-  * Human Factor (The)  
   * Innocent (L')  
   * Intrus magnifique (L')  
   * Jesus Christ Superstar  
@@ -311,6 +311,7 @@
   * Nous  
   * Œil pour œil  
   * Quo Vadis?  
+  * Sainte Jeanne  
   * Saisons (Les)  
   * Son altesse royale  
   * Story of Joanna (The)  
