@@ -6,60 +6,129 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 79045,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 37593,
+              "content": [
+                {
+                  "idConf": 37593,
+                  "titre": "« The Illegals » de Meyer Levin (1948) : archives d'une odyssée cinématographique",
+                  "sousTitre": "Conférence d'Ophir Levy",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Produit et tourné à l'automne 1947 avec les moyens du bord, _The Illegals_, du journaliste et écrivain américain Meyer Levin, est un documentaire hybride qui mêle deux comédiens à d'authentiques survivants de la Shoah et les suit durant plusieurs mois à travers l'Europe. Dans le plus grand dénuement, ces derniers errent d'un camp de « personnes déplacées » à un autre, et se dirigent vers l'Italie dans l'espoir d'y trouver un bateau clandestin qui, s'il n'est pas intercepté par les Britanniques, les conduira en Palestine mandataire. Plongée dans les archives de ce projet, qui offre un pendant documentaire unique au célèbre _Exodus_ d'Otto Preminger, pour découvrir quels en furent les enjeux à la fois historiques, esthétiques et politiques."
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 230638,
+                  "idSeanceAssoc": 228042,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-12-10T17:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            },
             {
               "idFilm": 79045,
-              "ordre": 1,
-              "titre": "Kedma",
-              "realisateurs": "Amos Gitai",
-              "pays": "Israël-France",
-              "annee": 2001,
-              "duree": 100,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Andrei Kashkar",
-                "Helena Yaralova",
-                "Yussef Abu-Warda",
-                "Moni Moshonov"
+              "content": [
+                {
+                  "idFilm": 79045,
+                  "ordre": 1,
+                  "titre": "Kedma",
+                  "realisateurs": "Amos Gitai",
+                  "pays": "Israël-France",
+                  "annee": 2002,
+                  "duree": 100,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Andrei Kashkar",
+                    "Helena Yaralova",
+                    "Yussef Abu-Warda",
+                    "Moni Moshonov"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 228042,
+                  "idSeanceAssoc": 230638,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-12-10T19:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 228042,
-              "dateHeure": "2026-12-10T19:30:00",
-              "idSalle": "JE"
             }
           ]
         },
         {
-          "idFilm": 156016,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 37594,
+              "content": [
+                {
+                  "idConf": 37594,
+                  "titre": "De l'ombre à la lumière : faire vivre les images anonymes",
+                  "sousTitre": "Conférence de Stéphanie Colaux",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Les archives familiales sont aussi inédites que fragiles, souvent délaissées, soumises à l'épreuve du temps. Photographies, albums, films et images éparses achèvent parfois leur existence sur les marchés aux puces. Nombreux sont ceux qui n'y prêtent plus attention. Pourtant, chacune de ces images porte une histoire à révéler. Chaque photographie peut devenir le point de départ d'un jeu de piste, la promesse d'un récit ou d'une création plastique. Parce que la mémoire ne disparaît pas : elle se raconte. En partant de la découverte d'un album photographique sur une brocante et de l'enquête qui a suivi pour identifier son auteur Raoul Minot, Stéphanie Colaux propose une réflexion sur la mise en lumière d'images d'archives anonymes : comment faire émerger à partir d'images trouvées des récits à la fois intimes et universels ? Comment transformer ces fragments de mémoire en nouvelles formes de création plastique ?"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 219726,
+                  "idSeanceAssoc": 228043,
+                  "typeAssoc": 117,
+                  "dateHeure": "2027-02-04T17:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            },
             {
               "idFilm": 156016,
-              "ordre": 1,
-              "titre": "Raoul Minot, de l'ombre à la lumière",
-              "realisateurs": "Agnès Poirier",
-              "pays": "France",
-              "annee": 2026,
-              "duree": 60,
-              "version": "",
-              "format": "DCP",
-              "miniTexte": "Paris, 1940. Raoul Minot, employé du Printemps, photographie au péril de sa vie la capitale française occupée par les nazis. Aidé de Germaine Gerschel, qui développe ses clichés en secret, il laisse derrière lui 377 images inédites. Mêlant archives et séquences animées, le film retrace le destin héroïque de femmes et d'hommes restés dans l'ombre de la grande Histoire."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 228043,
-              "dateHeure": "2027-02-04T19:30:00",
-              "idSalle": "JE"
+              "content": [
+                {
+                  "idFilm": 156016,
+                  "ordre": 1,
+                  "titre": "Raoul Minot, de l'ombre à la lumière",
+                  "realisateurs": "Agnès Poirier",
+                  "pays": "France",
+                  "annee": 2026,
+                  "duree": 60,
+                  "version": "",
+                  "format": "DCP",
+                  "miniTexte": "Paris, 1940. Raoul Minot, employé du Printemps, photographie au péril de sa vie la capitale française occupée par les nazis. Aidé de Germaine Gerschel, qui développe ses clichés en secret, il laisse derrière lui 377 images inédites. Mêlant archives et séquences animées, le film retrace le destin héroïque de femmes et d'hommes restés dans l'ombre de la grande Histoire."
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 228043,
+                  "idSeanceAssoc": 219726,
+                  "typeAssoc": 117,
+                  "dateHeure": "2027-02-04T19:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférences": [
+      {
+        "titre": "« The Illegals » de Meyer Levin (1948) : archives d'une odyssée cinématographique",
+        "mention": "par Ophir Levy",
+        "dateHeure": "2026-12-10T17:30:00"
+      },
+      {
+        "titre": "De l'ombre à la lumière : faire vivre les images anonymes",
+        "mention": "par Stéphanie Colaux",
+        "dateHeure": "2027-02-04T17:30:00"
+      }
+    ]
+  }
 }

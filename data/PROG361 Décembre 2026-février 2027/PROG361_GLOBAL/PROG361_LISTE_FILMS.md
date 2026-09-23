@@ -62,7 +62,7 @@
 
   * Diamants sur canapé
 
-## Cinéma bis (13)
+## Cinéma bis (14)
 
   * Affaire d'un tueur (L')  
   * Baraka à Beyrouth  
@@ -70,6 +70,7 @@
   * Et viva la révolution !  
   * Froid Baiser de la mort (Le)  
   * Goulag  
+  * Héroïnes du mal (Les)  
   * Homme d'Istanbul (L')  
   * Monstre de Venise (Le)  
   * Rive droite, rive gauche  
