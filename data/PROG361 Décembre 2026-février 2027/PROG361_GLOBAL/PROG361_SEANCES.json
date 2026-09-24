@@ -1020,9 +1020,61 @@
     "hashEvenement": "f57665"
   },
   {
+    "idSeance": 218240,
+    "idEvenement": 37438,
+    "dateHeure": "2026-12-06T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Restaurations et raretés, best of 2026",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Nick Deocampo",
+    "items": [
+      {
+        "idFilm": 77367,
+        "titre": "Tinimbang",
+        "realisateurs": "Lino Brocka",
+        "annee": 1974,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f77367"
+  },
+  {
+    "idSeance": 218235,
+    "idEvenement": 37538,
+    "dateHeure": "2026-12-06T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et raretés, best of 2026",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Bernard Benoliel",
+    "items": [
+      {
+        "idFilm": 36105,
+        "titre": "Taxi Driver",
+        "realisateurs": "Martin Scorsese",
+        "annee": 1976,
+        "duree": 114,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f36105"
+  },
+  {
     "idSeance": 218241,
     "idEvenement": 37245,
-    "dateHeure": "2026-12-06T17:30:00",
+    "dateHeure": "2026-12-06T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1087,58 +1139,6 @@
       }
     ],
     "hashEvenement": "f127967f74686f74722f117857f74730"
-  },
-  {
-    "idSeance": 218240,
-    "idEvenement": 37438,
-    "dateHeure": "2026-12-06T19:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Restaurations et raretés, best of 2026",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Nick Deocampo",
-    "items": [
-      {
-        "idFilm": 77367,
-        "titre": "Tinimbang",
-        "realisateurs": "Lino Brocka",
-        "annee": 1974,
-        "duree": 126,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f77367"
-  },
-  {
-    "idSeance": 218235,
-    "idEvenement": 37538,
-    "dateHeure": "2026-12-06T20:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Restaurations et raretés, best of 2026",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Bernard Benoliel",
-    "items": [
-      {
-        "idFilm": 36105,
-        "titre": "Taxi Driver",
-        "realisateurs": "Martin Scorsese",
-        "annee": 1976,
-        "duree": 114,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f36105"
   },
   {
     "idSeance": 228057,
@@ -3106,7 +3106,10 @@
         "idFilm": 91562,
         "titre": "Oh! Uomo",
         "realisateurs": "Yervant Gianikian, Angela Ricci Lucchi",
-        "annee": 2004
+        "annee": 2004,
+        "duree": 71,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f91562"
@@ -4621,6 +4624,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Baptiste Issalène",
     "items": [
       {
         "idFilm": 123610,
@@ -5410,6 +5414,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Franck Sarradet",
     "items": [
       {
         "idFilm": 141959,
@@ -5448,6 +5453,7 @@
       {
         "idConf": 37417,
         "titre": "Dialogue avec Olivier Père",
+        "sousTitre": "Animé par Jean-François Rauger",
         "typeConference": "Conférence"
       }
     ],
@@ -5762,7 +5768,7 @@
       {
         "idConf": 37567,
         "titre": "Dialogue avec Guillaume Orignac",
-        "sousTitre": "Animé par Bernard Benoliel",
+        "sousTitre": "Animé par Jean-François Rauger",
         "typeConference": "Dialogue"
       }
     ],
@@ -6202,6 +6208,7 @@
       {
         "idConf": 37418,
         "titre": "Dialogue avec Olivier Père",
+        "sousTitre": "Animé par Bernard Benoliel",
         "typeConference": "Conférence"
       }
     ],
@@ -6844,6 +6851,7 @@
       {
         "idConf": 37419,
         "titre": "Dialogue avec Olivier Père",
+        "sousTitre": "Animé par Bernard Benoliel",
         "typeConference": "Conférence"
       }
     ],
@@ -8158,6 +8166,7 @@
       {
         "idConf": 37420,
         "titre": "Dialogue avec Olivier Père",
+        "sousTitre": "Animé par Bernard Benoliel",
         "typeConference": "Conférence"
       }
     ],
