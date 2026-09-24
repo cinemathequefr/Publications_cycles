@@ -75,31 +75,49 @@
           ]
         },
         {
-          "idFilm": 98177,
-          "content": [
+          "groupe": [
             {
               "idFilm": 98177,
-              "ordre": 1,
-              "titre": "Forty Shades of Blue",
-              "realisateurs": "Ira Sachs",
-              "pays": "États-Unis",
-              "annee": 2005,
-              "duree": 109,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Dina Korzun",
-                "Rip Torn",
-                "Andrew Lawrence Henderson"
-              ],
-              "miniTexte": "À Memphis, la vie d'un producteur de musique et de sa jeune compagne russe vacille avec l'arrivée du fils qu'il a eu lors d'un premier mariage. Grand Prix du Jury au Festival de Sundance en 2005, un mélodrame poignant, qui affirme la finesse dont fait preuve Ira Sachs pour sonder les rapports de domination et les failles personnelles."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 98177,
+                  "ordre": 1,
+                  "titre": "Forty Shades of Blue",
+                  "realisateurs": "Ira Sachs",
+                  "pays": "États-Unis",
+                  "annee": 2005,
+                  "duree": 109,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Dina Korzun",
+                    "Rip Torn",
+                    "Andrew Lawrence Henderson"
+                  ],
+                  "miniTexte": "À Memphis, la vie d'un producteur de musique et de sa jeune compagne russe vacille avec l'arrivée du fils qu'il a eu lors d'un premier mariage. Grand Prix du Jury au Festival de Sundance en 2005, un mélodrame poignant, qui affirme la finesse dont fait preuve Ira Sachs pour sonder les rapports de domination et les failles personnelles."
+                }
+              ]
+            },
             {
-              "idSeance": 219449,
-              "dateHeure": "2027-01-23T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 37415,
+              "content": [
+                {
+                  "idConf": 37415,
+                  "ordre": 2,
+                  "titre": "Ira Sachs par Ira Sachs, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma",
+                  "mentionAnimation": "Animée par Isaac Gaido-Daniel",
+                  "miniTexte": "« Je prends la psychanalyse très au sérieux : je suis persuadé qu'elle fait partie intégrante de ma façon de réaliser mes films. Une bonne psychanalyse, c'est un processus de pleine compréhension des autres, c'est avoir cette faculté à saisir toujours plus finement la multitude de détails d'un simple instant. Proust, pour moi, c'est de la psychanalyse. Proust, c'est une incursion sans fin, et infiniment fascinante, dans la singularité de l'expérience. Je suis convaincu que, d'une certaine manière, réaliser un film, c'est viser exactement cela. » (Ira Sachs)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 219449,
+                  "typeAssoc": 118,
+                  "dateHeure": "2027-01-23T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -407,31 +425,6 @@
               "idSeance": 228366,
               "dateHeure": "2027-01-25T18:30:00",
               "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 37415,
-          "content": [
-            {
-              "idConf": 37415,
-              "titre": "Ira Sachs par Ira Sachs, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma",
-              "mentionAnimation": "Animée par Isaac Gaido-Daniel",
-              "miniTexte": "« Je prends la psychanalyse très au sérieux : je suis persuadé qu'elle fait partie intégrante de ma façon de réaliser mes films. Une bonne psychanalyse, c'est un processus de pleine compréhension des autres, c'est avoir cette faculté à saisir toujours plus finement la multitude de détails d'un simple instant. Proust, pour moi, c'est de la psychanalyse. Proust, c'est une incursion sans fin, et infiniment fascinante, dans la singularité de l'expérience. Je suis convaincu que, d'une certaine manière, réaliser un film, c'est viser exactement cela. » (Ira Sachs)"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 223515,
-              "dateHeure": "2027-01-23T14:30:00",
-              "idSalle": "HL"
             }
           ]
         }
