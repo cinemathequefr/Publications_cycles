@@ -271,7 +271,7 @@
   * Pacifiction : Tourment sur les îles  
   * Phantom of the Paradise
 
-## Restaurations et raretés, best of 2026 (48)
+## Restaurations et raretés, best of 2026 (47)
 
   * A History of Violence  
   * Amour à mort (L')  
@@ -308,7 +308,6 @@
   * Monsieur 027  
   * Morire gratis  
   * Mort aux trousses (La)  
-  * N'oublions jamais  
   * Nous  
   * Œil pour œil  
   * Quo Vadis?  
