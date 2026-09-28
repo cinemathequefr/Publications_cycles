@@ -271,7 +271,7 @@
   * Pacifiction : Tourment sur les îles  
   * Phantom of the Paradise
 
-## Restaurations et raretés, best of 2026 (47)
+## Restaurations et raretés, best of 2026 (48)
 
   * A History of Violence  
   * Amour à mort (L')  
@@ -285,6 +285,7 @@
   * Cycle (Le)  
   * Cyrano et d'Artagnan  
   * Dracula à Istanbul  
+  * Effroyable Secret du docteur Hichcock (L')  
   * Femme insecte (La)  
   * Frankenstein s'est échappé  
   * Goodbye South, Goodbye  
