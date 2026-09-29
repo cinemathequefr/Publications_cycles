@@ -122,33 +122,50 @@
           ]
         },
         {
-          "idFilm": 141971,
-          "content": [
+          "groupe": [
             {
               "idFilm": 141971,
-              "ordre": 1,
-              "titre": "Frankie",
-              "realisateurs": "Ira Sachs",
-              "pays": "France-Portugal-Belgique",
-              "annee": 2019,
-              "duree": 100,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Isabelle Huppert",
-                "Brendan Gleeson",
-                "Marisa Tomei"
-              ],
-              "isFocus": true,
-              "miniTexte": "À Sintra, au Portugal, une famille se réunit autour d'une célèbre actrice confrontée à la fin de sa vie. Le temps d'une journée d'été, trois générations se croisent, chacune absorbée par ses amours, ses regrets et ses incertitudes. Ira Sachs orchestre un film choral tout en nuances, qui oppose à la gravité de la mort imminente la persistance des préoccupations ordinaires et des désirs. Dans la douce lumière d'une ville historique, Isabelle Huppert impose une présence à la fois légère et mélancolique."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 141971,
+                  "ordre": 1,
+                  "titre": "Frankie",
+                  "realisateurs": "Ira Sachs",
+                  "pays": "France-Portugal-Belgique",
+                  "annee": 2019,
+                  "duree": 100,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Isabelle Huppert",
+                    "Brendan Gleeson",
+                    "Marisa Tomei"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "À Sintra, au Portugal, une famille se réunit autour d'une célèbre actrice confrontée à la fin de sa vie. Le temps d'une journée d'été, trois générations se croisent, chacune absorbée par ses amours, ses regrets et ses incertitudes. Ira Sachs orchestre un film choral tout en nuances, qui oppose à la gravité de la mort imminente la persistance des préoccupations ordinaires et des désirs. Dans la douce lumière d'une ville historique, Isabelle Huppert impose une présence à la fois légère et mélancolique."
+                }
+              ]
+            },
             {
-              "idSeance": 228364,
-              "dateHeure": "2027-01-23T18:30:00",
-              "idSalle": "GF",
-              "mention": "Séance suivie d'une discussion avec Ira Sachs et Isabelle Huppert"
+              "idEvenement": 37889,
+              "content": [
+                {
+                  "idConf": 37889,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Isabelle Huppert et Ira Sachs",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Isaac Gaido-Daniel",
+                  "miniTexte": "« Ira traquait la moindre pointe d'ironie et éliminait tout ce qui était superflu, il voulait que les personnages ne portent aucun jugement sur eux-mêmes ni sur la situation. Cette approche m'a rappelé précisément ce que j'avais ressenti sur les films de Godard. Ira Sachs possède dans son travail une clarté comparable, une certaine simplicité. On a l'impression de ne rien faire et tout naît de la vérité de l'instant, de la personne, de la situation. C'est sans doute ce qui donne aux scènes leur grande tension. Je n'avais pas ressenti cela aussi fortement depuis _Sauve qui peut (la vie)_ et _Passion_. » (Isabelle Huppert)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 228364,
+                  "typeAssoc": 118,
+                  "dateHeure": "2027-01-23T18:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -445,10 +462,10 @@
         "dateHeure": "2027-01-23T14:30:00"
       }
     ],
-    "Séance avec discussion": [
+    "Séance avec dialogue": [
       {
         "titreFilms": "Frankie",
-        "mention": "avec Ira Sachs et Isabelle Huppert",
+        "mention": "avec Isabelle Huppert et Ira Sachs",
         "dateHeure": "2027-01-23T18:30:00"
       }
     ],
