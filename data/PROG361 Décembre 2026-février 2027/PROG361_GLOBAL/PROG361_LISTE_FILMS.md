@@ -195,6 +195,7 @@
   * Babylon  
   * Bad Lieutenant  
   * Bad Luck Banging or Loony Porn  
+  * Bande de filles / Girlhood  
   * Barbara  
   * Black Book  
   * Bright Star  
@@ -212,7 +213,6 @@
   * Fille aux allumettes (La)  
   * Frontière de l'aube (La)  
   * Ghost Dog : La Voie du samouraï  
-  * Girlhood  
   * Goût de la cerise (Le)  
   * Graines du figuier sauvage (Les)  
   * Grizzly Man  
