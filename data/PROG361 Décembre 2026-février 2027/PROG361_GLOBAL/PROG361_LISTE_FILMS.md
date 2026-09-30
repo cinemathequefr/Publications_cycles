@@ -195,7 +195,6 @@
   * Babylon  
   * Bad Lieutenant  
   * Bad Luck Banging or Loony Porn  
-  * Bande de filles  
   * Barbara  
   * Black Book  
   * Bright Star  
@@ -213,6 +212,7 @@
   * Fille aux allumettes (La)  
   * Frontière de l'aube (La)  
   * Ghost Dog : La Voie du samouraï  
+  * Girlhood  
   * Goût de la cerise (Le)  
   * Graines du figuier sauvage (Les)  
   * Grizzly Man  
@@ -388,8 +388,11 @@
   * Vera Cruz  
   * Vol du Phénix (Le)
 
-## Séances spéciales (1)
+## Séances spéciales (4)
 
+  * Aquí  
+  * Écran de notre enfance (L')  
+  * Facteur humain (Le)  
   * Guerre des étoiles (La)
 
 ## Ugo Tognazzi cinéaste (5)
