@@ -38,7 +38,8 @@
             {
               "idSeance": 228143,
               "dateHeure": "2027-02-25T21:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Ricky Tognazzi"
             }
           ]
         },
@@ -66,15 +67,10 @@
           ],
           "seances": [
             {
-              "idSeance": 228142,
-              "dateHeure": "2027-02-24T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective. Séance présentée par Ricky Tognazzi"
-            },
-            {
-              "idSeance": 230764,
-              "dateHeure": "2027-02-27T15:00:00",
-              "idSalle": "GF"
+              "idSeance": 230786,
+              "dateHeure": "2027-02-26T18:30:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Ricky Tognazzi"
             }
           ]
         },
@@ -102,8 +98,8 @@
           ],
           "seances": [
             {
-              "idSeance": 220292,
-              "dateHeure": "2027-02-26T18:30:00",
+              "idSeance": 230787,
+              "dateHeure": "2027-02-26T21:00:00",
               "idSalle": "GF"
             }
           ]
@@ -137,7 +133,8 @@
             {
               "idSeance": 220249,
               "dateHeure": "2027-02-25T18:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Ricky Tognazzi"
             }
           ]
         },
@@ -168,10 +165,15 @@
           ],
           "seances": [
             {
-              "idSeance": 230763,
-              "dateHeure": "2027-02-26T21:00:00",
-              "idSalle": "GF",
-              "mention": "Séance présentée par Ricky Tognazzi"
+              "idSeance": 230785,
+              "dateHeure": "2027-02-24T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective. Séance présentée par Ricky Tognazzi"
+            },
+            {
+              "idSeance": 230788,
+              "dateHeure": "2027-02-27T15:00:00",
+              "idSalle": "GF"
             }
           ]
         }
@@ -181,14 +183,24 @@
   "syntheseAction": {
     "Séances présentées": [
       {
-        "titreFilms": "Qui chauffe le lit de ma femme ?",
+        "titreFilms": "Les Voyageurs du soir",
         "mention": "par Ricky Tognazzi",
         "dateHeure": "2027-02-24T20:00:00"
       },
       {
-        "titreFilms": "Les Voyageurs du soir",
+        "titreFilms": "Le Souteneur",
         "mention": "par Ricky Tognazzi",
-        "dateHeure": "2027-02-26T21:00:00"
+        "dateHeure": "2027-02-25T18:30:00"
+      },
+      {
+        "titreFilms": "Le Nez qui siffle",
+        "mention": "par Ricky Tognazzi",
+        "dateHeure": "2027-02-25T21:00:00"
+      },
+      {
+        "titreFilms": "Qui chauffe le lit de ma femme ?",
+        "mention": "par Ricky Tognazzi",
+        "dateHeure": "2027-02-26T18:30:00"
       }
     ]
   }

@@ -216,8 +216,8 @@
           ],
           "seances": [
             {
-              "idSeance": 219290,
-              "dateHeure": "2027-01-17T14:30:00",
+              "idSeance": 230784,
+              "dateHeure": "2027-01-03T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -247,9 +247,10 @@
           ],
           "seances": [
             {
-              "idSeance": 230781,
-              "dateHeure": "2027-01-03T14:30:00",
-              "idSalle": "HL"
+              "idSeance": 230783,
+              "dateHeure": "2027-01-17T14:30:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Sylvain Perret"
             }
           ]
         },
@@ -316,5 +317,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séance présentée": [
+      {
+        "titreFilms": "Le Professionnel",
+        "mention": "par Sylvain Perret",
+        "dateHeure": "2027-01-17T14:30:00"
+      }
+    ]
+  }
 }
