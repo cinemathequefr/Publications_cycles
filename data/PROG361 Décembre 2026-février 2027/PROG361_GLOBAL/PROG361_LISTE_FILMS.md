@@ -157,10 +157,10 @@
   * As des as (L')  
   * Borsalino  
   * Cent mille dollars au soleil  
-  * Docteur Popaul  
   * Héritier (L')  
   * Mariés de l'an II (Les)  
   * Moderato cantabile  
+  * Professionnel (Le)  
   * Sirène du Mississipi (La)  
   * Une femme est une femme
 

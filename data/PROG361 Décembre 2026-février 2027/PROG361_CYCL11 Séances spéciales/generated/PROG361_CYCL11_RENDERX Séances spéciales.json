@@ -34,7 +34,7 @@
               "idSeance": 218423,
               "dateHeure": "2026-12-14T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première"
+              "mention": "Avant-première. Séance présentée par Nicolas Saada"
             }
           ]
         }
@@ -58,7 +58,7 @@
               "duree": 52,
               "version": "VOSTF",
               "format": "DCP",
-              "miniTexte": "De retour à Akkol, son village natal, Darezhan Omirbaev constate avec tristesse la démolition de l'Étoile, le cinéma de son enfance. Avec l'aide de ses anciens amis, le projectionniste et le maire, le cinéaste kazakh improvise une salle de cinéma sur les vestiges d'une dalle de béton, le temps d'une séance nostalgique dédiée aux films de leur jeunesse."
+              "miniTexte": "De retour à Akkol, son village natal, Darejan Omirbaev constate avec tristesse la démolition de l'Étoile, le cinéma de son enfance. Avec l'aide de ses anciens amis, le projectionniste et le maire, le cinéaste kazakh improvise une salle de cinéma sur les vestiges d'une dalle de béton, le temps d'une séance nostalgique dédiée aux films de leur jeunesse."
             }
           ],
           "seances": [
@@ -66,7 +66,7 @@
               "idSeance": 230766,
               "dateHeure": "2027-01-11T20:00:00",
               "idSalle": "GF",
-              "mention": "Avant-première"
+              "mention": "Avant-première. Séance présentée par Joël Farges et Eugénie Zvonkine"
             }
           ]
         }
@@ -157,15 +157,29 @@
     "Avant-premières": [
       {
         "dateHeure": "2026-12-14T20:00:00",
-        "titreFilms": "Le Facteur humain"
+        "titreFilms": "Le Facteur humain",
+        "mention": "séance présentée par Nicolas Saada"
       },
       {
         "dateHeure": "2027-01-11T20:00:00",
-        "titreFilms": "L'Écran de notre enfance"
+        "titreFilms": "L'Écran de notre enfance",
+        "mention": "séance présentée par Joël Farges et Eugénie Zvonkine"
       },
       {
         "dateHeure": "2027-01-18T20:00:00",
         "titreFilms": "Aquí"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Le Facteur humain",
+        "mention": "par Nicolas Saada",
+        "dateHeure": "2026-12-14T20:00:00"
+      },
+      {
+        "titreFilms": "L'Écran de notre enfance",
+        "mention": "par Joël Farges et Eugénie Zvonkine",
+        "dateHeure": "2027-01-11T20:00:00"
       }
     ]
   }
