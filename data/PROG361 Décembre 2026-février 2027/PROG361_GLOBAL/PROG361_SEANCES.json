@@ -275,6 +275,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Jean-François Rauger",
     "items": [
       {
         "idFilm": 59308,
@@ -485,7 +486,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Stefano Darchino",
+    "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de Jean-François Zygel. Séance présentée par Stefano Darchino",
     "items": [
       {
         "idFilm": 43418,
@@ -1354,8 +1355,7 @@
         "realisateurs": "Maurice Pialat",
         "annee": 1991,
         "duree": 158,
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f50631"
@@ -2304,7 +2304,6 @@
         "realisateurs": "Alain Resnais",
         "annee": 1997,
         "duree": 122,
-        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -2551,7 +2550,7 @@
         "realisateurs": "Johnnie To",
         "annee": 1999,
         "duree": 90,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -3143,7 +3142,7 @@
         "realisateurs": "Yervant Gianikian, Angela Ricci Lucchi",
         "annee": 2004,
         "duree": 71,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -3491,7 +3490,7 @@
         "titre": "Va et vient",
         "realisateurs": "João César Monteiro",
         "annee": 2003,
-        "duree": 175,
+        "duree": 179,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -3524,6 +3523,30 @@
     "hashEvenement": "f35840"
   },
   {
+    "idSeance": 230805,
+    "idEvenement": 37928,
+    "dateHeure": "2027-01-01T16:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Séance du jour de l'An"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31042,
+        "titre": "Batman",
+        "realisateurs": "Tim Burton",
+        "annee": 1989,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "70 mm"
+      }
+    ],
+    "hashEvenement": "f31042"
+  },
+  {
     "idSeance": 218921,
     "idEvenement": 36620,
     "dateHeure": "2027-01-02T14:30:00",
@@ -3541,7 +3564,8 @@
         "realisateurs": "Jean-Luc Godard",
         "annee": 1961,
         "duree": 88,
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f48870"
@@ -3688,7 +3712,7 @@
         "titre": "Moderato cantabile",
         "realisateurs": "Peter Brook",
         "annee": 1960,
-        "duree": 92,
+        "duree": 94,
         "format": "35 mm"
       }
     ],
@@ -3809,7 +3833,8 @@
         "realisateurs": "Jane Campion",
         "annee": 2009,
         "duree": 131,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f108146"
@@ -3831,7 +3856,7 @@
         "titre": "Mystères de Lisbonne",
         "realisateurs": "Raoul Ruiz",
         "annee": 2010,
-        "duree": 272,
+        "duree": 260,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -3912,7 +3937,6 @@
         "realisateurs": "Luc Moullet",
         "annee": 2009,
         "duree": 90,
-        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -3988,7 +4012,7 @@
         "titre": "Pater",
         "realisateurs": "Alain Cavalier",
         "annee": 2011,
-        "duree": 85,
+        "duree": 105,
         "format": "DCP"
       }
     ],
@@ -4124,7 +4148,7 @@
         "Ivan Mosjoukine, un artiste russe dans le cinéma français"
       ]
     ],
-    "mention": "Séance présentée par Myriam Tsikounas et Emmanuelle Berthault",
+    "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de Jean-François Zygel. Séance présentée par Myriam Tsikounas et Emmanuelle Berthault",
     "items": [
       {
         "idFilm": 50774,
@@ -4198,7 +4222,7 @@
         "Ivan Mosjoukine, un artiste russe dans le cinéma français"
       ]
     ],
-    "mention": "Séance présentée par Myriam Tsikounas et Emmanuelle Berthault",
+    "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de Jean-François Zygel. Séance présentée par Myriam Tsikounas et Emmanuelle Berthault",
     "items": [
       {
         "idFilm": 50361,
@@ -4280,7 +4304,7 @@
         "realisateurs": "Robert Aldrich",
         "annee": 1956,
         "duree": 107,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -4387,7 +4411,6 @@
       {
         "idConf": 37566,
         "titre": "Dialogue avec Jérôme Momcilovic",
-        "sousTitre": "Animé par Bernard Benoliel",
         "typeConference": "Dialogue"
       }
     ],
@@ -4866,7 +4889,7 @@
         "realisateurs": "Jean Painlevé",
         "annee": 1930,
         "duree": 15,
-        "format": "DCP"
+        "format": "35 mm"
       },
       {
         "idFilm": 39238,
@@ -4874,7 +4897,8 @@
         "realisateurs": "Joris Ivens, Henri Storck",
         "annee": 1933,
         "duree": 28,
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       },
       {
         "idFilm": 51674,
@@ -4882,8 +4906,9 @@
         "art": "La",
         "realisateurs": "Jean Vigo",
         "annee": 1930,
-        "duree": 9,
-        "format": "DCP"
+        "duree": 10,
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f57459f39238f51674"
@@ -4964,7 +4989,6 @@
       {
         "idConf": 37562,
         "titre": "Dialogue avec Bernard Eisenschitz",
-        "sousTitre": "Animé par Bernard Benoliel",
         "typeConference": "Dialogue"
       }
     ],
@@ -5087,7 +5111,8 @@
         "art": "Le",
         "realisateurs": "Georges Lautner",
         "annee": 1981,
-        "duree": 90
+        "duree": 90,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f49711"
@@ -5280,31 +5305,6 @@
       }
     ],
     "hashEvenement": "f50795"
-  },
-  {
-    "idSeance": 219303,
-    "idEvenement": 37886,
-    "dateHeure": "2027-01-18T19:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Avant-première Tiago Guedes"
-      ]
-    ],
-    "mention": "Avant-première",
-    "items": [
-      {
-        "idFilm": 156051,
-        "titre": "Aquí",
-        "realisateurs": "Tiago Guedes",
-        "annee": 2026,
-        "duree": 203,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f156051"
   },
   {
     "idSeance": 219307,
@@ -5873,7 +5873,6 @@
       {
         "idConf": 37567,
         "titre": "Dialogue avec Guillaume Orignac",
-        "sousTitre": "Animé par Jean-François Rauger",
         "typeConference": "Dialogue"
       }
     ],
@@ -6066,6 +6065,31 @@
     "hashEvenement": "f155949f155945f101764f155944f155948"
   },
   {
+    "idSeance": 219479,
+    "idEvenement": 37885,
+    "dateHeure": "2027-01-25T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Avant-première Shō Miyake"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 156050,
+        "titre": "Un été en hiver",
+        "realisateurs": "Shō Miyake",
+        "annee": 2025,
+        "duree": 89,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f156050"
+  },
+  {
     "idSeance": 230573,
     "idEvenement": 37551,
     "dateHeure": "2027-01-25T20:30:00",
@@ -6123,6 +6147,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Loris Dru-Lumbroso",
     "items": [
       {
         "idFilm": 145797,
@@ -6180,7 +6205,7 @@
         "annee": 1953,
         "duree": 60,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 129252,
@@ -6188,7 +6213,8 @@
         "realisateurs": "Robert Aldrich",
         "annee": 1953,
         "duree": 22,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f129253f129252"
@@ -6204,6 +6230,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Loris Dru-Lumbroso",
     "items": [
       {
         "idFilm": 139240,
@@ -6341,7 +6368,8 @@
         "realisateurs": "Robert Aldrich",
         "annee": 1954,
         "duree": 22,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       },
       {
         "idFilm": 129254,
@@ -6349,7 +6377,8 @@
         "realisateurs": "Robert Aldrich",
         "annee": 1953,
         "duree": 22,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       },
       {
         "idFilm": 129255,
@@ -6357,7 +6386,8 @@
         "realisateurs": "Robert Aldrich",
         "annee": 1953,
         "duree": 22,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f129256f129254f129255"
@@ -6557,7 +6587,7 @@
         "realisateurs": "Todd Field",
         "annee": 2022,
         "duree": 158,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -6788,7 +6818,7 @@
         "annee": 1977,
         "duree": 136,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f156006f30702"
@@ -7085,7 +7115,7 @@
         "realisateurs": "Paul Thomas Anderson",
         "annee": 2025,
         "duree": 161,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -7430,7 +7460,7 @@
         "realisateurs": "Robert Aldrich",
         "annee": 1956,
         "duree": 107,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -7563,7 +7593,7 @@
   {
     "idSeance": 228344,
     "idEvenement": 37447,
-    "dateHeure": "2027-02-11T20:45:00",
+    "dateHeure": "2027-02-11T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7958,7 +7988,7 @@
         "realisateurs": "Terence Young",
         "annee": 1979,
         "duree": 117,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -8801,8 +8831,8 @@
     "hashEvenement": "f155856"
   },
   {
-    "idSeance": 230791,
-    "idEvenement": 37305,
+    "idSeance": 230806,
+    "idEvenement": 37307,
     "dateHeure": "2027-02-24T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -8811,19 +8841,45 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective. Séance présentée par Ricky Tognazzi",
     "items": [
       {
-        "idFilm": 57111,
-        "titre": "Qui chauffe le lit de ma femme ?",
+        "idFilm": 70029,
+        "titre": "Nez qui siffle",
+        "art": "Le",
         "realisateurs": "Ugo Tognazzi",
-        "annee": 1976,
-        "duree": 100,
+        "annee": 1967,
+        "duree": 113,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f57111"
+    "hashEvenement": "f70029"
+  },
+  {
+    "idSeance": 230807,
+    "idEvenement": 37307,
+    "dateHeure": "2027-02-24T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ugo Tognazzi cinéaste",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 70029,
+        "titre": "Nez qui siffle",
+        "art": "Le",
+        "realisateurs": "Ugo Tognazzi",
+        "annee": 1967,
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f70029"
   },
   {
     "idSeance": 228045,
@@ -8843,7 +8899,7 @@
         "realisateurs": "Terence Young",
         "annee": 1979,
         "duree": 117,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -8971,8 +9027,8 @@
     "hashEvenement": "f36893"
   },
   {
-    "idSeance": 228143,
-    "idEvenement": 37307,
+    "idSeance": 230809,
+    "idEvenement": 37305,
     "dateHeure": "2027-02-25T21:00:00",
     "salle": "GF",
     "cycle": [
@@ -8981,20 +9037,42 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Ricky Tognazzi",
     "items": [
       {
-        "idFilm": 70029,
-        "titre": "Nez qui siffle",
-        "art": "Le",
+        "idFilm": 57111,
+        "titre": "Qui chauffe le lit de ma femme ?",
         "realisateurs": "Ugo Tognazzi",
-        "annee": 1967,
-        "duree": 113,
+        "annee": 1976,
+        "duree": 100,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f70029"
+    "hashEvenement": "f57111"
+  },
+  {
+    "idSeance": 230810,
+    "idEvenement": 37305,
+    "dateHeure": "2027-02-25T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ugo Tognazzi cinéaste",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 57111,
+        "titre": "Qui chauffe le lit de ma femme ?",
+        "realisateurs": "Ugo Tognazzi",
+        "annee": 1976,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f57111"
   },
   {
     "idSeance": 220290,
@@ -9138,7 +9216,7 @@
         "art": "Les",
         "realisateurs": "Ken Wiederhorn",
         "annee": 1980,
-        "duree": 84,
+        "duree": 85,
         "version": "VF",
         "format": "35 mm"
       }
@@ -9175,8 +9253,8 @@
     "hashEvenement": "f31344"
   },
   {
-    "idSeance": 230793,
-    "idEvenement": 37305,
+    "idSeance": 230808,
+    "idEvenement": 37307,
     "dateHeure": "2027-02-27T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -9187,21 +9265,22 @@
     ],
     "items": [
       {
-        "idFilm": 57111,
-        "titre": "Qui chauffe le lit de ma femme ?",
+        "idFilm": 70029,
+        "titre": "Nez qui siffle",
+        "art": "Le",
         "realisateurs": "Ugo Tognazzi",
-        "annee": 1976,
-        "duree": 100,
+        "annee": 1967,
+        "duree": 113,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f57111"
+    "hashEvenement": "f70029"
   },
   {
     "idSeance": 220334,
     "idEvenement": 36561,
-    "dateHeure": "2027-02-27T17:15:00",
+    "dateHeure": "2027-02-27T17:30:00",
     "salle": "GF",
     "cycle": [
       [

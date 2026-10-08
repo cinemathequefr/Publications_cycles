@@ -2,27 +2,50 @@
   {
     "idCategorie": 4271,
     "typeEvenement": 13,
-    "idEvenement": 37305,
-    "idSeance": 230791,
+    "idEvenement": 37307,
+    "idSeance": 230806,
     "dateHeure": "2027-02-24T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 70029,
+        "ordre": 1,
+        "idSeance": 230806,
+        "idCopie": 32216,
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4271,
+    "typeEvenement": 13,
+    "idEvenement": 37307,
+    "idSeance": 230807,
+    "dateHeure": "2027-02-24T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
     "typeSeance": 44,
     "items": [
       {
-        "idFilm": 57111,
+        "idFilm": 70029,
         "ordre": 1,
-        "idSeance": 230791,
-        "idCopie": 32367,
-        "duree": 100,
+        "idSeance": 230807,
+        "idCopie": 32216,
+        "duree": 113,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "mention": "Ouverture de la rétrospective. Séance présentée par Ricky Tognazzi"
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 4271,
@@ -51,26 +74,48 @@
   {
     "idCategorie": 4271,
     "typeEvenement": 13,
-    "idEvenement": 37307,
-    "idSeance": 228143,
+    "idEvenement": 37305,
+    "idSeance": 230809,
     "dateHeure": "2027-02-25T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 70029,
+        "idFilm": 57111,
         "ordre": 1,
-        "idSeance": 228143,
-        "idCopie": 32216,
-        "duree": 113,
+        "idSeance": 230809,
+        "idCopie": 32367,
+        "duree": 100,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
+    ]
+  },
+  {
+    "idCategorie": 4271,
+    "typeEvenement": 13,
+    "idEvenement": 37305,
+    "idSeance": 230810,
+    "dateHeure": "2027-02-25T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
     ],
-    "mention": "Séance présentée par Ricky Tognazzi"
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 57111,
+        "ordre": 1,
+        "idSeance": 230810,
+        "idCopie": 32367,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCategorie": 4271,
@@ -123,23 +168,23 @@
   {
     "idCategorie": 4271,
     "typeEvenement": 13,
-    "idEvenement": 37305,
-    "idSeance": 230793,
+    "idEvenement": 37307,
+    "idSeance": 230808,
     "dateHeure": "2027-02-27T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 57111,
+        "idFilm": 70029,
         "ordre": 1,
-        "idSeance": 230793,
-        "idCopie": 32367,
-        "duree": 100,
+        "idSeance": 230808,
+        "idCopie": 32216,
+        "duree": 113,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ]
   }
