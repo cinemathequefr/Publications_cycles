@@ -108,7 +108,8 @@
             {
               "idSeance": 218603,
               "dateHeure": "2026-12-21T19:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Valéry Rosier"
             }
           ]
         }
@@ -227,7 +228,8 @@
             {
               "idSeance": 219131,
               "dateHeure": "2027-01-11T19:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Xavier Delagnes"
             }
           ]
         }
@@ -352,7 +354,8 @@
             {
               "idSeance": 230573,
               "dateHeure": "2027-01-25T20:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Dimitri Planchon et Jean-Paul Guigue"
             }
           ]
         }
@@ -405,7 +408,8 @@
             {
               "idSeance": 230772,
               "dateHeure": "2027-02-01T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Jessy Moussallem"
             }
           ]
         }
@@ -453,7 +457,8 @@
             {
               "idSeance": 230773,
               "dateHeure": "2027-02-08T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Iris Chassaigne et Patric Chiha"
             }
           ]
         }
@@ -551,7 +556,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Julien Chauzit",
-      "texteSousCycle": "Julien Chauzit filme avec urgence et tendresse des jeunes gens déboussolés par le monde actuel. Qu'il s'agisse d'un éveil politique face à un désastre écologique à Martigues (_La Colline_) ou de jeunes actrices confrontées à l'inconséquence de producteurs-réalisateurs (_La Tarte au fromage_), la caméra est directe, la légèreté se mêle à la gravité. Ses dispositifs de mise en scène proches du cinéma de Jacques Rozier rendent naturel et liberté totale à ses personnages attachants.",
+      "texteSousCycle": "Julien Chauzit filme avec urgence et tendresse des jeunes gens déboussolés par le monde actuel. Qu'il s'agisse d'un éveil politique face à un désastre écologique à Martigues (_La Colline_) ou de jeunes actrices confrontées à l'inconséquence de producteurs-réalisateurs (_La Tarta de queso_), la caméra est directe, la légèreté se mêle à la gravité. Ses dispositifs de mise en scène proches du cinéma de Jacques Rozier rendent naturel et liberté totale à ses personnages attachants.",
       "items": [
         {
           "idEvenement": 37576,
@@ -569,9 +574,9 @@
               "format": "DCP"
             },
             {
-              "idFilm": 156009,
+              "idFilm": 156061,
               "ordre": 2,
-              "titre": "Tarte au fromage",
+              "titre": "Tarta de queso",
               "art": "La",
               "realisateurs": "Julien Chauzit",
               "pays": "France",
@@ -591,7 +596,8 @@
             {
               "idSeance": 220187,
               "dateHeure": "2027-02-22T19:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Julien Chauzit"
             }
           ]
         }
@@ -638,14 +644,44 @@
   "syntheseAction": {
     "Séances avec discussion": [
       {
+        "titreFilms": "Rano",
+        "mention": "avec Valéry Rosier",
+        "dateHeure": "2026-12-21T19:30:00"
+      },
+      {
         "titreFilms": "Journal du futur / Love Story",
         "mention": "avec Agathe Bonitzer et Laïs Decaster",
         "dateHeure": "2027-01-04T19:00:00"
       },
       {
+        "titreFilms": "Adieu rond-point / Mes amis / Notre-Dame de la ZAD",
+        "mention": "avec Xavier Delagnes",
+        "dateHeure": "2027-01-11T19:30:00"
+      },
+      {
         "titreFilms": "Le Chagrin des tournesols / Les Pelures d'estomac / Visite en terre irradiée / Cocon / Bleu au loin",
         "mention": "avec Étienne Bonnet, Anne-Sophie Girault, Amir Houshang Moein, Léa Krawczyk et Inés Sedan",
         "dateHeure": "2027-01-18T19:00:00"
+      },
+      {
+        "titreFilms": "Blaise",
+        "mention": "avec Dimitri Planchon et Jean-Paul Guigue",
+        "dateHeure": "2027-01-25T20:30:00"
+      },
+      {
+        "titreFilms": "Faux Bijoux / À la recherche de Mister Goodbar",
+        "mention": "avec Jessy Moussallem",
+        "dateHeure": "2027-02-01T19:00:00"
+      },
+      {
+        "titreFilms": "Le Mystère joyeux et triste de ce qui arrive et part / Brothers of the Night",
+        "mention": "avec Iris Chassaigne et Patric Chiha",
+        "dateHeure": "2027-02-08T19:00:00"
+      },
+      {
+        "titreFilms": "La Colline / La Tarta de queso",
+        "mention": "avec Julien Chauzit",
+        "dateHeure": "2027-02-22T19:30:00"
       },
       {
         "titreFilms": "L'Écologie des sentiments",

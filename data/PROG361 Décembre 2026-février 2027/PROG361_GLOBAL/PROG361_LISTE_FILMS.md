@@ -54,7 +54,7 @@
   * Rano  
   * Saint-Jean  
   * Super Nova  
-  * Tarte au fromage (La)  
+  * Tarta de queso (La)  
   * Un adieu  
   * Visite en terre irradiée
 
