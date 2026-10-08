@@ -388,13 +388,12 @@
   * Vera Cruz  
   * Vol du Phénix (Le)
 
-## Séances spéciales (6)
+## Séances spéciales (5)
 
   * Aquí  
   * Batman  
   * Écran de notre enfance (L')  
   * Facteur humain (Le)  
-  * Guerre des étoiles (La)  
   * Un été en hiver
 
 ## Ugo Tognazzi cinéaste (5)
