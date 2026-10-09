@@ -1209,7 +1209,8 @@
         "titre": "En attendant la neige",
         "realisateurs": "Raúl Robin Morales Reyes, Chaïtane Conversat, Svetlana Andrianova, Lenka Ivančíková, Nina Bisiarina",
         "annee": 2021,
-        "duree": 47
+        "duree": 47,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f151601"
@@ -2825,7 +2826,8 @@
         "titre": "Opération Père Noël",
         "realisateurs": "Marc Robinet",
         "annee": 2022,
-        "duree": 43
+        "duree": 43,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155983"
@@ -3743,33 +3745,9 @@
     "hashEvenement": "f31049"
   },
   {
-    "idSeance": 228091,
-    "idEvenement": 36844,
-    "dateHeure": "2027-01-03T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Nos 90 ans en 180 films",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 104536,
-        "titre": "Frontière de l'aube",
-        "art": "La",
-        "realisateurs": "Philippe Garrel",
-        "annee": 2008,
-        "duree": 105,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f104536"
-  },
-  {
     "idSeance": 218941,
     "idEvenement": 34398,
-    "dateHeure": "2027-01-03T18:00:00",
+    "dateHeure": "2027-01-03T17:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3789,6 +3767,30 @@
       }
     ],
     "hashEvenement": "f54464"
+  },
+  {
+    "idSeance": 228091,
+    "idEvenement": 36844,
+    "dateHeure": "2027-01-03T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Nos 90 ans en 180 films",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 104536,
+        "titre": "Frontière de l'aube",
+        "art": "La",
+        "realisateurs": "Philippe Garrel",
+        "annee": 2008,
+        "duree": 105,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f104536"
   },
   {
     "idSeance": 228201,
@@ -3912,7 +3914,8 @@
         "titre": "Pachamama",
         "realisateurs": "Juan Antin",
         "annee": 2018,
-        "duree": 70
+        "duree": 70,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f140554"
@@ -4434,7 +4437,6 @@
         "realisateurs": "Michel Ocelot",
         "annee": 1998,
         "duree": 75,
-        "version": "VF",
         "format": "35 mm"
       }
     ],
@@ -4656,8 +4658,8 @@
   {
     "idSeance": 219163,
     "idEvenement": 36758,
-    "dateHeure": "2027-01-13T18:00:00",
-    "salle": "GF",
+    "dateHeure": "2027-01-13T16:30:00",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -4677,6 +4679,29 @@
       }
     ],
     "hashEvenement": "f118362"
+  },
+  {
+    "idSeance": 230780,
+    "idEvenement": 37895,
+    "dateHeure": "2027-01-13T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Nos 90 ans en 180 films",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 156053,
+        "titre": "Girlhood (Bande de filles)",
+        "realisateurs": "Céline Sciamma",
+        "annee": 2014,
+        "duree": 80,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f156053"
   },
   {
     "idSeance": 219196,
@@ -4702,29 +4727,6 @@
       }
     ],
     "hashEvenement": "f51708"
-  },
-  {
-    "idSeance": 230780,
-    "idEvenement": 37895,
-    "dateHeure": "2027-01-13T21:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Nos 90 ans en 180 films",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 156053,
-        "titre": "Girlhood (Bande de filles)",
-        "realisateurs": "Céline Sciamma",
-        "annee": 2014,
-        "duree": 80,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f156053"
   },
   {
     "idSeance": 228223,
@@ -5426,8 +5428,8 @@
   {
     "idSeance": 219335,
     "idEvenement": 36853,
-    "dateHeure": "2027-01-20T18:00:00",
-    "salle": "GF",
+    "dateHeure": "2027-01-20T17:00:00",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -6830,7 +6832,7 @@
     "idSeance": 228311,
     "idEvenement": 36769,
     "dateHeure": "2027-02-01T20:30:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -7895,7 +7897,10 @@
         "idFilm": 37998,
         "titre": "Qui veut la peau de Roger Rabbit",
         "realisateurs": "Robert Zemeckis",
-        "annee": 1988
+        "annee": 1988,
+        "duree": 104,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f37998"
@@ -8733,7 +8738,9 @@
         "titre": "Horus, prince du soleil",
         "realisateurs": "Isao Takahata",
         "annee": 1968,
-        "duree": 82
+        "duree": 82,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f89612"
@@ -9300,7 +9307,8 @@
         "titre": "New York, Miriam et moi",
         "realisateurs": "Rémy Schaepman, Léahn Vivier-Chapas",
         "annee": 2026,
-        "duree": 90
+        "duree": 90,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155981"
