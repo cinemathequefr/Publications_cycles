@@ -1660,10 +1660,6 @@
       [
         "Rita Hayworth",
         "Les films"
-      ],
-      [
-        "Rita Hayworth",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1677,14 +1673,9 @@
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
-      },
-      {
-        "idConf": 34725,
-        "titre": "Dialogue avec Gaël Lépingle",
-        "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "f30782c34725"
+    "hashEvenement": "f30782"
   },
   {
     "idSeance": 228061,
@@ -1709,6 +1700,26 @@
       }
     ],
     "hashEvenement": "f37815"
+  },
+  {
+    "idSeance": 220521,
+    "idEvenement": 34725,
+    "dateHeure": "2026-12-12T16:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Rita Hayworth",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 34725,
+        "titre": "Dialogue avec Gaël Lépingle",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "c34725"
   },
   {
     "idSeance": 228063,
@@ -1838,8 +1849,8 @@
     "hashEvenement": "f50746"
   },
   {
-    "idSeance": 228260,
-    "idEvenement": 37472,
+    "idSeance": 230813,
+    "idEvenement": 37474,
     "dateHeure": "2026-12-13T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -1850,17 +1861,16 @@
     ],
     "items": [
       {
-        "idFilm": 79444,
-        "titre": "Âge de glace",
-        "art": "L'",
-        "realisateurs": "Chris Wedge",
-        "annee": 2002,
-        "duree": 81,
+        "idFilm": 56155,
+        "titre": "Blanche-Neige et les sept nains",
+        "realisateurs": "David Hand",
+        "annee": 1937,
+        "duree": 83,
         "version": "VF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f79444"
+    "hashEvenement": "f56155"
   },
   {
     "idSeance": 218411,
@@ -1975,11 +1985,12 @@
     ],
     "items": [
       {
-        "idFilm": 156004,
-        "titre": "Un adieu",
-        "realisateurs": "Mathilde Profit",
-        "annee": 2019,
-        "duree": 24,
+        "idFilm": 156002,
+        "titre": "Nouvelles Folies françaises",
+        "art": "Les",
+        "realisateurs": "Thomas Blanchard",
+        "annee": 2016,
+        "duree": 36,
         "format": "DCP"
       },
       {
@@ -1991,22 +2002,21 @@
         "format": "DCP"
       },
       {
-        "idFilm": 156002,
-        "titre": "Nouvelles Folies françaises",
-        "art": "Les",
-        "realisateurs": "Thomas Blanchard",
-        "annee": 2016,
-        "duree": 36,
-        "format": "DCP"
-      },
-      {
         "idFilm": 156015,
         "titre": "Saint-Jean",
         "realisateurs": "Simon Rieth",
         "annee": 2017
+      },
+      {
+        "idFilm": 156004,
+        "titre": "Un adieu",
+        "realisateurs": "Mathilde Profit",
+        "annee": 2019,
+        "duree": 24,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f156004f156005f156002f156015"
+    "hashEvenement": "f156002f156005f156015f156004"
   },
   {
     "idSeance": 218423,
@@ -2426,7 +2436,7 @@
         "titre": "À double tour",
         "realisateurs": "Claude Chabrol",
         "annee": 1959,
-        "duree": 98,
+        "duree": 87,
         "format": "35 mm"
       }
     ],
@@ -3738,8 +3748,8 @@
         "realisateurs": "Tim Burton",
         "annee": 1990,
         "duree": 105,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31049"
@@ -7947,7 +7957,7 @@
         "realisateurs": "Terence Young",
         "annee": 1979,
         "duree": 117,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -8740,7 +8750,7 @@
         "annee": 1968,
         "duree": 82,
         "version": "VF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f89612"
@@ -8837,7 +8847,7 @@
         "realisateurs": "Terence Young",
         "annee": 1979,
         "duree": 117,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],

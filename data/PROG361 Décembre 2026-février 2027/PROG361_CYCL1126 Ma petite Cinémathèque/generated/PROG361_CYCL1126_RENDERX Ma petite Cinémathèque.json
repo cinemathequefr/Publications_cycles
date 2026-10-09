@@ -6,34 +6,6 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 79444,
-          "content": [
-            {
-              "idFilm": 79444,
-              "ordre": 1,
-              "titre": "Âge de glace",
-              "art": "L'",
-              "titreVo": "Ice Age",
-              "realisateurs": "Chris Wedge",
-              "pays": "États-Unis",
-              "annee": 2002,
-              "duree": 81,
-              "version": "VF",
-              "format": "35 mm",
-              "ageMinimal": 6,
-              "miniTexte": "À l'ère glaciaire, le voyage plein de péripéties d'un mammouth, d'un paresseux et d'un tigre à dents de sabre, encombrés d'un bébé humain qu'ils doivent rendre à ses parents. Récit initiatique, conte sur l'amitié : le premier opus de la franchise, bourré d'humour et de références."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 228260,
-              "dateHeure": "2026-12-13T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 6
-            }
-          ]
-        },
-        {
           "idFilm": 36213,
           "content": [
             {
@@ -85,6 +57,12 @@
             }
           ],
           "seances": [
+            {
+              "idSeance": 230813,
+              "dateHeure": "2026-12-13T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 4
+            },
             {
               "idSeance": 228263,
               "dateHeure": "2026-12-30T15:00:00",
@@ -171,8 +149,8 @@
               "pays": "États-Unis",
               "annee": 1990,
               "duree": 105,
-              "version": "VOSTF",
-              "format": "35 mm",
+              "version": "VF",
+              "format": "DCP",
               "ageMinimal": 8,
               "generique": [
                 "Johnny Depp",
@@ -311,7 +289,7 @@
               "annee": 1968,
               "duree": 82,
               "version": "VF",
-              "format": "DCP",
+              "format": "35 mm",
               "ageMinimal": 8,
               "miniTexte": "Grâce à l'Épée du soleil, qu'il retire de la roche, le courageux Horus va devoir sauver son peuple d'une créature terrifiante. Un conte épique, poétique et inspiré, qui parle aux enfants autant qu'aux adultes, avec ses métaphores sur le Vietnam, l'écologie et la société japonaise. Et la première collaboration entre deux génies, Takahata et Miyazaki."
             }

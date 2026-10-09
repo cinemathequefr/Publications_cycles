@@ -164,9 +164,8 @@
   * Sirène du Mississipi (La)  
   * Une femme est une femme
 
-## Ma petite Cinémathèque (19)
+## Ma petite Cinémathèque (18)
 
-  * Âge de glace (L')  
   * Blanche-Neige et les sept nains  
   * Brendan et le secret de Kells  
   * Drôle de frimousse  
