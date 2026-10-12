@@ -1655,11 +1655,15 @@
     "idSeance": 218394,
     "idEvenement": 34388,
     "dateHeure": "2026-12-12T14:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Rita Hayworth",
         "Les films"
+      ],
+      [
+        "Rita Hayworth",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1673,9 +1677,14 @@
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
+      },
+      {
+        "idConf": 34725,
+        "titre": "Dialogue avec Gaël Lépingle",
+        "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "f30782"
+    "hashEvenement": "f30782c34725"
   },
   {
     "idSeance": 228061,
@@ -1700,26 +1709,6 @@
       }
     ],
     "hashEvenement": "f37815"
-  },
-  {
-    "idSeance": 220521,
-    "idEvenement": 34725,
-    "dateHeure": "2026-12-12T16:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Rita Hayworth",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 34725,
-        "titre": "Dialogue avec Gaël Lépingle",
-        "typeConference": "Dialogue"
-      }
-    ],
-    "hashEvenement": "c34725"
   },
   {
     "idSeance": 228063,
@@ -2495,7 +2484,7 @@
   {
     "idSeance": 228074,
     "idEvenement": 36836,
-    "dateHeure": "2026-12-19T18:00:00",
+    "dateHeure": "2026-12-19T18:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2544,7 +2533,7 @@
   {
     "idSeance": 230767,
     "idEvenement": 36835,
-    "dateHeure": "2026-12-19T20:45:00",
+    "dateHeure": "2026-12-19T21:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2965,33 +2954,9 @@
     "hashEvenement": "f87794"
   },
   {
-    "idSeance": 230769,
-    "idEvenement": 36638,
-    "dateHeure": "2026-12-26T14:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Jean-Paul Belmondo",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 49540,
-        "titre": "Héritier",
-        "art": "L'",
-        "realisateurs": "Philippe Labro",
-        "annee": 1973,
-        "duree": 112,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f49540"
-  },
-  {
     "idSeance": 228098,
     "idEvenement": 36840,
-    "dateHeure": "2026-12-26T15:00:00",
+    "dateHeure": "2026-12-26T14:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3014,9 +2979,33 @@
     "hashEvenement": "f91505"
   },
   {
+    "idSeance": 230769,
+    "idEvenement": 36638,
+    "dateHeure": "2026-12-26T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jean-Paul Belmondo",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49540,
+        "titre": "Héritier",
+        "art": "L'",
+        "realisateurs": "Philippe Labro",
+        "annee": 1973,
+        "duree": 112,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f49540"
+  },
+  {
     "idSeance": 230596,
     "idEvenement": 36887,
-    "dateHeure": "2026-12-26T17:00:00",
+    "dateHeure": "2026-12-26T17:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3065,7 +3054,7 @@
   {
     "idSeance": 228083,
     "idEvenement": 36842,
-    "dateHeure": "2026-12-26T19:30:00",
+    "dateHeure": "2026-12-26T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3758,7 +3747,7 @@
     "idSeance": 218941,
     "idEvenement": 34398,
     "dateHeure": "2027-01-03T17:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Rita Hayworth",
@@ -3805,7 +3794,7 @@
   {
     "idSeance": 228201,
     "idEvenement": 34391,
-    "dateHeure": "2027-01-03T19:45:00",
+    "dateHeure": "2027-01-03T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9203,6 +9192,31 @@
     "hashEvenement": "f70029"
   },
   {
+    "idSeance": 220330,
+    "idEvenement": 37455,
+    "dateHeure": "2027-02-27T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Audrey Hepburn",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 37543,
+        "titre": "Rumeur",
+        "art": "La",
+        "realisateurs": "William Wyler",
+        "annee": 1961,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f37543"
+  },
+  {
     "idSeance": 220334,
     "idEvenement": 36561,
     "dateHeure": "2027-02-27T17:30:00",
@@ -9229,34 +9243,9 @@
     "hashEvenement": "f55483"
   },
   {
-    "idSeance": 220330,
-    "idEvenement": 37455,
-    "dateHeure": "2027-02-27T17:45:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Audrey Hepburn",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 37543,
-        "titre": "Rumeur",
-        "art": "La",
-        "realisateurs": "William Wyler",
-        "annee": 1961,
-        "duree": 108,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f37543"
-  },
-  {
     "idSeance": 220331,
     "idEvenement": 37449,
-    "dateHeure": "2027-02-27T20:00:00",
+    "dateHeure": "2027-02-27T19:30:00",
     "salle": "HL",
     "cycle": [
       [
