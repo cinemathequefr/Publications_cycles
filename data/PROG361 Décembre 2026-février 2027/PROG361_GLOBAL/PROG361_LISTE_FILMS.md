@@ -3,7 +3,7 @@
 ## Archi Vives (2)
 
   * Kedma  
-  * Raoul Minot, de l'ombre à la lumière
+  * Raoul Minot, le photographe de Paris occupé
 
 ## Audrey Hepburn (19)
 
@@ -97,21 +97,25 @@
   * Sédiments  
   * Village de Namo : Panorama pris d'une chaise à porteurs (Le)
 
-## Hans-Jürgen Syberberg (17)
+## Hans-Jürgen Syberberg (21)
 
   * À la suite de mon dernier déménagement... Brecht  
   * Acte V, Scène VII, Fritz Kortner répète cabale et amour  
   * Comtes Pocci (Les)  
+  * Demminer Gesänge  
   * Hitler, un film d'Allemagne  
   * Karl May : À la recherche du paradis perdu  
   * Ludwig, requiem pour un roi vierge  
   * Marquise d'O (La)  
   * Monologue de Fritz Kortner pour un disque  
+  * Nachtgesang  
   * Nuit (La)  
   * Parsifal  
+  * Penthesilea  
   * Romy, anatomie d'un visage  
   * San Domingo  
   * Scarabea : De combien de terre l'Homme a-t-il besoin ?  
+  * Schleef – Nietzsche – Ecce Homo  
   * Sex Business – Made in Pasing  
   * Theodor Hierneis ou le cuisinier du roi  
   * Un rêve, quoi d'autre ?  
