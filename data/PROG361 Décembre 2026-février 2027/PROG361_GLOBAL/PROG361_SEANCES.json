@@ -1645,7 +1645,7 @@
         "art": "Le",
         "realisateurs": "José Bénazéraf",
         "annee": 1973,
-        "duree": 85,
+        "duree": 106,
         "format": "35 mm"
       }
     ],
@@ -1824,6 +1824,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Paul Belmondo",
     "items": [
       {
         "idFilm": 50746,
@@ -2328,7 +2329,7 @@
         "realisateurs": "Antonio Isasi-Isasmendi",
         "annee": 1965,
         "duree": 115,
-        "version": "VF",
+        "version": "VASTF",
         "format": "35 mm"
       }
     ],
@@ -2403,7 +2404,7 @@
         "annee": 1972,
         "duree": 90,
         "version": "VF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f42279"
@@ -4607,31 +4608,6 @@
     "hashEvenement": "f156049"
   },
   {
-    "idSeance": 230782,
-    "idEvenement": 37886,
-    "dateHeure": "2027-01-12T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Avant-première Tiago Guedes"
-      ]
-    ],
-    "mention": "Avant-première",
-    "items": [
-      {
-        "idFilm": 156051,
-        "titre": "Aquí",
-        "realisateurs": "Tiago Guedes",
-        "annee": 2026,
-        "duree": 203,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f156051"
-  },
-  {
     "idSeance": 219158,
     "idEvenement": 37476,
     "dateHeure": "2027-01-13T15:00:00",
@@ -5303,7 +5279,7 @@
         "annee": 1928,
         "duree": 110,
         "version": "INT. FR.",
-        "format": "DCP"
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f50795"
@@ -8249,6 +8225,38 @@
     "hashEvenement": "f29932"
   },
   {
+    "idSeance": 231124,
+    "idEvenement": 37794,
+    "dateHeure": "2027-02-18T16:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Hans-Jürgen Syberberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 156105,
+        "titre": "Prologue",
+        "realisateurs": "Hans-Jürgen Syberberg",
+        "annee": 2026,
+        "duree": 9,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 156030,
+        "titre": "Nachtgesang",
+        "realisateurs": "Hans-Jürgen Syberberg",
+        "annee": 2025,
+        "duree": 80,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f156105f156030"
+  },
+  {
     "idSeance": 228253,
     "idEvenement": 37456,
     "dateHeure": "2027-02-18T18:00:00",
@@ -9473,7 +9481,7 @@
   {
     "idSeance": 231024,
     "idEvenement": 37836,
-    "dateHeure": "2027-03-01T17:00:00",
+    "dateHeure": "2027-03-01T19:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -9517,28 +9525,5 @@
       }
     ],
     "hashEvenement": "f156023"
-  },
-  {
-    "idSeance": 228150,
-    "idEvenement": 37794,
-    "dateHeure": "2027-03-01T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Hans-Jürgen Syberberg",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 156030,
-        "titre": "Nachtgesang",
-        "realisateurs": "Hans-Jürgen Syberberg",
-        "annee": 2025,
-        "duree": 80,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f156030"
   }
 ]

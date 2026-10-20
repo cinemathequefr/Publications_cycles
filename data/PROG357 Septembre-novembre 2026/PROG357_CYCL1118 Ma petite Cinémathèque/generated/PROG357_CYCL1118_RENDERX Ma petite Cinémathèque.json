@@ -35,7 +35,7 @@
             {
               "idSeance": 217905,
               "dateHeure": "2026-11-29T15:00:00",
-              "idSalle": "GF",
+              "idSalle": "JE",
               "ageMinimal": 6
             }
           ]
@@ -167,7 +167,7 @@
             {
               "idSeance": 217608,
               "dateHeure": "2026-10-18T15:00:00",
-              "idSalle": "GF",
+              "idSalle": "HL",
               "mention": "Séance présentée par Peggy Hannon",
               "ageMinimal": 10
             }
@@ -239,6 +239,31 @@
               "dateHeure": "2026-11-04T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 4
+            }
+          ]
+        },
+        {
+          "idFilm": 156020,
+          "content": [
+            {
+              "idFilm": 156020,
+              "ordre": 1,
+              "titre": "Dans la danse",
+              "realisateurs": "Katya Mikheeva",
+              "pays": "France",
+              "annee": 2022
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217602,
+              "dateHeure": "2026-10-11T15:00:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 211606,
+              "dateHeure": "2026-10-14T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -323,7 +348,7 @@
             {
               "idSeance": 217693,
               "dateHeure": "2026-11-08T15:00:00",
-              "idSalle": "GF",
+              "idSalle": "HL",
               "mention": "Séance présentée par Bernard Payen",
               "ageMinimal": 10
             }
@@ -342,7 +367,7 @@
               "annee": 1995,
               "duree": 80,
               "version": "VOSTF",
-              "format": "35 mm",
+              "format": "DCP",
               "ageMinimal": 8,
               "miniTexte": "Plongée dans le merveilleux avec James, un orphelin maltraité par deux horribles tantes, qui reçoit un jour des langues de crocodile magiques. D'après le conte farfelu de Roald Dahl, un film sous influence burtonienne, mélange de prises de vues réelles et d'animation en volume."
             }
@@ -438,6 +463,11 @@
               "version": "VF",
               "format": "DCP",
               "ageMinimal": 4,
+              "generique": [
+                "Franck Dubosc",
+                "Céline Monsarrat",
+                "Kevin Sommier"
+              ],
               "miniTexte": "Les aventures d'un poisson-clown, parti à la recherche de son fils à travers l'océan, où il rencontre des créatures tantôt amicales, tantôt féroces. Pour les enfants, une merveille colorée sur le monde subaquatique, et pour les cinéphiles, une ribambelle de références (un requin nommé Bruce, des clins d'œil à Kubrick ou Hitchcock...). Un délice signé Pixar."
             }
           ],
@@ -447,6 +477,115 @@
               "dateHeure": "2026-11-25T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 4
+            }
+          ]
+        },
+        {
+          "idEvenement": 37064,
+          "content": [
+            {
+              "idFilm": 84596,
+              "ordre": 1,
+              "titre": "Panorama pris d'un train en marche",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1898,
+              "duree": 2,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 3
+            },
+            {
+              "idFilm": 94151,
+              "ordre": 2,
+              "titre": "Dislocation mystérieuse",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1901,
+              "duree": 2,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 3,
+              "generique": [
+                "André Deed"
+              ]
+            },
+            {
+              "idFilm": 65733,
+              "ordre": 3,
+              "titre": "Chrysalide et le papillon d'or",
+              "art": "La",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1901,
+              "duree": 2,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 3
+            },
+            {
+              "idFilm": 102268,
+              "ordre": 4,
+              "titre": "Chez la sorcière",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1901,
+              "duree": null,
+              "version": "",
+              "format": "",
+              "ageMinimal": 3
+            },
+            {
+              "idFilm": 52467,
+              "ordre": 5,
+              "titre": "Génie du feu",
+              "art": "Le",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1908,
+              "duree": 4,
+              "version": "",
+              "format": "",
+              "ageMinimal": 3
+            },
+            {
+              "idFilm": 52512,
+              "ordre": 6,
+              "titre": "Voyage à travers l'impossible",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1904,
+              "duree": 22,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 3,
+              "adaptation": "D'après la pièce _Voyage à travers l'impossible_ d'Adolphe d'Ennery et Jules Verne.",
+              "generique": [
+                "Georges Méliès",
+                "Fernande Albany",
+                "May de Lavergne",
+                "Jehanne d'Alcy"
+              ]
+            },
+            {
+              "idFilm": 84496,
+              "ordre": 7,
+              "titre": "Un homme de têtes",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1898,
+              "duree": 1,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 3
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 217598,
+              "dateHeure": "2026-10-25T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 3
             }
           ]
         },

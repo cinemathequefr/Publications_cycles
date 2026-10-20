@@ -19,16 +19,16 @@
   * À la recherche de l'oiseau gris aux rayures vertes  
   * Agwe  
   * Bain des sirènes (Le)  
+  * Caso isolado  
   * Cœur Bleu  
   * Dernier Printemps  
   * Des rêves en bateaux papiers  
   * End Of The West  
+  * Hangar rojo  
   * Heureusement qu'il y a l'appartement de mémé  
   * Incasable (L')  
-  * Journal du futur  
   * Locataires  
   * Loin de la lumière du jour  
-  * Love Story  
   * Miracle  
   * Montagne d'or (La)  
   * Personne n'a rien dit  
@@ -63,6 +63,7 @@
   * 2010 : l'année du premier contact  
   * Ad Astra  
   * Alien  
+  * Aliens, le retour  
   * Apollo 13  
   * Apollo 18  
   * Croisières sidérales  
@@ -72,7 +73,6 @@
   * Femme sur la Lune (La)  
   * First Man : Le Premier Homme sur la Lune  
   * Gardiens de la galaxie (Les)  
-  * Gravity  
   * Interstellar  
   * Jason X  
   * Mission to Mars  
@@ -240,17 +240,25 @@
   * Une fille dans chaque port  
   * Vénus moderne
 
-## Ma petite Cinémathèque (10)
+## Ma petite Cinémathèque (18)
 
   * Aventures de Robin des Bois (Les)  
   * Azur et Asmar  
+  * Chez la sorcière  
+  * Chrysalide et le papillon d'or (La)  
   * Cinq Mille Doigts du docteur T. (Les)  
   * Cirque (Le)  
+  * Dans la danse  
+  * Dislocation mystérieuse  
   * Extraordinaire Voyage de Marona (L')  
+  * Génie du feu (Le)  
   * James et la pêche géante  
   * Katia et le crocodile  
   * Main au collet (La)  
   * Monde de Nemo (Le)  
+  * Panorama pris d'un train en marche  
+  * Un homme de têtes  
+  * Voyage à travers l'impossible  
   * Voyage de Chihiro (Le)
 
 ## Nos 90 ans en 180 films (106)

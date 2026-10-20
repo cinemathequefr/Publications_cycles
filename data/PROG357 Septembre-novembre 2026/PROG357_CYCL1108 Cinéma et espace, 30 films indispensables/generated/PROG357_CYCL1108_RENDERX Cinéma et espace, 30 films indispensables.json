@@ -36,9 +36,8 @@
           "seances": [
             {
               "idSeance": 217453,
-              "dateHeure": "2026-10-10T21:00:00",
-              "idSalle": "HL",
-              "mention": "Séance présentée par Frédéric Courtade"
+              "dateHeure": "2026-10-10T21:45:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -103,6 +102,37 @@
               "dateHeure": "2026-10-03T18:00:00",
               "idSalle": "HL",
               "mention": "Séance présentée par Aurélie Moussi-Soffys"
+            }
+          ]
+        },
+        {
+          "idFilm": 30809,
+          "content": [
+            {
+              "idFilm": 30809,
+              "ordre": 1,
+              "titre": "Aliens, le retour",
+              "titreVo": "Aliens",
+              "realisateurs": "James Cameron",
+              "pays": "États-Unis",
+              "annee": 1985,
+              "duree": 137,
+              "version": "VOSTF",
+              "format": "70 mm",
+              "generique": [
+                "Sigourney Weaver",
+                "Michael Biehn",
+                "Lance Henriksen"
+              ],
+              "isFocus": true,
+              "miniTexte": "Ripley revient ! Avec ce deuxième volet de la saga, Cameron s'empare du mythe installé par Ridley Scott et y pose sa griffe, lui donnant une ampleur inattendue : après une première partie très martiale (les Marines caricaturaux missionnés pour sauver des colons aux prises avec les xénomorphes), Ripley reprend la main, à la fois terrorisée (humaine) et déterminée (surhumaine). Elle renoue avec sa propre maternité, tendue vers un seul but, sauver une fillette, et trouve le chemin de la rédemption dans un affrontement final de mère à mère. Monstrueux, intense, éblouissant."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228237,
+              "dateHeure": "2026-10-10T19:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -390,36 +420,6 @@
           ]
         },
         {
-          "idFilm": 121118,
-          "content": [
-            {
-              "idFilm": 121118,
-              "ordre": 1,
-              "titre": "Gravity",
-              "realisateurs": "Alfonso Cuarón",
-              "pays": "États-Unis-Grande-Bretagne",
-              "annee": 2013,
-              "duree": 91,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Sandra Bullock",
-                "George Clooney",
-                "Ed Harris"
-              ],
-              "isFocus": true,
-              "miniTexte": "La vie de Ryan a volé en éclats, comme le module qu'elle répare lors d'une sortie orbitale qui tourne mal. Autour de l'astronaute en perdition, Cuarón (Oscar du meilleur réalisateur) tresse et coupe à l'infini des cordons ombilicaux symboliques. Et, de l'apesanteur à la glaise génésiaque, retrace son chemin vers une re-naissance. Résilience, instinct de survie : la mise en scène, intime et virtuose (3D et plans-séquences bluffants), est un somptueux écrin pour cette méditation sur le deuil et l'amour maternel."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 211541,
-              "dateHeure": "2026-10-10T19:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idFilm": 124931,
           "content": [
             {
@@ -621,7 +621,8 @@
             {
               "idSeance": 211628,
               "dateHeure": "2026-10-15T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Victor Morozov"
             }
           ]
         },
@@ -713,7 +714,7 @@
               "idSeance": 217455,
               "dateHeure": "2026-10-18T18:00:00",
               "idSalle": "GF",
-              "mention": "Séance présentée par Alice Winocour"
+              "mention": "Séance présentée par Alice Winocour et Zélie Boulant-Lemesle"
             }
           ]
         },
@@ -776,7 +777,8 @@
             {
               "idSeance": 211603,
               "dateHeure": "2026-10-14T20:45:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Frédéric Courtade"
             }
           ]
         },
@@ -793,6 +795,7 @@
               "duree": 167,
               "version": "VOSTF",
               "format": "DCP",
+              "restauration": true,
               "adaptation": "D'après le roman _Solaris_ de Stanisław Lem.",
               "generique": [
                 "Natalia Bondartchouk",
@@ -839,7 +842,7 @@
           "seances": [
             {
               "idSeance": 217392,
-              "dateHeure": "2026-10-15T20:30:00",
+              "dateHeure": "2026-10-15T20:45:00",
               "idSalle": "JE",
               "mention": "Séance présentée par Bernard Benoliel"
             }
@@ -1041,23 +1044,28 @@
         "dateHeure": "2026-10-09T21:00:00"
       },
       {
-        "titreFilms": "2010 : l'année du premier contact",
-        "mention": "par Frédéric Courtade",
-        "dateHeure": "2026-10-10T21:00:00"
-      },
-      {
         "titreFilms": "Sunshine",
         "mention": "par Olivier La Marle",
         "dateHeure": "2026-10-11T20:00:00"
       },
       {
+        "titreFilms": "Silent Running",
+        "mention": "par Frédéric Courtade",
+        "dateHeure": "2026-10-14T20:45:00"
+      },
+      {
+        "titreFilms": "Out of the Present",
+        "mention": "par Victor Morozov",
+        "dateHeure": "2026-10-15T18:30:00"
+      },
+      {
         "titreFilms": "Space Cowboys",
         "mention": "par Bernard Benoliel",
-        "dateHeure": "2026-10-15T20:30:00"
+        "dateHeure": "2026-10-15T20:45:00"
       },
       {
         "titreFilms": "Proxima",
-        "mention": "par Alice Winocour",
+        "mention": "par Alice Winocour et Zélie Boulant-Lemesle",
         "dateHeure": "2026-10-18T18:00:00"
       }
     ]

@@ -199,7 +199,7 @@
             {
               "idSeance": 217693,
               "dateHeure": "2026-11-08T15:00:00",
-              "idSalle": "GF",
+              "idSalle": "HL",
               "mention": "Séance présentée par Bernard Payen"
             }
           ]
@@ -347,7 +347,7 @@
             {
               "idSeance": 220473,
               "dateHeure": "2026-11-14T14:30:00",
-              "idSalle": "HL",
+              "idSalle": "GF",
               "mention": "Séance présentée par Bernard Payen"
             }
           ]
@@ -364,8 +364,8 @@
                   "realisateurs": "Jean-Luc Godard",
                   "pays": "France-Italie",
                   "annee": 1965,
-                  "duree": 109,
-                  "version": "",
+                  "duree": 111,
+                  "version": "VO",
                   "format": "35 mm",
                   "generique": [
                     "Jean-Paul Belmondo",
@@ -457,7 +457,7 @@
             {
               "idSeance": 220475,
               "dateHeure": "2026-10-18T14:30:00",
-              "idSalle": "HL",
+              "idSalle": "GF",
               "mention": "Séance présentée par François Thomas"
             }
           ]
@@ -568,7 +568,8 @@
                   "idSeance": 220474,
                   "typeAssoc": 118,
                   "dateHeure": "2026-11-15T14:30:00",
-                  "idSalle": "HL"
+                  "idSalle": "HL",
+                  "mention": "Séance présentée par Claude Lelouch"
                 }
               ]
             }
@@ -617,12 +618,13 @@
               "duree": 88,
               "version": "",
               "format": "DCP",
+              "restauration": true,
               "generique": [
                 "Anna Karina",
                 "Jean-Paul Belmondo",
                 "Jean-Claude Brialy"
               ],
-              "miniTexte": "Une stripteaseuse rêve d'avoir un enfant tandis que son compagnon refuse de grandir. De la comédie musicale bricolée au manifeste de Nouvelle Vague, Godard filme Anna Karina – Ours d'argent de la meilleure actrice – comme une apparition lumineuse, à travers un Paris de studios aux couleurs éclatantes. Secondée par Jean-Claude Brialy et Jean-Paul Belmondo, elle impose une mélancolie gracieuse dans une déclaration d'amour libre et insolente."
+              "miniTexte": "Une stripteaseuse rêve d'avoir un enfant tandis que son compagnon refuse de grandir. De la comédie musicale bricolée au manifeste de Nouvelle Vague, Godard filme Anna Karina – Ours d'argent de la meilleure actrice – comme une apparition lumineuse, à travers un Paris de studio aux couleurs éclatantes. Secondée par Jean-Claude Brialy et Jean-Paul Belmondo, elle impose une mélancolie gracieuse dans une déclaration d'amour libre et insolente."
             }
           ],
           "seances": [
@@ -796,6 +798,11 @@
         "titreFilms": "Peur sur la ville",
         "mention": "par Bernard Payen",
         "dateHeure": "2026-11-14T14:30:00"
+      },
+      {
+        "titreFilms": "Un homme qui me plaît",
+        "mention": "par Claude Lelouch",
+        "dateHeure": "2026-11-15T14:30:00"
       },
       {
         "titreFilms": "Les Tribulations d'un Chinois en Chine",

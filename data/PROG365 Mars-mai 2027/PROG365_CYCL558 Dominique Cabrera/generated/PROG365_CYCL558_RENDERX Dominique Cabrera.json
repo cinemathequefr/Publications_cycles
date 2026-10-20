@@ -1,0 +1,52 @@
+{
+  "datesCycle": [
+    "2027-04-12T20:00:00",
+    "2027-04-12T20:00:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 155992,
+          "content": [
+            {
+              "idFilm": 155992,
+              "ordre": 1,
+              "titre": "Des femmes comme les autres",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 0,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Yolande Moreau",
+                "Eva Huault",
+                "Hélène Vincent"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229391,
+              "dateHeure": "2027-04-12T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2027-04-12T20:00:00",
+        "titreFilms": "Des femmes comme les autres"
+      }
+    ]
+  }
+}

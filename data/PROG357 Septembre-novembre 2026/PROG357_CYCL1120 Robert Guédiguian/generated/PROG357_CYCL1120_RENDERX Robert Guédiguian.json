@@ -69,49 +69,31 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 155903,
+          "content": [
             {
               "idFilm": 155903,
-              "content": [
-                {
-                  "idFilm": 155903,
-                  "ordre": 1,
-                  "titre": "Et la fête continue !",
-                  "realisateurs": "Robert Guédiguian",
-                  "pays": "France-Italie",
-                  "annee": 2022,
-                  "duree": 106,
-                  "version": "",
-                  "format": "DCP",
-                  "generique": [
-                    "Ariane Ascaride",
-                    "Jean-Pierre Darroussin",
-                    "Lola Naymark"
-                  ],
-                  "miniTexte": "À Marseille, une femme investie auprès des autres – inspirée par Michèle Rubirola – se laisse surprendre par une rencontre inattendue. Fidèle à sa troupe d'acteurs et à son humanisme, Guédiguian tisse une œuvre chaleureuse et profondément humaine, où la bienveillance et le désir de vivre continuent de l'emporter sur les blessures du monde."
-                }
-              ]
-            },
-            {
-              "idEvenement": 37230,
-              "content": [
-                {
-                  "idConf": 37230,
-                  "ordre": 2,
-                  "titre": "Robert Guédiguian par Robert Guédiguian, une leçon de cinéma",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animée par Frédéric Bonnaud",
-                  "miniTexte": "« Je me considère parfois comme un écrivain public, qui s'exprime pour ceux qui ne peuvent pas le faire. Je me suis donné cette espèce de but. Il y a le cinéma bourgeois et il y a le cinéma de la rue. Étant issu de celle-ci, c'est d'elle dont j'ai envie de parler. Je crois que c'est Jankélévitch qui disait : “La morale, c'est être du côté des faibles.” Il disait aussi : “Je voudrais faire contrepoids.” » (Robert Guédiguian)"
-                }
+              "ordre": 1,
+              "titre": "Et la fête continue !",
+              "realisateurs": "Robert Guédiguian",
+              "pays": "France-Italie",
+              "annee": 2022,
+              "duree": 106,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Ariane Ascaride",
+                "Jean-Pierre Darroussin",
+                "Lola Naymark"
               ],
-              "seances": [
-                {
-                  "idSeance": 220455,
-                  "typeAssoc": 118,
-                  "dateHeure": "2026-11-08T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "miniTexte": "À Marseille, une femme investie auprès des autres – inspirée par Michèle Rubirola – se laisse surprendre par une rencontre inattendue. Fidèle à sa troupe d'acteurs et à son humanisme, Guédiguian tisse une œuvre chaleureuse et profondément humaine, où la bienveillance et le désir de vivre continuent de l'emporter sur les blessures du monde."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 220455,
+              "dateHeure": "2026-11-08T14:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -272,7 +254,7 @@
               "realisateurs": "Robert Guédiguian",
               "pays": "France-Italie",
               "annee": 2026,
-              "duree": 122,
+              "duree": 123,
               "version": "",
               "format": "DCP",
               "generique": [
@@ -353,6 +335,31 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 37230,
+          "content": [
+            {
+              "idConf": 37230,
+              "titre": "Robert Guédiguian par Robert Guédiguian, une leçon de cinéma",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animée par Frédéric Bonnaud",
+              "miniTexte": "« Je me considère parfois comme un écrivain public, qui s'exprime pour ceux qui ne peuvent pas le faire. Je me suis donné cette espèce de but. Il y a le cinéma bourgeois et il y a le cinéma de la rue. Étant issu de celle-ci, c'est d'elle dont j'ai envie de parler. Je crois que c'est Jankélévitch qui disait : “La morale, c'est être du côté des faibles.” Il disait aussi : “Je voudrais faire contrepoids.” » (Robert Guédiguian)"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 220400,
+              "dateHeure": "2026-11-08T16:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -364,9 +371,8 @@
     ],
     "Séance avec dialogue": [
       {
-        "titreFilms": "Et la fête continue !",
         "mention": "Robert Guédiguian par Robert Guédiguian, une leçon de cinéma",
-        "dateHeure": "2026-11-08T14:30:00"
+        "dateHeure": "2026-11-08T16:45:00"
       }
     ]
   }

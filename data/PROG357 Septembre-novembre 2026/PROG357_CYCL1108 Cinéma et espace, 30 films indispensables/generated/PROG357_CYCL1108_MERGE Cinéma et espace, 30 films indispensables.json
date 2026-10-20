@@ -79,13 +79,12 @@
         {
           "idSeance": 217453,
           "ordre": 1,
-          "dateHeure": "2026-10-10T21:00:00",
+          "dateHeure": "2026-10-10T21:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 150,
-          "mention": "Séance présentée par Frédéric Courtade",
           "idCategorie": 4190,
           "idEvenement": 36497,
           "typeEvenement": 13,
@@ -178,6 +177,39 @@
             {
               "typeTexte": 1000,
               "texte": "L'équipage d'un cargo spatial répond aux signaux sonores venus d'une planète désertique, et se retrouve avec un huitième passager à bord. Naissance d'un monument d'angoisse, fondateur, d'une créature mythique et d'une héroïne magistrale incarnée par Sigourney Weaver dans son premier rôle. Ridley Scott signe un cauchemar éveillé, qui multiplie les séquences d'anthologie dans l'antre claustrophobe du Nostromo. Un inoubliable _survival_, l'un des plus grands films de science-fiction."
+            }
+          ]
+        },
+        {
+          "idSeance": 228237,
+          "ordre": 1,
+          "dateHeure": "2026-10-10T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 165,
+          "idCategorie": 4190,
+          "idEvenement": 37539,
+          "typeEvenement": 13,
+          "idFilm": 30809,
+          "titre": "Aliens, le retour",
+          "titreVo": "Aliens",
+          "realisateurs": "James Cameron",
+          "annee": 1985,
+          "pays": "États-Unis",
+          "duree": 137,
+          "version": "VOSTF",
+          "format": "70 mm",
+          "generique": [
+            "Sigourney Weaver",
+            "Michael Biehn",
+            "Lance Henriksen"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Ripley revient ! Avec ce deuxième volet de la saga, Cameron s'empare du mythe installé par Ridley Scott et y pose sa griffe, lui donnant une ampleur inattendue : après une première partie très martiale (les Marines caricaturaux missionnés pour sauver des colons aux prises avec les xénomorphes), Ripley reprend la main, à la fois terrorisée (humaine) et déterminée (surhumaine). Elle renoue avec sa propre maternité, tendue vers un seul but, sauver une fillette, et trouve le chemin de la rédemption dans un affrontement final de mère à mère. Monstrueux, intense, éblouissant."
             }
           ]
         },
@@ -451,38 +483,6 @@
           ]
         },
         {
-          "idSeance": 211541,
-          "ordre": 1,
-          "dateHeure": "2026-10-10T19:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 4190,
-          "idEvenement": 36506,
-          "typeEvenement": 13,
-          "idFilm": 121118,
-          "titre": "Gravity",
-          "realisateurs": "Alfonso Cuarón",
-          "annee": 2013,
-          "pays": "États-Unis-Grande-Bretagne",
-          "duree": 91,
-          "version": "VOSTF",
-          "format": "DCP",
-          "generique": [
-            "Sandra Bullock",
-            "George Clooney",
-            "Ed Harris"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "La vie de Ryan a volé en éclats, comme le module qu'elle répare lors d'une sortie orbitale qui tourne mal. Autour de l'astronaute en perdition, Cuarón (Oscar du meilleur réalisateur) tresse et coupe à l'infini des cordons ombilicaux symboliques. Et, de l'apesanteur à la glaise génésiaque, retrace son chemin vers une re-naissance. Résilience, instinct de survie : la mise en scène, intime et virtuose (3D et plans-séquences bluffants), est un somptueux écrin pour cette méditation sur le deuil et l'amour maternel."
-            }
-          ]
-        },
-        {
           "idSeance": 217458,
           "ordre": 1,
           "dateHeure": "2026-10-04T20:30:00",
@@ -686,6 +686,7 @@
             "Jean Epstein"
           ],
           "dureeSeance": 120,
+          "mention": "Séance présentée par Victor Morozov",
           "idCategorie": 4190,
           "idEvenement": 36890,
           "typeEvenement": 13,
@@ -784,7 +785,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 135,
-          "mention": "Séance présentée par Alice Winocour",
+          "mention": "Séance présentée par Alice Winocour et Zélie Boulant-Lemesle",
           "idCategorie": 4190,
           "idEvenement": 36512,
           "typeEvenement": 13,
@@ -853,6 +854,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 120,
+          "mention": "Séance présentée par Frédéric Courtade",
           "idCategorie": 4190,
           "idEvenement": 36490,
           "typeEvenement": 13,
@@ -898,6 +900,7 @@
           "duree": 167,
           "version": "VOSTF",
           "format": "DCP",
+          "restauration": true,
           "generique": [
             "Natalia Bondartchouk",
             "Donatas Banionis",
@@ -916,7 +919,7 @@
         {
           "idSeance": 217392,
           "ordre": 1,
-          "dateHeure": "2026-10-15T20:30:00",
+          "dateHeure": "2026-10-15T20:45:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -1157,11 +1160,6 @@
       "textes": []
     }
   ],
-  "textes": [
-    {
-      "typeTexte": 263,
-      "texte": "Cinémathèque royale de Belgique, Cinémathèque suisse, CNC, Warner Bros. France"
-    }
-  ],
+  "textes": [],
   "info": {}
 }

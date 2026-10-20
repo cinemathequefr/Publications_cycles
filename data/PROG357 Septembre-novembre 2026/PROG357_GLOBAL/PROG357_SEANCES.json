@@ -312,7 +312,7 @@
         "Rencontres et conférences"
       ]
     ],
-    "mention": "Accompagnement musical par Mehdi Telhaoui (pianiste issu de la classe d'improvisation de Jean-François Zygel)",
+    "mention": "Accompagnement musical par Medhi Telhaoui (pianiste issu de la classe d'improvisation de Jean-François Zygel)",
     "items": [
       {
         "idFilm": 33126,
@@ -612,7 +612,7 @@
         "idFilm": 155884,
         "titre": "Agwe",
         "realisateurs": "Samuel Suffren",
-        "annee": 2021,
+        "annee": 2022,
         "duree": 17,
         "version": "VOSTF",
         "format": "DCP"
@@ -1402,7 +1402,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Olivier Gonord",
     "items": [
       {
         "idFilm": 37429,
@@ -1520,38 +1519,6 @@
       }
     ],
     "hashEvenement": "f33904"
-  },
-  {
-    "idSeance": 211247,
-    "idEvenement": 37234,
-    "dateHeure": "2026-09-28T19:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Aujourd'hui le cinéma",
-        "Agathe Bonitzer"
-      ]
-    ],
-    "mention": "Séance suivie d'une discussion avec Agathe Bonitzer et Laïs Decaster",
-    "items": [
-      {
-        "idFilm": 155891,
-        "titre": "Journal du futur",
-        "realisateurs": "Agathe Bonitzer",
-        "annee": 2026,
-        "duree": 39,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155829,
-        "titre": "Love Story",
-        "realisateurs": "Laïs Decaster",
-        "annee": 2026,
-        "duree": 42,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155891f155829"
   },
   {
     "idSeance": 211243,
@@ -1949,7 +1916,11 @@
         "idFilm": 137494,
         "titre": "Je ne veux plus de cuisinière",
         "realisateurs": "Roméo Bosetti",
-        "annee": 1912
+        "annee": 1912,
+        "duree": 7,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f155870f78657f117358f52570f155854f52530f52668f52445f137494"
@@ -1974,7 +1945,7 @@
         "annee": 1951,
         "duree": 85,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f32991"
@@ -2041,7 +2012,8 @@
         "annee": 1972,
         "duree": 167,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f53695"
@@ -2214,7 +2186,7 @@
         "art": "L'",
         "realisateurs": "Kenji Mizoguchi",
         "annee": 1954,
-        "duree": 125,
+        "duree": 124,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -2696,7 +2668,8 @@
         "realisateurs": "Jean-Luc Godard",
         "annee": 1961,
         "duree": 88,
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f48870"
@@ -2923,8 +2896,8 @@
     "hashEvenement": "f155873f155871"
   },
   {
-    "idSeance": 211541,
-    "idEvenement": 36506,
+    "idSeance": 228237,
+    "idEvenement": 37539,
     "dateHeure": "2026-10-10T19:00:00",
     "salle": "HL",
     "cycle": [
@@ -2935,16 +2908,16 @@
     ],
     "items": [
       {
-        "idFilm": 121118,
-        "titre": "Gravity",
-        "realisateurs": "Alfonso Cuarón",
-        "annee": 2013,
-        "duree": 91,
+        "idFilm": 30809,
+        "titre": "Aliens, le retour",
+        "realisateurs": "James Cameron",
+        "annee": 1985,
+        "duree": 137,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "70 mm"
       }
     ],
-    "hashEvenement": "f121118"
+    "hashEvenement": "f30809"
   },
   {
     "idSeance": 217812,
@@ -2973,7 +2946,7 @@
   {
     "idSeance": 217453,
     "idEvenement": 36497,
-    "dateHeure": "2026-10-10T21:00:00",
+    "dateHeure": "2026-10-10T21:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2981,7 +2954,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Frédéric Courtade",
     "items": [
       {
         "idFilm": 62095,
@@ -3020,6 +2992,27 @@
       }
     ],
     "hashEvenement": "f44724"
+  },
+  {
+    "idSeance": 217602,
+    "idEvenement": 37065,
+    "dateHeure": "2026-10-11T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 156020,
+        "titre": "Dans la danse",
+        "realisateurs": "Katya Mikheeva",
+        "annee": 2022
+      }
+    ],
+    "hashEvenement": "f156020"
   },
   {
     "idSeance": 217946,
@@ -3177,6 +3170,40 @@
     "hashEvenement": "c36991f94512"
   },
   {
+    "idSeance": 211573,
+    "idEvenement": 37914,
+    "dateHeure": "2026-10-12T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Festival Biarritz Amérique latine 2026"
+      ]
+    ],
+    "mention": "Séance présentée par Jean-Christophe Berjon",
+    "items": [
+      {
+        "idFilm": 156056,
+        "titre": "Caso isolado",
+        "realisateurs": "Jamila Facury, Edson Lemos Akatoy",
+        "annee": 2026,
+        "duree": 23,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 156057,
+        "titre": "Hangar rojo",
+        "realisateurs": "Juan Pablo Sallato",
+        "annee": 2026,
+        "duree": 82,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f156056f156057"
+  },
+  {
     "idSeance": 217394,
     "idEvenement": 36507,
     "dateHeure": "2026-10-12T20:45:00",
@@ -3200,6 +3227,27 @@
       }
     ],
     "hashEvenement": "f124065"
+  },
+  {
+    "idSeance": 211606,
+    "idEvenement": 37065,
+    "dateHeure": "2026-10-14T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 156020,
+        "titre": "Dans la danse",
+        "realisateurs": "Katya Mikheeva",
+        "annee": 2022
+      }
+    ],
+    "hashEvenement": "f156020"
   },
   {
     "idSeance": 217679,
@@ -3263,6 +3311,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Frédéric Courtade",
     "items": [
       {
         "idFilm": 34064,
@@ -3312,6 +3361,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Victor Morozov",
     "items": [
       {
         "idFilm": 29045,
@@ -3390,7 +3440,7 @@
   {
     "idSeance": 217392,
     "idEvenement": 36500,
-    "dateHeure": "2026-10-15T20:30:00",
+    "dateHeure": "2026-10-15T20:45:00",
     "salle": "JE",
     "cycle": [
       [
@@ -3617,8 +3667,8 @@
   {
     "idSeance": 211704,
     "idEvenement": 35933,
-    "dateHeure": "2026-10-17T17:30:00",
-    "salle": "HL",
+    "dateHeure": "2026-10-17T18:15:00",
+    "salle": "GF",
     "cycle": [
       [
         "Tai Katō",
@@ -3642,8 +3692,8 @@
   {
     "idSeance": 217817,
     "idEvenement": 36873,
-    "dateHeure": "2026-10-17T18:30:00",
-    "salle": "GF",
+    "dateHeure": "2026-10-17T19:00:00",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -3667,8 +3717,8 @@
   {
     "idSeance": 211705,
     "idEvenement": 35926,
-    "dateHeure": "2026-10-17T20:00:00",
-    "salle": "HL",
+    "dateHeure": "2026-10-17T20:30:00",
+    "salle": "GF",
     "cycle": [
       [
         "Tai Katō",
@@ -3692,8 +3742,8 @@
   {
     "idSeance": 217818,
     "idEvenement": 36970,
-    "dateHeure": "2026-10-17T21:15:00",
-    "salle": "GF",
+    "dateHeure": "2026-10-17T21:45:00",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -3719,7 +3769,7 @@
     "idSeance": 220475,
     "idEvenement": 36640,
     "dateHeure": "2026-10-18T14:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Jean-Paul Belmondo",
@@ -3743,7 +3793,7 @@
     "idSeance": 217608,
     "idEvenement": 36696,
     "dateHeure": "2026-10-18T15:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -3803,7 +3853,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Alice Winocour",
+    "mention": "Séance présentée par Alice Winocour et Zélie Boulant-Lemesle",
     "items": [
       {
         "idFilm": 143368,
@@ -3871,7 +3921,7 @@
     "idSeance": 217819,
     "idEvenement": 36874,
     "dateHeure": "2026-10-19T15:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -3887,7 +3937,8 @@
         "annee": 1962,
         "duree": 140,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f45917"
@@ -3959,7 +4010,7 @@
         "titre": "Une femme aujourd'hui",
         "realisateurs": "Robert Guédiguian",
         "annee": 2026,
-        "duree": 122,
+        "duree": 123,
         "format": "DCP"
       }
     ],
@@ -4230,7 +4281,7 @@
         "art": "Le",
         "realisateurs": "Luchino Visconti",
         "annee": 1963,
-        "duree": 205,
+        "duree": 185,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -4281,7 +4332,7 @@
         "annee": 1995,
         "duree": 80,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f61391"
@@ -4460,8 +4511,7 @@
         "art": "Le",
         "realisateurs": "Damien Odoul",
         "annee": 2000,
-        "duree": 77,
-        "format": "35 mm"
+        "duree": 77
       },
       {
         "idConf": 36995,
@@ -4597,6 +4647,76 @@
       }
     ],
     "hashEvenement": "f48044"
+  },
+  {
+    "idSeance": 217598,
+    "idEvenement": 37064,
+    "dateHeure": "2026-10-25T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 84596,
+        "titre": "Panorama pris d'un train en marche",
+        "realisateurs": "Georges Méliès",
+        "annee": 1898,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 94151,
+        "titre": "Dislocation mystérieuse",
+        "realisateurs": "Georges Méliès",
+        "annee": 1901,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 65733,
+        "titre": "Chrysalide et le papillon d'or",
+        "art": "La",
+        "realisateurs": "Georges Méliès",
+        "annee": 1901,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 102268,
+        "titre": "Chez la sorcière",
+        "realisateurs": "Georges Méliès",
+        "annee": 1901
+      },
+      {
+        "idFilm": 52467,
+        "titre": "Génie du feu",
+        "art": "Le",
+        "realisateurs": "Georges Méliès",
+        "annee": 1908,
+        "duree": 4
+      },
+      {
+        "idFilm": 52512,
+        "titre": "Voyage à travers l'impossible",
+        "realisateurs": "Georges Méliès",
+        "annee": 1904,
+        "duree": 22,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 84496,
+        "titre": "Un homme de têtes",
+        "realisateurs": "Georges Méliès",
+        "annee": 1898,
+        "duree": 1,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f84596f94151f65733f102268f52467f52512f84496"
   },
   {
     "idSeance": 217753,
@@ -4825,7 +4945,7 @@
         "realisateurs": "Damien Odoul",
         "annee": 1988,
         "duree": 13,
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 76266,
@@ -4849,7 +4969,7 @@
         "realisateurs": "Damien Odoul",
         "annee": 1995,
         "duree": 6,
-        "format": "Numérique"
+        "format": "DCP"
       },
       {
         "idFilm": 76271,
@@ -4858,7 +4978,7 @@
         "realisateurs": "Damien Odoul",
         "annee": 1995,
         "duree": 33,
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 76269,
@@ -4937,7 +5057,7 @@
       {
         "idFilm": 155920,
         "titre": "Personne n'a rien dit",
-        "realisateurs": "Tamara Todorovic",
+        "realisateurs": "Tamara Todorović",
         "annee": 2026,
         "duree": 15,
         "version": "VOSTF",
@@ -5031,31 +5151,6 @@
     "hashEvenement": "f41594"
   },
   {
-    "idSeance": 217671,
-    "idEvenement": 36101,
-    "dateHeure": "2026-10-28T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Tai Katō",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155718,
-        "titre": "Aventures de Genji Kurō, partie 1",
-        "art": "Les",
-        "realisateurs": "Tai Katō",
-        "annee": 1957,
-        "duree": 87,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f155718"
-  },
-  {
     "idSeance": 217757,
     "idEvenement": 36473,
     "dateHeure": "2026-10-28T18:30:00",
@@ -5080,9 +5175,9 @@
     "hashEvenement": "f91549"
   },
   {
-    "idSeance": 217672,
-    "idEvenement": 36103,
-    "dateHeure": "2026-10-28T20:00:00",
+    "idSeance": 217671,
+    "idEvenement": 36101,
+    "dateHeure": "2026-10-28T19:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5092,17 +5187,17 @@
     ],
     "items": [
       {
-        "idFilm": 155720,
-        "titre": "Aventures de Genji Kurō, partie 2",
+        "idFilm": 155718,
+        "titre": "Aventures de Genji Kurō, partie 1",
         "art": "Les",
         "realisateurs": "Tai Katō",
-        "annee": 1958,
+        "annee": 1957,
         "duree": 87,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f155720"
+    "hashEvenement": "f155718"
   },
   {
     "idSeance": 217758,
@@ -5128,6 +5223,31 @@
       }
     ],
     "hashEvenement": "f155809"
+  },
+  {
+    "idSeance": 217672,
+    "idEvenement": 36103,
+    "dateHeure": "2026-10-28T21:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Tai Katō",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155720,
+        "titre": "Aventures de Genji Kurō, partie 2",
+        "art": "Les",
+        "realisateurs": "Tai Katō",
+        "annee": 1958,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155720"
   },
   {
     "idSeance": 217824,
@@ -5158,7 +5278,7 @@
     "idSeance": 220485,
     "idEvenement": 36107,
     "dateHeure": "2026-10-29T18:00:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Tai Katō",
@@ -5183,7 +5303,7 @@
     "idSeance": 217825,
     "idEvenement": 36971,
     "dateHeure": "2026-10-29T18:30:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -5267,7 +5387,7 @@
     "idSeance": 217940,
     "idEvenement": 36479,
     "dateHeure": "2026-10-29T20:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Damien Odoul",
@@ -5288,7 +5408,9 @@
         "idFilm": 155810,
         "titre": "À la grâce de Dieu",
         "realisateurs": "Damien Odoul",
-        "annee": 2026
+        "annee": 2026,
+        "duree": 72,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155935f155810"
@@ -5297,7 +5419,7 @@
     "idSeance": 217826,
     "idEvenement": 36972,
     "dateHeure": "2026-10-29T21:15:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -5354,7 +5476,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective. Séance suivie d'une discussion avec Jacques Audiard (sous réserve). Séance présentée par Jacques Audiard (sous réserve) et Philippe Rouyer",
+    "mention": "Ouverture de la rétrospective. Séance suivie d'une discussion avec Tonino Benacquista. Séance présentée par Philippe Rouyer",
     "items": [
       {
         "idFilm": 95258,
@@ -5501,7 +5623,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance suivie d'une discussion avec Arthur Harari (sous réserve). Séance présentée par Arthur Harari (sous réserve)",
+    "mention": "Séance suivie d'une discussion avec Arthur Harari (sous réserve). Séance présentée par Arthur Harari (sous réserve) et Chloé Caye",
     "items": [
       {
         "idFilm": 150490,
@@ -5655,6 +5777,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Axel Cadieux",
     "items": [
       {
         "idFilm": 66169,
@@ -5671,7 +5794,7 @@
     "idSeance": 217827,
     "idEvenement": 35983,
     "dateHeure": "2026-11-01T20:15:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Tai Katō",
@@ -5696,7 +5819,7 @@
     "idSeance": 217988,
     "idEvenement": 36803,
     "dateHeure": "2026-11-01T20:45:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -5818,7 +5941,8 @@
         "realisateurs": "Kim Ki-duk",
         "annee": 2004,
         "duree": 90,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f155896f95348"
@@ -5900,31 +6024,6 @@
     "hashEvenement": "f59413"
   },
   {
-    "idSeance": 217993,
-    "idEvenement": 36805,
-    "dateHeure": "2026-11-04T18:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Nos 90 ans en 180 films",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Baptiste Issalène",
-    "items": [
-      {
-        "idFilm": 50421,
-        "titre": "Chagrin et la Pitié",
-        "art": "Le",
-        "realisateurs": "Marcel Ophuls",
-        "annee": 1969,
-        "duree": 270,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f50421"
-  },
-  {
     "idSeance": 212089,
     "idEvenement": 35927,
     "dateHeure": "2026-11-04T18:30:00",
@@ -5948,6 +6047,31 @@
       }
     ],
     "hashEvenement": "f115514"
+  },
+  {
+    "idSeance": 217993,
+    "idEvenement": 36805,
+    "dateHeure": "2026-11-04T19:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Nos 90 ans en 180 films",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Baptiste Issalène",
+    "items": [
+      {
+        "idFilm": 50421,
+        "titre": "Chagrin et la Pitié",
+        "art": "Le",
+        "realisateurs": "Marcel Ophuls",
+        "annee": 1969,
+        "duree": 270,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f50421"
   },
   {
     "idSeance": 220375,
@@ -6009,7 +6133,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Xavier Jamet",
     "items": [
       {
         "idFilm": 44666,
@@ -6123,7 +6246,7 @@
     "idSeance": 217997,
     "idEvenement": 36973,
     "dateHeure": "2026-11-06T16:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -6147,7 +6270,7 @@
   {
     "idSeance": 217994,
     "idEvenement": 36806,
-    "dateHeure": "2026-11-06T17:30:00",
+    "dateHeure": "2026-11-06T18:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6155,7 +6278,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Isabelle Huppert",
+    "mention": "Séance présentée par Isabelle Huppert (sous réserve)",
     "items": [
       {
         "idFilm": 34795,
@@ -6239,7 +6362,7 @@
   {
     "idSeance": 217836,
     "idEvenement": 36713,
-    "dateHeure": "2026-11-06T20:00:00",
+    "dateHeure": "2026-11-06T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6533,15 +6656,11 @@
     "idSeance": 220455,
     "idEvenement": 37153,
     "dateHeure": "2026-11-08T14:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Robert Guédiguian",
         "Les films"
-      ],
-      [
-        "Robert Guédiguian",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6552,20 +6671,15 @@
         "annee": 2022,
         "duree": 106,
         "format": "DCP"
-      },
-      {
-        "idConf": 37230,
-        "titre": "Robert Guédiguian par Robert Guédiguian, une leçon de cinéma",
-        "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "f155903c37230"
+    "hashEvenement": "f155903"
   },
   {
     "idSeance": 217693,
     "idEvenement": 36628,
     "dateHeure": "2026-11-08T15:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Jean-Paul Belmondo",
@@ -6592,10 +6706,30 @@
     "hashEvenement": "f47147"
   },
   {
+    "idSeance": 220400,
+    "idEvenement": 37230,
+    "dateHeure": "2026-11-08T16:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Robert Guédiguian",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 37230,
+        "titre": "Robert Guédiguian par Robert Guédiguian, une leçon de cinéma",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "c37230"
+  },
+  {
     "idSeance": 218035,
     "idEvenement": 36880,
-    "dateHeure": "2026-11-08T16:00:00",
-    "salle": "JE",
+    "dateHeure": "2026-11-08T18:00:00",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -6618,7 +6752,7 @@
     "idSeance": 217686,
     "idEvenement": 35980,
     "dateHeure": "2026-11-08T18:00:00",
-    "salle": "HL",
+    "salle": "JE",
     "cycle": [
       [
         "Tai Katō",
@@ -6666,7 +6800,7 @@
     "idSeance": 217688,
     "idEvenement": 36104,
     "dateHeure": "2026-11-08T21:15:00",
-    "salle": "HL",
+    "salle": "JE",
     "cycle": [
       [
         "Tai Katō",
@@ -6888,7 +7022,7 @@
     "idSeance": 218037,
     "idEvenement": 36721,
     "dateHeure": "2026-11-12T16:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -6911,7 +7045,7 @@
   {
     "idSeance": 220387,
     "idEvenement": 36877,
-    "dateHeure": "2026-11-12T18:00:00",
+    "dateHeure": "2026-11-12T18:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7003,7 +7137,7 @@
   {
     "idSeance": 218053,
     "idEvenement": 36876,
-    "dateHeure": "2026-11-12T20:30:00",
+    "dateHeure": "2026-11-12T21:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7011,7 +7145,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Frédéric Bonnaud et Olivier Assayas",
+    "mention": "Séance présentée par Olivier Assayas",
     "items": [
       {
         "idFilm": 46009,
@@ -7229,7 +7363,7 @@
     "idSeance": 220390,
     "idEvenement": 36718,
     "dateHeure": "2026-11-14T14:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -7278,7 +7412,7 @@
     "idSeance": 220473,
     "idEvenement": 36642,
     "dateHeure": "2026-11-14T14:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Jean-Paul Belmondo",
@@ -7413,6 +7547,7 @@
         "Rencontres et conférences"
       ]
     ],
+    "mention": "Séance présentée par Claude Lelouch",
     "items": [
       {
         "idFilm": 49740,
@@ -7866,6 +8001,7 @@
         "realisateurs": "Jean-Pierre Gorin",
         "annee": 1980,
         "duree": 73,
+        "version": "VOSTF",
         "format": "Numérique"
       }
     ],
@@ -7992,7 +8128,8 @@
         "titre": "Pierrot le fou",
         "realisateurs": "Jean-Luc Godard",
         "annee": 1965,
-        "duree": 109,
+        "duree": 111,
+        "version": "VO",
         "format": "35 mm"
       },
       {
@@ -8064,7 +8201,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Adrien Malossanne",
+    "mention": "Séance présentée par Isabelle Huppert (sous réserve)",
     "items": [
       {
         "idFilm": 48850,
@@ -8237,7 +8374,7 @@
     "idSeance": 217971,
     "idEvenement": 36819,
     "dateHeure": "2026-11-23T15:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -8512,7 +8649,7 @@
     "idSeance": 217976,
     "idEvenement": 36822,
     "dateHeure": "2026-11-26T15:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -8567,6 +8704,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Lisandro Alonso",
     "items": [
       {
         "idFilm": 155882,
@@ -8575,7 +8713,7 @@
         "annee": 1995,
         "duree": 4,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       },
       {
         "idFilm": 99875,
@@ -8667,7 +8805,7 @@
     "idSeance": 218068,
     "idEvenement": 36823,
     "dateHeure": "2026-11-27T14:30:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Nos 90 ans en 180 films",
@@ -8794,6 +8932,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Lisandro Alonso et Bruno Dumont",
     "items": [
       {
         "idFilm": 91556,
@@ -8825,7 +8964,7 @@
         "art": "Le",
         "realisateurs": "Osvaldo Civirani",
         "annee": 1969,
-        "duree": 88,
+        "duree": 90,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -8872,6 +9011,7 @@
         "Rencontres et conférences"
       ]
     ],
+    "mention": "Séance présentée par Lisandro Alonso",
     "items": [
       {
         "idFilm": 76160,
@@ -8902,6 +9042,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Lisandro Alonso et Rafi Pitts",
     "items": [
       {
         "idFilm": 155872,
@@ -8965,10 +9106,34 @@
     "hashEvenement": "f49820"
   },
   {
+    "idSeance": 218070,
+    "idEvenement": 36825,
+    "dateHeure": "2026-11-29T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Nos 90 ans en 180 films",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Fabienne Babe",
+    "items": [
+      {
+        "idFilm": 47136,
+        "titre": "De bruit et de fureur",
+        "realisateurs": "Jean-Claude Brisseau",
+        "annee": 1988,
+        "duree": 95,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f47136"
+  },
+  {
     "idSeance": 217905,
     "idEvenement": 37091,
     "dateHeure": "2026-11-29T15:00:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Ma petite Cinémathèque",
@@ -8990,30 +9155,6 @@
     "hashEvenement": "f31320"
   },
   {
-    "idSeance": 218070,
-    "idEvenement": 36825,
-    "dateHeure": "2026-11-29T15:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Nos 90 ans en 180 films",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Fabienne Babe",
-    "items": [
-      {
-        "idFilm": 47136,
-        "titre": "De bruit et de fureur",
-        "realisateurs": "Jean-Claude Brisseau",
-        "annee": 1988,
-        "duree": 95,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f47136"
-  },
-  {
     "idSeance": 212703,
     "idEvenement": 37033,
     "dateHeure": "2026-11-29T17:30:00",
@@ -9024,6 +9165,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Lisandro Alonso",
     "items": [
       {
         "idFilm": 131485,
@@ -9080,6 +9222,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Lisandro Alonso",
     "items": [
       {
         "idFilm": 155907,
