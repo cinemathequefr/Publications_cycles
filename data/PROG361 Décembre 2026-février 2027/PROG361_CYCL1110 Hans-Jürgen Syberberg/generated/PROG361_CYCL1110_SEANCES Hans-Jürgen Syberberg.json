@@ -74,9 +74,32 @@
   {
     "idCategorie": 4194,
     "typeEvenement": 13,
+    "idEvenement": 36922,
+    "idSeance": 231137,
+    "dateHeure": "2027-02-13T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155856,
+        "ordre": 1,
+        "idSeance": 231137,
+        "idCopie": 31973,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4194,
+    "typeEvenement": 13,
     "idEvenement": 36916,
     "idSeance": 228227,
-    "dateHeure": "2027-02-13T15:00:00",
+    "dateHeure": "2027-02-13T17:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -99,10 +122,10 @@
     "typeEvenement": 13,
     "idEvenement": 36915,
     "idSeance": 228228,
-    "dateHeure": "2027-02-13T17:00:00",
+    "dateHeure": "2027-02-13T19:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "dureeSeance": 90,
     "items": [
@@ -144,8 +167,8 @@
   {
     "idCategorie": 4194,
     "typeEvenement": 13,
-    "idEvenement": 36917,
-    "idSeance": 220043,
+    "idEvenement": 36918,
+    "idSeance": 231138,
     "dateHeure": "2027-02-17T18:00:00",
     "idSalle": [
       "GF",
@@ -154,13 +177,13 @@
     "dureeSeance": 165,
     "items": [
       {
-        "idFilm": 39252,
+        "idFilm": 39570,
         "ordre": 1,
-        "idSeance": 220043,
-        "idCopie": 31968,
-        "duree": 130,
-        "version": "STF",
-        "format": "Numérique"
+        "idSeance": 231138,
+        "idCopie": 31967,
+        "duree": 138,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -191,55 +214,23 @@
   {
     "idCategorie": 4194,
     "typeEvenement": 13,
-    "idEvenement": 37794,
-    "idSeance": 231124,
-    "dateHeure": "2027-02-18T16:30:00",
+    "idEvenement": 36919,
+    "idSeance": 231141,
+    "dateHeure": "2027-02-18T18:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 315,
     "items": [
       {
-        "idFilm": 156105,
+        "idFilm": 39269,
         "ordre": 1,
-        "idSeance": 231124,
-        "idCopie": 32741,
-        "duree": 9,
+        "idSeance": 231141,
+        "idCopie": 31971,
+        "duree": 291,
         "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 156030,
-        "ordre": 2,
-        "idSeance": 231124,
-        "idCopie": 32521,
-        "duree": 80,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4194,
-    "typeEvenement": 13,
-    "idEvenement": 37793,
-    "idSeance": 220078,
-    "dateHeure": "2027-02-18T18:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 240,
-    "items": [
-      {
-        "idFilm": 156029,
-        "ordre": 1,
-        "idSeance": 220078,
-        "idCopie": 32522,
-        "duree": 214,
-        "version": "",
-        "format": "DCP"
+        "format": "Numérique"
       }
     ]
   },
@@ -335,9 +326,9 @@
   {
     "idCategorie": 4194,
     "typeEvenement": 13,
-    "idEvenement": 36918,
-    "idSeance": 228255,
-    "dateHeure": "2027-02-21T14:30:00",
+    "idEvenement": 36917,
+    "idSeance": 231139,
+    "dateHeure": "2027-02-21T14:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -345,36 +336,12 @@
     "dureeSeance": 165,
     "items": [
       {
-        "idFilm": 39570,
+        "idFilm": 39252,
         "ordre": 1,
-        "idSeance": 228255,
-        "idCopie": 31967,
-        "duree": 138,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance présentée par Rochelle Fack"
-  },
-  {
-    "idCategorie": 4194,
-    "typeEvenement": 13,
-    "idEvenement": 36919,
-    "idSeance": 220177,
-    "dateHeure": "2027-02-21T17:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 315,
-    "items": [
-      {
-        "idFilm": 39269,
-        "ordre": 1,
-        "idSeance": 220177,
-        "idCopie": 31971,
-        "duree": 291,
-        "version": "VOSTF",
+        "idSeance": 231139,
+        "idCopie": 31968,
+        "duree": 130,
+        "version": "STF",
         "format": "Numérique"
       }
     ]
@@ -382,9 +349,33 @@
   {
     "idCategorie": 4194,
     "typeEvenement": 13,
+    "idEvenement": 36561,
+    "idSeance": 231140,
+    "dateHeure": "2027-02-21T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 390,
+    "items": [
+      {
+        "idFilm": 55483,
+        "ordre": 1,
+        "idSeance": 231140,
+        "idCopie": 31965,
+        "duree": 360,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4194,
+    "typeEvenement": 13,
     "idEvenement": 37792,
-    "idSeance": 231023,
-    "dateHeure": "2027-02-22T16:30:00",
+    "idSeance": 231149,
+    "dateHeure": "2027-02-24T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -394,7 +385,7 @@
       {
         "idFilm": 156028,
         "ordre": 1,
-        "idSeance": 231023,
+        "idSeance": 231149,
         "idCopie": 32520,
         "duree": 61,
         "version": "",
@@ -405,32 +396,9 @@
   {
     "idCategorie": 4194,
     "typeEvenement": 13,
-    "idEvenement": 36922,
-    "idSeance": 220221,
-    "dateHeure": "2027-02-24T18:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 155856,
-        "ordre": 1,
-        "idSeance": 220221,
-        "idCopie": 31973,
-        "duree": 91,
-        "version": "VOSTF",
-        "format": "Numérique"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4194,
-    "typeEvenement": 13,
     "idEvenement": 36920,
     "idSeance": 228146,
-    "dateHeure": "2027-02-24T20:30:00",
+    "dateHeure": "2027-02-24T20:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -451,71 +419,96 @@
   {
     "idCategorie": 4194,
     "typeEvenement": 13,
-    "idEvenement": 36559,
-    "idSeance": 220254,
+    "idEvenement": 36921,
+    "idSeance": 231148,
     "dateHeure": "2027-02-25T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
-    ],
-    "dureeSeance": 165,
-    "items": [
-      {
-        "idFilm": 58037,
-        "ordre": 1,
-        "idSeance": 220254,
-        "idCopie": 31975,
-        "duree": 140,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 4194,
-    "typeEvenement": 13,
-    "idEvenement": 36561,
-    "idSeance": 220334,
-    "dateHeure": "2027-02-27T17:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 390,
-    "items": [
-      {
-        "idFilm": 55483,
-        "ordre": 1,
-        "idSeance": 220334,
-        "idCopie": 31965,
-        "duree": 360,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 4194,
-    "typeEvenement": 13,
-    "idEvenement": 36921,
-    "idSeance": 220352,
-    "dateHeure": "2027-02-28T17:45:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
     ],
     "dureeSeance": 255,
     "items": [
       {
         "idFilm": 155855,
         "ordre": 1,
-        "idSeance": 220352,
+        "idSeance": 231148,
         "idCopie": 31972,
         "duree": 224,
         "version": "VOSTF",
         "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4322,
+    "typeEvenement": 14,
+    "idEvenement": 38101,
+    "idSeance": 231151,
+    "dateHeure": "2027-02-27T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 90,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 4194,
+    "typeEvenement": 13,
+    "idEvenement": 37794,
+    "idSeance": 231144,
+    "dateHeure": "2027-02-28T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 156105,
+        "ordre": 1,
+        "idSeance": 231144,
+        "idCopie": 32741,
+        "duree": 9,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 156030,
+        "ordre": 2,
+        "idSeance": 231144,
+        "idCopie": 32521,
+        "duree": 80,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4194,
+    "typeEvenement": 13,
+    "idEvenement": 37793,
+    "idSeance": 231145,
+    "dateHeure": "2027-02-28T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 240,
+    "items": [
+      {
+        "idFilm": 156029,
+        "ordre": 1,
+        "idSeance": 231145,
+        "idCopie": 32522,
+        "duree": 214,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
