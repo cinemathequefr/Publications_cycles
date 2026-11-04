@@ -135,17 +135,6 @@
       ]
     },
     {
-      "idCycleProg": 1159,
-      "isReg": true,
-      "type": "jp",
-      "titreCycle": "Ma petite Cinémathèque",
-      "_charge_prog": "Élodie Imbeau",
-      "sousCycles": [{ "titre": "Les films", "cats": [4357], "tri": 4 }],
-      "excludeSeances": [],
-      "restaurations": [],
-      "titreEvenements": {}
-    },
-    {
       "idCycleProg": 1122,
       "titreCycle": "Shin Sang-ok",
       "_charge_prog": "Katia",
@@ -182,7 +171,7 @@
       "isReg": false,
       "sousCycles": [
         { "titre": "Les films", "cats": [4325], "tri": 2 },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [4362], "tri": 4 }
       ],
       "excludeSeances": [],
       "restaurations": [],
@@ -211,7 +200,7 @@
       "sousCycles": [
         { "titre": "Les films", "cats": [4327], "tri": 2, "printNoMT": false },
         {
-          "titre": "[Baby Marie Osborne]",
+          "titre": "Séance Baby Marie Osborne",
           "cats": [4333],
           "tri": 2,
           "printNoMT": false
@@ -222,7 +211,7 @@
           "tri": 2,
           "printNoMT": false
         },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [4358], "tri": 4 }
       ],
       "excludeSeances": [],
       "restaurations": [],
@@ -267,7 +256,7 @@
       "type": null,
       "sousCycles": [
         { "titre": "Les films", "cats": [4341], "tri": 2, "printNoMT": false },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [4364], "tri": 4 }
       ],
       "excludeSeances": [],
       "restaurations": [],
@@ -282,7 +271,7 @@
       "type": null,
       "sousCycles": [
         { "titre": "Les films", "cats": [4335], "tri": 2, "printNoMT": false },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [4363], "tri": 4 }
       ],
       "excludeSeances": [],
       "restaurations": [],
@@ -327,8 +316,19 @@
       "type": null,
       "sousCycles": [
         { "titre": "Les films", "cats": [4354], "tri": 2, "printNoMT": false },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [4356], "tri": 4 }
       ],
+      "excludeSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 1159,
+      "isReg": true,
+      "type": "jp",
+      "titreCycle": "Ma petite Cinémathèque",
+      "_charge_prog": "Élodie Imbeau",
+      "sousCycles": [{ "titre": "Les films", "cats": [4357], "tri": 4 }],
       "excludeSeances": [],
       "restaurations": [],
       "titreEvenements": {}
