@@ -1,0 +1,153 @@
+{
+  "datesCycle": [
+    "2027-04-21T20:00:00",
+    "2027-05-09T16:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 46146,
+          "content": [
+            {
+              "idFilm": 46146,
+              "ordre": 1,
+              "titre": "Neiges du Kilimandjaro",
+              "art": "Les",
+              "titreVo": "Snows of Kilimanjaro",
+              "artVo": "The",
+              "realisateurs": "Henry King",
+              "pays": "États-Unis",
+              "annee": 1952,
+              "duree": 114,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après la nouvelle _Les Neiges du Kilimandjaro_ d'Ernest Hemingway.",
+              "generique": [
+                "Gregory Peck",
+                "Susan Hayward",
+                "Ava Gardner"
+              ],
+              "miniTexte": "Au pied du Kilimandjaro, un écrivain à l'agonie voit défiler ses amours, ses voyages et ses regrets. De Paris à l'Afrique, en passant par l'Espagne en guerre, Henry King métamorphose la nouvelle d'Hemingway en une saga romanesque aux couleurs éblouissantes. Avec un superbe trio Gregory Peck, Ava Gardner et Susan Hayward, qui donne chair à cette méditation sur le temps perdu et les occasions manquées."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229789,
+              "dateHeure": "2027-04-29T21:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 78996,
+          "content": [
+            {
+              "idFilm": 78996,
+              "ordre": 1,
+              "titre": "Wait Till the Sun Shines, Nellie",
+              "realisateurs": "Henry King",
+              "pays": "États-Unis",
+              "annee": 1952,
+              "duree": 109,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _I Hear Them Sing_ de Ferdinand Reyher.",
+              "generique": [
+                "Jean Peters",
+                "David Wayne",
+                "Hugh Marlowe"
+              ],
+              "miniTexte": "Dans une petite ville de l'Illinois, les rêves contrariés d'un barbier et les blessures de sa famille dessinent le visage mélancolique d'une Amérique en mutation. Le cinéaste embrasse un demi-siècle de vie ordinaire dans un récit intime et désenchanté, laissant affleurer le poids des choix irréversibles."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229591,
+              "dateHeure": "2027-04-21T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 38168,
+          "content": [
+            {
+              "idConf": 38168,
+              "titre": "Dialogue avec Jean-Paul Civeyrac",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230870,
+              "dateHeure": "2027-04-24T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 38175,
+          "content": [
+            {
+              "idConf": 38175,
+              "titre": "[Henry King]",
+              "sousTitre": "Conférence de Pierre Berthomieu",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230871,
+              "dateHeure": "2027-04-29T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 38169,
+          "content": [
+            {
+              "idConf": 38169,
+              "titre": "Dialogue avec Jean-Paul Civeyrac",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 231026,
+              "dateHeure": "2027-05-09T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Séances avec dialogue": [
+      {
+        "mention": "avec Jean-Paul Civeyrac",
+        "dateHeure": "2027-04-24T16:30:00"
+      },
+      {
+        "mention": "[Henry King]",
+        "dateHeure": "2027-04-29T19:00:00"
+      },
+      {
+        "mention": "avec Jean-Paul Civeyrac",
+        "dateHeure": "2027-05-09T16:30:00"
+      }
+    ]
+  }
+}
