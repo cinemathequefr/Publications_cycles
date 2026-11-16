@@ -20,6 +20,7 @@
         "duree": 145,
         "version": "VOSTF",
         "format": "DCP",
+        "dateDebut": "2027-03-17T19:00:00.000Z",
         "restauration": true
       }
     ],
@@ -45,6 +46,7 @@
         "duree": 121,
         "version": "VOSTF",
         "format": "DCP",
+        "dateDebut": "2027-03-20T13:30:00.000Z",
         "restauration": true
       }
     ]
@@ -68,7 +70,8 @@
         "idCopie": 16991,
         "duree": 146,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "dateDebut": "2027-03-20T18:00:00.000Z"
       }
     ]
   },
@@ -91,7 +94,8 @@
         "idCopie": 22152,
         "duree": 108,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "dateDebut": "2027-03-22T17:00:00.000Z"
       }
     ]
   },
@@ -114,7 +118,8 @@
         "idCopie": 22153,
         "duree": 146,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "dateDebut": "2027-03-22T19:15:00.000Z"
       }
     ]
   },
@@ -137,7 +142,8 @@
         "idCopie": 22219,
         "duree": 119,
         "version": "VO",
-        "format": "35 mm"
+        "format": "35 mm",
+        "dateDebut": "2027-03-24T16:30:00.000Z"
       }
     ]
   },
@@ -160,7 +166,56 @@
         "idCopie": 5870,
         "duree": 132,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "35 mm",
+        "dateDebut": "2027-03-24T19:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4331,
+    "typeEvenement": 13,
+    "idEvenement": 38166,
+    "idSeance": 231776,
+    "dateHeure": "2027-03-27T15:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {
+        "idFilm": 156121,
+        "ordre": 1,
+        "idSeance": 231776,
+        "idCopie": 32823,
+        "duree": 64,
+        "version": "",
+        "format": "",
+        "dateDebut": "2027-03-27T14:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4331,
+    "typeEvenement": 13,
+    "idEvenement": 38066,
+    "idSeance": 231777,
+    "dateHeure": "2027-03-27T17:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 40549,
+        "ordre": 1,
+        "idSeance": 231777,
+        "idCopie": 32756,
+        "duree": 102,
+        "version": "VOSTA",
+        "format": "Numérique",
+        "dateDebut": "2027-03-27T16:00:00.000Z"
       }
     ]
   },
@@ -168,22 +223,72 @@
     "idCategorie": 4331,
     "typeEvenement": 13,
     "idEvenement": 37828,
-    "idSeance": 231214,
+    "idSeance": 231775,
     "dateHeure": "2027-03-28T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 465,
+    "dureeSeance": 165,
     "items": [
       {
         "idFilm": 76890,
         "ordre": 1,
-        "idSeance": 231214,
+        "idSeance": 231775,
         "idCopie": 22132,
         "duree": 137,
         "version": "VOSTF",
         "format": "DCP",
+        "dateDebut": "2027-03-28T12:30:00.000Z",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4331,
+    "typeEvenement": 13,
+    "idEvenement": 38253,
+    "idSeance": 231773,
+    "dateHeure": "2027-03-28T17:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 76890,
+        "ordre": 1,
+        "idSeance": 231773,
+        "idCopie": 23677,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "DCP",
+        "dateDebut": "2027-03-28T15:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4331,
+    "typeEvenement": 13,
+    "idEvenement": 38254,
+    "idSeance": 231774,
+    "dateHeure": "2027-03-28T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 210,
+    "items": [
+      {
+        "idFilm": 76890,
+        "ordre": 1,
+        "idSeance": 231774,
+        "idCopie": 23678,
+        "duree": 177,
+        "version": "VOSTF",
+        "format": "DCP",
+        "dateDebut": "2027-03-28T18:00:00.000Z",
         "restauration": true
       }
     ]

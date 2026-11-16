@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2027-04-12T20:00:00",
-    "2027-04-12T20:00:00"
+    "2027-04-05T20:00:00",
+    "2027-04-14T20:15:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,35 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 58593,
+          "content": [
+            {
+              "idFilm": 58593,
+              "ordre": 1,
+              "titre": "Autre côté de la mer",
+              "art": "L'",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 1997,
+              "duree": 89,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Claude Brasseur",
+                "Roschdy Zem",
+                "Marthe Villalonga"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 231784,
+              "dateHeure": "2027-04-14T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idFilm": 155992,
           "content": [
@@ -31,10 +60,39 @@
           ],
           "seances": [
             {
-              "idSeance": 229391,
-              "dateHeure": "2027-04-12T20:00:00",
+              "idSeance": 229223,
+              "dateHeure": "2027-04-05T20:00:00",
               "idSalle": "HL",
               "mention": "Avant-première"
+            }
+          ]
+        },
+        {
+          "idFilm": 64375,
+          "content": [
+            {
+              "idFilm": 64375,
+              "ordre": 1,
+              "titre": "Nadia et les hippopotames",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 1999,
+              "duree": 100,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Ariane Ascaride",
+                "Marilyne Canto",
+                "Thierry Frémont",
+                "Philippe Fretun"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 231785,
+              "dateHeure": "2027-04-14T20:15:00",
+              "idSalle": "GF"
             }
           ]
         }
@@ -44,7 +102,7 @@
   "syntheseAction": {
     "Avant-première": [
       {
-        "dateHeure": "2027-04-12T20:00:00",
+        "dateHeure": "2027-04-05T20:00:00",
         "titreFilms": "Des femmes comme les autres"
       }
     ]

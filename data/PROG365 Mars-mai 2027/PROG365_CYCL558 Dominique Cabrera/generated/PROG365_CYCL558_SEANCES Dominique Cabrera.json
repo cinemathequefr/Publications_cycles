@@ -3,8 +3,8 @@
     "idCategorie": 2458,
     "typeEvenement": 13,
     "idEvenement": 37510,
-    "idSeance": 229391,
-    "dateHeure": "2027-04-12T20:00:00",
+    "idSeance": 229223,
+    "dateHeure": "2027-04-05T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -15,13 +15,62 @@
       {
         "idFilm": 155992,
         "ordre": 1,
-        "idSeance": 229391,
+        "idSeance": 229223,
         "idCopie": 32404,
         "duree": 0,
         "version": "",
-        "format": "DCP"
+        "format": "DCP",
+        "dateDebut": "2027-04-05T18:00:00.000Z"
       }
     ],
     "mention": "Avant-première"
+  },
+  {
+    "idCategorie": 2458,
+    "typeEvenement": 13,
+    "idEvenement": 23882,
+    "idSeance": 231784,
+    "dateHeure": "2027-04-14T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 58593,
+        "ordre": 1,
+        "idSeance": 231784,
+        "idCopie": 22294,
+        "duree": 89,
+        "version": "",
+        "format": "",
+        "dateDebut": "2027-04-14T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2458,
+    "typeEvenement": 13,
+    "idEvenement": 23883,
+    "idSeance": 231785,
+    "dateHeure": "2027-04-14T20:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 64375,
+        "ordre": 1,
+        "idSeance": 231785,
+        "idCopie": 22304,
+        "duree": 100,
+        "version": "",
+        "format": "",
+        "dateDebut": "2027-04-14T18:15:00.000Z"
+      }
+    ]
   }
 ]
