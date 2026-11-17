@@ -6,6 +6,93 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 106512,
+          "content": [
+            {
+              "idFilm": 106512,
+              "ordre": 1,
+              "titre": "Mia et le Migou",
+              "realisateurs": "Jacques-Rémy Girerd",
+              "pays": "France-Italie-Grande-Bretagne",
+              "annee": 2008,
+              "duree": 91,
+              "version": "",
+              "format": "35 mm",
+              "ageMinimal": 6
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228580,
+              "dateHeure": "2027-03-10T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
+            }
+          ]
+        },
+        {
+          "idFilm": 47626,
+          "content": [
+            {
+              "idFilm": 47626,
+              "ordre": 1,
+              "titre": "Fanfan la Tulipe",
+              "realisateurs": "Christian-Jaque",
+              "pays": "France-Italie",
+              "annee": 1952,
+              "duree": 102,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 6,
+              "generique": [
+                "Gérard Philipe",
+                "Gina Lollobrigida",
+                "Noël Roquevert",
+                "Marcel Herrand"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228711,
+              "dateHeure": "2027-03-14T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
+            }
+          ]
+        },
+        {
+          "idFilm": 36456,
+          "content": [
+            {
+              "idFilm": 36456,
+              "ordre": 1,
+              "titre": "Ivanhoé",
+              "titreVo": "Ivanhoe",
+              "realisateurs": "Richard Thorpe",
+              "pays": "Grande-Bretagne",
+              "annee": 1952,
+              "duree": 106,
+              "version": "VO",
+              "format": "",
+              "adaptation": "D'après le roman _Ivanhoé_ de Walter Scott.",
+              "generique": [
+                "Elizabeth Taylor",
+                "Robert Taylor",
+                "Joan Fontaine",
+                "George Sanders"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 231307,
+              "dateHeure": "2027-03-17T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 48037,
           "content": [
             {
@@ -47,6 +134,37 @@
           ]
         },
         {
+          "idFilm": 51561,
+          "content": [
+            {
+              "idFilm": 51561,
+              "ordre": 1,
+              "titre": "Jacquot de Nantes",
+              "realisateurs": "Agnès Varda",
+              "pays": "France",
+              "annee": 1991,
+              "duree": 118,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 8,
+              "generique": [
+                "Philippe Maron",
+                "Édouard Joubeaud",
+                "Laurent Monnier"
+              ],
+              "miniTexte": "Agnès Varda replonge en images dans les souvenirs de Jacques Demy, depuis ses rêves de cinéma façonnés dès l'enfance. À travers des séquences intimes, extraits de films, ou scènes de fiction qui composent un émouvant kaléidoscope, elle retrace à petites touches la vie de l'homme, du mari, et de l'artiste."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 228879,
+              "dateHeure": "2027-03-21T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 8
+            }
+          ]
+        },
+        {
           "idFilm": 48045,
           "content": [
             {
@@ -78,28 +196,70 @@
           ]
         },
         {
-          "idFilm": 142306,
+          "idFilm": 31103,
           "content": [
             {
-              "idFilm": 142306,
+              "idFilm": 31103,
               "ordre": 1,
-              "titre": "Enfants de la mer",
-              "art": "Les",
-              "titreVo": "Kaijū no kodomo",
-              "realisateurs": "Ayumu Watanabe",
-              "pays": "Japon",
-              "annee": 2019,
-              "duree": 111,
-              "version": "VOSTF",
+              "titre": "Vingt Mille Lieues sous les mers",
+              "titreVo": "20,000 Leagues Under the Sea",
+              "realisateurs": "Richard Fleischer",
+              "pays": "États-Unis",
+              "annee": 1954,
+              "duree": 128,
+              "version": "VF",
               "format": "DCP",
-              "miniTexte": "Lors d'un été solitaire, Ruka rencontre Umi et Sora, deux frères mystérieux élevés par des dugongs, avec lesquels elle découvre les secrets de l'océan. Les images foisonnantes du Studio 4°C et la musique de Joe Hisaishi accompagnent cette plongée sensorielle, librement inspirée du manga de Daisuke Igarashi. Une célébration des mystères du vivant dans un éblouissant déferlement de formes et de couleurs."
+              "ageMinimal": 8,
+              "adaptation": "D'après le roman _Vingt mille lieues sous les mers_ de Jules Verne.",
+              "generique": [
+                "Kirk Douglas",
+                "James Mason",
+                "Paul Lukas"
+              ],
+              "miniTexte": "Le Nautilus, un calamar géant, James Mason en capitaine Nemo bouleversant, et Kirk Douglas en joyeux marin virevoltant : Richard Fleischer met en images, en prises de vue réelles et avec des effets spéciaux remarquables pour l'époque, l'épopée marine imaginée par Jules Verne. Un modèle de film d'aventures."
             }
           ],
           "seances": [
             {
-              "idSeance": 231285,
-              "dateHeure": "2027-04-07T15:00:00",
-              "idSalle": "GF"
+              "idSeance": 231793,
+              "dateHeure": "2027-03-31T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 8
+            }
+          ]
+        },
+        {
+          "idFilm": 35285,
+          "content": [
+            {
+              "idFilm": 35285,
+              "ordre": 1,
+              "titre": "Pirate",
+              "art": "Le",
+              "titreVo": "Pirate",
+              "artVo": "The",
+              "realisateurs": "Vincente Minnelli",
+              "pays": "États-Unis",
+              "annee": 1948,
+              "duree": 102,
+              "version": "",
+              "format": "",
+              "ageMinimal": 10,
+              "adaptation": "D'après la pièce _The Pirate_ de S. N. Behrman.",
+              "generique": [
+                "Gene Kelly",
+                "Judy Garland",
+                "Lola Albright",
+                "Walter Slezak"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 231794,
+              "dateHeure": "2027-04-04T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 10
             }
           ]
         },
@@ -185,6 +345,309 @@
               "dateHeure": "2027-04-18T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 10
+            }
+          ]
+        },
+        {
+          "idFilm": 42982,
+          "content": [
+            {
+              "idFilm": 42982,
+              "ordre": 1,
+              "titre": "Voleur de Bagdad",
+              "art": "Le",
+              "titreVo": "Thief of Bagdad",
+              "artVo": "The",
+              "realisateurs": "Ludwig Berger, Tim Whelan, Michael Powell",
+              "pays": "Grande-Bretagne",
+              "annee": 1940,
+              "duree": 106,
+              "version": "VF",
+              "format": "DCP",
+              "ageMinimal": 8,
+              "generique": [
+                "Conrad Veidt",
+                "Sabu",
+                "John Justin"
+              ],
+              "miniTexte": "Pour se débarrasser du machiavélique Jaffar, récupérer son trône et la princesse qu'il aime, le roi Ahmad unit ses forces à un voleur malicieux nommé Abu. Un film en forme de livre d'images féériques, aux incroyables effets visuels (première utilisation d'un fond vert), qui inspirera Walt Disney pour son dessin animé _Aladdin_."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 231799,
+              "dateHeure": "2027-04-21T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 8
+            }
+          ]
+        },
+        {
+          "idFilm": 36357,
+          "content": [
+            {
+              "idFilm": 36357,
+              "ordre": 1,
+              "titre": "E.T., l'extra-terrestre",
+              "titreVo": "E.T. the Extra-Terrestrial in His Adventure on Earth",
+              "realisateurs": "Steven Spielberg",
+              "pays": "États-Unis",
+              "annee": 1982,
+              "duree": 120,
+              "version": "VF",
+              "format": "DCP",
+              "generique": [
+                "Dee Wallace",
+                "Henry Thomas",
+                "Peter Coyote"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229719,
+              "dateHeure": "2027-04-25T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 64274,
+          "content": [
+            {
+              "idFilm": 64274,
+              "ordre": 1,
+              "titre": "Château des singes",
+              "art": "Le",
+              "realisateurs": "Jean-François Laguionie",
+              "pays": "France-Grande-Bretagne-Allemagne-Hongrie",
+              "annee": 1999,
+              "duree": 75,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 4,
+              "adaptation": "D'après le roman _Le Baron perché_ d'Italo Calvino."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229756,
+              "dateHeure": "2027-04-28T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 4
+            }
+          ]
+        },
+        {
+          "idFilm": 35437,
+          "content": [
+            {
+              "idFilm": 35437,
+              "ordre": 1,
+              "titre": "Stand By Me",
+              "realisateurs": "Rob Reiner",
+              "pays": "États-Unis",
+              "annee": 1986,
+              "duree": 85,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "ageMinimal": 10,
+              "adaptation": "D'après le roman _The Body_ de Stephen King.",
+              "generique": [
+                "Richard Dreyfuss",
+                "Kiefer Sutherland",
+                "John Cusack"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229887,
+              "dateHeure": "2027-05-02T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 10
+            }
+          ]
+        },
+        {
+          "idFilm": 31258,
+          "content": [
+            {
+              "idFilm": 31258,
+              "ordre": 1,
+              "titre": "Lumières de la ville",
+              "art": "Les",
+              "titreVo": "City Lights",
+              "realisateurs": "Charles Chaplin",
+              "pays": "États-Unis",
+              "annee": 1931,
+              "duree": 87,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "ageMinimal": 6,
+              "generique": [
+                "Charles Chaplin",
+                "Virginia Cherrill",
+                "Robert Parrish"
+              ],
+              "miniTexte": "Charlot tente par tous les moyens d'aider une jeune marchande de fleurs, aveugle, à retrouver la vue, et essaie ainsi différents métiers, prétextes à une kyrielle de gags et de quiproquos. Tout le talent de Chaplin au service de la poésie, dans un sommet de burlesque bouleversant."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229924,
+              "dateHeure": "2027-05-05T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
+            }
+          ]
+        },
+        {
+          "idFilm": 45438,
+          "content": [
+            {
+              "idFilm": 45438,
+              "ordre": 1,
+              "titre": "Jason et les Argonautes",
+              "titreVo": "Jason and the Argonauts",
+              "realisateurs": "Don Chaffey",
+              "pays": "Grande-Bretagne",
+              "annee": 1963,
+              "duree": 104,
+              "version": "VF",
+              "format": "DCP",
+              "ageMinimal": 10,
+              "generique": [
+                "Honor Blackman",
+                "Todd Armstrong",
+                "Gary Raymond",
+                "Niall MacGinnis",
+                "Nancy Kovack"
+              ],
+              "miniTexte": "En quête de la Toison d'or, Jason, aidé par les fidèles Argonautes, affronte les dieux, les éléments, et une foule de monstres mythologiques. Célèbre pour ses effets spéciaux et ses créatures légendaires créées par Ray Harryhausen, le père de l'animation en volume, une référence du film d'aventures fantastiques."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230055,
+              "dateHeure": "2027-05-09T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 10
+            }
+          ]
+        },
+        {
+          "idFilm": 39445,
+          "content": [
+            {
+              "idFilm": 39445,
+              "ordre": 1,
+              "titre": "Fleuve aux grandes eaux",
+              "art": "Le",
+              "realisateurs": "Frédéric Back",
+              "pays": "Canada",
+              "annee": 1993,
+              "duree": 24,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 6
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230092,
+              "dateHeure": "2027-05-12T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
+            }
+          ]
+        },
+        {
+          "idFilm": 57769,
+          "content": [
+            {
+              "idFilm": 57769,
+              "ordre": 1,
+              "titre": "Cadet d'eau douce",
+              "titreVo": "Steamboat Bill, Jr.",
+              "realisateurs": "Buster Keaton, Charles F. Riesner",
+              "pays": "États-Unis",
+              "annee": 1928,
+              "duree": 70,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "ageMinimal": 6,
+              "generique": [
+                "Buster Keaton",
+                "Ernest Torrence",
+                "Marion Byron"
+              ],
+              "miniTexte": "Le génial Buster Keaton dans le rôle d'un marinier confronté à un cyclone et aux machines récalcitrantes, à bord d'un bateau vapeur sur le Mississippi. De la poésie et de la folie, et une des plus célèbres scènes du burlesque, qui voit Buster recevoir la façade d'une maison sur la tête."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230223,
+              "dateHeure": "2027-05-16T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
+            }
+          ]
+        },
+        {
+          "idFilm": 115539,
+          "content": [
+            {
+              "idFilm": 115539,
+              "ordre": 1,
+              "titre": "Zarafa",
+              "realisateurs": "Rémi Bezançon, Jean-Christophe Lie",
+              "pays": "France",
+              "annee": 2012,
+              "duree": 78,
+              "version": "VF",
+              "format": "DCP",
+              "ageMinimal": 6
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 231800,
+              "dateHeure": "2027-05-19T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
+            }
+          ]
+        },
+        {
+          "idFilm": 34076,
+          "content": [
+            {
+              "idFilm": 34076,
+              "ordre": 1,
+              "titre": "Livre de la jungle",
+              "art": "Le",
+              "titreVo": "Jungle Book",
+              "artVo": "The",
+              "realisateurs": "Zoltan Korda",
+              "pays": "États-Unis",
+              "annee": 1942,
+              "duree": 107,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "ageMinimal": 6,
+              "adaptation": "D'après le roman _Le Livre de la jungle_ de Rudyard Kipling.",
+              "generique": [
+                "Sabu"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230391,
+              "dateHeure": "2027-05-23T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
             }
           ]
         }

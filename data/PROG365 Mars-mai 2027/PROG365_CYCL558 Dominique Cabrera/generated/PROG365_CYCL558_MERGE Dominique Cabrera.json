@@ -1,20 +1,47 @@
 {
   "data": [
     {
-      "titreSousCycle": "Les films",
+      "titreSousCycle": "Documentaires",
       "tri": 2,
       "items": [
         {
-          "idSeance": 231784,
+          "idSeance": 229534,
           "ordre": 1,
+          "dateHeure": "2027-04-17T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 4330,
+          "idEvenement": 37818,
+          "typeEvenement": 13,
+          "idFilm": 75096,
+          "art": "L'",
+          "titre": "Air d'aimer",
+          "realisateurs": "Dominique Cabrera",
+          "annee": 1986,
+          "pays": "France",
+          "duree": 13,
+          "version": "",
+          "format": "35 mm",
+          "generique": [
+            "Michael Lonsdale",
+            "Frédéric Leidgens"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 231784,
+          "ordre": 2,
           "dateHeure": "2027-04-14T18:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "dureeSeance": 120,
-          "idCategorie": 2458,
-          "idEvenement": 23882,
+          "idCategorie": 4330,
+          "idEvenement": 37824,
           "typeEvenement": 13,
           "idFilm": 58593,
           "art": "L'",
@@ -33,6 +60,63 @@
           "textes": []
         },
         {
+          "idSeance": 229552,
+          "ordre": 1,
+          "dateHeure": "2027-04-18T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 4330,
+          "idEvenement": 37811,
+          "typeEvenement": 13,
+          "idFilm": 155072,
+          "art": "Le",
+          "titre": "Cinquième Plan de La Jetée",
+          "realisateurs": "Dominique Cabrera",
+          "annee": 2024,
+          "pays": "France",
+          "duree": 97,
+          "version": "",
+          "format": "DCP",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Dominique Cabrera replace _La Jetée_ de Chris Marker dans le contexte de l'année de sa création, 1962, marquée par l'indépendance algérienne et l'exode des pieds-noirs. Le cousin de la cinéaste, présent à Orly lors des prises de vue, pense se reconnaître dans le film. Cette découverte est le point de départ d'une enquête qui mêle histoire personnelle et réflexion cinématographique."
+            }
+          ]
+        },
+        {
+          "idSeance": 229535,
+          "ordre": 1,
+          "dateHeure": "2027-04-17T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4330,
+          "idEvenement": 23886,
+          "typeEvenement": 13,
+          "idFilm": 134095,
+          "titre": "Corniche Kennedy",
+          "realisateurs": "Dominique Cabrera",
+          "annee": 2016,
+          "pays": "France",
+          "duree": 94,
+          "version": "",
+          "format": "DCP",
+          "generique": [
+            "Aïssa Maïga",
+            "Lola Créton",
+            "Alain Demaria",
+            "Kamel Kadri"
+          ],
+          "adaptation": "D'après le roman _Corniche Kennedy_ de Maylis de Kerangal.",
+          "textes": []
+        },
+        {
           "idSeance": 229223,
           "ordre": 1,
           "dateHeure": "2027-04-05T20:00:00",
@@ -42,7 +126,7 @@
           ],
           "dureeSeance": 30,
           "mention": "Avant-première",
-          "idCategorie": 2458,
+          "idCategorie": 4330,
           "idEvenement": 37510,
           "typeEvenement": 13,
           "idFilm": 155992,
@@ -50,13 +134,70 @@
           "realisateurs": "Dominique Cabrera",
           "annee": 2026,
           "pays": "France",
-          "duree": 0,
+          "duree": 115,
           "version": "",
           "format": "DCP",
           "generique": [
             "Yolande Moreau",
             "Eva Huault",
             "Hélène Vincent"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 229495,
+          "ordre": 1,
+          "dateHeure": "2027-04-16T20:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 4330,
+          "idEvenement": 23885,
+          "typeEvenement": 13,
+          "idFilm": 91976,
+          "titre": "Folle Embellie",
+          "realisateurs": "Dominique Cabrera",
+          "annee": 2004,
+          "pays": "France",
+          "duree": 110,
+          "version": "",
+          "format": "35 mm",
+          "generique": [
+            "Miou-Miou",
+            "Jean-Pierre Léaud",
+            "Morgan Marinne",
+            "Marilyne Canto"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 229494,
+          "ordre": 1,
+          "dateHeure": "2027-04-16T18:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4330,
+          "idEvenement": 23884,
+          "typeEvenement": 13,
+          "idFilm": 75473,
+          "art": "Le",
+          "titre": "Lait de la tendresse humaine",
+          "realisateurs": "Dominique Cabrera",
+          "annee": 2001,
+          "pays": "France-Belgique",
+          "duree": 95,
+          "version": "",
+          "format": "35 mm",
+          "generique": [
+            "Marilyne Canto",
+            "Dominique Blanc",
+            "Patrick Bruel",
+            "Sergi López"
           ],
           "textes": []
         },
@@ -69,7 +210,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 135,
-          "idCategorie": 2458,
+          "idCategorie": 4330,
           "idEvenement": 23883,
           "typeEvenement": 13,
           "idFilm": 64375,
@@ -85,6 +226,105 @@
             "Marilyne Canto",
             "Thierry Frémont",
             "Philippe Fretun"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 229534,
+          "ordre": 2,
+          "dateHeure": "2027-04-17T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 4330,
+          "idEvenement": 37818,
+          "typeEvenement": 13,
+          "idFilm": 75091,
+          "art": "La",
+          "titre": "Politique du pire",
+          "realisateurs": "Dominique Cabrera",
+          "annee": 1987,
+          "pays": "France",
+          "duree": 20,
+          "version": "",
+          "format": "35 mm",
+          "textes": []
+        },
+        {
+          "idSeance": 229534,
+          "ordre": 3,
+          "dateHeure": "2027-04-17T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 4330,
+          "idEvenement": 37818,
+          "typeEvenement": 13,
+          "idFilm": 156143,
+          "titre": "Quand la ville mord",
+          "realisateurs": "Dominique Cabrera",
+          "annee": 2009,
+          "pays": "France",
+          "duree": 52,
+          "version": "",
+          "format": "",
+          "generique": [
+            "Aïssa Maïga",
+            "Samir Guesmi",
+            "Laurentine Milebo"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 231784,
+          "ordre": 1,
+          "dateHeure": "2027-04-14T18:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4330,
+          "idEvenement": 37824,
+          "typeEvenement": 13,
+          "idFilm": 75098,
+          "titre": "Traverser le jardin",
+          "realisateurs": "Dominique Cabrera",
+          "annee": 1993,
+          "pays": "France",
+          "duree": 19,
+          "version": "",
+          "format": "",
+          "textes": []
+        },
+        {
+          "idSeance": 229553,
+          "ordre": 1,
+          "dateHeure": "2027-04-18T19:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4330,
+          "idEvenement": 37858,
+          "typeEvenement": 13,
+          "idFilm": 156040,
+          "titre": "Ça ne peut pas continuer comme ça",
+          "realisateurs": "Dominique Cabrera",
+          "annee": 2013,
+          "pays": "France",
+          "duree": 90,
+          "version": "",
+          "format": "",
+          "generique": [
+            "Aurélien Recoing",
+            "Sylvia Bergé",
+            "Serge Bagdassarian"
           ],
           "textes": []
         }

@@ -1,39 +1,149 @@
 {
   "datesCycle": [
     "2027-04-05T20:00:00",
-    "2027-04-14T20:15:00"
+    "2027-04-18T19:45:00"
   ],
   "textePresentation": "",
   "sousCycles": [
     {
       "tri": 2,
-      "titreSousCycle": "Les films",
+      "titreSousCycle": "Documentaires",
       "items": [
         {
-          "idFilm": 58593,
+          "idEvenement": 37818,
           "content": [
             {
-              "idFilm": 58593,
+              "idFilm": 75096,
               "ordre": 1,
-              "titre": "Autre côté de la mer",
+              "titre": "Air d'aimer",
               "art": "L'",
               "realisateurs": "Dominique Cabrera",
               "pays": "France",
-              "annee": 1997,
-              "duree": 89,
+              "annee": 1986,
+              "duree": 13,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Michael Lonsdale",
+                "Frédéric Leidgens"
+              ]
+            },
+            {
+              "idFilm": 75091,
+              "ordre": 2,
+              "titre": "Politique du pire",
+              "art": "La",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 1987,
+              "duree": 20,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 156143,
+              "ordre": 3,
+              "titre": "Quand la ville mord",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 2009,
+              "duree": 52,
               "version": "",
               "format": "",
               "generique": [
-                "Claude Brasseur",
-                "Roschdy Zem",
-                "Marthe Villalonga"
+                "Aïssa Maïga",
+                "Samir Guesmi",
+                "Laurentine Milebo"
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 231784,
-              "dateHeure": "2027-04-14T18:00:00",
+              "idSeance": 229534,
+              "dateHeure": "2027-04-17T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 156040,
+          "content": [
+            {
+              "idFilm": 156040,
+              "ordre": 1,
+              "titre": "Ça ne peut pas continuer comme ça",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 2013,
+              "duree": 90,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Aurélien Recoing",
+                "Sylvia Bergé",
+                "Serge Bagdassarian"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229553,
+              "dateHeure": "2027-04-18T19:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155072,
+          "content": [
+            {
+              "idFilm": 155072,
+              "ordre": 1,
+              "titre": "Cinquième Plan de La Jetée",
+              "art": "Le",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 97,
+              "version": "",
+              "format": "DCP",
+              "miniTexte": "Dominique Cabrera replace _La Jetée_ de Chris Marker dans le contexte de l'année de sa création, 1962, marquée par l'indépendance algérienne et l'exode des pieds-noirs. Le cousin de la cinéaste, présent à Orly lors des prises de vue, pense se reconnaître dans le film. Cette découverte est le point de départ d'une enquête qui mêle histoire personnelle et réflexion cinématographique."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229552,
+              "dateHeure": "2027-04-18T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 134095,
+          "content": [
+            {
+              "idFilm": 134095,
+              "ordre": 1,
+              "titre": "Corniche Kennedy",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 2016,
+              "duree": 94,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Corniche Kennedy_ de Maylis de Kerangal.",
+              "generique": [
+                "Aïssa Maïga",
+                "Lola Créton",
+                "Alain Demaria",
+                "Kamel Kadri"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229535,
+              "dateHeure": "2027-04-17T21:30:00",
               "idSalle": "GF"
             }
           ]
@@ -48,7 +158,7 @@
               "realisateurs": "Dominique Cabrera",
               "pays": "France",
               "annee": 2026,
-              "duree": 0,
+              "duree": 115,
               "version": "",
               "format": "DCP",
               "generique": [
@@ -64,6 +174,65 @@
               "dateHeure": "2027-04-05T20:00:00",
               "idSalle": "HL",
               "mention": "Avant-première"
+            }
+          ]
+        },
+        {
+          "idFilm": 91976,
+          "content": [
+            {
+              "idFilm": 91976,
+              "ordre": 1,
+              "titre": "Folle Embellie",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 2004,
+              "duree": 110,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Miou-Miou",
+                "Jean-Pierre Léaud",
+                "Morgan Marinne",
+                "Marilyne Canto"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229495,
+              "dateHeure": "2027-04-16T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 75473,
+          "content": [
+            {
+              "idFilm": 75473,
+              "ordre": 1,
+              "titre": "Lait de la tendresse humaine",
+              "art": "Le",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France-Belgique",
+              "annee": 2001,
+              "duree": 95,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Marilyne Canto",
+                "Dominique Blanc",
+                "Patrick Bruel",
+                "Sergi López"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 229494,
+              "dateHeure": "2027-04-16T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -92,6 +261,46 @@
             {
               "idSeance": 231785,
               "dateHeure": "2027-04-14T20:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idEvenement": 37824,
+          "content": [
+            {
+              "idFilm": 75098,
+              "ordre": 1,
+              "titre": "Traverser le jardin",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 1993,
+              "duree": 19,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 58593,
+              "ordre": 2,
+              "titre": "Autre côté de la mer",
+              "art": "L'",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 1997,
+              "duree": 89,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Claude Brasseur",
+                "Roschdy Zem",
+                "Marthe Villalonga"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 231784,
+              "dateHeure": "2027-04-14T18:00:00",
               "idSalle": "GF"
             }
           ]
