@@ -1,0 +1,59 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 38320,
+          "content": [
+            {
+              "idConf": 38320,
+              "titre": "Conservatoire Drones",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 230868,
+              "dateHeure": "2027-04-23T14:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 38321,
+          "content": [
+            {
+              "idConf": 38321,
+              "titre": "Conservatoire : Patrick et Michèle Bokanowski",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 231027,
+              "dateHeure": "2027-05-21T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Conservatoire Drones",
+        "dateHeure": "2027-04-23T14:30:00"
+      }
+    ],
+    "Séance avec dialogue": [
+      {
+        "mention": "Conservatoire : Patrick et Michèle Bokanowski",
+        "dateHeure": "2027-05-21T17:00:00"
+      }
+    ]
+  }
+}
