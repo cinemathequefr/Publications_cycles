@@ -26,6 +26,12 @@
       "triSousCycles": true,
       "sousCycles": [
         {
+          "titre": "Gothique anglais",
+          "cats": [4365],
+          "tri": 4,
+          "printNoMT": true
+        },
+        {
           "titre": "Néo-noir des années 70",
           "cats": [4366],
           "tri": 4,
@@ -40,6 +46,12 @@
         {
           "titre": "Érotisme italo-français",
           "cats": [4368],
+          "tri": 4,
+          "printNoMT": true
+        },
+        {
+          "titre": "Requins",
+          "cats": [4383],
           "tri": 4,
           "printNoMT": true
         }
@@ -95,11 +107,11 @@
       "idCycleProg": 152,
       "isReg": true,
       "triSousCycles": true,
-      "titreCycle": "Parlons cinéma... avec",
+      "titreCycle": "Parlons cinéma... avec Tiago Rodrigues",
       "_charge_prog": "",
       "sousCycles": [
         { "titre": "Les films", "cats": [], "tri": 4 },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [3111], "tri": 4 }
       ],
       "excludeSeances": [],
       "restaurations": [],
@@ -331,7 +343,7 @@
           "tri": 2,
           "printNoMT": false
         },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [4382], "tri": 4 }
       ],
       "excludeSeances": [],
       "restaurations": [],
@@ -359,7 +371,7 @@
       "titreCycle": "Ma petite Cinémathèque",
       "_charge_prog": "Élodie Imbeau",
       "sousCycles": [{ "titre": "Les films", "cats": [4357], "tri": 4 }],
-      "excludeSeances": [],
+      "excludeSeances": [228821],
       "restaurations": [],
       "titreEvenements": {}
     },
